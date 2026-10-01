@@ -84,9 +84,10 @@ int Intl_GetListMenuWidth(const struct ListMenuTemplate *listMenu)
 
 void CopyMonCategoryText(u16 species, u8 *dest)
 {
-    u8 *str = StringCopy(dest, GetSpeciesCategory(species));
+    // Traducción: orden español «POKéMON Semilla», como en la Esmeralda española
+    u8 *str = StringCopy(dest, gText_Pokemon);
     *str = CHAR_SPACE;
-    StringCopy(str + 1, gText_Pokemon);
+    StringCopy(str + 1, GetSpeciesCategory(species));
 }
 
 u8 *GetStringClearToWidth(u8 *dest, int fontId, const u8 *str, int totalStringWidth)

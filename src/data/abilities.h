@@ -524,7 +524,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_ROCK_HEAD] =
     {
         .name = _("CABEZA ROCA"),
-        .description = COMPOUND_STRING("Evita volver a ser golpeado."),
+        .description = COMPOUND_STRING("Evita el daño de retroceso."),
         .aiRating = 5,
     },
 
@@ -621,7 +621,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_GLUTTONY] =
     {
         .name = _("GULA"),
-        .description = COMPOUND_STRING("Come Bayas antes de tiempo."),
+        .description = COMPOUND_STRING("Come Bayas antes."),
         .aiRating = 3,
     },
 
@@ -743,7 +743,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_NO_GUARD] =
     {
         .name = _("INDEFENSO"),
-        .description = COMPOUND_STRING("Todos los ataques aciertan."),
+        .description = COMPOUND_STRING("Todo ataque acierta."),
         .aiRating = 8,
     },
 
@@ -899,7 +899,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_RECKLESS] =
     {
         .name = _("AUDAZ"),
-        .description = COMPOUND_STRING("Potencia ataques de riesgo."),
+        .description = COMPOUND_STRING("Potencia golpes de riesgo."),
         .aiRating = 6,
     },
 
@@ -1347,7 +1347,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_MEGA_LAUNCHER] =
     {
         .name = _("MEGADISPARADOR"),
-        .description = COMPOUND_STRING("Potencia ataques de pulsos."),
+        .description = COMPOUND_STRING("Potencia los pulsos."),
         .aiRating = 7,
     },
 
@@ -1404,7 +1404,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_DARK_AURA] =
     {
         .name = _("AURA OSCURA"),
-        .description = COMPOUND_STRING("Potencia ataques Siniestro."),
+        .description = COMPOUND_STRING("Potencia lo Siniestro."),
         .aiRating = 6,
         .breakable = B_UPDATED_ABILITY_DATA < GEN_8,
     },
@@ -1568,7 +1568,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_SCHOOLING] =
     {
         .name = _("BANCO"),
-        .description = COMPOUND_STRING("Forma un banco si es fuerte."),
+        .description = COMPOUND_STRING("Forma banco si es fuerte."),
         .aiRating = 6,
         .cantBeCopied = TRUE,
         .cantBeSwapped = TRUE,
@@ -1962,7 +1962,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_NEUTRALIZING_GAS] =
     {
         .name = _("GAS REACTIVO"),
-        .description = COMPOUND_STRING("Anula todas las habilidades."),
+        .description = COMPOUND_STRING("Anula las habilidades."),
         .aiRating = 5,
         .cantBeCopied = TRUE,
         .cantBeSwapped = TRUE,
@@ -2013,7 +2013,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_TRANSISTOR] =
     {
         .name = _("TRANSISTOR"),
-        .description = COMPOUND_STRING("Potencia ataques Eléctrico."),
+        .description = COMPOUND_STRING("Potencia lo Eléctrico."),
         .aiRating = 6,
     },
 
@@ -2079,7 +2079,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_THERMAL_EXCHANGE] =
     {
         .name = _("TERMOCONVERSIÓN"),
-        .description = COMPOUND_STRING("Fuego recibido sube Ataque."),
+        .description = COMPOUND_STRING("El fuego sube su Ataque."),
         .aiRating = 4,
         .breakable = TRUE,
     },

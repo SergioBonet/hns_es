@@ -11685,7 +11685,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .description = COMPOUND_STRING(
             "En Galar, los tallos de puerro son más\n"
             "gruesos y largos. Los valientes Farfetch'd\n"
-            "que se adaptaron a ellos adoptaron esta\n"
+            "que se acostumbraron a ellos tomaron esta\n"
             "forma."),
         .pokemonScale = 330,
         .pokemonOffset = 2,

@@ -2309,7 +2309,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_MAX_REPEL] =
     {
-        .name = ITEM_NAME("REPELENTE MAXIMO"),
+        .name = ITEM_NAME("REPELENTE MÁXIMO"),
         .price = (I_PRICE >= GEN_7) ? 900 : 700,
         .holdEffectParam = 250,
         .description = COMPOUND_STRING(

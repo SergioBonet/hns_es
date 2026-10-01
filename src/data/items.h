@@ -3182,7 +3182,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Un adorno que\n"
             "representa a un\n"
-            "Pokémon de ALOLA."),
+            "Pokémon de Alola."),
         .pocket = POCKET_TREASURES,
         .sortType = ITEM_TYPE_RELIC,
         .type = ITEM_USE_BAG_MENU,
@@ -3242,7 +3242,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_OLD_AMBER] =
     {
-        .name = ITEM_NAME("AMBAR VIEJO"),
+        .name = ITEM_NAME("ÁMBAR VIEJO"),
         .description = COMPOUND_STRING(
             "Trozo de ámbar con\n"
             "genes de un\n"
@@ -5071,8 +5071,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_DRIVE,
         .description = COMPOUND_STRING(
             "Cambia el Tecno\n"
-            "Rayo de Genesect a\n"
-            "tipo Agua."),
+            "Shock de Genesect\n"
+            "a tipo Agua."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_DRIVE,
         .type = ITEM_USE_BAG_MENU,
@@ -5090,8 +5090,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_DRIVE,
         .description = COMPOUND_STRING(
             "Cambia el Tecno\n"
-            "Rayo de Genesect a\n"
-            "tipo Eléctrico."),
+            "Shock de Genesect\n"
+            "a tipo Eléctrico."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_DRIVE,
         .type = ITEM_USE_BAG_MENU,
@@ -5109,8 +5109,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_DRIVE,
         .description = COMPOUND_STRING(
             "Cambia el Tecno\n"
-            "Rayo de Genesect a\n"
-            "tipo Fuego."),
+            "Shock de Genesect\n"
+            "a tipo Fuego."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_DRIVE,
         .type = ITEM_USE_BAG_MENU,
@@ -5128,8 +5128,8 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_DRIVE,
         .description = COMPOUND_STRING(
             "Cambia el Tecno\n"
-            "Rayo de Genesect a\n"
-            "tipo Hielo."),
+            "Shock de Genesect\n"
+            "a tipo Hielo."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_DRIVE,
         .type = ITEM_USE_BAG_MENU,

@@ -407,8 +407,8 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.string "Un muro de agua cae con un estruendo\n"
+	.string "ensordecedor…$"
 
 Text_WantToWaterfall:
 	.string "It's a large waterfall.\n"
@@ -560,7 +560,7 @@ EventScript_FailSweetScent::
 	end
 
 Text_FailSweetScent:
-	.string "Looks like there's nothing here…$"
+	.string "Parece que aquí no hay nada…$"
 
 EventScript_DigCommon:
 	isfollowerfieldmoveuser VAR_0x8004
@@ -635,7 +635,7 @@ Text_WantToRockClimb:
 	.string "Would you like to use Rock Climb?$"
 
 Text_MonUsedRockClimb:
-	.string "{STR_VAR_1} used Rock Climb!$"
+	.string "¡{STR_VAR_1} usó TREPARROCAS!$"
 
 Text_CantRockClimb:
 	.string "The cliff is steep.\n"

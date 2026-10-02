@@ -23,4 +23,4 @@ BlackthornCity_House1_Text_Granny:
 	.string "about dragons in this town.$"
 
 BlackthornCity_House1_Text_Dratini:
-	.string "DRATINI: Draa!$"
+	.string "DRATINI: ¡Draa!$"

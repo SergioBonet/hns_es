@@ -162,8 +162,8 @@ Route39_Text_BaobaIntro::
 	.string "anyone else!$"
 
 Route39_Text_Registered:
-	.string "{PLAYER} registered BAOBA\n"
-	.string "in the POKéGEAR!$"
+	.string "¡{PLAYER} ha registrado a Baoba en el\n"
+	.string "Pokégear!$"
 
 
 Route39_Text_WillCall:
@@ -232,7 +232,7 @@ Route39_EventScript_Miltank::
 	end
 
 Route39_Text_Miltank:
-	.string "MILTANK: Mooo!$"
+	.string "MUU-MUU: ¡Muu!$"
 
 Route39_EventScript_Eugene::
 	trainerbattle_single TRAINER_EUGENE_HNS, Route39_Text_SailorEugeneSeen, Route39_Text_SailorEugeneBeaten
@@ -240,11 +240,11 @@ Route39_EventScript_Eugene::
 	end
 
 Route39_Text_SailorEugeneSeen:
-	.string "I just got back to OLIVINE.\p"
-	.string "So how about a POKéMON battle?$"
+	.string "Acabo de volver a CIUDAD OLIVO.\p"
+	.string "¿Te apetece luchar con los POKéMON?$"
 
 Route39_Text_SailorEugeneBeaten:
-	.string "Awaaargh!$"
+	.string "¡Awaaargh!$"
 
 Route39_Text_SailorEugeneAfter:
 	.string "My POKéMON were caught and\n"
@@ -286,11 +286,11 @@ Route39_EventScript_DerekNoRoom::
 	end
 
 Route39_Text_PokefanMDerekSeen:
-	.string "This is a good time to brag\n"
-	.string "about my PIKACHU!$"
+	.string "¡Es buen momento para alardear de mi\n"
+	.string "PIKACHU!$"
 
 Route39_Text_PokefanMDerekBeaten:
-	.string "I had no time to show off\n"
+	.string "No tuve tiempo de presumir de mi\n"
 	.string "PIKACHU…$"
 
 Route39_Text_PokefanMDerekAfter:
@@ -305,17 +305,17 @@ Route39_EventScript_Ruth::
 	end
 
 Route39_Text_PokefanFRuthSeen:
-	.string "Such darling POKéMON.\p"
-	.string "Let's show our POKéMON\n"
-	.string "together at the same time.$"
+	.string "¡Qué POKéMON más encantadores!\p"
+	.string "Enseñemos nuestros POKéMON al mismo\n"
+	.string "tiempo.\p"
+	.string "$"
 
 Route39_Text_PokefanFRuthBeaten:
-	.string "I don't mind losing.$"
+	.string "No me importa perder.$"
 
 Route39_Text_PokefanFRuthAfter:
-	.string "Do you know about baby\n"
-	.string "POKéMON?\p"
-	.string "I bet they're just adorable!$"
+	.string "¿Sabes algo sobre los POKéMON bebés?\p"
+	.string "¡Seguro que son adorables!$"
 
 Route39_EventScript_Norman::
 	trainerbattle_single TRAINER_NORMAN_HNS, Route39_Text_PsychicNormanSeen, Route39_Text_PsychicNormanBeaten
@@ -323,12 +323,11 @@ Route39_EventScript_Norman::
 	end
 
 Route39_Text_PsychicNormanSeen:
-	.string "Let me see what your\n"
-	.string "POKéMON are capable of.$"
+	.string "Déjame ver de qué son capaces tus\n"
+	.string "POKéMON.$"
 
 Route39_Text_PsychicNormanBeaten:
-	.string "Ooh, your POKéMON have\n"
-	.string "potential.$"
+	.string "¡Ooh! Tus POKéMON tienen potencial.$"
 
 Route39_Text_PsychicNormanAfter:
 	.string "You know how POKéMON have\n"
@@ -343,12 +342,11 @@ Route39_EventScript_Jamie::
 	end
 
 Route39_Text_PokefanFJaimeSeen:
-	.string "You came at just the right\n"
-	.string "time.\p"
-	.string "Let's battle.$"
+	.string "Llegas justo a tiempo.\p"
+	.string "Luchemos.$"
 
 Route39_Text_PokefanFJaimeBeaten:
-	.string "Oh, how disappointing…$"
+	.string "Oh, qué decepcionante…$"
 
 Route39_Text_PokefanFJaimeAfter:
 	.string "I met UMBREON at night right\n"
@@ -368,8 +366,8 @@ Route39_EventScript_Sign1::
 	end
 
 Route39_Text_Sign:
-	.string "ROUTE 39\p"
-	.string "OLIVINE CITY - ECRUTEAK CITY$"
+	.string "RUTA 39\p"
+	.string "CIUDAD OLIVO - CIUDAD IRIS$"
 
 Route39_EventScript_Sign2::
 	lock
@@ -379,8 +377,8 @@ Route39_EventScript_Sign2::
 	end
 
 Route39_Text_MoomooFarmSign:
-	.string "MOOMOO FARM\p"
-	.string "Enjoy Our Fresh and Tasty Milk$"
+	.string "GRANJA MUU-MUU\p"
+	.string "Prueba nuestra rica leche fresca$"
 
 Route39_EventScript_Sign3::
 	lock
@@ -390,13 +388,11 @@ Route39_EventScript_Sign3::
 	end
 
 Route39_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Use HEADBUTT on trees to shake\n"
-	.string "POKéMON out.\p"
-	.string "Different kinds of POKéMON\n"
-	.string "drop out of trees.\p"
-	.string "Use HEADBUTT on any tree\n"
-	.string "you see!$"
+	.string "PISTAS ENTRENADOR\p"
+	.string "Usa GOLPE CABEZA en los árboles para\n"
+	.string "que salgan POKéMON.\p"
+	.string "De los árboles pueden caer varios\n"
+	.string "tipos de POKéMON$"
 
 Route39_Text_DerekRegister:
 	.string "I'm not listening to your\n"
@@ -410,8 +406,7 @@ Route39_Text_DerekHasItem:
 	.string "Here, you can have it!$"
 
 Route39_Text_DerekGaveItem:
-	.string "PIKACHU is it!\n"
-	.string "Don't you agree?$"
+	.string "¡PIKACHU es lo más! ¿No crees?$"
 
 Route39_Text_DerekNoRoom:
 	.string "Hmm, your BAG is full.\p"

@@ -38,23 +38,20 @@ Route8_Text_BikerDwayneSeen:
 	.string "We'll drive you under our wheels!$"
 
 Route8_Text_BikerDwayneBeaten:
-	.string "S-sorry!$"
+	.string "¡Lo… lo siento!$"
 
 Route8_Text_BikerDwayneAfter:
-	.string "The KANTO POKéMON FEDERATION will\n"
-	.string "never fall!$"
+	.string "¡Viva la FEDERACIÓN POKéMON de KANTO!$"
 
 Route8_Text_BikerHarrisSeen:
-	.string "The cops shut down our\n"
-	.string "UNDERGROUND PATH!\p"
-	.string "That really fries me!$"
+	.string "La policía ha cerrado la VÍA\p"
+	.string "SUBTERRÁNEA. ¡Qué fastidio!$"
 
 Route8_Text_BikerHarrisBeaten:
-	.string "F-forgive me!$"
+	.string "¡Per… perdóname!$"
 
 Route8_Text_BikerHarrisAfter:
-	.string "Wiped out by some punk from\n"
-	.string "JOHTO…$"
+	.string "¡Destruido por alguien de Johto!…$"
 
 Route8_Text_BikerZekeSeen:
 	.string "We're the KANTO POKéMON FEDERA-\n"
@@ -62,35 +59,35 @@ Route8_Text_BikerZekeSeen:
 	.string "Right on!$"
 
 Route8_Text_BikerZekeBeaten:
-	.string "Yikes! Sorry!$"
+	.string "¡Vaya! ¡Perdona!$"
 
 Route8_Text_BikerZekeAfter:
-	.string "We'll try not to disturb anyone\n"
-	.string "from now on…$"
+	.string "Intentaremos no molestar a nadie a\n"
+	.string "partir de ahora.$"
 
 Route8_Text_SupernerdSamSeen:
-	.string "How does the MAGNET TRAIN work?$"
+	.string "¿Cómo funciona el MAGNETOTRÉN?$"
 
 Route8_Text_SupernerdSamBeaten:
-	.string "I just want to see the MAGNET\n"
-	.string "TRAIN…$"
+	.string "Quiero ver el MAGNETOTRÉN…$"
 
 Route8_Text_SupernerdSamAfter:
-	.string "The power of magnets is awesome!$"
+	.string "¡El poder de los imanes es inmenso!$"
 
 Route8_Text_SupernerdTomSeen:
-	.string "Hm… You've got many GYM BADGES.$"
+	.string "Mmm… Tienes muchas MEDALLAS de\n"
+	.string "GIMNASIO.$"
 
 Route8_Text_SupernerdTomBeaten:
-	.string "Just as I thought… You're tough!$"
+	.string "Tal y como pensaba. ¡Eres fuerte!$"
 
 Route8_Text_SupernerdTomAfter:
-	.string "GYM BADGES give you advantages in\n"
-	.string "battles.$"
+	.string "Las MEDALLAS de GIMNASIO te dan\n"
+	.string "ventaja en los combates.$"
 
 Route8_Text_LockedDoor:
-	.string "It's locked…$"
+	.string "Está cerrada…$"
 
 Route8_Text_UndergroundPathSign:
-	.string "The flyer's torn.\p"
-	.string "It's impossible to read…$"
+	.string "El cartel está roto.\p"
+	.string "Es imposible leerlo…$"

@@ -456,8 +456,8 @@ BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge_hns2_hns:
 	.string "the BATTLE HALL. Is that okay?$"
 
 BattleFrontier_BattlePalaceLobby_Text_FollowMe_hns:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.string "Bien.\n"
+	.string "Ahora, sígueme.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ResultsWillBeRecorded_hns:
 	.string "I feel privileged for having seen\n"
@@ -610,17 +610,17 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics_hns:
 	.string "depending on their nature.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature_hns:
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Due to its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "Según su naturaleza, un POKéMON puede\n"
+	.string "atacar sin medir las consecuencias.\p"
+	.string "Mientras que otro preferirá protegerse\n"
+	.string "en lugar de atacar.\p"
+	.string "Y otro puede que prefiera irritar\n"
+	.string "o confundir a sus oponentes.\p"
+	.string "Según su naturaleza, cada POKéMON\n"
+	.string "tendrá unos movimientos preferidos,\l"
+	.string "que sabrá usar muy bien.\p"
+	.string "Igualmente, puede que deteste ciertos\n"
+	.string "movimientos que le resultan difíciles.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves_hns:
 	.string "There are offensive moves that inflict\n"

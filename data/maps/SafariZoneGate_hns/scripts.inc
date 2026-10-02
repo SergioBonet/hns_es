@@ -69,20 +69,23 @@ SafariZone_Text_ForeignFeeling:
 	.string "It brings up a strange feeling.$"
 
 SafariZone_Text_SilentNPC:
-	.string "..................\p"
-	.string "(I am not a talker.)$"
+	.string "… (Yo no soy de muchas palabras.)$"
 
 SafariZone_Text_Kangaskhan:
 	.string "KANGASKHAN: ..................$"
 
 SafariZone_Text_JigglypuffTrainer:
-	.string "This SAFARI ZONE is great!\n"
-	.string "I just kept going after POKéMON!\p"
-	.string "That made my JIGGLYPUFF upset though.$"
+	.string "¡La ZONA SAFARI es un lugar de lo más\n"
+	.string "entretenido!\p"
+	.string "He estado corriendo como un loco\n"
+	.string "detrás de los POKéMON.\p"
+	.string "Pero al JIGGLYPUFF que me acompaña\n"
+	.string "no le hace mucha gracia eso y se ha\l"
+	.string "enfurruñado.$"
 
 SafariZone_Text_FirstCatch:
-	.string "I have always wanted to catch my first\n"
-	.string "POKéMON at the SAFARI ZONE.$"
+	.string "¡He decidido que mi primer POKéMON lo\n"
+	.string "capturaré en la ZONA SAFARI!$"
 
 SafariZone_Text_SlowpokeFan:
 	.string "There are many POKéMON to choose from,\n"

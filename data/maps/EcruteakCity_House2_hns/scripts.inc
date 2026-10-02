@@ -2,16 +2,15 @@ EcruteakCity_House2_hns_MapScripts::
 	.byte 0
 
 Ecruteak_Text_ItemfinderAdventure:
-	.string "Ah. You're on an adventure with\n"
-	.string "your POKéMON?\p"
-	.string "Well, what's an adventure without\n"
-	.string "treasure hunting?\p"
-	.string "Am I right, or am I right?$"
+	.string "¡Ah! ¿Vas de aventura con tus\n"
+	.string "POKéMON?\p"
+	.string "¿Y qué es una aventura sin un tesoro?\p"
+	.string "¿Tengo razón o no?$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
-	.string "Good! You understand the true\n"
-	.string "spirit of adventure.\p"
-	.string "I like that! Take this with you.$"
+	.string "¡Bien! Entiendes el verdadero\n"
+	.string "espíritu de la aventura.\p"
+	.string "¡Me gusta! Toma esto.$"
 
 Ecruteak_Text_ItemfinderExplanation:
 	.string "There are many items lying about\n"
@@ -24,7 +23,7 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "in ECRUTEAK's BURNED TOWER.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "Oh… To each his own, I suppose…$"
+	.string "¡Oh! A cada uno lo suyo, supongo…$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
 	lock
@@ -74,25 +73,24 @@ Ecruteak_Text_ItemFinderMan::
 	.string "their history in books like these.$"
 
 Ecruteak_Text_HistoryBook:
-	.string "HISTORY OF ECRUTEAK\p"
-	.string "Want to read it?$"
+	.string "HISTORIA de CIUDAD IRIS\p"
+	.string "¿Quieres leerla?$"
 
 Ecruteak_Text_TwoTowers:
-	.string "In ECRUTEAK, there were two towers.\p"
-	.string "Each tower was the roost of\n"
-	.string "powerful flying POKéMON.\p"
-	.string "But one of the towers burned to\n"
-	.string "the ground.\p"
-	.string "The two POKéMON haven't been seen\n"
-	.string "since…\p"
-	.string "Keep reading?$"
+	.string "En CIUDAD IRIS había dos torres.\p"
+	.string "Cada una acogía a un fuerte POKéMON\n"
+	.string "volador.\p"
+	.string "Pero una de ellas se quemó.\p"
+	.string "Y desde entonces no se ha visto a\n"
+	.string "ninguno de los dos POKéMON.\p"
+	.string "¿Sigues leyendo?$"
 
 Ecruteak_Text_ThreeMon:
-	.string "ECRUTEAK was also home to three\n"
-	.string "POKéMON that raced around the town.\p"
-	.string "They were said to have been born\n"
-	.string "of water, lightning and fire.\p"
-	.string "But they could not contain their\n"
-	.string "excessive power.\p"
-	.string "So they say the three ran like the\n"
-	.string "wind off into the grassland.$"
+	.string "En CIUDAD IRIS también vivían tres\n"
+	.string "POKéMON que corrían por toda la\l"
+	.string "ciudad.\p"
+	.string "Dicen que habían nacido del agua, del\n"
+	.string "fuego y del rayo.\p"
+	.string "Pero como no podían contener su\n"
+	.string "enorme fuerza…\p"
+	.string "Huyeron hacia los pastos.$"

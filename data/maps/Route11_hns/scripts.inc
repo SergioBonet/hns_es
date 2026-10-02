@@ -45,23 +45,22 @@ Route11_Text_YoungsterOwenSeen:
 	.string "Let's keep it fair and square!$"
 
 Route11_Text_YoungsterOwenBeaten:
-	.string "Huh? How did this happen?$"
+	.string "¿Qué? ¿Cómo ha podido ocurrir?$"
 
 Route11_Text_YoungsterOwenAfterBattle:
-	.string "I fought fair and square with\n"
-	.string "honor.\p"
-	.string "I don't regret this at all.$"
+	.string "He luchado con honor.\p"
+	.string "No me avergüenzo.$"
 
 Route11_Text_YoungsterJasonSeen:
-	.string "It itches and tickles a bit when\n"
-	.string "I wear shorts in the grass.$"
+	.string "Cuando llevo pantalones cortos por la\n"
+	.string "hierba, me pican las piernas.$"
 
 Route11_Text_YoungsterJasonBeaten:
-	.string "Aiyaaah! I got stomped!$"
+	.string "¡Ayyyy! ¡Me han pisado!$"
 
 Route11_Text_YoungsterJasonAfterBattle:
-	.string "I'm going to catch more POKéMON in\n"
-	.string "the grass.$"
+	.string "Voy a capturar más POKéMON en la\n"
+	.string "hierba.$"
 
 Route11_Text_PsychicHermanSeen:
 	.string "…$"
@@ -71,20 +70,20 @@ Route11_Text_PsychicHermanBeaten:
 
 Route11_Text_PsychicHermanAfterBattle:
 	.string "…\p"
-	.string "I lost while I had my eyes closed…$"
+	.string "Perdí cuando tenía los ojos cerrados.$"
 
 Route11_Text_PsychicFidelSeen:
-	.string "I can see it…\p"
-	.string "Everything to see about you…$"
+	.string "Ya veo…\p"
+	.string "Todo lo que hay que ver de ti…$"
 
 Route11_Text_PsychicFidelBeaten:
-	.string "I couldn't foresee your power…$"
+	.string "No me imaginaba tu poder…$"
 
 Route11_Text_PsychicFidelAfterBattle:
-	.string "Strength in conviction…\p"
-	.string "You're strong because you believe\n"
-	.string "in your POKéMON.$"
+	.string "Fuerza de convicción…\p"
+	.string "Eres fuerte porque confías en tus\n"
+	.string "POKéMON.$"
 
 Route11_Text_Sign:
-	.string "ROUTE 11$"
+	.string "RUTA 11$"
 

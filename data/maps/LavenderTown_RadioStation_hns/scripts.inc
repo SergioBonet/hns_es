@@ -53,31 +53,29 @@ LavenderTown_RadioStation_EventScript_Library::
 	end
 
 LavenderTown_RadioStation_Text_Receptionist:
-	.string "Welcome! Feel free to look around\n"
-	.string "anywhere on this floor.$"
+	.string "¿Qué tal? Mira por donde quieras en\n"
+	.string "esta planta.$"
 
 LavenderTown_RadioStation_Text_Officer:
-	.string "Sorry, but you can only tour the\n"
-	.string "ground floor.\p"
-	.string "Ever since JOHTO's RADIO TOWER\n"
-	.string "was taken over by a criminal gang,\l"
-	.string "we have had to step up our\l"
-	.string "security.$"
+	.string "Lo siento, pero sólo puedes dar una\n"
+	.string "vuelta por la planta baja.\p"
+	.string "Desde que una banda criminal asaltó la\n"
+	.string "TORRE RADIO de JOHTO, tuvimos que\l"
+	.string "incrementar las medidas de seguridad.$"
 
 LavenderTown_RadioStation_Text_SuperNerd1:
-	.string "Many people are hard at work here\n"
-	.string "in the RADIO TOWER.\p"
-	.string "They must be doing their best to\n"
-	.string "put on good shows.$"
+	.string "En la TORRE RADIO hay mucha gente que\n"
+	.string "trabaja duramente.\p"
+	.string "Seguro que están haciendo todo lo\n"
+	.string "posible por emitir buenos programas.$"
 
 LavenderTown_RadioStation_Text_Gentleman:
-	.string "Oh, no, no, no!\p"
-	.string "We've been off the air ever since\n"
-	.string "the POWER PLANT shut down.\p"
-	.string "All my efforts to start this\n"
-	.string "station would be wasted if I can't\l"
-	.string "broadcast.\p"
-	.string "I'll be ruined!$"
+	.string "¡Oh, no, no, no!\p"
+	.string "No hemos emitido desde que cerró la\n"
+	.string "CENTRAL ENERGÍA.\p"
+	.string "Si no emitimos, de nada servirá el\n"
+	.string "esfuerzo realizado por la emisora.\p"
+	.string "¡Me arruinaré!$"
 
 LavenderTown_RadioStation_Text_Gentleman_ReturnedMachinePart:
 	.string "Ah! So you're the {PLAYER} who\n"
@@ -107,26 +105,24 @@ LavenderTown_RadioStation_Text_SuperNerd2:
 	.string "one!$"
 
 LavenderTown_RadioStation_Text_SuperNerd2_GotExpnCard:
-	.string "Hey there!\p"
-	.string "I am the super MUSIC DIRECTOR!\p"
-	.string "I'm responsible for the gorgeous\n"
-	.string "melodies that go out over the air.\p"
-	.string "Don't be square. Grab your music\n"
-	.string "off the air!$"
+	.string "¡Oye, joven!\p"
+	.string "¡Soy el Director de programas\n"
+	.string "musicales!\p"
+	.string "Soy el encargado de las fantásticas\n"
+	.string "melodías que se emiten aquí. ¡Atrapa\l"
+	.string "la música de las ondas!$"
 
 LavenderTown_RadioStation_Text_Directory:
-	.string "1F RECEPTION 2F SALES\p"
-	.string "3F PERSONNEL 4F PRODUCTION\p"
-	.string "5F DIRECTOR'S OFFICE$"
+	.string "PB RECEPCIÓN P1 VENTAS\p"
+	.string "P2 PERSONAL P3 PRODUCCIÓN\p"
+	.string "P4 DESPACHO DEL DIRECTOR$"
 
 LavenderTown_RadioStation_Text_PokeFluteSign:
-	.string "Perk Up POKéMON with Mellow\n"
-	.string "Sounds of the POKé FLUTE on\l"
-	.string "CHANNEL 20$"
+	.string "Anima a los POKé- MON con la melodía\n"
+	.string "de la POKé FLAUTA del CANAL 20$"
 
 LavenderTown_RadioStation_Text_ReferenceLibrary:
-	.string "Wow! A full rack of POKéMON CDs\n"
-	.string "and videos.\p"
-	.string "This must be the reference\n"
-	.string "library.$"
+	.string "¡Uau! Un estante lleno de CD y vídeos\n"
+	.string "de POKéMON.\p"
+	.string "Debe de ser una biblioteca.$"
 

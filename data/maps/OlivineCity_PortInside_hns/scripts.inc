@@ -73,20 +73,22 @@ OlivineCity_PortInside_Text_Nationaldex1:
 	.string "I'll upgrade your POKéDEX with the\n"
 	.string "NATIONAL MODE.$"
 OlivineCity_PortInside_Text_Nationaldex2:
-	.string "{PLAYER}'s POKéDEX was upgraded\n"
-	.string "with the NATIONAL MODE!$"
+	.string "¡La POKéDEX de {PLAYER} contiene\n"
+	.string "ahora datos sobre el Modo Nacional!$"
 OlivineCity_PortInside_Text_Nationaldex3:
 	.string "PROF.OAK: It won't be easy to\n"
 	.string "complete the NATIONAL POKéDEX...\p"
 	.string "However, I'm sure you will make\n"
 	.string "honest attempt on our behalf!$"
 OlivineCity_PortInside_Text_Nationaldex4:
-	.string "Oh, time flies!\p"
-	.string "I have a radio show to record at\n"
-	.string "GOLDENROD RADIO TOWER.\p"
-	.string "You must be heading for KANTO.\p"
-	.string "If you come near PALLET TOWN, do\n"
-	.string "drop by my POKéMON RESEARCH LAB!$"
+	.string "¡Oh! ¡Es tardísimo!\p"
+	.string "Tengo que ir a grabar a la radio de\n"
+	.string "CIUDAD TRIGAL.\p"
+	.string "Por fin vas a la región de Kanto, ¿no?\p"
+	.string "Si pasas por PUEBLO PALETA, déjate\n"
+	.string "caer por mi Laboratorio y enséñame\l"
+	.string "cómo llevas la POKéDEX.\p"
+	.string "$"
 
 OlivinePort_EventScript_CooltrainerF::
 	msgbox OlivinePort_Text_CooltrainerF, MSGBOX_NPC
@@ -262,28 +264,28 @@ OlivinePort_Text_NoPass:
     .string "{STR_VAR_1}.$"
 
 OlivinePort_Text_SailorGetOnBoard:
-    .string "We're departing soon.\n"
-    .string "Please get on board.$"
+	.string "El barco va a zarpar. Por favor, sube a\n"
+	.string "bordo.$"
 
 OlivinePort_Text_CantBoard:
-    .string "Sorry. You can't board now.$"
+	.string "Lo siento. No puedes embarcar.$"
 
 OlivinePort_Text_WhereSail:
     .string "Where would you like to sail?$"
 
 OlivinePort_Text_AskBoard:
-    .string "Welcome to FAST SHIP S.S.AQUA.\p"
-    .string "Will you be boarding today?$"
+	.string "Éste es el FERRY S.S. AQUA.\p"
+	.string "¿Vas a embarcar hoy?$"
 
 OlivinePort_Text_AskTicket:
-    .string "May I see your S.S.TICKET?$"
+	.string "¿Puedo ver tu TICKET BARCO?$"
 
 OlivinePort_Text_ComeAgain:
-    .string "We hope to see you again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 OlivinePort_Text_FlashTicket:
-    .string "{PLAYER} flashed the S.S.TICKET.\p"
-    .string "That's it. Thank you!$"
+	.string "{PLAYER} enseña el TICKET BARCO.\p"
+	.string "Muy bien. ¡Gracias, joven!$"
 
 OlivinePort_Text_NoTicket:
     .string "{PLAYER} tried to show the\n"
@@ -294,22 +296,22 @@ OlivinePort_Text_NoTicket:
     .string "if you have an S.S.TICKET.$"
 
 OlivinePort_Text_FishingGuru1:
-    .string "SHELLDER are easy to catch here.\p"
-    .string "They're kind of rare elsewhere.$"
+	.string "Aquí es fácil atrapar SHELLDER.\p"
+	.string "En otros sitios son raros.$"
 
 OlivinePort_Text_FishingGuru2:
-    .string "How many RODS do you have?\p"
-    .string "Different RODS catch different\n"
-    .string "POKéMON.$"
+	.string "¿Cuántas CAÑAS tienes?\p"
+	.string "Las distintas CAÑAS sirven para\n"
+	.string "atrapar distintos POKéMON.$"
 
 OlivinePort_Text_Youngster:
-    .string "S.S.AQUA uses jets to skim\n"
-    .string "over the waves!$"
+	.string "¡El S.S. AQUA usa propulsores para\n"
+	.string "surcar las olas!$"
 
 OlivinePort_Text_CooltrainerF:
-    .string "There are lots of POKéMON in KANTO.\p"
-    .string "I wish I could go…$"
+	.string "En KANTO hay muchos POKéMON.\p"
+	.string "¡Ojalá pudiera ir!$"
 
 OlivinePort_Text_SailorBeforeHOF:
-    .string "We don't want you to fall into the\n"
-    .string "sea, so you're not allowed in.$"
+	.string "No queremos que te caigas al mar y por\n"
+	.string "eso no puedes entrar.$"

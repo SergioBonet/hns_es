@@ -49,13 +49,13 @@ VioletCity_House1_Text_ThisIsntAMon:
 	.string "That isn't a {STR_VAR_1}.$"
 
 VioletCity_House1_Text_YouWontTradeMe:
-	.string "You don't want to trade? Aww...$"
+	.string "¿No quieres cambiarlo? ¡Bah!$"
 
 VioletCity_House1_Text_After:
-	.string "Hi, how's my old ONIX doing?$"
+	.string "Hola, ¿cómo está mi ONIX?$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "A POKéMON you get in a trade\n"
-	.string "grows quickly.\p"
-	.string "But if you don't have the right\n"
-	.string "GYM BADGE, they may disobey you.$"
+	.string "Los POKéMON que se intercambian\n"
+	.string "crecen rápido.\p"
+	.string "Pero, si no tienes la MEDALLA\p"
+	.string "adecuada, podrían desobedecerte.$"

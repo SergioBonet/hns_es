@@ -419,8 +419,9 @@ BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints_hns:
 	.string "That will be {STR_VAR_2} Battle Points, okay?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.string "¿A qué POKéMON quieres que se lo\n"
+	.string "enseñe?\p"
+	.string "$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
 	.string "What the…\n"
@@ -479,19 +480,19 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
 	.string "Time is so cruel…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc_hns::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "Restaura hasta\n"
+	.string "la mitad de tus\n"
+	.string "PS máximos.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc_hns::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "Resta los mismos\n"
+	.string "PS que nivel\n"
+	.string "tenga el agresor.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc_hns::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "Roba la mitad del\n"
+	.string "daño causado\n"
+	.string "a un rival dormido.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc_hns::
 	.string "A strong punch\n"
@@ -529,24 +530,24 @@ BattleFrontier_Lounge7_Text_SwordsDanceDesc_hns::
 	.string "raises ATTACK.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc_hns::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "Oculta su punto\n"
+	.string "débil al rizarse.\n"
+	.string "Sube la DEFENSA.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc_hns::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "Fuerte ronquido\n"
+	.string "que puede usarse\n"
+	.string "estando dormido.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc_hns::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "Echa lodo en la\n"
+	.string "cara para bajar\n"
+	.string "la PRECISIÓN.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc_hns::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "Lanza rayos en\n"
+	.string "forma de estrella\n"
+	.string "que no fallan.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc_hns::
 	.string "A chilling attack\n"

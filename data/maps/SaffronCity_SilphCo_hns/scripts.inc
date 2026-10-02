@@ -145,16 +145,15 @@ SilphCo_Text_Sign2:
 	.string "ELEVATOR OUT OF SERVICE$"
 
 SilphCo_Text_Receptionist:
-	.string "Welcome. This is SILPH CO.'s HEAD\n"
-	.string "OFFICE BUILDING.$"
+	.string "Ésta es la OFICINA CENTRAL de SILPH\n"
+	.string "S.A.$"
 
 SilphCo_Text_Officer:
-	.string "Only employees are permitted to\n"
-	.string "go upstairs.\p"
-	.string "But since you came such a long\n"
-	.string "way,\p"
-	.string "have this neat little souvenir.$"
+	.string "Al piso de arriba sólo pueden subir los\n"
+	.string "empleados.\p"
+	.string "Pero como has venido desde tan lejos,\n"
+	.string "toma este pequeño recuerdo.$"
 
 SilphCo_Text_Officer_GotUpGrade:
-	.string "It's SILPH CO.'s latest product.\p"
-	.string "It's not for sale anywhere yet.$"
+	.string "Es lo último de SILPH S.A. Aún no se\n"
+	.string "encuentra a la venta.$"

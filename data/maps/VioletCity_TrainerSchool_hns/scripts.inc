@@ -97,16 +97,16 @@ VioletCity_TrainerSchool_Text_Teacher:
 	.string "POKéMON.$"
 
 VioletCity_TrainerSchool_Text_TeachHowToWin:
-	.string "Good! Teach you, I will!\p"
-	.string "In battle, POKéMON top on list\n"
-	.string "jump out first!\p"
-	.string "Change order in list, make\n"
-	.string "battle easy, maybe!\p"
-	.string "More from me you want to hear?$"
+	.string "¡Bien! ¡A ti yo te enseñaré!\p"
+	.string "¡En combate, los primeros POKéMON\n"
+	.string "salen antes!\p"
+	.string "¡Quizá sea más fácil si cambias el\n"
+	.string "orden!\p"
+	.string "¿Quieres que te cuente más cosas?$"
 
 VioletCity_TrainerSchool_Text_TeachMore:
-	.string "So, want to know how to raise\n"
-	.string "POKéMON well?$"
+	.string "¿Quieres saber cómo educar bien a los\n"
+	.string "POKéMON?$"
 
 VioletCity_TrainerSchool_Text_TeachRaiseWell:
 	.string "Fine! Teach you, I will!\p"
@@ -163,37 +163,35 @@ VioletCity_TrainerSchool_Text_Blackboard:
 	.string "be taught to be used.$"
 
 VioletCity_TrainerSchool_Text_Notebook:
-	.string "It's this kid's notebook…\p"
-	.string "Catch POKéMON using POKé BALLS.\p"
-	.string "Up to six can be in your party.\p"
-	.string "Keep reading?$"
+	.string "Es el cuaderno de este niño…\p"
+	.string "Captura POKéMON usando POKé BALL.\p"
+	.string "Tu equipo puede tener hasta seis.\p"
+	.string "¿Sigues leyendo?$"
 
 VioletCity_TrainerSchool_Text_Notebook1:
-	.string "Before throwing a POKé BALL,\n"
-	.string "weaken the target first.\p"
-	.string "A poisoned or burned POKéMON\n"
-	.string "is easier to catch.\p"
-	.string "Keep reading?$"
+	.string "Antes de lanzar la POKé BALL, debes\n"
+	.string "debilitarlo.\p"
+	.string "Atrapar un POKéMON quemado o\n"
+	.string "envenenado es mucho más fácil.\p"
+	.string "¿Sigues leyendo?$"
 
 VioletCity_TrainerSchool_Text_Notebook2:
-	.string "Some moves may cause confusion.\p"
-	.string "Confusion may make a POKéMON\n"
-	.string "attack itself.\p"
-	.string "Leaving battle clears up any\n"
-	.string "confusion.\p"
-	.string "Keep reading?$"
+	.string "Algunos ataques causan confusión.\p"
+	.string "Un POKéMON confuso puede atacarse a\n"
+	.string "sí mismo.\p"
+	.string "Retirarlo del combate, eliminará su\n"
+	.string "confusión.\p"
+	.string "¿Sigues leyendo?$"
 
 VioletCity_TrainerSchool_Text_Notebook3:
-	.string "People who catch and use\n"
-	.string "POKéMON in battle are POKéMON\n"
-	.string "trainers.\p"
-	.string "They are expected to visit\n"
-	.string "POKéMON GYMS and defeat other\n"
-	.string "trainers.\p"
-	.string "The next page is… Blank!\p"
-	.string "Boy: E-he-he…\p"
-	.string "I haven't written anymore…$"
+	.string "Quienes atrapan POKéMON y los usan\n"
+	.string "para luchar son entrenadores.\p"
+	.string "Su misión es ir a los GIMNASIOS\p"
+	.string "y vencer a otros entrenadores.\p"
+	.string "La hoja siguiente está… ¡vacía!\p"
+	.string "Niño: Eh, eh…\p"
+	.string "No he escrito nada más…$"
 
 VioletCity_TrainerSchool_Text_StickerMachine:
-	.string "This super machine prints data\n"
-	.string "out as stickers!$"
+	.string "¡Esta supermáquina imprime los datos\n"
+	.string "como pegatinas!$"

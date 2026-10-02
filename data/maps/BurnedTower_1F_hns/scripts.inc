@@ -199,12 +199,13 @@ BurnedTower_Text_NardSeen:
 	.string "We fire-breathers know the true\n"
 	.string "power of fire better than anyone!$"
 BurnedTower_Text_NardBeaten:
-	.string "Thanks for such a heated battle!$"
+	.string "Gracias por este combate tan\n"
+	.string "ardiente.$"
 BurnedTower_Text_NardAfter:
-	.string "The reason this tower's burned is\n"
-	.string "that it was hit by lightning.\p"
-	.string "The fire I'm breathing is tiny\n"
-	.string "in comparison...$"
+	.string "La TORRE QUEMADA está así por un\n"
+	.string "rayo.\p"
+	.string "¿O pensabas que con estas llamitas de\n"
+	.string "nada podría haberlo hecho yo?$"
 
 BurnedTower_Text_RichardoSeen:
 	.string "I'm practicing my stealing in the\n"

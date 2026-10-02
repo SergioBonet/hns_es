@@ -89,26 +89,24 @@ Route39_Text_FarmerMSickCow:
 	.string "I reckon.$"
 
 Route39_Text_FarmerMBuyMilk:
-	.string "How'd you like my MOOMOO MILK?\p"
-	.string "It's my pride and joy, there.\p"
-	.string "Give it to POKéMON to restore HP!\p"
-	.string "I'll give it to ya fer just\n"
-	.string "¥500.$"
+	.string "¿Te gusta mi LECHE MU-MU?\p"
+	.string "Es mi orgullo y mi alegría.\p"
+	.string "¡Dásela a los POKéMON para restaurar\n"
+	.string "sus PS!\p"
+	.string "Tuya es por sólo 500¥.$"
 
 Route39_Text_FarmerMGotMilk:
-	.string "Here ya go!\n"
-	.string "Drink up'n enjoy!$"
+	.string "¡Toma! ¡Bébetela y disfruta!$"
 
 Route39_Text_FarmerMNoMoney:
-	.string "Sorry, there.\n"
-	.string "No cash, no sale!$"
+	.string "Lo siento. ¡Si no hay dinero, no hay\n"
+	.string "trato!$"
 
 Route39_Text_FarmerMNoRoom:
-	.string "I reckon yer PACK's full.$"
+	.string "Vaya, tu MOCHILA está llena.$"
 
 Route39_Text_FarmerMNoSale:
-	.string "You don't want it?\n"
-	.string "Come again, hear?$"
+	.string "¿No la quieres? Vuelve otro día.$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
 	.string "How bout another?$"
@@ -117,18 +115,17 @@ Route39_Text_GotMilk:
 	.string "{PLAYER} got MOOMOO MILK.$"
 
 Route39_Text_FarmerMMilking:
-	.string "I best go do my milkin'.$"
+	.string "Mejor que me vaya a ordeñar.$"
 
 Route39_Text_FarmerFInTrouble:
-	.string "Our milk even goes out to\n"
-	.string "KANTO.\p"
-	.string "So if our own MILTANK won't\n"
-	.string "give us any milk, we're in trouble.$"
+	.string "Nuestra leche llega hasta KANTO.\p"
+	.string "Así que si nuestra MUU-MUU no nos da\n"
+	.string "leche, tendremos problemas.$"
 
 Route39_Text_FarmerFHealedMiltank:
-	.string "You fixed our MILTANK, hon.\n"
-	.string "Now it gives MOOMOO MILK again.\p"
-	.string "Here's somethin' fer your trouble.$"
+	.string "Has curado a nuestra MUU-MUU.\p"
+	.string "Ya vuelve a dar LECHE MU-MU.\p"
+	.string "Aquí tienes algo que te ayudará.$"
 
 Route39_Text_FarmerFSnatchSpeech:
 	.string "That there's SNATCH.\p"

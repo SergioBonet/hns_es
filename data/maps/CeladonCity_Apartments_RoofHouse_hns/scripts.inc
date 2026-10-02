@@ -28,12 +28,12 @@ CeladonCity_Apartments_RoofHouse_EventScript_BlackBeltAfter::
 	end
 
 CeladonMansionRoofHouse_Text_PharmacistIntro:
-	.string "Let me recount a terrifying tale…$"
+	.string "Te contaré una historia de miedo.$"
 
 CeladonMansionRoofHouse_Text_PharmacistNotNight:
-	.string "Then again, it's not as scary\n"
-	.string "while it's still light outside.\p"
-	.string "Come back after sunset, OK?$"
+	.string "Pero no te dará tanto miedo si aún es\n"
+	.string "de día.\p"
+	.string "Vuelve cuando anochezca, ¿vale?$"
 
 CeladonMansionRoofHouse_Text_PharmacistStory:
 	.string "Once upon a time, there was a\n"

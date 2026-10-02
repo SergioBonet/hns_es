@@ -118,7 +118,7 @@ PokemonLeague_WillsRoom_Text_Before:
     .string "Losing is not an option!$"
 
 PokemonLeague_WillsRoom_Text_Beaten:
-    .string "I… I can't… believe it…$"
+	.string "No… Esto es… increíble…$"
 
 PokemonLeague_WillsRoom_Text_Defeat:
     .string "Even though I was defeated, I\n"

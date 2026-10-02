@@ -498,8 +498,8 @@ Route34_Text_YouHaveNoRoomForIt:
 	.string "Come back when you've made room.$"
 
 Route34_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "El Encargado de la Guardería le ha\n"
+	.string "dado el Huevo a {PLAYER}.$"
 
 Route34_Text_TakeGoodCareOfIt:
 	.string "Take good care of it.$"
@@ -530,13 +530,14 @@ Route34_DayCare_Text_WouldYouLikeUsToRaiseAMon:
 	.string "Would you like us to raise one?$"
 
 Route34_DayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "¿Qué POKéMON quieres que cuidemos?\p"
+	.string "$"
 
 Route34_DayCare_Text_WellRaiseYourMon:
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "Estupendo, nos ocuparemos de tu\n"
+	.string "{STR_VAR_1} durante un tiempo.\p"
+	.string "Recógelo cuando quieras.\p"
+	.string "$"
 
 Route34_DayCare_Text_WeCanRaiseOneMore:
 	.string "We can raise two of your POKéMON.\n"
@@ -546,11 +547,10 @@ Route34_DayCare_Text_HusbandWasLookingForYou:
 	.string "My husband was looking for you.$"
 
 Route34_DayCare_Text_FineThenComeAgain:
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "Muy bien. Vuelve cuando quieras.$"
 
 Route34_DayCare_Text_NotEnoughMoney:
-	.string "You don't have enough money…$"
+	.string "No tienes bastante dinero.$"
 
 Route34_DayCare_Text_TakeOtherOneBackToo:
 	.string "Will you take back the other one,\n"
@@ -569,8 +569,8 @@ Route34_DayCare_Text_YourMonHasGrownXLevels:
 	.string "grown by {STR_VAR_2}.$"
 
 Route34_DayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Tu equipo POKéMON está completo. Haz\n"
+	.string "un hueco y vuelve a verme.$"
 
 @ Unused
 Route34_DayCare_Text_TakeBackWhichMon:

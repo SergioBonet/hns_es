@@ -54,17 +54,17 @@ CeladonCity_House1_EventScript_Sign::
 	end
 
 CeladonCity_House1_Text_ChefEatathon:
-	.string "Hi!\p"
-	.string "We're holding an eatathon contest.\p"
-	.string "We can't serve you right now.\n"
-	.string "Sorry.$"
+	.string "¡Hola!\p"
+	.string "Estamos celebrando un concurso de\n"
+	.string "tragones.\p"
+	.string "Perdona. Ahora no podemos atenderte.$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
-	.string "…Snarfle, chew…$"
+	.string "¡Ñam, ñam!$"
 
 CeladonCity_House1_Text_Fisher1Concentration:
-	.string "Don't talk to me!\p"
-	.string "You'll break my concentration!$"
+	.string "¡No me hables!\p"
+	.string "¡Me vas a desconcentrar!$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
 	.string "…Gulp… Chew…$"
@@ -74,27 +74,27 @@ CeladonCity_House1_Text_Fisher2Quantity:
 	.string "I'm happy when I'm full!$"
 
 CeladonCity_House1_Text_Fisher3MunchMunch:
-	.string "Munch, munch…$"
+	.string "¡Ñam, ñam!$"
 
 CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
-	.string "The food is good here, but\n"
-	.string "GOLDENROD has the best food\l"
-	.string "anywhere.$"
+	.string "La comida de aquí es buena, pero en\p"
+	.string "CIUDAD TRIGAL es aún mejor.$"
 
 CeladonCity_House1_Text_TeacherCrunchCrunch:
-	.string "Crunch… Crunch…$"
+	.string "¡Ñam, ñam!$"
 
 CeladonCity_House1_Text_TeacherNoCoinCase:
-	.string "Nobody here will give you a COIN\n"
-	.string "CASE. You should look in JOHTO.$"
+	.string "Aquí nadie te va a dar un MONEDERO.\p"
+	.string "Mejor que lo busques en JOHTO.$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
-	.string "Crunch… Crunch…\p"
-	.string "I can keep eating!\p"
-	.string "More, CHEF!$"
+	.string "¡Ñam, ñam…!\p"
+	.string "Todavía puedo comer más…\p"
+	.string "¡Otro plato, camarero!\p"
+	.string "$"
 
 CeladonCity_House1_Text_EatathonContestPoster:
-	.string "Eatathon Contest! No time limit!\p"
-	.string "A battle without end! The biggest\n"
-	.string "muncher gets it all for free!$"
+	.string "¡Concurso de tragones! ¡Sin tiempo!\n"
+	.string "¡Una lucha sin fin! ¡El mayor tragón\l"
+	.string "podrá comer gratis!$"
 

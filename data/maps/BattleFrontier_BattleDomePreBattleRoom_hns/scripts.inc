@@ -291,7 +291,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons_hns:
 	.string "that are to appear in battle.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay_hns:
-	.string "Right this way, please.$"
+	.string "¡Entonces por aquí, por favor!\p"
+	.string "$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth_hns:
 	.string "Thank you for competing!\p"
@@ -351,16 +352,16 @@ BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals_hns:
 	.string "The tournament is up to the final.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "¿Quieres guardar la partida y salir del\n"
+	.string "juego?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge_hns:
 	.string "Would you like to retire from your\n"
 	.string "Battle Tournament challenge?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait_hns:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Voy a guardar los datos.\n"
+	.string "Un momento, por favor.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch_hns:
 	.string "Should I record your last match\n"

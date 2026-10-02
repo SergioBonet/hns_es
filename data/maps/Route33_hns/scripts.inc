@@ -41,16 +41,15 @@ Route33_Text_HikerAnthony2Seen:
 	.string "of energy left.$"
 
 Route33_Text_HikerAnthony2Beaten:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "¡Guau! ¡Tienes más fuerza que yo!$"
 
 Route33_Text_HikerAnthony2After:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Los Montañeros somos felices en las\n"
+	.string "montañas.$"
 
 Route33_Text_AnthonyRegister:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Los Montañeros somos felices en las\n"
+	.string "montañas.$"
 
 Route33_Text_AnthonyRematchIntro:
 	.string "I came through the tunnel,\n"
@@ -58,18 +57,17 @@ Route33_Text_AnthonyRematchIntro:
 	.string "of energy left.$"
 
 Route33_Text_AnthonyRematchDefeat:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "¡Guau! ¡Tienes más fuerza que yo!$"
 
 Route33_Text_AnthonyPostRematch:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "Los Montañeros somos felices en las\n"
+	.string "montañas.$"
 
 Route33_Text_HikerAnthonyDunsparce:
-	.string "Hey, did you get a DUNSPARCE?\p"
-	.string "I caught one too.\p"
-	.string "Take a look at it in the light.\n"
-	.string "It's got a funny face!$"
+	.string "¿Conseguiste un DUNSPARCE?\p"
+	.string "Yo también.\p"
+	.string "Míralo a la luz. ¡Pone una cara muy\n"
+	.string "divertida!$"
 
 Route33_Text_Lass:
 	.string "Pant, pant…\p"

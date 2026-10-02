@@ -244,10 +244,10 @@ Route14_Text_Eusine:
 	.string "I challenge you!$"
 
 Route14_Text_PokefanmTrevorSeen:
-	.string "Hi. Did you know…?\p"
-	.string "POKéMON get more friendly if you\n"
-	.string "train them in a place that they\l"
-	.string "remember.$"
+	.string "Hola. ¿Sabes qué…?\p"
+	.string "Los POKéMON son más amigables si los\n"
+	.string "entrenas en un lugar que ellos\l"
+	.string "recuerden.$"
 
 Route14_Text_PokefanmTrevorBeaten:
 	.string "Where did I meet this SCIZOR?$"
@@ -272,11 +272,11 @@ Route14_Text_TrevorPostRematch:
 	.string "stronger. I'm sure of it!$"
 
 Route14_Text_PokefanmCarterSeen:
-	.string "Let me tell you, I had a hard time\n"
-	.string "catching my prized POKéMON.$"
+	.string "Que sepas que me costó mucho atrapar\n"
+	.string "a mis queridos POKéMON.$"
 
 Route14_Text_PokefanmCarterBeaten:
-	.string "Awaaah!$"
+	.string "¡Auuuu!$"
 
 Route14_Text_PokefanmCarterAfterBattle:
 	.string "TOTODILE, CYNDAQUIL, CHIKORITA…\p"
@@ -298,15 +298,16 @@ Route14_Text_CarterPostRematch:
 	.string "different regions to collect!$"
 
 Route14_Text_BirdKeeperRoySeen:
-	.string "My dream is to fly with my beloved\n"
-	.string "bird POKéMON.$"
+	.string "¡Mi sueño es surcar los cielos con mis\n"
+	.string "queridos POKéMON pájaro!\p"
+	.string "$"
 
 Route14_Text_BirdKeeperRoyBeaten:
-	.string "I can dream, but I can't ever fly…$"
+	.string "Puedo soñar, pero nunca podré volar.$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:
-	.string "You have POKéMON that know the HM\n"
-	.string "move FLY, don't you? I envy you.$"
+	.string "¿Tienes POKéMON que conozcan la\p"
+	.string "MO VUELO? ¿Sí? ¡Qué envidia!$"
 
 Route14_EventScript_Pidgeotto::
 	lockall

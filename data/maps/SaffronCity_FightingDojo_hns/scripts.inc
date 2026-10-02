@@ -190,7 +190,7 @@ SaffronCity_FightingDojo_Text_Pidgeot:
 	.string "PIDGEOT: GEEEE!$"
 
 SaffronCity_FightingDojo_Text_HP:
-	.string "HP$"
+	.string "PS$"
 SaffronCity_FightingDojo_Text_Attack:
 	.string "ATK$"
 SaffronCity_FightingDojo_Text_Defense:

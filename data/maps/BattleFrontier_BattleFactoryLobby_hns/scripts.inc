@@ -330,8 +330,8 @@ BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle_hns:
 	.string "Single Tournament.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge_hns:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.string "¿Participas en el TORNEO de COMBATES\n"
+	.string "con TRUEQUE INDIVIDUALES?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge_hns:
 	.string "The Battle Swap Single Tournament\n"
@@ -352,11 +352,12 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge_hns:
 	.string "disqualified from your challenge.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit_hns:
-	.string "We look forward to your next visit.$"
+	.string "Esperamos que vuelvas a visitarnos.\p"
+	.string "$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode_hns:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.string "¿En qué nivel deseas participar?\n"
+	.string "¿Nivel 50 o nivel libre?$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge_hns:
 	.string "Before you begin your challenge,\n"
@@ -368,14 +369,14 @@ BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping_hns:
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay_hns:
-	.string "Please step this way.$"
+	.string "Por aquí, por favor.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hnsSaveResults_hns:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.string "¡Gracias por participar!\p"
+	.string "Voy a devolverte tus POKéMON\n"
+	.string "a cambio de los que te prestamos.\p"
+	.string "Y voy a guardar también tus resultados.\n"
+	.string "Un momento, por favor.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hns:
@@ -399,9 +400,9 @@ BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints_hns:
 	.string "some Battle Points.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume_hns:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "¡Te estábamos esperando!\p"
+	.string "Antes de continuar el desafío,\n"
+	.string "debo guardar la partida.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting_hns:
 	.string "I'm sorry to say this, but you didn't\n"
@@ -464,9 +465,9 @@ BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave_hns:
 	.string "so please wait.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch_hns:
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "¿Quieres que tu último combate\n"
+	.string "en la FÁBRICA BATALLA sea grabado\l"
+	.string "en tu PASE del FRENTE?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves_hns:
 	.string "Hi!\n"
@@ -486,11 +487,11 @@ BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon_hns:
 	.string "They wiped the floor with us…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons_hns:
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.string "Las cosas no me han ido muy bien,\n"
+	.string "que digamos.\p"
+	.string "Es importante ver cómo se portan\n"
+	.string "los POKéMON de tu rival en combate\l"
+	.string "para saber si merecen la pena o no.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints_hns:
 	.string "You know how the staff here give you\n"
@@ -508,17 +509,17 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried_hns:
 	.string "varied the rental POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed_hns:
-	.string "The Battle Swap rules are listed.$"
+	.string "Son las reglas del COMBATE con TRUEQUE.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading_hns:
 	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules_hns:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "En los enfrentamientos de COMBATE\n"
+	.string "con TRUEQUE, sólo se usan tres POKéMON.\p"
+	.string "Al tomar prestados o trocar POKéMON,\n"
+	.string "hay que tener en cuenta que el equipo\l"
+	.string "no debe tener dos POKéMON iguales.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules_hns:
 	.string "You may swap POKéMON only with\n"
@@ -527,11 +528,11 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules_hns:
 	.string "used by the beaten TRAINER.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules_hns:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.string "Después de cada victoria, podrás\n"
+	.string "cambiar uno de tus POKéMON por\l"
+	.string "uno de los del ENTRENADOR derrotado.\p"
+	.string "Con el séptimo ENTRENADOR\n"
+	.string "no podrás hacer trueque de POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules_hns:
 	.string "There are two key points to be aware\n"

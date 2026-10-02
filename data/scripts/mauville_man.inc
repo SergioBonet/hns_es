@@ -287,10 +287,10 @@ MauvilleCity_PokemonCenter_1F_Text_IWishMorePeopleWereInterested:
 	.string "TRAINERS.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameTitle::
-	.string "The Save-Happy TRAINER$"
+	.string "“El ENTRENADOR guardador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameAction::
-	.string "Saved the game$"
+	.string "Guardaste la partida…$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameStory::
 	.string "This is a tale of a TRAINER\n"
@@ -301,10 +301,10 @@ MauvilleCity_PokemonCenter_1F_Text_SavedGameStory::
 	.string "{STR_VAR_3} one will never find!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedTitle::
-	.string "The Trendsetter TRAINER$"
+	.string "“El ENTRENADOR molón”$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedAction::
-	.string "Started trends$"
+	.string "Creaste tendencias…$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -315,10 +315,10 @@ MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory::
 	.string "the HOENN region!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle::
-	.string "The BERRY-Planting TRAINER$"
+	.string "“El ENTRENADOR plantabayas”$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedAction::
-	.string "Planted BERRIES$"
+	.string "Plantaste BAYAS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -329,10 +329,10 @@ MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory::
 	.string "BERRIES!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesTitle::
-	.string "The BIKE-Loving TRAINER$"
+	.string "“El ENTRENADOR sobre ruedas”$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesAction::
-	.string "Traded BIKES$"
+	.string "Cambiaste de BICI…$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesStory::
 	.string "This is a tale of a TRAINER\n"
@@ -343,10 +343,10 @@ MauvilleCity_PokemonCenter_1F_Text_BikeTradesStory::
 	.string "and passionately!$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsTitle::
-	.string "The Interviewed TRAINER$"
+	.string "“El ENTRENADOR estrella”$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsAction::
-	.string "Got interviewed$"
+	.string "Concediste entrevistas…$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -357,10 +357,10 @@ MauvilleCity_PokemonCenter_1F_Text_InterviewsStory::
 	.string "attracting much attention!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesTitle::
-	.string "The Battle-Happy TRAINER$"
+	.string "“El ENTRENADOR peleón”$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesAction::
-	.string "Battled$"
+	.string "Entablaste combate…$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesStory::
 	.string "This is a tale of a TRAINER\n"
@@ -370,10 +370,10 @@ MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesStory::
 	.string "never refuse a chance to battle!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtTitle::
-	.string "The POKéMON-Catching TRAINER$"
+	.string "“El ENTRENADOR cazador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtAction::
-	.string "Caught POKéMON$"
+	.string "Atrapaste POKéMON…$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtStory::
 	.string "This is a tale of a TRAINER\n"
@@ -384,10 +384,10 @@ MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtStory::
 	.string "wild POKéMON!$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtTitle::
-	.string "The Fishing TRAINER$"
+	.string "“El ENTRENADOR pescador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtAction::
-	.string "Caught POKéMON with a ROD$"
+	.string "Pescaste POKéMON con CAÑA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtStory::
 	.string "This is a tale of a TRAINER\n"
@@ -398,10 +398,10 @@ MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtStory::
 	.string "expert!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedTitle::
-	.string "The EGG-Warming TRAINER$"
+	.string "“El ENTRENADOR empollón”$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedAction::
-	.string "Hatched EGGS$"
+	.string "Lograste incubar HUEVOS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -412,10 +412,10 @@ MauvilleCity_PokemonCenter_1F_Text_EggsHatchedStory::
 	.string "of EGGS!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedTitle::
-	.string "The Evolver TRAINER$"
+	.string "“El ENTRENADOR evolutivo”$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedAction::
-	.string "Evolved POKéMON$"
+	.string "Hiciste evolucionar POKéMON…$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -426,10 +426,10 @@ MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedStory::
 	.string "of POKéMON!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterTitle::
-	.string "The POKéMON CENTER-Loving TRAINER$"
+	.string "“El ENTRENADOR curandero”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterAction::
-	.string "Used POKéMON CENTERS$"
+	.string "Usaste los CENTROS POKéMON…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterStory::
 	.string "This is a tale of a TRAINER\n"
@@ -440,10 +440,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterStory::
 	.string "POKéMON CENTERS than {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeTitle::
-	.string "The Homebody TRAINER$"
+	.string "“El ENTRENADOR casero”$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeAction::
-	.string "Rested POKéMON at home$"
+	.string "Curaste POKéMON en casa…$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeStory::
 	.string "This is a tale of a TRAINER\n"
@@ -454,10 +454,10 @@ MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeStory::
 	.string "than {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesTitle::
-	.string "The SAFARI-Loving TRAINER$"
+	.string "“El ENTRENADOR aventurero”$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesAction::
-	.string "Entered the SAFARI ZONE$"
+	.string "Entraste en la ZONA SAFARI…$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory::
 	.string "This is a tale of a TRAINER\n"
@@ -468,10 +468,10 @@ MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory::
 	.string "must come out in the SAFARI ZONE!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutTitle::
-	.string "The CUT-Frenzy TRAINER$"
+	.string "“El ENTRENADOR leñador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutAction::
-	.string "Used CUT$"
+	.string "Usaste CORTE…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
 	.string "This is a tale of a TRAINER\n"
@@ -482,10 +482,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
 	.string "love to CUT!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashTitle::
-	.string "The ROCK-SMASHING TRAINER$"
+	.string "“El ENTRENADOR picapedrero”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashAction::
-	.string "Smashed rocks$"
+	.string "Usaste GOLPE ROCA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory::
 	.string "This is a tale of a TRAINER\n"
@@ -496,10 +496,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory::
 	.string "can't leave a stone unsmashed!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesTitle::
-	.string "The Move-Loving TRAINER$"
+	.string "“El ENTRENADOR nómada”$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesAction::
-	.string "Moved the SECRET BASE$"
+	.string "Te mudaste de BASE SECRETA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory::
 	.string "This is a tale of a TRAINER\n"
@@ -510,10 +510,10 @@ MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory::
 	.string "to move houses often!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashTitle::
-	.string "The SPLASH-Happy TRAINER$"
+	.string "“El ENTRENADOR salpicón”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashAction::
-	.string "Used SPLASH$"
+	.string "Usaste SALPICADURA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashStory::
 	.string "This is a tale of a TRAINER\n"
@@ -524,10 +524,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedSplashStory::
 	.string "SPLASHING around!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleTitle::
-	.string "The Tenacious TRAINER$"
+	.string "“El ENTRENADOR tenaz”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleAction::
-	.string "Resorted to using STRUGGLE$"
+	.string "Usaste COMBATE…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory::
 	.string "This is a tale of a TRAINER\n"
@@ -538,10 +538,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory::
 	.string "who never gives in to adversity!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsTitle::
-	.string "The SLOT Champ$"
+	.string "“El rey de las TRAGAPERRAS”$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsAction::
-	.string "Won the jackpot on the SLOTS$"
+	.string "Ganaste el premio gordo…$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -552,10 +552,10 @@ MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsStory::
 	.string "on the SLOTS!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsTitle::
-	.string "The ROULETTE Champ$"
+	.string "“El rey de las RULETAS”$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsAction::
-	.string "Had consecutive ROULETTE wins of$"
+	.string "Ganaste en la RULETA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -566,10 +566,10 @@ MauvilleCity_PokemonCenter_1F_Text_RouletteWinsStory::
 	.string "bounced in ROULETTE!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesTitle::
-	.string "The BATTLE TOWER Challenger$"
+	.string "“El paladín de la TORRE BATALLA”$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesAction::
-	.string "Took the BATTLE TOWER challenge$"
+	.string "Luchaste en la TORRE BATALLA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesStory::
 	.string "This is a tale of a TRAINER\n"
@@ -580,10 +580,10 @@ MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesStory::
 	.string "for excellence in the BATTLE TOWER!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksTitle::
-	.string "The Blend-Loving TRAINER$"
+	.string "“El ENTRENADOR licuador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksAction::
-	.string "Made {POKEBLOCK}S$"
+	.string "Hiciste {POKEBLOCK}S…$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory::
 	.string "This is a tale of a TRAINER\n"
@@ -594,10 +594,10 @@ MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory::
 	.string "BLENDER than {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsTitle::
-	.string "The CONTEST-Loving TRAINER$"
+	.string "“El ENTRENADOR concursante”$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsAction::
-	.string "Entered CONTESTS$"
+	.string "Participaste en los CONCURSOS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -608,10 +608,10 @@ MauvilleCity_PokemonCenter_1F_Text_EnteredContestsStory::
 	.string "POKéMON to others!$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsTitle::
-	.string "The CONTEST Master$"
+	.string "“El rey de los CONCURSOS”$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsAction::
-	.string "Won CONTESTS$"
+	.string "Ganaste en los CONCURSOS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -622,10 +622,10 @@ MauvilleCity_PokemonCenter_1F_Text_WonContestsStory::
 	.string "CONTEST master!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedTitle::
-	.string "The Happy Shopper$"
+	.string "“El ENTRENADOR consumista”$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedAction::
-	.string "Shopped$"
+	.string "Te fuiste de compras…$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -636,10 +636,10 @@ MauvilleCity_PokemonCenter_1F_Text_TimesShoppedStory::
 	.string "people who are born to shop.$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderTitle::
-	.string "The Item-Finding TRAINER$"
+	.string "“El ENTRENADOR detective”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderAction::
-	.string "Used an ITEMFINDER$"
+	.string "Usaste un BUSCAOBJETOS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderStory::
 	.string "This is a tale of a TRAINER\n"
@@ -650,10 +650,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderStory::
 	.string "ground for hidden items!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedTitle::
-	.string "The Rain-Soaked TRAINER$"
+	.string "“El ENTRENADOR empapado”$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedAction::
-	.string "Got rained on$"
+	.string "Te cayó un chaparrón…$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -664,10 +664,10 @@ MauvilleCity_PokemonCenter_1F_Text_TimesRainedStory::
 	.string "attract rain!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexTitle::
-	.string "The Avid POKéDEX Reader$"
+	.string "“El lector de POKéDEX”$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexAction::
-	.string "Checked a POKéDEX$"
+	.string "Consultaste la POKéDEX…$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexStory::
 	.string "This is a tale of a TRAINER\n"
@@ -678,10 +678,10 @@ MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexStory::
 	.string "POKéMON in a POKéDEX!$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsTitle::
-	.string "The RIBBON Collector$"
+	.string "“El coleccionista de CINTAS”$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsAction::
-	.string "Received RIBBONS$"
+	.string "Recibiste CINTAS…$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsStory::
 	.string "This is a tale of a TRAINER\n"
@@ -692,10 +692,10 @@ MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsStory::
 	.string "loves to collect RIBBONS!$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedTitle::
-	.string "The Ledge-Jumping TRAINER$"
+	.string "“El ENTRENADOR saltarín”$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedAction::
-	.string "Jumped down ledges$"
+	.string "Saltaste los desniveles…$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -706,10 +706,10 @@ MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedStory::
 	.string "{STR_VAR_3} can't ignore it!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedTitle::
-	.string "The Legendary TV Viewer$"
+	.string "“El ENTRENADOR teleadicto”$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedAction::
-	.string "Watched TV$"
+	.string "Viste la tele…$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedStory::
 	.string "This is a tale of a TRAINER\n"
@@ -719,10 +719,10 @@ MauvilleCity_PokemonCenter_1F_Text_TVWatchedStory::
 	.string "{STR_VAR_3} must love watching TV!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockTitle::
-	.string "The Time-Conscious TRAINER$"
+	.string "“El ENTRENADOR relojero”$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockAction::
-	.string "Checked the time$"
+	.string "Miraste la hora…$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory::
 	.string "This is a tale of a TRAINER\n"
@@ -733,10 +733,10 @@ MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory::
 	.string "who's conscious of the time.$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryTitle::
-	.string "The POKéMON LOTTERY Wizard$"
+	.string "“El rey de la LOTERÍA POKéMON”$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryAction::
-	.string "Won POKéMON LOTTERIES$"
+	.string "Ganaste a la LOTERÍA POKéMON…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryStory::
 	.string "This is a tale of a TRAINER\n"
@@ -747,10 +747,10 @@ MauvilleCity_PokemonCenter_1F_Text_WonLotteryStory::
 	.string "to trade POKéMON with!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareTitle::
-	.string "The DAY CARE-Using Trainer$"
+	.string "“El ENTRENADOR impaciente”$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareAction::
-	.string "Left POKéMON at the DAY CARE$"
+	.string "Dejaste POKéMON en la GUARDERÍA…$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory::
 	.string "This is a tale of a TRAINER\n"
@@ -761,10 +761,10 @@ MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory::
 	.string "who raises POKéMON aggressively!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarTitle::
-	.string "The CABLE CAR-Loving TRAINER$"
+	.string "“El ENTRENADOR escalador”$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarAction::
-	.string "Rode the CABLE CAR$"
+	.string "Te montaste en el TELEFÉRICO…$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarStory::
 	.string "This is a tale of a TRAINER\n"
@@ -775,10 +775,10 @@ MauvilleCity_PokemonCenter_1F_Text_RodeCableCarStory::
 	.string "who's up and down all the time!$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsTitle::
-	.string "The Hot Spring-Loving TRAINER$"
+	.string "“El ENTRENADOR bañista”$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsAction::
-	.string "Bathed in hot springs$"
+	.string "Usaste los baños termales…$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsStory::
 	.string "This is a tale of a TRAINER\n"

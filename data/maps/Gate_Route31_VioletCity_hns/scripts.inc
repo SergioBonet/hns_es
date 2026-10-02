@@ -18,8 +18,8 @@ Gate_Route31_VioletCity_EventScript_CooltrainerF::
 	end
 
 Gate_Route31_VioletCity_Text_Policeman:
-	.string "Hi there! Did you visit\n"
-	.string "SPROUT TOWER?$"
+	.string "¡Hola! ¿Has visitado la TORRE\n"
+	.string "BELLSPROUT?$"
 
 Gate_Route31_VioletCity_Text_CooltrainerF:
 	.string "I saw the cutest POKéMON out\n"

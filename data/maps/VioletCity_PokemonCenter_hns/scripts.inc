@@ -135,10 +135,9 @@ VioletCity_PokeCenter_Text_ElmsAideGiveItem:
 	.string "Oh, and this might help when it hatches.$"
 
 VioletCity_PokeCenter_Text_ElmsAideFullParty:
-	.string "Oh, no. You can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "I'll wait here while you make\n"
-	.string "room for the EGG.$"
+	.string "¡Oh, no! No puedes llevar más POKéMON.\p"
+	.string "Esperaré aquí a que le hagas sitio al\n"
+	.string "HUEVO.$"
 
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "Oh, but you can't carry any more\n"
@@ -147,7 +146,7 @@ VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "BILL'S PC for you.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "B-but… PROF.ELM asked for you…$"
+	.string "Pero… El PROF. ELM preguntó por ti.$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
 	.string "While my POKéMON are recovering\n"
@@ -161,18 +160,18 @@ VioletCity_PokeCenter_Text_MobileAdapter:
 	.string "away.$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
-	.string "A guy named BILL made the\n"
-	.string "POKéMON PC storage system.$"
+	.string "Un tal BILL creó el Sistema de\p"
+	.string "Almacenamiento de POKéMON.$"
 
 VioletCity_PokeCenter_Text_Gentleman:
-	.string "It was around three years ago.\p"
-	.string "TEAM ROCKET was up to no good\n"
-	.string "with POKéMON.\p"
-	.string "But justice prevailed--a young\n"
-	.string "kid broke 'em up.$"
+	.string "Fue hace unos tres años.\p"
+	.string "El TEAM ROCKET quería hacer daño a\n"
+	.string "los POKéMON.\p"
+	.string "Pero prevaleció la justicia y un niño\n"
+	.string "acabó con ellos.$"
 
 VioletCity_PokeCenter_Text_Youngster:
-	.string "POKéMON are smart. They won't\n"
-	.string "obey a trainer they don't respect.\p"
-	.string "Without the right GYM BADGES,\n"
-	.string "they will just do as they please.$"
+	.string "Los POKéMON son listos y no obedecen\n"
+	.string "a quien no respetan.\p"
+	.string "Sin las MEDALLAS necesarias, harán lo\n"
+	.string "que ellos quieran.$"

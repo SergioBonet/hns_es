@@ -289,8 +289,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime_hns:
 	.string "I'm getting excited, hey!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn_hns:
-	.string "All right!\n"
-	.string "Bring it on!$"
+	.string "¡Adelante!\n"
+	.string "¡Veamos de lo que eres capaz!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass_hns:
 	.string "NOLAND: What the…\n"

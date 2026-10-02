@@ -16,7 +16,6 @@ BlackthornMart_Text_CooltrainerM:
 	.string "POWER POINTS needed for moves.$"
 
 BlackthornMart_Text_BlackBelt:
-	.string "MAX REPEL keeps weak POKéMON away\n"
-	.string "from you.\p"
-	.string "It's the longest lasting of the\n"
-	.string "REPEL sprays.$"
+	.string "REPELENTE MÁXIMO evita que se\n"
+	.string "acerquen POKéMON débiles.\p"
+	.string "Es el repelente más duradero de todos.$"

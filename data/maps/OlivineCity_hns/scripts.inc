@@ -313,22 +313,20 @@ OlivineCity_Text_Sailor2:
 	.string "that's for sure!$"
 
 OlivineCity_Text_Sign:
-	.string "OLIVINE CITY\p"
-	.string "The Port Closest to Foreign Lands$"
+	.string "CIUDAD OLIVO\p"
+	.string "El puerto a tierras lejanas$"
 
 OlivineCity_Text_PortSign:
-	.string "OLIVINE PORT\n"
-	.string "FAST SHIP PIER$"
+	.string "PUERTO OLIVO MUELLE DEL FERRY$"
 
 OlivineCity_Text_GymSign:
-	.string "OLIVINE CITY POKéMON GYM\n"
-	.string "LEADER: JASMINE\p"
-	.string "The Steel-Clad Defense Girl$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD OLIVO: YASMINA\p"
+	.string "La chica de acero$"
 
 OlivineCity_Text_LighthouseSign:
-	.string "OLIVINE LIGHTHOUSE\n"
-	.string "Also known as the GLITTER\l"
-	.string "LIGHTHOUSE$"
+	.string "FARO DE OLIVO También conocido como\n"
+	.string "el FARO BRILLANTE$"
 
 OlivineCity_Text_BattleTowerSign:
 	.string "TRAINER HILL and\n"

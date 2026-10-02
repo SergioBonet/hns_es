@@ -56,17 +56,15 @@ RuinsOfAlph_B1F_Text_Presence:
 	.string "There is a strange presence here.$"
 
 RuinsOfAlph_B1F_Text_Hiker:
-	.string "This is a big room, but there's\n"
-	.string "nothing here.$"
+	.string "Esta habitación es muy grande, pero\n"
+	.string "aquí no hay nada.$"
 
 RuinsOfAlph_B1F_Text_Teacher:
-	.string "This place has a mystical\n"
-	.string "quality to it.\p"
-	.string "It feels sort of ethereal\n"
-	.string "even.$"
+	.string "Este lugar está impregnado de\n"
+	.string "misticismo.\p"
+	.string "Parece incluso etéreo.$"
 
 RuinsOfAlph_B1F_Text_Gramps:
-	.string "Ancient buildings are often\n"
-	.string "tombs of kings.\p"
-	.string "Like the pyramids, for\n"
-	.string "instance.$"
+	.string "Los edificios antiguos suelen ser\n"
+	.string "tumbas de reyes.\p"
+	.string "Como, por ejemplo, las pirámides.$"

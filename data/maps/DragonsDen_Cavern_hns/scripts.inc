@@ -208,44 +208,42 @@ DragonsDen_Cavern_EventScript_Item_PP_Max::
 
 
 DragonsDen_Cavern_Text_DragonShrineSign:
-    .string "DRAGON SHRINE\p"
-    .string "A shrine honoring the dragon\n"
-    .string "POKéMON\p"
-    .string "said to have lived in DRAGON'S\n"
-    .string "DEN.$"
+	.string "SANTUARIO DRAGÓN\p"
+	.string "Erigido en honor de los POKéMON\p"
+	.string "dragón de la GUARIDA DRAGÓN$"
 
 DragonsDen_Cavern_Text_SilverTraining1:
-    .string "…\n"
-    .string "What? {PLAYER}?\p"
-    .string "…No, I won't battle you now…\p"
-    .string "My POKéMON aren't ready to beat\n"
-    .string "you.\p"
-    .string "I can't push them too hard now.\p"
-    .string "I have to be disciplined to become\n"
-    .string "the greatest POKéMON trainer…$"
+	.string "… ¿Qué? ¿{PLAYER}?\p"
+	.string "No, no lucharé contra ti…\p"
+	.string "Mis POKéMON no pueden ganarte.\p"
+	.string "Y ahora no puedo presionarles.\p"
+	.string "La disciplina es clave para ser el\n"
+	.string "mejor entrenador POKéMON.$"
 
 DragonsDen_Cavern_Text_SilverTraining2:
-    .string "…\p"
-    .string "Whew…\p"
-    .string "Learn to stay out of my way…$"
+	.string "…\p"
+	.string "¡Vaya…!\p"
+	.string "Aprende a no cruzarte en mi camino.$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinSeen:
-    .string "You! How dare you enter\n"
-    .string "uninvited!$"
+	.string "¡Tú! ¿Cómo te atreves a entrar sin que\n"
+	.string "te hayan invitado?\p"
+	.string "$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinBeaten:
-    .string "S-strong!$"
+	.string "¡Qué fuerte!$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinAfter:
-    .string "The SHRINE ahead is home to the\n"
-    .string "MASTER of our dragon-user clan.\p"
-    .string "You're not allowed to just go in!$"
+	.string "El SANTUARIO de ahí delante es el\n"
+	.string "hogar del MAESTRO del clan de los\l"
+	.string "dragones.\p"
+	.string "¡No te está permitido pasar!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraSeen:
-    .string "You shouldn't be in here!$"
+	.string "¡No deberías estar aquí!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraBeaten:
-    .string "Oh yikes, I lost!$"
+	.string "¡Oh, maldición! ¡Perdí!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraAfter:
     .string "Soon I'm going to get permission\n"
@@ -255,21 +253,20 @@ DragonsDen_Cavern_Text_CooltrainerfCaraAfter:
     .string "our MASTER's approval.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1Seen:
-    .string "It's a stranger we don't know.$"
+	.string "Es alguien que no conocemos.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1Beaten:
-    .string "Ouchies.$"
+	.string "Ayyyy…$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1After:
-    .string "It was like having to battle\n"
-    .string "LANCE.$"
+	.string "Fue como tener que luchar con LANCE.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2Seen:
-    .string "Who are you?$"
+	.string "¿Quién eres tú?$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2Beaten:
-    .string "Meanie.$"
+	.string "Qué cutre.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2After:
-    .string "We'll tell on you.\p"
-    .string "MASTER will be angry with you.$"
+	.string "Te lo avisamos.\p"
+	.string "El MAESTRO se enfadará contigo.$"

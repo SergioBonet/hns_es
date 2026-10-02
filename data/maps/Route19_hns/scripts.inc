@@ -68,63 +68,61 @@ Route19_EventScript_Item_Brine::
     end
 
 Route19_Text_SwimmermHaroldSeen:
-	.string "Have you ever gone swimming in the\n"
-	.string "sea at night?$"
+	.string "¿Has nadado alguna vez en el mar por\n"
+	.string "la noche?$"
 
 Route19_Text_SwimmermHaroldBeaten:
-	.string "Glub…$"
+	.string "¡Glup…!$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
 	.string "At night, the sea turns black. It\n"
 	.string "feels like it will swallow you up.$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "Pant, pant… Just… a little…\p"
-	.string "farther… to… FUCHSIA…$"
+	.string "(Resoplido)… Un… poco más…\p"
+	.string "y… llegaré… a CIUDAD FUCSIA…$"
 
 Route19_Text_SwimmermTuckerBeaten:
-	.string "I'm drowning!$"
+	.string "¡Me ahogo!$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "I… asked my girlfriend to swim to\n"
-	.string "FUCHSIA… Gasp…$"
+	.string "Le… pedí a mi novia que nadara a\n"
+	.string "CIUDAD FUCSIA…$"
 
 Route19_Text_SwimmerfDawnSeen:
-	.string "I'm disgusted by wimpy people!$"
+	.string "¡No me gustan los peques!$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "I could beat you at swimming…$"
+	.string "Podría ganarte nadando…$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "It's a quick swim between FUCHSIA\n"
-	.string "and SEAFOAM ISLANDS…\p"
-	.string "Sheesh, some big man my boyfriend\n"
-	.string "is! What a wimp!$"
+	.string "Si le pones ganas, podrías ir desde\n"
+	.string "Ciudad Fucsia a las ISLAS ESPUMA… ¡y\l"
+	.string "volver! ¿Qué? ¿No tienes agallas?$"
 
 Route19_Text_SwimmermJeromeSeen:
-	.string "Swimming? I'm lousy at it.\p"
-	.string "I'm just splashing around in these\n"
-	.string "shallow waters.$"
+	.string "Soy malísimo nadando.\p"
+	.string "Sólo estoy chapoteando por estas\n"
+	.string "aguas poco profundas.$"
 
 Route19_Text_SwimmermJeromeBeaten:
-	.string "I thought I could win.$"
+	.string "Creía que podía ganar.$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "I might be bad at swimming, but I\n"
-	.string "love the sea.$"
+	.string "Puede que no nade muy bien, pero me\n"
+	.string "encanta el mar.$"
 
 Route19_Text_Fisher1:
-	.string "Sorry. This road is closed for\n"
-	.string "construction.\p"
-	.string "If you want to get to CINNABAR,\n"
-	.string "you'd better go south from PALLET\n"
-	.string "TOWN.$"
+	.string "Lo siento. La carretera está cortada\n"
+	.string "por obras.\p"
+	.string "Si quieres llegar a ISLA CANELA, ve por\n"
+	.string "el Sur, desde PUEBLO PALETA.$"
 
 Route19_Text_Kingler:
 	.string "KINGLER: KEEEEEEEEEEEE$"
 
 Route19_Text_Fisher1_RocksCleared:
-	.string "I'm all sweaty. Time for a swim!$"
+	.string "Estoy sudando. ¡Voy a bañarme!$"
 
 Route19_Text_Fisher2:
 	.string "Aw man, KINGLER is blocking the\n"
@@ -139,11 +137,11 @@ Route19_Text_Fisher2_RocksCleared:
 	.string "Now I can go fishing again.$"
 
 Route19_Text_Sign:
-	.string "ROUTE 19\p"
-	.string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+	.string "RUTA 19\p"
+	.string "CIUDAD FUCSIA - ISLAS ESPUMA$"
 
 Route19_Text_CarefulSwimmingSign:
-	.string "Please be careful if you are\n"
-	.string "swimming to SEAFOAM ISLANDS.\p"
-	.string "FUCHSIA POLICE$"
+	.string "Por favor, ten cuidado si vas nadando\n"
+	.string "hasta las ISLAS ESPUMA\p"
+	.string "POLICÍA C. FUCSIA$"
 

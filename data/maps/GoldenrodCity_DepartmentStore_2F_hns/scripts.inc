@@ -41,14 +41,13 @@ GoldenrodDeptStore_Text_2FYoungster:
     .string "to keep.$"
 
 GoldenrodDeptStore_Text_2FCooltrainerF:
-    .string "I got my ABRA at the GAME CORNER.\p"
-    .string "Now it's my best partner.$"
+	.string "Conseguí mi ABRA en el CASINO.\p"
+	.string "Ahora es mi mejor compañero.$"
 
 GoldenrodDeptStore_Text_2FGentleman:
-    .string "This DEPT.STORE makes me realize\n"
-    .string "that GOLDENROD is a big city.\p"
-    .string "The selection here is unmatched\n"
-    .string "anywhere else.$"
+	.string "Este CENTRO COMERCIAL indica que\n"
+	.string "CIUDAD TRIGAL es muy grande.\p"
+	.string "Su gama de productos no tiene rival.$"
 
 GoldenrodDeptStore2_EventScript_Clerk::
 	lock
@@ -210,8 +209,9 @@ GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
 	.string "Which drink would you like?$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
-	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "¡Clank!\p"
+	.string "Ha salido lo siguiente: {STR_VAR_1}.\p"
+	.string "$"
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "Clang!\p"
@@ -219,11 +219,11 @@ GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "dropped down!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+	.string "No tienes suficiente dinero.$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Mejor no compro nada de beber…$"
 
 GoldenrodDeptStore_Text_2FDirectory:
-    .string "Your Travel Companion\p"
-    .string "2F TRAINER'S MARKET$"
+	.string "Tu Compañero de Viaje\p"
+	.string "P1 TIENDA DE ENTRENADORES$"

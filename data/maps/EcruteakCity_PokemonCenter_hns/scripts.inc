@@ -97,9 +97,9 @@ EcruteakCity_PokemonCenter_Movement_BillBot:
 
 
 EcruteakCity_PokemonCenter1F_Text_Bill1:
-	.string "Hi, I'm BILL. And who are you?\p"
-	.string "Hmm, {PLAYER}, huh?\n"
-	.string "You've come at the right time.$"
+	.string "Hola, soy BILL. ¿Quién eres tú? ¿Eh?\n"
+	.string "¿{PLAYER}?\p"
+	.string "¡Has llegado justo a tiempo!$"
 
 EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "I just finished adjustments on my\n"
@@ -122,12 +122,12 @@ EcruteakCity_PokemonCenter1F_Text_PokefanM:
 	.string "POKéMON.$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
-	.string "You must be hoping to battle more\n"
-	.string "people, right?\p"
-	.string "There's apparently some place where\n"
-	.string "trainers gather.\p"
-	.string "Where, you ask?\p"
-	.string "It's a little past OLIVINE CITY.$"
+	.string "Seguro que esperas luchar con más\n"
+	.string "gente, ¿verdad? Parece que hay un\l"
+	.string "sitio en el que se reúnen los\l"
+	.string "entrenadores.\p"
+	.string "Te preguntarás dónde.\p"
+	.string "Es pasando CIUDAD OLIVO.$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "MORTY, the GYM LEADER, is soooo\n"
@@ -135,8 +135,7 @@ EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "His POKéMON are really tough too.$"
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
-	.string "LAKE OF RAGE…\p"
-	.string "The appearance of a GYARADOS\n"
-	.string "swarm…\p"
-	.string "I smell a conspiracy. I know it!$"
+	.string "LAGO DE LA FURIA.\p"
+	.string "Un montón de GYARADOS…\p"
+	.string "¡Esto huele a conspiración!$"
 

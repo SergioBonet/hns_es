@@ -280,36 +280,35 @@ BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike_hns:
 	.string "I am your guide to the BATTLE PIKE…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge_hns:
-	.string "Would you like to take the Battle\n"
-	.string "Choice challenge?$"
+	.string "Dime, pues, ¿aceptas el desafío\n"
+	.string "de la ELECCIÓN de COMBATES?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike_hns:
-	.string "Here we conduct an event we call\n"
-	.string "the Battle Choice.\p"
-	.string "The Battle Choice rules are very\n"
-	.string "simple…\p"
-	.string "Choose one of three paths and make\n"
-	.string "your way to the goal room at the end\l"
-	.string "of the BATTLE PIKE. It's that simple.\p"
-	.string "However, what happens on the chosen\n"
-	.string "path depends entirely on the luck\l"
-	.string "of the challenger…\p"
-	.string "If you reach the goal, you will be\n"
-	.string "rewarded with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please have a word with\l"
-	.string "our staff in the big rooms on the way.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Si aceptas entrar aquí, te enfrentarás\n"
+	.string "a la llamada ELECCIÓN de COMBATES.\p"
+	.string "Las reglas de la ELECCIÓN de COMBATES\n"
+	.string "son muy simples…\p"
+	.string "Elige uno de los tres caminos y llega\n"
+	.string "a la última sala de la SIERPE BATALLA.\l"
+	.string "Así de sencillo.\p"
+	.string "Pero recuerda: lo que te encuentres\n"
+	.string "en el camino que elijas, dependerá\l"
+	.string "únicamente de tu fortuna…\p"
+	.string "Si alcanzas la meta, recibirás como\n"
+	.string "recompensa PUNTOS de BATALLA.\p"
+	.string "Si quieres interrumpir el desafío, habla\n"
+	.string "con cualquiera de mis compañeras\l"
+	.string "que están en las salas grandes.\p"
+	.string "Si no guardas antes de salirte\n"
+	.string "del juego, se te descalificará.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou_hns:
-	.string "We look forward to seeing you\n"
-	.string "on another occasion…$"
+	.string "Esperamos que vuelvas\n"
+	.string "pronto por aquí.$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode_hns:
-	.string "You have the choice of two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you challenge?$"
+	.string "El desafío se disputa en dos niveles:\n"
+	.string "el nivel 50 y el nivel libre. ¿Cuál eliges?$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "I beg your pardon, but…\p"
@@ -336,21 +335,21 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "EGGS{STR_VAR_1}.$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons_hns:
-	.string "Please choose the three POKéMON\n"
-	.string "you wish to enter in the challenge…$"
+	.string "Selecciona los tres POKéMON con los\n"
+	.string "que quieres combatir.$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge_hns:
-	.string "Before starting your Battle Choice\n"
-	.string "challenge, I must save the game.\l"
-	.string "Is that acceptable?$"
+	.string "Antes de comenzar tu ELECCIÓN de\n"
+	.string "COMBATES, debo guardar la partida.\l"
+	.string "¿Estás de acuerdo?$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay_hns:
 	.string "Please step this way…$"
 
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults_hns:
-	.string "Your challenge has ended…\p"
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "El desafío ha terminado…\p"
+	.string "Voy a guardar tus resultados.\n"
+	.string "Espera unos instantes.$"
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance_hns:
 	.string "You have completed the challenge…\p"
@@ -358,8 +357,8 @@ BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance_hns:
 	.string "in abundance…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults_hns:
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Vamos a guardar tus resultados.\n"
+	.string "Espera unos instantes.$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints_hns2_hns:

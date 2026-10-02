@@ -123,14 +123,14 @@ Route13_EventScript_DirectionsSign::
 	end
 
 Route13_Text_PokefanmAlexSeen:
-	.string "Bow down before my regal POKéMON!$"
+	.string "¡Arrodíllate ante mi regio POKéMON!$"
 
 Route13_Text_PokefanmAlexBeaten:
-	.string "How… How dare you mock royalty!$"
+	.string "¿Qué? ¡Te burlas de la realeza!$"
 
 Route13_Text_PokefanmAlexAfterBattle:
-	.string "Doesn't everyone wish to someday\n"
-	.string "be a king?$"
+	.string "¿Acaso no quiere ser rey todo el\n"
+	.string "mundo?$"
 
 Route13_Text_AlexRegister:
 	.string "You're not royalty but you're good.\n"
@@ -147,52 +147,50 @@ Route13_Text_AlexPostRematch:
 	.string "Maybe I'm just a pawn after all.$"
 
 Route13_Text_PokefanmJoshuaSeen:
-	.string "Nihihi! Would you like to battle\n"
-	.string "my PIKACHU gang?$"
+	.string "¡Jijiji! ¿Quieres luchar contra mi\n"
+	.string "grupo de PIKACHU?$"
 
 Route13_Text_PokefanmJoshuaBeaten:
 	.string "PI-PIKACHU!$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
-	.string "You look like you have many\n"
-	.string "POKéMON, but PIKACHU\l"
-	.string "is still the best.$"
+	.string "Parece que tienes muchos POKéMON,\n"
+	.string "¡pero PIKACHU es el mejor!$"
 
 Route13_Text_BirdKeeperPerrySeen:
-	.string "Agility is the key attribute of\n"
-	.string "bird POKéMON.$"
+	.string "La agilidad es la clave de los POKéMON\n"
+	.string "pájaro.$"
 
 Route13_Text_BirdKeeperPerryBeaten:
-	.string "You beat me with your speed…$"
+	.string "Me venciste con tu velocidad…$"
 
 Route13_Text_BirdKeeperPerryAfterBattle:
-	.string "Your POKéMON are remarkably well-\n"
-	.string "trained.$"
+	.string "Tus POKéMON están muy bien\n"
+	.string "entrenados.$"
 
 Route13_Text_BirdKeeperBretSeen:
-	.string "Check out my POKéMON. Just look\n"
-	.string "at their coloring and their\l"
-	.string "plumage.$"
+	.string "Mira mis POKéMON.\p"
+	.string "Fíjate en su color y en su plumaje.$"
 
 Route13_Text_BirdKeeperBretBeaten:
-	.string "Shoot! Not good enough!$"
+	.string "¡Vaya! ¡No soy lo bastante bueno!$"
 
 Route13_Text_BirdKeeperBretAfterBattle:
-	.string "If you groom them, POKéMON get\n"
-	.string "happy.$"
+	.string "Los POKéMON son felices si los pones\n"
+	.string "guapos.$"
 
 Route13_Text_HikerKennySeen:
-	.string "I should go to ROCK TUNNEL to get\n"
-	.string "myself an ONIX.$"
+	.string "Debería ir al TÚNEL ROCA para\n"
+	.string "conseguir un ONIX.$"
 
 Route13_Text_HikerKennyBeaten:
-	.string "I lost…$"
+	.string "He perdido…$"
 
 Route13_Text_HikerKennyAfterBattle:
-	.string "Geological features don't appear\n"
-	.string "to change.\p"
-	.string "But they actually change, little\n"
-	.string "by little.$"
+	.string "Parece que las formas geológicas no\n"
+	.string "cambian.\p"
+	.string "Pero sí que cambian, aunque poco a\n"
+	.string "poco.$"
 
 Route13_Text_KennyRegister:
 	.string "Maybe POKéMON change over time too.\n"
@@ -210,17 +208,16 @@ Route13_Text_KennyPostRematch:
 	.string "erosion. We will persevere!$"
 
 Route13_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Look! Right there, at the left\n"
-	.string "side of the post.$"
+	.string "PISTAS ENTRENADOR\p"
+	.string "¡Mira! Allí, a la izquierda del poste$"
 
 Route13_Text_Sign:
 	.string "ROUTE 13\p"
 	.string "NORTH TO SILENCE BRIDGE$"
 
 Route13_Text_DirectionsSign:
-	.string "NORTH TO LAVENDER TOWN\p"
-	.string "WEST TO FUCHSIA CITY$"
+	.string "HACIA EL NORTE AL PUEBLO LAVANDA\p"
+	.string "HACIA EL OESTE A CIUDAD FUCSIA$"
 
 Route13_GetOffBoat::
 	lock

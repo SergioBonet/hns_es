@@ -109,10 +109,10 @@ GoldenrodCity_FlowerShop_EventScript_Floria3::
 	end
 
 GoldenrodCity_FlowerShop_Text_Floria:
-	.string "When I told my sis about the jiggly\n"
-	.string "tree, she said it's dangerous.\p"
-	.string "If I beat WHITNEY, I wonder if\n"
-	.string "she'll lend me her water bottle…$"
+	.string "Cuando le hablé a mi hermana de ese\n"
+	.string "árbol, me dijo que era peligroso.\p"
+	.string "Si venzo a BLANCA, quizás me preste su\n"
+	.string "REGADERA…$"
 
 GoldenrodCity_FlowerShop_Text_Owner1:
 .string "Apparently, there is an odd tree\n"
@@ -144,18 +144,18 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 .string "Oh, never mind. Keep it!$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
-.string "The odd tree is on ROUTE 36.\n"
-.string "Please be careful!$"
+	.string "El árbol extraño está en la RUTA 36.\n"
+	.string "Ten mucho cuidado.$"
 
 GoldenrodCity_FlowerShop_Text_Owner4:
-    .string "Lalala lalalala. Have plenty of\n"
-    .string "water, my lovely!$"
+	.string "Lalala, lalalala. ¡Échale mucha agua,\n"
+	.string "cariño!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney:
-    .string "Wow, you beat WHITNEY? Cool!$"
+	.string "Uuau, ¿venciste a BLANCA? ¡Genial!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaItWasAMon:
-    .string "So it really was a POKéMON!$"
+	.string "¡Entonces era un POKéMON!$"
 
 
 GoldenrodCity_FlowerShop_EventScript_RandomBerryGirl::

@@ -71,50 +71,49 @@ CeladonCity_EventScript_Item_Recycle::
     end
 
 CeladonCity_Text_Fisher:
-	.string "This POLIWRATH is my partner.\p"
-	.string "I wonder if it'll ever evolve\n"
-	.string "into a frog POKéMON.$"
+	.string "Este POLIWRATH es mi compañero.\p"
+	.string "Me pregunto si algún día evolucionará\n"
+	.string "en una rana POKéMON.$"
 
 CeladonCity_Text_Poliwrath:
-	.string "POLIWRATH: Croak!$"
+	.string "POLIWRATH: ¡Polii!$"
 
 CeladonCity_Text_Teacher1:
-	.string "I lost at the slot machines again…\p"
-	.string "We girls also play the slots now.\p"
-	.string "You should check them out too.$"
+	.string "Volví a perder en las tragaperras.\p"
+	.string "Las chicas también jugamos a las\n"
+	.string "tragaperras. Prueba tú también.$"
 
 CeladonCity_Text_Gramps1:
-	.string "GRIMER have been appearing lately.\p"
-	.string "See that pond out in front of the\n"
-	.string "house? GRIMER live there now.\p"
-	.string "Where did they come from? This is\n"
-	.string "a serious problem…$"
+	.string "Últimamente han aparecido GRIMER.\p"
+	.string "¿Ves esa charca que hay delante de la\n"
+	.string "casa? Ahí viven GRIMER.\p"
+	.string "¿De dónde han venido? Es un grave\n"
+	.string "problema…$"
 
 CeladonCity_Text_Gramps2:
-	.string "Nihihi! This GYM is great! Only\n"
-	.string "girls are allowed here!$"
+	.string "¡Bravo! ¡Este GIMNASIO es genial! ¡Es\n"
+	.string "sólo para chicas!$"
 
 CeladonCity_Text_Youngster1:
-	.string "Want to know a secret?\p"
-	.string "CELADON MANSION has a hidden back\n"
-	.string "door.$"
+	.string "¿Te cuento un secreto?\p"
+	.string "La MANSIÓN AZULONA tiene una puerta\n"
+	.string "trasera secreta.$"
 
 CeladonCity_Text_Youngster2:
-	.string "They're holding an eating contest\n"
-	.string "at the restaurant.\p"
-	.string "Just watching them go at it makes\n"
-	.string "me feel bloated…$"
+	.string "Hay un concurso de tragones en el\n"
+	.string "restaurante.\p"
+	.string "Sólo verlo hace que me sienta lleno…$"
 
 CeladonCity_Text_Teacher2:
-	.string "CELADON DEPT.STORE has the biggest\n"
-	.string "and best selection of merchandise.\p"
-	.string "If you can't get it there, you\n"
-	.string "can't get it anywhere.\p"
-	.string "Gee… I sound like a sales clerk.$"
+	.string "El C. COMERCIAL de CIUDAD AZULONA\p"
+	.string "dispone de los mejores artículos.\p"
+	.string "Si no encuentras algo aquí, no lo\n"
+	.string "encontrarás en ningún otro sitio.\p"
+	.string "¡Vaya…! Parezco una vendedora.$"
 
 CeladonCity_Text_Lass:
-	.string "Looking at the ground while I was\n"
-	.string "walking made me dizzy.$"
+	.string "Mirar al suelo mientras camino me\n"
+	.string "marea.$"
 
 CeladonCity_EventScript_CitySign::
 	msgbox CeladonCity_Text_Sign, MSGBOX_SIGN
@@ -141,20 +140,20 @@ CeladonCity_EventScript_TrainerTips::
 	end
 
 CeladonCity_Text_Sign:
-	.string "CELADON CITY\p"
-	.string "The City of Rainbow Dreams$"
+	.string "CIUDAD AZULONA\p"
+	.string "La ciudad de los sueños de arco iris$"
 
 CeladonGym_Text_Sign:
-	.string "CELADON CITY POKéMON GYM LEADER:\n"
-	.string "ERIKA\p"
-	.string "The Nature-Loving Princess$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD AZULONA: ERIKA\p"
+	.string "La princesa amante de la naturaleza$"
 
 CeladonCity_Text_DeptStoreSign:
-	.string "Find What You Need at CELADON\n"
-	.string "DEPT.STORE!$"
+	.string "¡Encuentra lo que necesitas en el\p"
+	.string "CENTRO COMERCIAL de CIUDAD AZULONA!$"
 
 CeladonCity_Text_MansionSign:
-	.string "CELADON MANSION$"
+	.string "MANSIÓN AZULONA$"
 
 CeladonCity_Text_GameCornerSign:
 	.string "The Playground for Everybody--\n"

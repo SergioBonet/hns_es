@@ -62,10 +62,9 @@ PewterCity_Museum_1F_Text_FossilWomanAfter:
 	.string "through the PC!$"
 
 PewterCity_Museum_1F_Text_Oldman:
-	.string "I should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+	.string "¡Qué golpe de suerte!\p"
+	.string "¡Nunca pensé que conseguiría ver\n"
+	.string "huesos de dragón!$"
 
 PewterCity_Museum_1F_Text_Bones:
 	.string "Bones of an ancient dragon\n"

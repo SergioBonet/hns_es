@@ -90,34 +90,32 @@ Route12_Text_NewFisher:
 	.string "these waters.$"
 
 Route12_Text_FisherMartinSeen:
-	.string "Patience is the key to both\n"
-	.string "fishing and POKéMON.$"
+	.string "La paciencia es la clave para pescar y\n"
+	.string "criar POKéMON.$"
 
 Route12_Text_FisherMartinBeaten:
-	.string "Gwaaah!$"
+	.string "¡Guaaa!$"
 
 Route12_Text_FisherMartinAfterBattle:
-	.string "I'm too impatient for fishing…$"
+	.string "No tengo paciencia para la pesca…$"
 
 Route12_Text_FisherStephenSeen:
-	.string "I feel so content, fishing while\n"
-	.string "listening to some tunes on my\l"
-	.string "radio.$"
+	.string "Me gusta pescar mientras escucho\n"
+	.string "canciones por la radio.$"
 
 Route12_Text_FisherStephenBeaten:
-	.string "My stupid radio distracted me!$"
+	.string "¡Mi estúpida radio me ha distraído!$"
 
 Route12_Text_FisherStephenAfterBattle:
-	.string "Have you checked out KANTO's radio\n"
-	.string "programs? We get a good variety\l"
-	.string "here.$"
+	.string "¿Conoces las emisoras de radio de\n"
+	.string "KANTO? Tenemos muchas.$"
 
 Route12_Text_FisherBarneySeen:
-	.string "What's most important in our\n"
-	.string "everyday lives?$"
+	.string "¿Qué es lo más importante en nuestras\n"
+	.string "vidas?$"
 
 Route12_Text_FisherBarneyBeaten:
-	.string "The answer is coming up next!$"
+	.string "¡La respuesta vendrá luego!$"
 
 Route12_Text_FisherBarneyAfterBattle:
 	.string "I think electricity is the most\n"
@@ -144,10 +142,10 @@ Route12_Text_KylePostRematch:
 	.string "as good as a big catch!$"
 
 Route12_Text_FisherKyleSeen:
-	.string "Do you remember?$"
+	.string "¿Te acuerdas?$"
 
 Route12_Text_FisherKyleBeaten:
-	.string "You do remember?$"
+	.string "Te acuerdas, ¿no?$"
 
 Route12_Text_FisherKyleAfterBattle:
 	.string "The tug you feel on the ROD when\n"
@@ -164,9 +162,9 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_Sign:
-	.string "ROUTE 12\p"
-	.string "NORTH TO LAVENDER TOWN$"
+	.string "RUTA 12\p"
+	.string "PUEBLO LAVANDA HACIA EL NORTE$"
 
 Route12_Text_FishingSpotSign:
-	.string "FISHING SPOT$"
+	.string "COTO DE PESCA$"
 

@@ -343,38 +343,38 @@ PokemonLeague_ChampionsRoom_Text_RematchBattleIntro:
     .string "conquered JOHTO, CHAMPION.$"
 
 PokemonLeague_ChampionsRoom_Text_BattleIntro:
-    .string "LANCE: I've been waiting for you.\p"
-    .string "{PLAYER}!\p"
-    .string "I knew that you, with your skills,\n"
-    .string "would eventually reach me here.\p"
-    .string "There's no need for words now.\p"
-    .string "We will battle to determine who is\n"
-    .string "the stronger of the two of us.\p"
-    .string "As the most powerful trainer and as\n"
-    .string "the POKéMON LEAGUE CHAMPION…\p"
-    .string "I, LANCE the dragon master, accept\n"
-    .string "your challenge!$"
+	.string "LANCE: ¡Te estaba esperando, {PLAYER}!\p"
+	.string "Sabía que finalmente serías capaz de\n"
+	.string "llegar hasta mí.\p"
+	.string "No necesitamos más palabras.\p"
+	.string "Debemos luchar para decidir quién es\n"
+	.string "el más fuerte de los dos.\p"
+	.string "Como ENTRENADOR más poderoso y\n"
+	.string "CAMPEÓN de la LIGA POKéMON…\p"
+	.string "¡yo, LANCE, el maestro dragón, acepto\n"
+	.string "tu desafío!\p"
+	.string "$"
 
 PokemonLeague_ChampionsRoom_Text_BattleWin:
-    .string "…It's over.\p"
-    .string "But it's an odd feeling.\p"
-    .string "I'm not angry that I lost. In fact,\n"
-    .string "I feel happy.\p"
-    .string "Happy that I witnessed the rise\n"
-    .string "of a great new CHAMPION!$"
+	.string "Se acabó…\p"
+	.string "Pero es extraño.\p"
+	.string "No estoy enfadado por perder.\p"
+	.string "De hecho, estoy contento.\p"
+	.string "Estoy contento por haber presenciado\n"
+	.string "tu triunfo. ¡No tienes igual!$"
 
 PokemonLeague_ChampionsRoom_Text_BattleAfter:
-    .string "…Whew.\p"
-    .string "You have become truly powerful,\n"
-    .string "{PLAYER}.\p"
-    .string "Your POKéMON have responded to your\n"
-    .string "strong and upstanding nature.\p"
-    .string "As a trainer, you will continue to\n"
-    .string "grow strong with your POKéMON.$"
+	.string "Fiuuu…\p"
+	.string "Eres realmente fuerte, {PLAYER}.\p"
+	.string "Tus POKéMON han respondido a tu\n"
+	.string "fuerte naturaleza.\p"
+	.string "Debes continuar fortaleciéndote con\n"
+	.string "tus POKéMON.\p"
+	.string "$"
 
 PokemonLeague_ChampionsRoom_Text_MaryOhNoOak:
-    .string "MARY: Oh, no! It's all over!\p"
-    .string "PROF.OAK, if you weren't so slow…$"
+	.string "ROSA: ¡Oh, no! ¡Todo ha acabado!\p"
+	.string "PROF. OAK, si no fuera tan lento…$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations:
     .string "PROF.OAK: Ah, {PLAYER}!\p"
@@ -417,13 +417,14 @@ PokemonLeague_ChampionsRoom_Text_RematchMaryInterview:
     .string "KANTO CHAMPION!$"
 
 PokemonLeague_ChampionsRoom_Text_Noisy:
-    .string "LANCE: This is getting to be a bit\n"
-    .string "too noisy…\p"
-    .string "{PLAYER}, could you come with me?$"
+	.string "LANCE: Vaya… Menudo alboroto…\p"
+	.string "¿Puedes venir conmigo un momento,\n"
+	.string "{PLAYER}?\p"
+	.string "$"
 
 PokemonLeague_ChampionsRoom_Text_MaryNoInterview:
-    .string "MARY: Oh, wait! We haven't done\n"
-    .string "the interview!$"
+	.string "ROSA: ¡Espera! ¡No hemos hecho la\n"
+	.string "entrevista!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryNoInterview:
     .string "MARY: Come on! You can't blow off\n"

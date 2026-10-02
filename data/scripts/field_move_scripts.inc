@@ -273,9 +273,9 @@ Text_WantToStrength:
 	.string "Would you like to use STRENGTH?$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+	.string "¡{STR_VAR_1} ha usado FUERZA!\p"
+	.string "Gracias a FUERZA, {STR_VAR_1} ha\n"
+	.string "podido mover rocas.$"
 
 Text_CantStrength:
 	.string "It's a big boulder, but a POKéMON\n"
@@ -310,8 +310,8 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.string "Un muro de agua cae con un estruendo\n"
+	.string "ensordecedor…$"
 
 Text_WantToWaterfall:
 	.string "It's a large waterfall.\n"
@@ -427,7 +427,7 @@ EventScript_FailSweetScent::
 	end
 
 Text_FailSweetScent:
-	.string "Looks like there's nothing here…$"
+	.string "Parece que aquí no hay nada…$"
 
 EventScript_UseDefog::
 	lockall
@@ -473,7 +473,7 @@ Text_WantToRockClimb:
 	.string "Would you like to use Rock Climb?$"
 
 Text_MonUsedRockClimb:
-	.string "{STR_VAR_1} used Rock Climb!$"
+	.string "¡{STR_VAR_1} usó TREPARROCAS!$"
 
 Text_CantRockClimb:
 	.string "The cliff is steep.\n"

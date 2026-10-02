@@ -148,35 +148,31 @@ Route39_Text_BarnTwinFeedingMoomoo:
 	.string "Thank you!$"
 
 Route39_Text_MoomooWeakMoo:
-	.string "MILTANK: …Moo…$"
+	.string "MUU-MUU: ¡Muu…!$"
 
 Route39_Text_BarnCryIsWeak:
 	.string "Its cry is weak…\n"
 	.string "Give an ORAN BERRY to MILTANK?$"
 
 Route39_Text_MoomooHappyMoo:
-	.string "MILTANK: Mooo!$"
+	.string "MUU-MUU: ¡Muu!$"
 
 Route39_Text_BarnGaveBerry:
-	.string "{PLAYER} gave an ORAN BERRY to\n"
-	.string "MILTANK.$"
+	.string "¡{PLAYER} le ha dado una BAYA ARANJA a\n"
+	.string "MILTANK!$"
 
 Route39_Text_BarnLittleHealthier:
-	.string "MILTANK became a little\n"
-	.string "healthier!$"
+	.string "¡MUU-MUU está un poco mejor!$"
 
 Route39_Text_BarnQuiteHealthy:
-	.string "MILTANK became quite\n"
-	.string "healthy!$"
+	.string "¡MUU-MUU está mucho mejor!$"
 
 Route39_Text_BarnTotallyHealthy:
-	.string "MILTANK became totally\n"
-	.string "healthy!$"
+	.string "¡MUU-MUU se ha recuperado!$"
 
 Route39_Text_BarnNoBerries:
-	.string "{PLAYER} has no ORAN BERRIES…$"
+	.string "{PLAYER} no tiene Bayas Aranja.$"
 
 Route39_Text_BarnRefusedBerry:
-	.string "{PLAYER} wouldn't give an\n"
-	.string "ORAN BERRY.\p"
-	.string "MILTANK looks sad.$"
+	.string "{PLAYER} no le da una BAYA ARANJA.\p"
+	.string "MILTANK parece triste…$"

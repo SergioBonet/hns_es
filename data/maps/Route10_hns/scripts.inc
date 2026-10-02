@@ -74,29 +74,28 @@ Route10_EventScript_ZapdosRan::
 
 
 Route10_Text_HikerJimSeen:
-	.string "Hahahah!$"
+	.string "¡Ja, ja, ja!$"
 
 Route10_Text_HikerJimBeaten:
-	.string "Hahaha-hachoo!$"
+	.string "¡Aaaaaaachís!$"
 
 Route10_Text_HikerJimAfter:
-	.string "Hay fever is making me sneeze!\n"
-	.string "Ahahah-CHOO!$"
+	.string "¡Ji, ji, ji! ¡Ja, ja! ¡Ji, ji!$"
 
 Route10_Text_PokefanmRobertSeen:
-	.string "You like POKéMON, don't you?\p"
-	.string "Me too!$"
+	.string "Te gustan los POKéMON, ¿verdad?\p"
+	.string "¡A mí también!$"
 
 Route10_Text_PokefanmRobertBeaten:
-	.string "I'd have to say that's my loss.$"
+	.string "Debo admitir mi derrota.$"
 
 Route10_Text_PokefanmRobertAfter:
-	.string "Look what you did to my POKéMON…\p"
-	.string "I won't forget this…$"
+	.string "Mira lo que le has hecho a mi POKéMON.\p"
+	.string "No lo olvidaré…$"
 
 Route10_Text_PowerPlant:
-	.string "POWER PLANT$"
+	.string "CENTRAL ENERGÍA$"
 
 Route10_Text_Sign:
-	.string "ROUTE 10\p"
-	.string "CERULEAN CITY - LAVENDER TOWN$"
+	.string "RUTA 10\p"
+	.string "CIUDAD CELESTE - PUEBLO LAVANDA$"

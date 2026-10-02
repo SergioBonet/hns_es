@@ -26,9 +26,10 @@ RuinsOfAlph_Lab_EventScript_Fossils::
 	end
 
 RuinsOfAlph_Lab_Text_Scientist1:
-	.string "The RUINS are about 1500 years old.\p"
-	.string "But it's not known why they were\n"
-	.string "built--or by whom.$"
+	.string "Las RUINAS datan de hace unos 1.500\n"
+	.string "años.\p"
+	.string "Pero ignoramos por qué o por quién\n"
+	.string "fueron construidas.$"
 
 RuinsOfAlph_Lab_Text_Scientist2:
 	.string "There are odd patterns drawn on\n"

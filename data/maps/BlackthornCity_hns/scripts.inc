@@ -185,21 +185,20 @@ BlackthornCity_Text_ClairNotReady:
 	.string "who already have 7 badges.$"
 
 BlackthornCity_Text_ClairIsIn:
-	.string "CLAIR, our GYM LEADER, is waiting\n"
-	.string "for you.\p"
-	.string "However, it would be impossible for\n"
-	.string "a run-of-the-mill trainer to win.$"
+	.string "DÉBORA, la LÍDER del GIMNASIO, te\n"
+	.string "espera.\p"
+	.string "Aunque, a alguien como tú le será\n"
+	.string "imposible ganar.$"
 
 BlackthornCity_Text_ClairIsBeaten:
-	.string "You defeated CLAIR?\p"
-	.string "That's amazing!\p"
-	.string "I've never heard of her losing to\n"
-	.string "anyone other than LANCE.$"
+	.string "¿Has vencido a DÉBORA?\n"
+	.string "¡Impresionante!\p"
+	.string "Nunca oí que perdiera contra nadie,\n"
+	.string "excepto contra LANCE.$"
 
 BlackthornGrampsRefusesEntryText:
-	.string "No. Only chosen trainers may train\n"
-	.string "here.\p"
-	.string "Please leave.$"
+	.string "No. Sólo los elegidos pueden\n"
+	.string "entrenarse aquí. Por favor, vete.$"
 
 BlackthornGrampsGrantsEntryText:
 	.string "If CLAIR allows it, her grand-\n"
@@ -207,16 +206,16 @@ BlackthornGrampsGrantsEntryText:
 	.string "You may enter.$"
 
 BlackBeltText_VoicesInMyHead:
-	.string "Arooo! Voices in my head!\p"
-	.string "Huh? I'm listening to my radio!$"
+	.string "¡Auu! ¡Voces en mi cabeza! ¿Cómo?\p"
+	.string "¡Estoy escuchando la radio!$"
 
 BlackthornCooltrainerF1Text:
 	.string "Are you going to make your POKéMON\n"
 	.string "remember some moves?$"
 
 BlackthornYoungsterText:
-	.string "Dragon masters all come from the city\n"
-	.string "of BLACKTHORN.$"
+	.string "Todos los expertos en dragones\n"
+	.string "vienen de CIUDAD ENDRINO.$"
 
 BlackthornCity_MeetSantosText:
 	.string "SANTOS: …\p"
@@ -224,7 +223,7 @@ BlackthornCity_MeetSantosText:
 	.string "Take a guess.$"
 
 BlackthornCity_SantosGivesGiftText:
-	.string "You can have this…$"
+	.string "Toma esto…$"
 
 BlackthornCity_SantosGaveGiftText:
 	.string "SANTOS: …\p"
@@ -233,29 +232,29 @@ BlackthornCity_SantosGaveGiftText:
 	.string "It will frighten you…$"
 
 BlackthornCity_SantosSaturdayText:
-	.string "SANTOS: …\p"
-	.string "See you again on another Saturday…\p"
-	.string "I won't have any more gifts…$"
+	.string "SABINO: …\p"
+	.string "Nos vemos otro sábado…\p"
+	.string "Pero ya no tendré más regalos…$"
 
 BlackthornCity_SantosNopeText:
 	.string "SANTOS: No.$"
 
 BlackthornCooltrainerF2Text:
-	.string "Wow, you came through the ICE PATH?\p"
-	.string "You must be a real hotshot trainer!$"
+	.string "¡Uau! ¿Has venido por la RUTA HELADA?\p"
+	.string "¡Debes de ser genial!$"
 
 BlackthornCitySignText:
-	.string "BLACKTHORN CITY\p"
-	.string "A Quiet Mountain Retreat$"
+	.string "CIUDAD ENDRINO\p"
+	.string "Un tranquilo refugio de montaña$"
 
 BlackthornGymSignText:
-	.string "BLACKTHORN CITY POKéMON GYM\n"
-	.string "LEADER: CLAIR\p"
-	.string "The Blessed User of Dragon POKéMON$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD ENDRINO: DÉBORA\p"
+	.string "La gran experta en POKéMON dragón$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
 	.string "MOVE BROS' HOUSE$"
 
 BlackthornCity_Text_DragonDenSign:
-	.string "DRAGON'S DEN AHEAD$"
+	.string "HACIA LA GUARIDA DRAGÓN$"
 

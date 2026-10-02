@@ -24,5 +24,5 @@ CeladonDeptStore4F_Text_Youngster:
 	.string "they are out of stock.$"
 
 CeladonDeptStore4F_Text_Directory:
-	.string "Express Yourself With Gifts!\p"
-	.string "4F: WISEMAN GIFTS$"
+	.string "¡Dilo con un regalo!\p"
+	.string "P3: REGALOS$"

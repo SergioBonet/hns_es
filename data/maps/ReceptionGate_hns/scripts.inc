@@ -67,8 +67,8 @@ ReceptionGate_EventScript_KantoGuard::
     end
 
 VictoryRoadGate_Text_Officer:
-    .string "Only trainers who have proven\n"
-    .string "themselves may pass.$"
+	.string "Sólo pueden pasar los entrenadores\n"
+	.string "que demuestren su valía.$"
 
 VictoryRoadGate_Text_Kimono:
     .string "Sorry kid, this way is closed until\n"
@@ -76,14 +76,14 @@ VictoryRoadGate_Text_Kimono:
     .string "POKéMON...$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
-    .string "You don't have all the GYM BADGES\n"
-    .string "of JOHTO.\p"
-    .string "I'm sorry, but I can't let you go\n"
-    .string "through.$"
+	.string "No tienes todas las MEDALLAS de\n"
+	.string "JOHTO.\p"
+	.string "Lo siento, pero no puedo dejarte\n"
+	.string "pasar.$"
 
 VictoryRoadGate_Text_EightBadges:
-    .string "Oh! The eight BADGES of JOHTO!\p"
-    .string "Please, go right on through!$"
+	.string "¡Oh! ¡Las ocho MEDALLAS de JOHTO!\p"
+	.string "¡Le ruego que pase, por favor!$"
 
 VictoryRoadGate_Text_LeftBlackBelt:
     .string "This way leads to MT.SILVER.\p"
@@ -91,6 +91,6 @@ VictoryRoadGate_Text_LeftBlackBelt:
     .string "there.$"
 
 VictoryRoadGate_Text_RightBlackBelt:
-    .string "Off to the POKéMON LEAGUE, are you?\p"
-    .string "The ELITE FOUR are so strong it's\n"
-    .string "scary, and they're ready for you!$"
+	.string "Vas a la LIGA POKéMON, ¿verdad?\p"
+	.string "El ALTO MANDO es tan fuerte que da\n"
+	.string "miedo. ¡Están esperándote!$"

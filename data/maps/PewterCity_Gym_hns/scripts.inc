@@ -39,23 +39,23 @@ PewterCity_Gym_EventScript_Brock_Defeated::
 
 
 PewterCity_Gym_Text_Brock_Intro:
-	.string "BROCK: Wow, it's not often that we get a\n"
-	.string "challenger from JOHTO.\p"
-	.string "I'm BROCK, the PEWTER GYM LEADER.\p"
-	.string "I'm an expert on ROCK-type POKéMON.\p"
-	.string "My POKéMON are impervious to most\n"
-	.string "physical attacks. You'll have a hard\l"
-	.string "time inflicting any damage.\p"
-	.string "Come on!$"
+	.string "BROCK: ¡Uau! No todos los días nos\n"
+	.string "desafía alguien de JOHTO.\p"
+	.string "Soy BROCK, LÍDER del GIM. de C.\p"
+	.string "PLATEADA y experto en POKéMON roca.\p"
+	.string "Mis POKéMON son insensibles a la\n"
+	.string "mayoría de ataques físicos. Te será\l"
+	.string "muy difícil hacerles daño.\p"
+	.string "¡Venga!$"
 
 PewterCity_Gym_Text_Brock_WinLoss:
-	.string "BROCK: Your POKéMON's powerful attacks\n"
-	.string "overcame my rock-hard defense…\p"
-	.string "You're stronger than I expected…\p"
-	.string "Go ahead--take this BADGE.$"
+	.string "BROCK: Mi dura defensa no soportó los\n"
+	.string "ataques de tus POKéMON…\p"
+	.string "Eres más fuerte de lo que pensaba…\p"
+	.string "Toma. Coge esta MEDALLA.$"
 
 PewterCity_Gym_Text_ReceivedBoulderBadge:
-	.string "{PLAYER} received BOULDERBADGE.$"
+	.string "{PLAYER} recibió la MEDALLA ROCA.$"
 
 PewterCity_Gym_Text_Brock_GiveTM:
 	.string "Here, take this TM with you.$"
@@ -74,10 +74,10 @@ PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "POKéMON even more powerful.$"
 
 PewterCity_Gym_Text_Brock_FightDone:
-	.string "BROCK: The world is huge. There are\n"
-	.string "still many strong trainers like you.\p"
-	.string "Just wait and see. I'm going to become\n"
-	.string "a lot stronger too.$"
+	.string "BROCK: El mundo es enorme. Hay muchos\n"
+	.string "entrenadores tan fuertes como tú.\p"
+	.string "Espera y verás. Yo también me voy a\n"
+	.string "hacer más fuerte.$"
 
 PewterCity_Gym_Text_CamperJerry_Seen:
 	.string "The trainers of this GYM use ROCK-type\n"
@@ -87,12 +87,12 @@ PewterCity_Gym_Text_CamperJerry_Seen:
 	.string "Are you ready for this?$"
 
 PewterCity_Gym_Text_CamperJerry_Beaten:
-	.string "I have to win these battles…$"
+	.string "Tengo que ganar estos combates…$"
 
 PewterCity_Gym_Text_CamperJerry_AfterBattle:
-	.string "Hey, you! Trainer from JOHTO! BROCK is\n"
-	.string "tough. He'll punish you if you don't\l"
-	.string "take him seriously.$"
+	.string "¡Eh, tú! ¡JOVEN de Johto! Brock es un\n"
+	.string "tipo muy duro.\p"
+	.string "¡Te castigará si no le tomas en serio!$"
 
 PewterCity_Gym_Text_Guide:
 	.string "Yo! CHAMP in making! You're really\n"
@@ -103,10 +103,10 @@ PewterCity_Gym_Text_Guide:
 	.string "just like JOHTO's GYM LEADERS.$"
 
 PewterCity_Gym_Text_Guide_Win:
-	.string "Yo! CHAMP in making! That GYM didn't\n"
-	.string "give you much trouble.\p"
-	.string "The way you took charge was really\n"
-	.string "inspiring. I mean that seriously.$"
+	.string "¡Hola! Este GIMNASIO no te ha costado\n"
+	.string "mucho.\p"
+	.string "Tu forma de atacar ha sido realmente\n"
+	.string "increíble. Lo digo en serio.$"
 
 PewterCity_Gym_EventScript_GymGuy::
 	goto_if_set FLAG_DEFEATED_PEWTER_GYM, PewterCity_Gym_EventScript_GymGuyAfter

@@ -17,16 +17,16 @@ Route40_EventScript_Simon::
 	end
 
 Route40_Text_SwimmermSimonSeen:
-	.string "You have to warm up before\n"
-	.string "going into the water.\p"
-	.string "That's basic.$"
+	.string "Debes calentar antes de entrar en el\n"
+	.string "agua.\p"
+	.string "Es imprescindible.$"
 
 Route40_Text_SwimmermSimonBeaten:
 	.string "OK! Uncle! I give!$"
 
 Route40_Text_SwimmermSimonAfter:
-	.string "CIANWOOD CITY is a good\n"
-	.string "distance away from here.$"
+	.string "CIUDAD ORQUÍDEA está bastante lejos\n"
+	.string "de aquí.$"
 
 Route40_EventScript_Randall::
 	trainerbattle_single TRAINER_RANDALL_HNS, Route40_Text_SwimmermRandallSeen, Route40_Text_SwimmermRandallBeaten
@@ -34,16 +34,15 @@ Route40_EventScript_Randall::
 	end
 
 Route40_Text_SwimmermRandallSeen:
-	.string "Hey, you're young and fit!\p"
-	.string "Don't ride your POKéMON!\n"
-	.string "Swim!$"
+	.string "¡Eres joven y estás en forma!\p"
+	.string "¡No vayas sobre tu POKéMON! ¡Nada!$"
 
 Route40_Text_SwimmermRandallBeaten:
-	.string "Uh-oh. I lost…$"
+	.string "¡Oh, he perdido…!$"
 
 Route40_Text_SwimmermRandallAfter:
-	.string "Swimming exercises your\n"
-	.string "entire body. It's healthy.$"
+	.string "La natación fortalece tu cuerpo. Es\n"
+	.string "sana.$"
 
 Route40_EventScript_Elaine::
 	trainerbattle_single TRAINER_ELAINE_HNS, Route40_Text_SwimmerfElaineSeen, Route40_Text_SwimmerfElaineBeaten
@@ -51,16 +50,14 @@ Route40_EventScript_Elaine::
 	end
 
 Route40_Text_SwimmerfElaineSeen:
-	.string "Are you going to CIANWOOD?\p"
-	.string "How about a quick battle\n"
-	.string "first?$"
+	.string "¿Vas a CIUDAD ORQUÍDEA?\p"
+	.string "¿Te apetece luchar antes?$"
 
 Route40_Text_SwimmerfElaineBeaten:
-	.string "I lost that one!$"
+	.string "¡He perdido!$"
 
 Route40_Text_SwimmerfElaineAfter:
-	.string "I'd say I'm a better swimmer\n"
-	.string "than you. Yeah!$"
+	.string "Creo que nado mejor que tú. ¡Sin duda!$"
 
 Route40_EventScript_Paula::
 	trainerbattle_single TRAINER_PAULA_HNS, Route40_Text_SwimmerfPaulaSeen, Route40_Text_SwimmerfPaulaBeaten
@@ -68,16 +65,15 @@ Route40_EventScript_Paula::
 	end
 
 Route40_Text_SwimmerfPaulaSeen:
-	.string "No inner tube for me.\p"
-	.string "I'm hanging on to a sea\n"
-	.string "POKéMON!$"
+	.string "Yo no necesito flotador.\p"
+	.string "¡Voy agarrada a un POKéMON de mar!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
-	.string "Ooh, I'm feeling dizzy!$"
+	.string "¡Ooh, estoy mareada!$"
 
 Route40_Text_SwimmerfPaulaAfter:
-	.string "While I float like this,\n"
-	.string "the waves carry me along.$"
+	.string "Mientras flote así, las olas me\n"
+	.string "llevarán.$"
 
 Route40_EventScript_Woman1::
 	lock
@@ -88,8 +84,8 @@ Route40_EventScript_Woman1::
 	end
 
 Route40_Text_Lass1:
-	.string "Although you can't see it from here,\n"
-	.string "CIANWOOD is across the sea.$"
+	.string "Aunque no se ve desde aquí, CIUDAD\p"
+	.string "ORQUÍDEA está al otro lado del mar.$"
 
 Route40_EventScript_Woman2::
 	lock
@@ -100,11 +96,10 @@ Route40_EventScript_Woman2::
 	end
 
 Route40_Text_Lass2:
-	.string "I came to OLIVINE by ship to see\n"
-	.string "the sights and soak up the\l"
-	.string "atmosphere.\p"
-	.string "Being a port, it feels so\n"
-	.string "different from a big city.$"
+	.string "Vine en barco a C. OLIVO por las vistas\n"
+	.string "y el aire que se respira.\p"
+	.string "Como es un puerto, parece diferente\n"
+	.string "de la gran ciudad.$"
 
 Route40_EventScript_Youngster::
 	lock
@@ -134,20 +129,20 @@ Route40_Text_MonicaGivesGift:
 	.string "I have a gift for you!$"
 
 Route40_Text_MonicaGaveGift:
-	.string "MONICA: It's an item that raises\n"
-	.string "the power of FLYING-type moves.\p"
-	.string "You should equip a bird\n"
-	.string "POKéMON with that item.$"
+	.string "Luna: Es un objeto que aumenta el\n"
+	.string "poder de los movimientos de tipo\l"
+	.string "VOLADOR.\p"
+	.string "Deberías darle este objeto a un\n"
+	.string "POKéMON pájaro.$"
 
 Route40_Text_MonicaMonday:
-	.string "MONICA: My brothers and\n"
-	.string "sisters are all over the place.\p"
-	.string "See if you could find\n"
-	.string "them all!$"
+	.string "LUNA: Mis hermanos y hermanas están\n"
+	.string "por todas partes.\p"
+	.string "¡A ver si los encuentras!$"
 
 Route40_Text_MonicaNotMonday:
-	.string "MONICA: I don't think today\n"
-	.string "is Monday. How sad…$"
+	.string "LUNA: No creo que hoy sea lunes. ¡Qué\n"
+	.string "pena…!$"
 
 Route40_Text_MonicaNope:
 	.string "Not that one.$"

@@ -56,25 +56,24 @@ PalletTown_House2_EventScript_DaisyGrooming::
 	end
 
 PalletTown_House2_Text_Hello:
-	.string "DAISY: Hi! My kid brother is the\n"
-	.string "GYM LEADER in VIRIDIAN CITY.\p"
-	.string "But he goes out of town so\n"
-	.string "often, it causes problems for\l"
-	.string "the trainers.$"
+	.string "DALIA: ¡Hola! Mi hermano es LÍDER\p"
+	.string "del GIMNASIO de CIUDAD VERDE.\p"
+	.string "Pero sale tanto de la ciudad que trae\n"
+	.string "problemas a los entrenadores.$"
 
 PalletTown_House2_Text_OfferGrooming:
-	.string "DAISY: Hi! Good timing. I'm about\n"
-	.string "to have some tea.\p"
-	.string "Would you like to join me?\p"
-	.string "Oh, your POKéMON are a bit dirty.\p"
-	.string "Would you like me to groom one?$"
+	.string "DALIA: ¡Llegas a tiempo! Iba a tomar\n"
+	.string "un té.\p"
+	.string "¿Quieres tomarte uno?\p"
+	.string "Tus POKéMON están un poco sucios.\p"
+	.string "¿Quieres que limpie a uno?$"
 
 PalletTown_House2_Text_WhichMon:
-	.string "DAISY: Which one should I groom?$"
+	.string "DALIA: ¿Qué POKéMON limpio?$"
 
 PalletTown_House2_Text_Alright:
-	.string "DAISY: OK, I'll get it looking\n"
-	.string "nice in no time.$"
+	.string "DALIA: Vale, haré que mejore su\n"
+	.string "aspecto enseguida.$"
 
 PalletTown_House2_Text_AllDone:
 	.string "DAISY: There you go! All done.\p"
@@ -83,14 +82,13 @@ PalletTown_House2_Text_AllDone:
 	.string "It's such a cute POKéMON.$"
 
 PalletTown_House2_Text_AlreadyGroomed:
-	.string "DAISY: I always have tea around\n"
-	.string "this time. Come join me.$"
+	.string "DALIA: Siempre tomo té a esta hora.\n"
+	.string "Ven cuando quieras.$"
 
 PalletTown_House2_Text_Refused:
-	.string "DAISY: You don't want to have one\n"
-	.string "groomed?\p"
-	.string "OK, we'll just have tea.$"
+	.string "DALIA: ¿No quieres que limpie a un\p"
+	.string "POKéMON? Vale, tan sólo tomaremos té.$"
 
 PalletTown_House2_Text_CantGroomEgg:
-	.string "DAISY: Oh, sorry. I honestly can't\n"
-	.string "groom an EGG.$"
+	.string "DALIA: Lo siento. No puedo limpiar un\n"
+	.string "HUEVO.$"

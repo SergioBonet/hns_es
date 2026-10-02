@@ -27,8 +27,8 @@ AzaleaMart_Text_CooltrainerM:
 	.string "of his custom BALLS.$"
 
 AzaleaMart_Text_BugCatcher:
-	.string "A GREAT BALL is better for catch-\n"
-	.string "ing POKéMON than a POKé BALL.\p"
-	.string "But KURT's might be better some-\n"
-	.string "times.$"
+	.string "Mejor una SÚPER BALL para capturar\p"
+	.string "POKéMON que una POKé BALL.\p"
+	.string "Pero, a veces, las de CÉSAR son\n"
+	.string "mejores.$"
 

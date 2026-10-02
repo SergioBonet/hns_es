@@ -109,53 +109,53 @@ Route35_EventScript_Item_ParalyzeHeal::
 	end
 
 Route35_Text_CamperIvanSeen:
-	.string "I've been getting POKéMON data off\n"
-	.string "my radio. I think I'm good.$"
+	.string "He estado cogiendo datos de POKéMON\p"
+	.string "de mi radio. Creo que soy bueno.$"
 
 Route35_Text_CamperIvanBeaten:
-	.string "I give!$"
+	.string "¡Me rindo!$"
 
 Route35_Text_CamperIvanAfter:
-	.string "Music on the radio changes the\n"
-	.string "moods of wild POKéMON.$"
+	.string "La música de la radio cambia el ánimo\n"
+	.string "de los POKéMON salvajes.$"
 
 Route35_Text_CamperElliotSeen:
-	.string "I'm gonna show my girlfriend I'm\n"
-	.string "hot stuff!$"
+	.string "Le voy a demostrar a mi novia lo bueno\n"
+	.string "que soy.$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "I wish you would have lost for me…$"
+	.string "Ojalá hubieras perdido tú…$"
 
 Route35_Text_CamperElliotAfter:
-	.string "I was humiliated in front of my\n"
-	.string "girlfriend…$"
+	.string "Me humillaste delante de mi novia…$"
 
 Route35_Text_PicnickerBrookeSeen:
-	.string "My boyfriend's weak, so I can't rely\n"
-	.string "on him.$"
+	.string "Mi novio es débil. Así que no puedo\n"
+	.string "confiar en él.$"
 
 Route35_Text_PicnickerBrookeBeaten:
-	.string "Oh, my! You're so strong!$"
+	.string "¡Cielos! ¡Eres tan fuerte!$"
 
 Route35_Text_PicnickerBrookeAfter:
-	.string "I can count on my POKéMON more than\n"
-	.string "my boyfriend.$"
+	.string "Confío más en mis POKéMON que en mi\n"
+	.string "novio.$"
 
 Route35_Text_PicnickerKimSeen:
-	.string "Are you going to the GYM? Me too!$"
+	.string "¿Vas al GIMNASIO? ¡Yo también!$"
 
 Route35_Text_PicnickerKimBeaten:
-	.string "Oh. I couldn't win…$"
+	.string "¡Vaya! No pude ganar…$"
 
 Route35_Text_PicnickerKimAfter:
-	.string "The GYM BADGES are pretty. I collect\n"
-	.string "them.$"
+	.string "Me gustan las MEDALLAS de los\n"
+	.string "GIMNASIOS.\p"
+	.string "Las colecciono.$"
 
 Route35_Text_BirdKeeperBryanSeen:
-	.string "What kinds of BALLS do you use?$"
+	.string "¿Qué tipo de POKé BALL usas?$"
 
 Route35_Text_BirdKeeperBryanBeaten:
-	.string "Yikes! Not fast enough!$"
+	.string "¡Vaya! ¡No lo bastante rápido!$"
 
 Route35_Text_BirdKeeperBryanAfter:
 	.string "Some POKéMON flee right away.\p"
@@ -166,66 +166,69 @@ Route35_Text_BirdKeeperBryanAfter:
 	.string "He turns it into a custom BALL.$"
 
 Route35_Text_JugglerIrwinSeen:
-	.string "Behold my graceful BALL dexterity!$"
+	.string "¡Observa cómo uso las POKé BALL!$"
 
 Route35_Text_JugglerIrwinBeaten:
-	.string "Whew! That was a jolt!$"
+	.string "¡Uauuu! ¡Vaya sacudida!$"
 
 Route35_Text_JugglerIrwinAfter:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "Te iba a deslumbrar con mi preciado\n"
+	.string "POKéMON.\p"
+	.string "¡Pero tu habilidad me electrificó!$"
 
 Route35_Text_BugCatcherArnieSeen:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+	.string "Iré a cualquier lugar donde haya\n"
+	.string "POKéMON bicho.$"
 
 Route35_Text_BugCatcherArnieBeaten:
-	.string "Huh? I shouldn't have lost that…$"
+	.string "¿Eh? No debería haber perdido…$"
 
 Route35_Text_BugCatcherArnieAfter:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "Mi VENONAT ganó el Concurso de\n"
+	.string "Captura de Bichos del PARQUE\l"
+	.string "NACIONAL.$"
 
 Route35_Text_IrwinRegister:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "Te iba a deslumbrar con mi preciado\n"
+	.string "POKéMON.\p"
+	.string "¡Pero tu habilidad me electrificó!$"
 
 Route35_Text_ArnieRegister:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "Mi VENONAT ganó el Concurso de\n"
+	.string "Captura de Bichos del PARQUE\l"
+	.string "NACIONAL.$"
 
 Route35_Text_ArnieRematchIntro:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+	.string "Iré a cualquier lugar donde haya\n"
+	.string "POKéMON bicho.$"
 
 Route35_Text_ArnieRematchDefeat:
-	.string "Huh? I shouldn't have lost that…$"
+	.string "¿Eh? No debería haber perdido…$"
 
 Route35_Text_ArniePostRematch:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "Mi VENONAT ganó el Concurso de\n"
+	.string "Captura de Bichos del PARQUE\l"
+	.string "NACIONAL.$"
 
 Route35_Text_BugCatcherArnieYanma:
 	.string "Wow… Look at all those YANMA!\p"
 	.string "I'm so blown away, I can't move.$"
 
 Route35_Text_FirebreatherWaltSeen:
-	.string "I'm practicing my fire breathing.$"
+	.string "Practico mi aliento de fuego.$"
 
 Route35_Text_FirebreatherWaltBeaten:
-	.string "Ow! I scorched the tip of my nose!$"
+	.string "¡Me he quemado la punta de la nariz!$"
 
 Route35_Text_FirebreatherWaltAfter:
-	.string "The POKéMON March on the radio\n"
-	.string "lures wild POKéMON.$"
+	.string "La Marcha POKéMON de la radio atrae\n"
+	.string "POKéMON salvajes.$"
 
 Route35_Text_OfficerDirkSeen:
-	.string "Danger lurks in the night!$"
+	.string "¡El peligro acecha por la noche!$"
 
 Route35_Text_OfficerDirkBeaten:
-	.string "Whoops!$"
+	.string "¡Uy!$"
 
 Route35_Text_OfficerDirkAfter:
 	.string "You know, night time is fun in its\n"
@@ -233,11 +236,11 @@ Route35_Text_OfficerDirkAfter:
 	.string "But don't overdo it, OK?$"
 
 Route35_Text_OfficerDirkTough:
-	.string "Your POKéMON look pretty tough.\p"
-	.string "You could go anywhere safely.$"
+	.string "Tus POKéMON son bastante fuertes.\p"
+	.string "Estarás a salvo en cualquier parte.$"
 
 Route35_Text_Sign:
-	.string "ROUTE 35$"
+	.string "RUTA 35$"
 
 Route35_Text_Sign2:
 	.string "NATIONAL PARK GATE$"

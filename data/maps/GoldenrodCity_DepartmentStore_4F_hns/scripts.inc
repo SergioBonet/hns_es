@@ -35,13 +35,12 @@ GoldenrodDeptStore4_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_4FCooltrainerM:
-    .string "Hey. I love strong POKéMON.\p"
-    .string "I feed them PROTEIN to crank up\n"
-    .string "their ATTACK.$"
+	.string "Me encantan los POKéMON fuertes.\p"
+	.string "Les doy PROTEÍNA para mejorar su\n"
+	.string "ATAQUE.$"
 
 GoldenrodDeptStore_Text_4FBugCatcher:
-    .string "IRON adds to your POKéMON's\n"
-    .string "DEFENSE.$"
+	.string "El HIERRO mejora su DEFENSA.$"
 
 GoldenrodDeptStore_Text_4FGameboyKid:
     .string "There were rumours that some\n"
@@ -78,5 +77,5 @@ GoldenrodDeptStore4_Pokemart:
 	pokemartlistend
 
 GoldenrodDeptStore_Text_4FDirectory:
-    .string "Let Us Pump Up Your POKéMON!\p"
-    .string "4F MEDICINE BOX$"
+	.string "¡Fortalecemos a tus POKéMON!\p"
+	.string "P3 BOTIQUÍN$"

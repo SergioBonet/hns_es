@@ -54,18 +54,18 @@ ViridianCity_Gym_EventScript_BlueAtDojo::
 	end
 
 ViridianCity_Gym_Text_LeaderBlue_Before:
-	.string "BLUE: Yo! Finally got here, huh?\p"
-	.string "I wasn't in the mood at CINNABAR,\p"
-	.string "but now I'm ready to battle you.\p"
+	.string "AZUL: ¡Hola! Al fin llegaste, ¿eh?\p"
+	.string "En ISLA CANELA no estaba a punto,\n"
+	.string "pero ahora estoy listo para luchar.\p"
 	.string "…\p"
-	.string "You're telling me you conquered all\n"
-	.string "the GYMS in JOHTO?\p"
-	.string "Heh! JOHTO's GYMS must be pretty\n"
-	.string "pathetic then.\p"
-	.string "Hey, don't worry about it.\p"
-	.string "I'll know if you are good or not by\n"
-	.string "battling you right now.\p"
-	.string "Ready, JOHTO CHAMP?$"
+	.string "¿Me estás contando que superaste los\p"
+	.string "GIMNASIOS de JOHTO?\p"
+	.string "¡Vaya! Pues los GIMNASIOS de JOHTO\p"
+	.string "deben de ser patéticos.\p"
+	.string "Pero bueno, no te preocupes.\p"
+	.string "Sabremos si vales o no en un momento.\n"
+	.string "Luchemos ahora.\p"
+	.string "¿Vale?$"
 
 ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "BLUE: What?\p"
@@ -75,14 +75,14 @@ ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "EARTHBADGE.$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
-	.string "{PLAYER} received EARTHBADGE.$"
+	.string "{PLAYER} recibió la MEDALLA TIERRA.$"
 
 ViridianCity_Gym_Text_LeaderBlue_After:
-	.string "BLUE: …\p"
-	.string "All right, I was wrong. You're the\n"
-	.string "real deal. You are a good trainer.\p"
-	.string "But I'm going to beat you someday.\p"
-	.string "Don't you forget it!$"
+	.string "AZUL: …\p"
+	.string "De acuerdo, me he equivocado.\p"
+	.string "Tenías razón. No me engañabas.\p"
+	.string "Pero algún día te derrotaré.\p"
+	.string "¡No lo olvides!$"
 
 ViridianCity_Gym_Text_LeaderBlue_GiveTM:
 	.string "Take this with you.$"
@@ -94,9 +94,9 @@ ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
 	.string "Use it to turn a battle on its head.$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
-	.string "BLUE: Listen, you.\p"
-	.string "You'd better not lose until I beat\n"
-	.string "you. Got it?$"
+	.string "AZUL: Escucha.\p"
+	.string "Será mejor que no pierdas hasta que\n"
+	.string "yo te derrote. ¿Entendido?$"
 
 
 ViridianCity_Gym_EventScript_GymGuy::
@@ -109,18 +109,17 @@ ViridianCity_Gym_EventScript_GymGuyAfter::
 	end
 
 ViridianCity_Gym_Text_Guide:
-	.string "Yo, CHAMP in making!\p"
-	.string "How's it going? Looks like you're on\n"
-	.string "a roll.\p"
-	.string "The GYM LEADER is a guy who battled\n"
-	.string "the CHAMPION three years ago.\p"
-	.string "He's no pushover.\p"
-	.string "Give it everything you've got!$"
+	.string "¡Hola! ¿Qué tal te va?\p"
+	.string "Parece que estás de suerte.\p"
+	.string "El LÍDER del GIMNASIO luchó contra el\n"
+	.string "CAMPEÓN hace 3 años.\p"
+	.string "¡Es un tipo duro!\p"
+	.string "¡Debes esforzarte al máximo!$"
 
 ViridianCity_Gym_Text_Guide_Win:
-	.string "Man, you are truly tough…\p"
-	.string "That was a heck of an inspirational\n"
-	.string "battle. It brought tears to my eyes.$"
+	.string "Vaya, eres realmente fuerte…\p"
+	.string "¡Qué batalla más emocionante!\p"
+	.string "Me ha hecho llorar.$"
 
 
 ViridianCity_Gym_EventScript_GymStatue::

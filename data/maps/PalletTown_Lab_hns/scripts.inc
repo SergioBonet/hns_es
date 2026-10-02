@@ -82,8 +82,8 @@ PalletTown_Lab_Text_OakWelcomeKanto:
 	.string "out here? Pretty tough, huh?$"
 
 PalletTown_Lab_Text_OakLabGoodbye:
-	.string "If you're in the area, I hope you\n"
-	.string "come visit again.$"
+	.string "Si pasas por aquí, espero que vengas a\n"
+	.string "visitarme.$"
 
 PalletTown_Lab_Text_OakOpenMtSilver:
 	.string "OAK: Wow! That's excellent!\p"
@@ -115,11 +115,12 @@ PalletTown_Lab_Text_OakOpenIndigoPlateau:
 	.string "Good luck, {PLAYER}!$"
 
 PalletTown_Lab_Text_OakNoKantoBadges:
-	.string "OAK: Hmm? You're not collecting\n"
-	.string "KANTO GYM BADGES?\p"
-	.string "The GYM LEADERS in KANTO are as\n"
-	.string "tough as any you battled in JOHTO.\p"
-	.string "I recommend that you challenge them.$"
+	.string "OAK: ¿Cómo? ¿No has conseguido las\n"
+	.string "MEDALLAS DE KANTO?\p"
+	.string "Los LÍDERES de los GIMNASIOS de\n"
+	.string "KANTO\p"
+	.string "son tan fuertes como los de JOHTO.\p"
+	.string "Te aconsejo que te enfrentes a ellos.$"
 
 PalletTown_Lab_Text_OakYesKantoBadges:
 	.string "OAK: Ah, you're collecting KANTO\n"
@@ -131,18 +132,18 @@ PalletTown_Lab_Text_OakYesKantoBadges:
 	.string "Keep trying hard, {PLAYER}!$"
 
 PalletTown_Lab_Text_OaksAssistant1:
-	.string "The PROF's POKéMON TALK radio\n"
-	.string "program isn't aired here in KANTO.\p"
-	.string "It's a shame--I'd like to hear it.$"
+	.string "El programa de la HORA POKéMON\p"
+	.string "del PROF. OAK no se emite aquí, en\n"
+	.string "KANTO.\p"
+	.string "¡Qué pena! ¡Me gustaría oírlo!$"
 
 PalletTown_Lab_Text_OaksAssistant2:
-	.string "Thanks to your work on the POKéDEX,\n"
-	.string "the PROF's research is coming along\l"
-	.string "great.$"
+	.string "Gracias a tu POKéDEX, la investigación\n"
+	.string "del profesor está avanzando.$"
 
 PalletTown_Lab_Text_OaksAssistant3:
-	.string "Don't tell anyone, but PROF.OAK'S\n"
-	.string "POKéMON TALK isn't a live broadcast.$"
+	.string "No se lo digas a nadie, pero la\p"
+	.string "HORA DE OAK no es en directo.$"
 
 PalletTown_Lab_Text_OaksLabPC:
 	.string "There's an e-mail message on the PC.\p"

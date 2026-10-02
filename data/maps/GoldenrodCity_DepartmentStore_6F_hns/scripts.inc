@@ -62,10 +62,10 @@ GoldenrodCity_DepartmentStore_6F_Text_ThisIsntAMon:
 	.string "That isn't a {STR_VAR_1}.$"
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
-	.string "You don't want to trade? Aww...$"
+	.string "¿No quieres cambiarlo? ¡Bah!$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
-	.string "Hi, how's my old MACHOP doing?$"
+	.string "Hola, ¿cómo está mi MACHOP?$"
 
 
 GoldenrodDeptStore6_EventScript_Lass::
@@ -102,10 +102,10 @@ GoldenrodDeptStore_Text_6FLass:
 	.string "available as it once was.$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
-    .string "If you're tired, try the vending\n"
-    .string "machine's drinks.\p"
-    .string "Your POKéMON will love them too.$"
+	.string "Si te cansas, prueba las bebidas de\n"
+	.string "las máquinas.\p"
+	.string "A tus POKéMON les gustarán.$"
 
 GoldenrodDeptStore_Text_6FDirectory:
-    .string "Take a Break from Shopping!\p"
-    .string "6F TRANQUIL SQUARE$"
+	.string "¡Descansa de las compras!\p"
+	.string "P5 PLAZA TRANQUILA$"

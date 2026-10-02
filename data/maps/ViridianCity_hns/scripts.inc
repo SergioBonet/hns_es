@@ -83,34 +83,32 @@ ViridianCity_EventScript_GymSign::
 	end
 
 ViridianCity_Text_CoffeeGramps_Question:
-	.string "Hey, kid! I just had a double shot\n"
-	.string "of espresso, and I am wired!\p"
-	.string "I need to talk to someone, so you'll\n"
-	.string "have to do!\p"
-	.string "I might not look like much now, but\n"
-	.string "I was an expert at catching POKéMON.\p"
-	.string "Do you believe me?$"
+	.string "¡Hola! ¡Me acabo de tomar un café\n"
+	.string "doble y estoy como una moto!\p"
+	.string "¡Tengo que hablar con alguien, así que\n"
+	.string "te toca a ti!\p"
+	.string "Puede que ahora no lo parezca, pero yo\n"
+	.string "era un experto atrapando POKéMON.\p"
+	.string "¿Me crees?$"
 
 ViridianCity_Text_CoffeeGramps_Believed:
-	.string "Good, good. Yes, I was something\n"
-	.string "out of the ordinary, let me tell\l"
-	.string "you!$"
+	.string "Muy bien. Sí, yo era algo fuera de lo\n"
+	.string "normal. ¡Déjame contártelo!$"
 
 ViridianCity_Text_CoffeeGramps_Doubted:
-	.string "What? You little whelp!\p"
-	.string "If I were just a bit younger, I'd\n"
-	.string "show you a thing or two. Humph!$"
+	.string "¿Qué? ¡Serás insolente!\p"
+	.string "Si fuera un poco más joven, te\n"
+	.string "enseñaría un par de cosas. ¡Vaya!$"
 
 ViridianCity_Text_GrampsNearGym:
-	.string "This GYM didn't have a LEADER\n"
-	.string "until recently.\p"
-	.string "A young man from PALLET became\n"
-	.string "the LEADER, but he's often away.$"
+	.string "Este GIMNASIO no ha tenido LÍDER\n"
+	.string "hasta hace poco.\p"
+	.string "Un joven de PUEBLO PALETA se\n"
+	.string "convirtió en LÍDER pero viaja mucho.$"
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
-	.string "Are you going to battle the\n"
-	.string "LEADER?\p"
-	.string "Good luck to you. You'll need it.$"
+	.string "¿Vas a enfrentarte al LÍDER?\p"
+	.string "¡Buena suerte! ¡La vas a necesitar!$"
 
 ViridianCity_Text_DreamEaterFisherNew:
 	.string "…Zzzzz…\p" 
@@ -124,36 +122,37 @@ ViridianCity_Text_DreamEaterFisher_GotTM::
 	.string "…Zzzzz…$"
 
 ViridianCity_Text_DreamEaterFisher:
-	.string "Yawn!\p"
-	.string "I must have dozed off in the sun.\p"
-	.string "…I had this dream about a DROWZEE\n"
-	.string "eating my dream. Weird, huh?\p"
-	.string "Huh? What's this?\p"
-	.string "Where did this TM come from?\p"
-	.string "This is spooky! Here, you can have\n"
-	.string "this TM.$"
+	.string "¡Qué sueño!\p"
+	.string "Me habré quedado dormido al sol.\p"
+	.string "He soñado que un DROWZEE se comía mi\n"
+	.string "sueño.\p"
+	.string "Es raro, ¿verdad?\p"
+	.string "¿Eh? ¿Qué es esto?\p"
+	.string "¿De dónde ha salido esta MT?\p"
+	.string "¡Esto es muy misterioso! Aquí tienes\n"
+	.string "esta MT.$"
 
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
-	.string "TM42 contains DREAM EATER…\p"
-	.string "…Zzzzz…$"
+	.string "MT42 contiene COME SUEÑOS…\p"
+	.string "¡Zzzzz…!$"
 
 ViridianCity_Text_Youngster:
-	.string "I heard that there are many items\n"
-	.string "on the ground in VIRIDIAN FOREST.$"
+	.string "Dicen que en el suelo del BOSQUE\p"
+	.string "VERDE hay muchos objetos.$"
 
 ViridianCity_Text_Sign:
-	.string "VIRIDIAN CITY\p"
-	.string "The Eternally Green Paradise$"
+	.string "CIUDAD VERDE\p"
+	.string "El paraíso eternamente verde$"
 
 ViridianCity_Text_GymSign:
-	.string "VIRIDIAN CITY POKéMON GYM\n"
-	.string "LEADER: …\p"
-	.string "The rest of the text is illegible…$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD VERDE:…\p"
+	.string "El resto del texto es ilegible…$"
 
 ViridianCity_Text_WelcomeSign:
-	.string "WELCOME TO VIRIDIAN CITY,\p"
-	.string "THE GATEWAY TO INDIGO PLATEAU$"
+	.string "Ésta es la CIUDAD VERDE, la entrada a\n"
+	.string "la MESETA AÑIL$"
 
 ViridianCity_Text_TrainerHouseSign:
-	.string "TRAINER HOUSE\p"
-	.string "The Club for Top Trainer Battles$"
+	.string "CASA DEL ENTRENADOR\p"
+	.string "Club de Mejores Entrenadores$"

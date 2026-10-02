@@ -155,37 +155,36 @@ MrPokemonHouse_Text_Intro1:
 	.string "visit.$"
 
 MrPokemonHouse_Text_Intro2:
-	.string "This is what I want PROF.ELM\n"
-	.string "to examine.$"
+	.string "Esto es lo que quiero que examine el\n"
+	.string "PROF. ELM.$"
 
 MrPokemonHouse_Text_GotEgg:
-	.string "{PLAYER} received MYSTERY EGG.$"
+	.string "{PLAYER} recibió un HUEVO MISTERIOSO.$"
 
 MrPokemonHouse_Text_Intro3:
-	.string "I know a couple who run a\n"
-	.string "POKéMON DAY-CARE service.\p"
-	.string "They gave me that EGG.\p"
-	.string "I was intrigued, so I sent\n"
-	.string "mail to PROF.ELM.\p"
-	.string "For POKéMON evolution,\n"
-	.string "PROF.ELM is the authority.$"
+	.string "Conozco a una pareja que tiene una\n"
+	.string "GUARDERÍA POKéMON.\p"
+	.string "Ellos me dieron ese HUEVO.\p"
+	.string "Como me intrigaba, le mandé una carta\n"
+	.string "al PROF. ELM.\p"
+	.string "El PROF. ELM es la máxima autoridad en\n"
+	.string "evolución de los POKéMON.$"
 
 
 MrPokemonHouse_Text_Intro4:
-	.string "Even PROF.OAK here recognizes\n"
-	.string "that.$"
+	.string "Hasta el PROF. OAK lo reconoce.$"
 
 MrPokemonHouse_Text_Intro5:
 	.string "If my assumption is correct,\n"
 	.string "PROF.ELM will know it.$"
 
 MrPokemonHouse_Text_Heal:
-	.string "You are returning to PROF.ELM?\p"
-	.string "Here. Your POKéMON should have\n"
-	.string "some rest.$"
+	.string "¿Vas a ir a ver al PROF. ELM?\p"
+	.string "Toma. Tus POKéMON deberían descansar\n"
+	.string "un poco.$"
 
 MrPokemonHouse_Text_DependingOnYou:
-	.string "I'm depending on you!$"
+	.string "¡Confío en ti!$"
 
 MrPokemonHouse_Text_AlwaysNewDiscoveries:
 	.string "Life is delightful!\n"
@@ -219,7 +218,7 @@ MrPokemonHouse_Text_OakIntro:
 	.string "they evolve, and their moves.$"
 
 MrPokemonHouse_Text_GetDex:
-	.string "{PLAYER} received POKéDEX!$"
+	.string "¡{PLAYER} recibió la POKéDEX!$"
 
 MrPokemonHouse_Text_OakParting:
 	.string "Go meet many kinds of POKéMON and\n"
@@ -239,26 +238,23 @@ MrPokemonHouse_Text_GimmeTheScale:
 	.string "that I got from PROF.OAK.$"
 
 MrPokemonHouse_Text_Disappointed:
-	.string "That's disappointing.\n"
-	.string "That happens to be very rare.$"
+	.string "Es una pena. Es realmente raro.$"
 
 MrPokemonHouse_Text_ExpShare:
 	.string "I also have a special item\n"
 	.string "for you.$"
 
 MrPokemonHouse_Text_ForeignMagazines:
-	.string "It's packed with foreign\n"
-	.string "magazines.\p"
-	.string "Can't even read their titles…$"
+	.string "Lleno de revistas extranjeras.\p"
+	.string "Ni siquiera puedo leer los títulos.$"
 
 MrPokemonHouse_Text_BrokenComputer:
-	.string "It's a big computer.\n"
-	.string "Hmm. It's broken.$"
+	.string "Es un ordenador enorme. ¡Mmm! Está\n"
+	.string "estropeado.$"
 
 MrPokemonHouse_Text_StrangeCoins:
-	.string "A whole pile of strange coins!\p"
-	.string "Maybe they're from another\n"
-	.string "country…$"
+	.string "¡Un montón de monedas extrañas!\p"
+	.string "Quizá sean de otro país…$"
 
 MrPokemonHouse_Text_GotExpShare:
 	.string "{PLAYER} received EXP. SHARE!$"

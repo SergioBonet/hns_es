@@ -42,8 +42,10 @@ SafariZoneGate_PokemonCenter_Text_NPC2:
 	.string "Then it feels like you are in paradise!$"
 
 SafariZoneGate_PokemonCenter_Text_SafariSong:
-	.string "Safari, safari, it is so much fun.\n"
-	.string "Safari, safari, so interesting, huh!\p"
-	.string "So many POKéMON are waiting for us!\p"
-	.string "...That's a song I made up.\n"
-	.string "I sing it when I am in the SAFARI ZONE.$"
+	.string "¡La ZONA SAFARI es algo genial!\p"
+	.string "¡La ZONA SAFARI es sensacional!\p"
+	.string "Con tantísimos POKéMON… un lugar sin\n"
+	.string "igual…\p"
+	.string "Es una canción que me he inventado.\p"
+	.string "La canto mientras paseo por la ZONA\n"
+	.string "SAFARI.$"

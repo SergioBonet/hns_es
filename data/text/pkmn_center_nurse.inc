@@ -10,19 +10,20 @@ gText_IllTakeYourPkmn::
 	.string "for a few seconds.$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "Gracias por esperar.\p"
+	.string "Misión cumplida. Somos especialistas\n"
+	.string "en devolver la forma a los POKéMON.$"
 
 gText_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "Hola, te doy la bienvenida al CENTRO\n"
+	.string "POKéMON.\p"
+	.string "Aquí tu equipo POKéMON se recuperará\n"
+	.string "por completo.\p"
+	.string "¿Te parece bien?\p"
+	.string "$"
 
 gText_NoticesGoldCard::
 	.string "Th-that card…\n"
@@ -45,10 +46,10 @@ gText_IllTakeYourPkmn2::
 	.string "for a few seconds.$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "Gracias por esperar.$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 gText_PkmnCenterChallenge_NoVisitsLeft:: @ tx_difficulty_challenge
     .string "Sorry, but you are playing with\n"

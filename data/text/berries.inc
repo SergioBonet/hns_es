@@ -192,12 +192,12 @@ Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
 	.string "It's for you!$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
-	.string "You can plant a BERRY and grow it big,\n"
-	.string "or you can make a POKéMON hold it.\p"
-	.string "But now they have a machine that mixes\n"
-	.string "up different BERRIES and makes candies\l"
-	.string "for POKéMON.\p"
-	.string "I want some candy, too.$"
+	.string "Puedes plantar una BAYA y cultivarla\n"
+	.string "o puedes dársela a un POKéMON.\p"
+	.string "Pero también hay una máquina que\n"
+	.string "mezcla distintos tipos de BAYA y\l"
+	.string "hace caramelos para los POKéMON.\p"
+	.string "Yo también quiero uno…$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "Hi, what's your name?\p"

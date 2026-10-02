@@ -278,28 +278,27 @@ CherryGroveCity_Silver_AfterBattle::
 	end
 
 CherrygroveCity_Text_GuideGentIntro:
-	.string "You're a rookie trainer,\n"
-	.string "aren't you? I can tell!\p"
-	.string "That's OK! Everyone is a\n"
-	.string "rookie at some point!\p"
-	.string "If you'd like, I can teach\n"
-	.string "you a few things.$"
+	.string "Empezaste hace poco, ¿verdad? ¡Estoy\n"
+	.string "seguro!\p"
+	.string "¡Está bien! ¡Todo el mundo es novato\n"
+	.string "alguna vez!\p"
+	.string "Si quieres, te puedo enseñar algunas\n"
+	.string "cosas.$"
 
 CherrygroveCity_Text_GuideGentTourStart:
 	.string "OK, then!\n"
 	.string "Follow me!$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
-	.string "This is a POKéMON CENTER.\p"
-	.string "They heal your POKéMON in no\n"
-	.string "time at all.\p"
-	.string "You'll be relying on them a lot,\n"
-	.string "so you better learn about them.$"
+	.string "Esto es un CENTRO POKéMON.\p"
+	.string "Aquí curan a tus POKéMON.\p"
+	.string "Vas a necesitar mucho de ellos, así\n"
+	.string "que es mejor conocerlos bien.$"
 
 CherrygroveCity_Text_GuideGentMart:
-	.string "This is a POKéMON MART.\p"
-	.string "They sell BALLS for catching wild\n"
-	.string "POKéMON and other useful items.$"
+	.string "Esto es una TIENDA POKéMON.\p"
+	.string "Hay POKé BALL para capturar POKéMON\p"
+	.string "salvajes y otras muchas cosas.$"
 
 CherrygroveCity_Text_GuideGentRoute30:
 	.string "ROUTE 30 is out this way.\p"
@@ -336,7 +335,7 @@ CherrygroveCity_Text_RivalSeen:
 	.string "I'll show you what I mean!$"
 
 CherrygroveCity_Text_SilverWin:
-	.string "Humph. Are you happy you won?$"
+	.string "Grrr. ¿Feliz de haber ganado?$"
 
 CherrygroveCity_Text_RivalAfter:
 	.string "… … … … … … … …\p"
@@ -345,43 +344,41 @@ CherrygroveCity_Text_RivalAfter:
 	.string "greatest POKéMON trainer.$"
 
 CherrygroveCity_Text_RivalID:
-	.string "Give it back!\n"
-	.string "That's my TRAINER CARD!\p"
-	.string "Oh no!\n"
-	.string "You saw my name...$"
+	.string "¡Dame eso! Es mi Ficha de ENTRENADOR,\n"
+	.string "que se me ha caído.\p"
+	.string "Mmm… ¿Has visto mi nombre?…\p"
+	.string "$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:
-	.string "When you're with POKéMON,\n"
-	.string "going anywhere is fun.$"
+	.string "Cuando vas con los POKéMON, cualquier\n"
+	.string "sitio está bien.$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
 	.string "MR. POKéMON's house is still\n"
 	.string "farther up ahead.$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
-	.string "I battled the trainers on the\n"
-	.string "road.\p"
-	.string "My POKéMON lost. They're a\n"
-	.string "mess! I must take them to a\l"
-	.string "POKéMON CENTER.$"
+	.string "He luchado contra los entrenadores\n"
+	.string "del camino.\p"
+	.string "Mis POKéMON han perdido. ¡Están fatal!\n"
+	.string "Los llevaré al CENTRO POKéMON.$"
 
 CherrygroveCity_Text_MysticWaterGuyBefore:
-	.string "A POKéMON I caught had an\n"
-	.string "item.\p"
-	.string "I think it's MYSTIC WATER.\p"
-	.string "I don't need it, so do you\n"
-	.string "want it?$"
+	.string "Atrapé un POKéMON que llevaba un\n"
+	.string "objeto.\p"
+	.string "Creo que es AGUA MÍSTICA.\p"
+	.string "No lo necesito, ¿lo quieres?$"
 
 CherrygroveCity_Text_MysticWaterGuyAfter:
-	.string "Back to fishing for me, then.$"
+	.string "Pues yo me voy a pescar.$"
 
 CherrygroveCity_Text_CitySign:
-	.string "CHERRYGROVE CITY\p"
-	.string "The City of Cute, Fragrant\n"
-	.string "Flowers$"
+	.string "CIUDAD CEREZO\p"
+	.string "La ciudad de las flores bonitas y\n"
+	.string "fragantes$"
 
 CherrygroveCity_Text_GuideGentsHouseSign:
-	.string "GUIDE GENT'S HOUSE$"
+	.string "CASA DEL GUÍA$"
 
 CherryGroveCity_Text_Staryu:
 	.string "STARYU: Yuuuuuuuu.$"

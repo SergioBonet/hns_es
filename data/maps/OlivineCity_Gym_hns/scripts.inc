@@ -72,17 +72,17 @@ OlivineCity_Gym_EventScript_MoveLeft4::
 	return
 
 OlivineCity_Gym_Text_Gent:
-	.string "I knew you'd come here.\p"
-	.string "Thank you for helping the GYM LEADER,\n"
-	.string "but battle is a separate matter.\p"
-	.string "Go for it!$"
+	.string "Sin duda estás a punto para este\n"
+	.string "Gimnasio.\p"
+	.string "Sé que aún no lo has dado todo, pero\n"
+	.string "un Gimnasio es algo serio.\p"
+	.string "¡LUCHA con todas tus fuerzas!$"
 
 OlivineCity_Gym_Text_Gent2:
-	.string "Impressive!\n"
-	.string "You should continue your journey to\l"
-	.string "different places.\p"
-	.string "Since you can use SURF, why don't you\n"
-	.string "try it on the LAKE OF RAGE?$"
+	.string "¡Buen combate! Sigue haciéndolo así\n"
+	.string "de bien allá donde vayas.\p"
+	.string "Y ya sabes SURF, te aconsejo que\n"
+	.string "vayas al Lago de la FURIA.$"
 
 OlivineCity_Gym_EventScript_Lass::
 	lock
@@ -155,17 +155,16 @@ OlivineCity_Gym_EventScript_MoveRight4::
 	return
 
 OlivineCity_Gym_Text_Lass:
-	.string "Giggle...\n"
-	.string "I know how capable you are\l"
-	.string "from the LIGHTHOUSE.\p"
-	.string "It's time you showed that side of\n"
-	.string "yourself to JASMINE! Good luck!$"
+	.string "Je, je… Ya hemos visto tu potencial en\n"
+	.string "el faro.\p"
+	.string "Ahora te toca enfrentarte a YASMINA.\n"
+	.string "¡Cuenta con mi apoyo!$"
 
 OlivineCity_Gym_Text_Lass2:
-	.string "You are amazing...\n"
-	.string "You should aim even higher, since\l"
-	.string "you have such potential.\p"
-	.string "Have you been to MAHOGANY TOWN?$"
+	.string "Ha sido alucinante…\p"
+	.string "Con el nivel que tienes puedes\n"
+	.string "apuntar bien alto.\p"
+	.string "¿Ya has estado en PUEBLO CAOBA?$"
 
 OlivineCity_Gym_EventScript_GymGuide::
 	lock
@@ -206,17 +205,18 @@ OlivineCity_Gym_Text_GymGuideText:
 	.string "of SPEED.$"
 
 OlivineCity_Gym_Text_GymGuideWinText:
-	.string "That was awesome.\p"
-	.string "The STEEL-type, huh?\p"
-	.string "That was a close encounter of an\n"
-	.string "unknown kind!$"
+	.string "Ha sido increíble.\p"
+	.string "El tipo acero se las trae, ¿eh?\p"
+	.string "¡No había visto un combate así en mi\n"
+	.string "vida!$"
 
 OlivineCity_Gym_Text_GymGuidePreText:
-	.string "JASMINE, the GYM LEADER, is at the\n"
-	.string "LIGHTHOUSE.\p"
-	.string "She's been tending to a sick POKéMON.\p"
-	.string "A strong trainer has to be\n"
-	.string "compassionate.$"
+	.string "YASMINA, la LÍDER del GIMNASIO, está\n"
+	.string "en el FARO.\p"
+	.string "Ha estado cuidando a un POKéMON\n"
+	.string "enfermo.\p"
+	.string "Un buen entrenador debe ser\n"
+	.string "compasivo.$"
 
 OlivineCity_Gym_EventScript_Jasmine::
 	lock
@@ -287,13 +287,13 @@ OlivineCity_Gym_Text_JasmineSteelTypeIntro:
 	.string "…Um… May I begin?$"
 
 OlivineCity_Gym_Text_JasmineBetterTrainer:
-	.string "…You are a better trainer than me,\n"
-	.string "in both skill and kindness.\p"
-	.string "In accordance with LEAGUE rules,\n"
-	.string "I confer upon you this BADGE.$"
+	.string "Eres mejor que yo, tanto en habilidad\n"
+	.string "como en simpatía.\p"
+	.string "De acuerdo con las normas de la LIGA,\n"
+	.string "te concedo esta MEDALLA.$"
 
 OlivineCity_Gym_Text_ReceivedMineralBadge:
-	.string "{PLAYER} received MINERALBADGE.$"
+	.string "{PLAYER} recibió la MEDALLA MINERAL.$"
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
 	.string "MINERALBADGE raises POKéMON's \n"
@@ -301,12 +301,11 @@ OlivineCity_Gym_Text_JasmineBadgeSpeech:
 	.string "…Um… Please take this too…$"
 
 OlivineCity_Gym_Text_JasmineIronTailSpeech:
-	.string "…You could use that TM to teach\n"
-	.string "IRON TAIL.$"
+	.string "Usa esta MT para enseñar COLA FÉRREA.$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
-	.string "Um… I don't know how to say this,\n"
-	.string "but good luck…$"
+	.string "Eh… No sé cómo decirlo, pero buena\n"
+	.string "suerte…$"
 
 OlivineCity_Gym_Text_JasmineRematchText:
 	.string "…Congratulations, JOHTO CHAMPION.\p"
@@ -334,7 +333,7 @@ OlivineCity_Gym_EventScript_Statue2::
 	end
 
 OlivineCity_Gym_Text_GymStatue:
-	.string "OLIVINE CITY POKéMON GYM$"
+	.string "Gimnasio POKéMON de CIUDAD OLIVO$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
 	.string "OLIVINE CITY POKéMON GYM\p"

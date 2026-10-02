@@ -28,13 +28,13 @@ VioletCity_House2_EventScript_Pidgey::
 	end
 
 VioletCity_NicknameHouse_Text_Teacher:
-	.string "She uses the names of her\n"
-	.string "favorite things to eat.\p"
-	.string "For the nicknames she gives to\n"
-	.string "her POKéMON, I mean.$"
+	.string "Usa los nombres de sus comidas\n"
+	.string "favoritas.\p"
+	.string "Quiero decir, como motes para sus\n"
+	.string "POKéMON.$"
 
 VioletCity_NicknameHouse_Text_Lass:
-	.string "I call my PIDGEY STRAWBERRY!$"
+	.string "¡A mi PIDGEY le llamo FRESITA!$"
 
 VioletCity_NicknameHouse_Text_Bird:
-	.string "STRAWBERRY: Pijji!$"
+	.string "FRESITA: ¡Pidgey!$"

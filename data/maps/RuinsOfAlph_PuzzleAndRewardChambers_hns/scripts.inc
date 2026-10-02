@@ -401,27 +401,26 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist3:
 
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
-	.string "A POKéMON that hid on the sea floor.\n"
-	.string "Eyes on its back scanned the area.$"
+	.string "Un POKéMON que se oculta en el mar.\p"
+	.string "Con sus ojos explora la zona.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
 	.string "It's UNOWN text!$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Statue:
-	.string "It's a replica of an ancient\n"
-	.string "POKéMON.$"
+	.string "Es una réplica de un antiguo POKéMON.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Aerodactyl:
-	.string "This flying POKéMON attacked its\n"
-	.string "prey with saw-like fangs.$"
+	.string "Este POKéMON volador ataca a su presa\n"
+	.string "con sus fuertes colmillos.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Omanyte:
-	.string "This POKéMON drifted in the sea\n"
-	.string "by twisting its ten tentacles.$"
+	.string "Este POKéMON se desplazaba por el mar\n"
+	.string "con sus diez tentáculos.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Hooh:
-	.string "A POKéMON that flew gracefully on\n"
-	.string "rainbow-colored wings.$"
+	.string "Un POKéMON que movía con gracia sus\n"
+	.string "alas de los colores del arco iris.$"
 
 @==========================================================================================================================================================
 @ Hooh

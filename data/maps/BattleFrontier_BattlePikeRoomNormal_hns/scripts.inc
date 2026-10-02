@@ -795,8 +795,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass_hns:
 	.string "…FRONTIER PASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine_hns:
-	.string "The Luck Symbol took on\n"
-	.string "a golden shine!$"
+	.string "¡El SÍMBOLO de la FORTUNA ha sido\n"
+	.string "grabado en tu PASE del FRENTE!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget_hns:
 	.string "…You, I won't forget…\n"

@@ -151,11 +151,11 @@ Route42_Text_EusineJealous:
 	.string "about SUICUNE from him.$"
 
 Route42_Text_EusineWontGiveUp:
-	.string "SUICUNE...\n"
-	.string "I won't stop following you\l"
-	.string "until I've found out what\l"
-	.string "you're after...\p"
-	.string "You hear me!$"
+	.string "SUICUNE…\p"
+	.string "¿Hacia dónde te diriges?… Te\n"
+	.string "perseguiré hasta que lo averigüe.\p"
+	.string "¡Tenlo presente!\p"
+	.string "$"
 
 
 Route42_EventScript_Tully::
@@ -226,8 +226,8 @@ Route42_EventScript_Item_UltraBall::
 	end
 
 Route42_Text_FisherTullySeen:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "¡Déjame que te enseñe el poder de mis\n"
+	.string "POKéMON!$"
 
 Route42_Text_FisherTullyBeaten:
 	.string "What? That's not right.\n"
@@ -240,25 +240,24 @@ Route42_Text_FisherTullyAfter:
 	.string "That's the best part of fishing!$"
 
 Route42_Text_HikerBenjaminSeen:
-	.string "Ah, it's good to be outside!\n"
-	.string "I feel so free!$"
+	.string "¡Ah! ¡Qué bien se está fuera! ¡Me\n"
+	.string "siento tan libre!$"
 
 Route42_Text_HikerBenjaminBeaten:
 	.string "Gahahah! That was a good\n"
 	.string "battle!$"
 
 Route42_Text_HikerBenjaminAfter:
-	.string "Losing feels insignificant\n"
-	.string "if you look up at the big sky!$"
+	.string "¡Perder no tiene importancia si lo\n"
+	.string "comparas con el inmenso cielo!$"
 
 Route42_Text_PokemaniacShaneSeen:
-	.string "HEY!\p"
-	.string "This is my secret place!\n"
-	.string "Get lost, you outsider!$"
+	.string "¡OYE!\p"
+	.string "¡Éste es mi lugar secreto! ¡Fuera de\n"
+	.string "aquí, cotilla!$"
 
 Route42_Text_PokemaniacShaneBeaten:
-	.string "I should have used my\n"
-	.string "MOON STONE…$"
+	.string "Debí haber usado mi PIEDRA LUNAR…$"
 
 Route42_Text_PokemaniacShaneAfter:
 	.string "You're working on a POKéDEX?\p"
@@ -268,12 +267,12 @@ Route42_Text_PokemaniacShaneAfter:
 	.string "Please?$"
 
 Route42_Text_Sign1:
-	.string "ROUTE 42\p"
-	.string "ECRUTEAK CITY - MAHOGANY TOWN$"
+	.string "RUTA 42\p"
+	.string "CIUDAD IRIS - PUEBLO CAOBA$"
 
 Route42_Text_MtMortarSign1:
-	.string "MT.MORTAR\p"
-	.string "WATERFALL CAVE INSIDE$"
+	.string "MONTE MORTERO\p"
+	.string "CUEVA CASCADA Interior$"
 
 Route42_Text_TullyRegister:
 	.string "I want to become the trainer\n"
@@ -282,8 +281,8 @@ Route42_Text_TullyRegister:
 	.string "That's the best part of fishing!$"
 
 Route42_Text_TullyRematchIntro:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "¡Déjame que te enseñe el poder de mis\n"
+	.string "POKéMON!$"
 
 Route42_Text_TullyRematchDefeat:
 	.string "What? That's not right.\n"

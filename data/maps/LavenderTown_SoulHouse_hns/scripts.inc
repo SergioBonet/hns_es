@@ -34,10 +34,9 @@ SoulHouse_Text_Teacher:
 	.string "MR.FUJI may enter.$"
 
 SoulHouse_Text_Lass:
-	.string "I came with my mom to visit\n"
-	.string "POKéMON graves…$"
+	.string "He venido con mi madre a visitar las\n"
+	.string "tumbas de los POKéMON…$"
 
 SoulHouse_Text_Granny:
-	.string "The POKéMON that lived with me…\p"
-	.string "I loved them like my\n"
-	.string "grandchildren…$"
+	.string "A los POKéMON que vivían conmigo…\p"
+	.string "los quería como a mis nietos…$"

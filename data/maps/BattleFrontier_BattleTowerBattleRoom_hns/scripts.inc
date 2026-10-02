@@ -438,8 +438,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent_hns:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-	.string "Are you ready?$"
+	.string "Ahora vas a enfrentarte a tu rival\n"
+	.string "número {STR_VAR_1}. ¿Todo preparado?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent_hns:
 	.string "You will be facing opponent no. 2.\n"
@@ -470,24 +470,24 @@ BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle_hns:
 	.string "FRONTIER PASS?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "El combate de {PLAYER} se grabó\n"
+	.string "en el PASE del FRENTE.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "¿Quieres guardar la partida y salir del\n"
+	.string "juego?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "Vamos a guardar los datos del combate.\n"
+	.string "Un momento, por favor.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge_hns:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "¿Quieres cancelar el desafío de la\n"
+	.string "Sala de Combate?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved_hns::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Ha habido algún tipo de error.\n"
+	.string "No se ha podido guardar la grabación.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay_hns:
 	.string "Excuse me, but…\p"

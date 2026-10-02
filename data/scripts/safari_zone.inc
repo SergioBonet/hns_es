@@ -126,8 +126,10 @@ SafariZone_Text_WouldYouLikeToExit:
 	.string "ZONE right now?$"
 
 SafariZone_Text_TimesUp:
-	.string "Ding-dong! Time's up!\n"
-	.string "Your SAFARI Game is over.$"
+	.string "¡Tilín, tilín!\p"
+	.string "¡Se acabó el tiempo! El Safari ha\n"
+	.string "terminado.\p"
+	.string "$"
 
 SafariZone_Text_OutOfBalls:
 	.string "You've run out of SAFARI BALLS.\n"
@@ -179,8 +181,8 @@ Route121_SafariZoneEntrance_Text_WouldYouLikeToPlay:
 	.string "Would you like to play a SAFARI Game?$"
 
 Route121_SafariZoneEntrance_Text_PlayAnotherTime:
-	.string "Okay.\n"
-	.string "Please play another time!$"
+	.string "No hay problema.\n"
+	.string "Ven cuando quieras.$"
 
 Route121_SafariZoneEntrance_Text_NotEnoughMoney:
 	.string "You don't have enough money.\n"
@@ -190,7 +192,8 @@ Route121_SafariZoneEntrance_Text_ThatWillBe500Please:
 	.string "That will be ¥500, please.$"
 
 Route121_SafariZoneEntrance_Text_HereAreYourSafariBalls:
-	.string "Here are your SAFARI BALLS.$"
+	.string "Toma Safari Balls.\p"
+	.string "$"
 
 Route121_SafariZoneEntrance_Text_Received30SafariBalls:
 	.string "{PLAYER} received 30 SAFARI BALLS.$"
@@ -227,11 +230,11 @@ SafariZone_South_Text_EnjoyTheRestOfYourAdventure:
 	.string "adventure!$"
 
 SafariZone_South_Text_ExitEarlyThankYouForPlaying:
-	.string "Okay.\p"
-	.string "I'll take back your remaining SAFARI\n"
-	.string "BALLS.\p"
-	.string "Thank you for playing.\n"
-	.string "We hope to see you again.$"
+	.string "Muy bien.\p"
+	.string "Me quedaré con las SAFARI BALLS\n"
+	.string "que te sobran.\p"
+	.string "Gracias por jugar con nosotros.\n"
+	.string "Vuelve siempre que quieras.$"
 
 SafariZone_South_Text_GoodLuck:
 	.string "Good luck!\p"

@@ -502,16 +502,16 @@ BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent_hns:
 	.string "REFEREE: The winner is {STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored_hns:
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "Vamos a devolverle toda la salud a tu\n"
+	.string "equipo POKéMON.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent_hns:
 	.string "Next up, your second opponent!\n"
 	.string "Are you ready to move on?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent_hns:
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "¡Ahora, tu tercer rival!\n"
+	.string "¿Quieres continuar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent_hns:
 	.string "Next up, your fourth opponent!\n"
@@ -526,12 +526,12 @@ BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent_hns:
 	.string "Are you ready to move on?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "Next up, your seventh opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "¡Por último, tu séptimo rival!\n"
+	.string "¿Quieres continuar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown_hns:
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "¿Quieres guardar la partida\n"
+	.string "y dejar de jugar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge_hns:
 	.string "Would you like to retire from your\n"
@@ -556,8 +556,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon_hns:
 	.string "Are you prepared?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta_hns:
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
+	.string "JUEZ: ¡La MAESTRA del DOJO!\n"
+	.string "¡Dejad paso a CORO!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger_hns:
 	.string "GRETA: Hey!\n"
@@ -581,10 +581,10 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle_hns:
 	.string "for battle!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll_hns:
-	.string "GRETA: Ow, wait a second!\n"
-	.string "You are tough after all!\p"
-	.string "I like you!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "CORO: ¡Guau, qué sorpresa!\n"
+	.string "¡Eres fuerte y todo!\p"
+	.string "¡Me gustas!\n"
+	.string "Déjame ver tu PASE del FRENTE.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol_hns:
 	.string "The Guts Symbol was embossed on\n"

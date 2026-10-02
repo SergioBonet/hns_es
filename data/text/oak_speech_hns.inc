@@ -26,7 +26,7 @@ gText_Oak_MainSpeech::
 	.string "$"
 
 gText_Oak_AndYouAre::
-	.string "And you are?$"
+	.string "¿Tú quién eres?$"
 
 gText_Oak_BoyOrGirl::
 	.string "Are you a boy?\n"

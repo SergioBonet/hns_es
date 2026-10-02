@@ -54,8 +54,8 @@ FallarborTown_BattleTentLobby_Text_WhichLevelMode:
 	.string "Which is your choice?$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "Selecciona los tres POKéMON\n"
+	.string "con los que quieres combatir.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "My dear challenger!\p"
@@ -211,12 +211,13 @@ VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "three POKéMON.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+	.string "Antes de conducirte a la TIENDA\n"
+	.string "de BATALLA, debes guardar la partida.\l"
+	.string "¿Estás de acuerdo?$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.string "Bien.\n"
+	.string "Ahora, sígueme.$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "I feel privileged for having seen\n"
@@ -279,7 +280,8 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "you will be disqualified.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "Esperamos que vuelvas a visitarnos.\p"
+	.string "$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
@@ -296,7 +298,7 @@ SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Por aquí, por favor.$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Thank you for participating!\p"
@@ -329,9 +331,9 @@ SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 	.string "let me know.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "¡Te estábamos esperando!\p"
+	.string "Antes de continuar el desafío,\n"
+	.string "debo guardar la partida.$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "I'm sorry to say this, but you didn't\n"
@@ -357,11 +359,11 @@ SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "En los enfrentamientos de COMBATE\n"
+	.string "con TRUEQUE, sólo se usan tres POKéMON.\p"
+	.string "Al tomar prestados o trocar POKéMON,\n"
+	.string "hay que tener en cuenta que el equipo\l"
+	.string "no debe tener dos POKéMON iguales.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
 	.string "You may swap POKéMON only with\n"
@@ -460,11 +462,12 @@ VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
 	.string "in a pinch, watch it carefully.$"
 
 BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.string "En esta TIENDA de BATALLA, los niveles\n"
+	.string "de tus rivales se ajustarán para\l"
+	.string "igualarse a los de tus POKéMON.\p"
+	.string "Con todo, ningún ENTRENADOR\n"
+	.string "al que te enfrentes tendrá POKéMON\l"
+	.string "por debajo del nivel 30.$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "The VERDANTURF BATTLE TENT\n"

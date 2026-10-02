@@ -393,17 +393,16 @@ BattleFrontier_BattleArenaLobby_Text_ExplainChallenge_hns:
 	.string "we will present you with Battle Points.$"
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave_hns:
-	.string "Before showing you to the BATTLE\n"
-	.string "ARENA, you must save. Is that okay?$"
+	.string "Antes de entrar en el DOJO BATALLA,\n"
+	.string "debes guardar la partida. ¿De acuerdo?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode_hns:
-	.string "The BATTLE ARENA offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "En DOJO BATALLA hay dos categorías:\n"
+	.string "nivel 50 y nivel libre. ¿Cuál prefieres?$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons_hns:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "Selecciona los tres POKéMON\n"
+	.string "con los que quieres combatir.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "My dear challenger!\p"
@@ -490,9 +489,9 @@ BattleFrontier_BattleArenaLobby_Text_RecordLastMatch_hns:
 	.string "match on your FRONTIER PASS?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack_hns:
-	.string "I lost on the REFEREE's decision…\p"
-	.string "I don't think it was a good idea to only\n"
-	.string "use defensive moves and not attack…$"
+	.string "He perdido por decisión del JUEZ…\p"
+	.string "Creo que hice mal en usar tantos\n"
+	.string "movimientos defensivos y no atacar…$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked_hns:
 	.string "I won in judging!\p"

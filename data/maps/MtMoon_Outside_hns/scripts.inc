@@ -140,8 +140,7 @@ MtMoon_Outside_EventScript_JirachiRan::
 
 
 MtMoon_Outside_Text_DontLitterSign:
-	.string "MT.MOON SQUARE\n"
-	.string "DON'T LITTER$"
+	.string "PLAZA MT. MOON No tirar basura$"
 
 MtMoon_Outside_Text_Jirachi:
     .string "JIRACHI: Chi!$"

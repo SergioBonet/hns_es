@@ -76,21 +76,21 @@ PokemonLeague_BrunosRoom_Text_RematchBefore:
     .string "Hoo hah!$"
 
 PokemonLeague_BrunosRoom_Text_Before:
-    .string "I am BRUNO of the ELITE FOUR.\p"
-    .string "I always train to the extreme be-\n"
-    .string "cause I believe in our potential.\p"
-    .string "That is how we became strong.\p"
-    .string "Can you withstand our power?\p"
-    .string "Hm? I see no fear in you. You look\n"
-    .string "determined. Perfect for battle!\p"
-    .string "Ready, {PLAYER}? You will bow down\n"
-    .string "to our overwhelming power!\p"
-    .string "Hoo hah!$"
+	.string "Soy BRUNO, del ALTO MANDO.\p"
+	.string "Me entreno siempre al máximo porque\n"
+	.string "confío en nuestro potencial.\p"
+	.string "Por eso somos tan fuertes.\p"
+	.string "¿Resistirás nuestro poder?\p"
+	.string "¿Mmm? No veo que tengas miedo.\p"
+	.string "Pareces audaz. ¡Perfecto!\p"
+	.string "¿Vamos, {PLAYER}? ¡Te doblegarás ante\n"
+	.string "nuestro inmenso poder!\p"
+	.string "¡Ja, ja!$"
 
 PokemonLeague_BrunosRoom_Text_Beaten:
-    .string "Why? How could we lose?$"
+	.string "¿Qué? ¿Cómo hemos podido perder?$"
 
 PokemonLeague_BrunosRoom_Text_Defeat:
-    .string "Having lost, I have no right to\n"
-    .string "say anything…\p"
-    .string "Go face your next challenge!$"
+	.string "Como he perdido, no tengo derecho a\n"
+	.string "decir nada…\p"
+	.string "¡Enfréntate al siguiente desafío!$"

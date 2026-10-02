@@ -118,18 +118,16 @@ Route24_Movement_GruntLeave:
 	step_end
 
 Route24_Text_RocketSeen:
-	.string "Hey, kid! Me am a TEAM ROCKET\n"
-	.string "member kind of guy!\p"
-	.string "Come from another country, a\n"
-	.string "trainer number one, me!\p"
-	.string "Think I did, if stop the energy,\n"
-	.string "be big panic for here people!\p"
-	.string "Secret it is my mission, so tell\n"
-	.string "you I not!\p"
-	.string "But! If win you do versus me, a\n"
-	.string "man I be and mine secret to you\l"
-	.string "I tell.\p"
-	.string "Hey, kid! Battle begin we do!$"
+	.string "¡Eh, tú! ¡Un miembro del TEAM ROCKET\n"
+	.string "ser yo!\p"
+	.string "Ser de otro país. Entrenador número\n"
+	.string "uno, ¡yo ése!\p"
+	.string "Pensar hice. Si cortar energía, ¡mucho\n"
+	.string "pánico aquí todos!\p"
+	.string "Misión secreta es, ¡no contar a ti!\p"
+	.string "Pero, si ganar a mí, un hombre soy y\n"
+	.string "secreto mío a ti contar.\p"
+	.string "¡Eh, tú! ¡Lucha empezar!$"
 
 Route24_Text_RocketBeaten:
 	.string "Ayieeeh! No, no, no, believe it\n"

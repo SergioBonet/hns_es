@@ -52,58 +52,54 @@ BattleFrontier_Lounge5_Text_NatureGirlNoneShown_hns::
 	.string "Cheapie!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta combatir!\n"
+	.string "¡Aunque le hagan pupa!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta combatir!\n"
+	.string "¡Pero que se preocupa si le hacen pupa!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta combatir!\n"
+	.string "¡Pero que, si le hacen mucha\l"
+	.string "pupa, se lo pensará dos veces!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Mmm…\p"
+	.string "¡Dice que se cuida mucho!\n"
+	.string "¡Y que, si le hacen pupa, no se anda\l"
+	.string "con pamplinas!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself whether\l"
-	.string "or not it has a lot of ouchies!$"
+	.string "Mmm…\p"
+	.string "¡Dice que se cuida mucho!\n"
+	.string "Que se preocupa si le hacen pupa,\l"
+	.string "¡y aunque no se la hagan!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Mmm…\p"
+	.string "¡Dice que se cuida mucho!\n"
+	.string "¡Pero que, si le hacen mucha\l"
+	.string "pupa, se lo pensará dos veces!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta reservarse!\n"
+	.string "¡Y que, si le hacen pupa, no se anda\l"
+	.string "con pamplinas!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta reservarse!\n"
+	.string "¡Pero que se preocupa si le hacen pupa!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Mmm…\p"
+	.string "¡Dice que le gusta reservarse! ¡Le\n"
+	.string "gusta reservarse aunque le hagan pupa!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg_hns::
 	.string "That's silly! An EGG is asleep!\n"

@@ -55,12 +55,11 @@ OlivineCity_EventScript_SailorB::
 	end
 
 OlivineCity_Text_CafeSailorStrength:
-	.string "Hah! Your POKéMON sure look like\n"
-	.string "lightweights!\p"
-	.string "They don't have the power to\n"
-	.string "move boulders aside.\p"
-	.string "Here, use this and teach them\n"
-	.string "STRENGTH!$"
+	.string "¡Ja! ¡Tus POKéMON parecen ser muy\n"
+	.string "enclenques!\p"
+	.string "No tienen el poder para desplazar\n"
+	.string "rocas.\p"
+	.string "Mira, ¡usa esto y enséñales FUERZA!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
 	.string "On the sea, the only thing you\n"
@@ -74,8 +73,8 @@ OlivineCity_Text_CafeFishingGuru:
 	.string "SAILORS like me!$"
 
 OlivineCity_Text_CafeSailor:
-	.string "Whenever I roll into this town,\n"
-	.string "I always visit the OLIVINE CAFE.\p"
-	.string "Everything on the menu makes me\n"
-	.string "feel stronger. I can't stop eating!$"
+	.string "Cuando estoy de paso, siempre visito\n"
+	.string "el CAFÉ OLIVO.\p"
+	.string "Todo lo del menú me hace sentir más\n"
+	.string "fuerte. ¡No puedo parar de comer!$"
 

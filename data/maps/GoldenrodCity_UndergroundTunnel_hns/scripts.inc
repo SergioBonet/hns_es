@@ -120,8 +120,9 @@ GoldenrodCity_UndergroundTunnel_Text_Kimono1:
 	.string "legendary POKé...$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
-	.string "Hahaha! Never mind.\n"
-	.string "I must go now.$"
+	.string "Oh, no he dicho nada.\p"
+	.string "Con vuestro permiso, me retiro.\p"
+	.string "$"
 
 GoldenrodUnderground_EventScript_Eric::
 	trainerbattle_single TRAINER_ERIC_HNS, GoldenrodUnderground_Text_SupernerdEricSeen, GoldenrodUnderground_Text_SupernerdEricBeaten
@@ -329,19 +330,19 @@ GoldenrodUnderground_Text_YoungerBrotherOffer:
     .string "So? How about it?$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
-    .string "OK, which POKéMON should I do?$"
+	.string "¿A qué POKéMON le corto el pelo?$"
 
 GoldenrodUnderground_Text_YoungerBrotherLookCool:
-    .string "OK! I'll make it look cool!$"
+	.string "¡Vale! Ya verás lo bien que queda.$"
 
 GoldenrodUnderground_Text_YoungerBrotherAllDone:
-    .string "There we go! All done!$"
+	.string "¡Muy bien! ¡Ya está!$"
 
 GoldenrodUnderground_Text_YoungerBrotherDisappointed:
-    .string "No? How disappointing!$"
+	.string "¿De verdad? Es una pena.$"
 
 GoldenrodUnderground_Text_YoungerBrotherShortOnFunds:
-    .string "You're a little short on funds.$"
+	.string "Necesitarás más dinero.$"
 
 GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
     .string "I can do only one haircut a day.\p"
@@ -350,76 +351,77 @@ GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
 
 
 GoldenrodUnderground_Text_OlderBrotherOffer:
-    .string "Welcome!\p"
-    .string "I run the POKéMON SALON!\p"
-    .string "I'm the older and better of the two\n"
-    .string "HAIRCUT BROTHERS.\p"
-    .string "I can make your POKéMON beautiful\n"
-    .string "for just ¥500.\p"
-    .string "Would you like me to do that?$"
+	.string "¡Hola! ¡Yo dirijo la PELUQUERÍA\n"
+	.string "POKéMON!\p"
+	.string "Soy el mayor y el mejor de los dos\n"
+	.string "HERMANOS PELUQUEROS.\p"
+	.string "Puedo poner guapos a tus POKéMON por\n"
+	.string "sólo 500¥.\p"
+	.string "¿Quieres que les corte el pelo?$"
 
 GoldenrodUnderground_Text_OlderBrotherAskWhich:
-    .string "Which POKéMON should I work on?$"
+	.string "¿A qué POKéMON le corto el pelo?$"
 
 GoldenrodUnderground_Text_OlderBrotherWatchItBeautiful:
-    .string "OK! Watch it become beautiful!$"
+	.string "¡Vale! ¡Verás lo bien que queda!$"
 
 GoldenrodUnderground_Text_OlderBrotherAllDone:
-    .string "There! All done!$"
+	.string "¡Bien! ¡Ya está!$"
 
 GoldenrodUnderground_Text_OlderBrotherThatsAShame:
-    .string "Is that right? That's a shame!$"
+	.string "¿De verdad? ¡Qué pena!$"
 
 GoldenrodUnderground_Text_OlderBrotherNeedMoreMoney:
-    .string "You'll need more money than that.$"
+	.string "Necesitarás más dinero.$"
 
 GoldenrodUnderground_Text_OlderBrotherOnePerDay:
     .string "I do only one haircut a day.\n"
     .string "I'm done for today.$"
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
-    .string "I got booted out of the GAME CORNER.\p"
-    .string "I was trying to cheat using my\n"
-    .string "POKéMON…$"
+	.string "Me echaron del CASINO.\p"
+	.string "Intentaba hacer trampas usando mis\n"
+	.string "POKéMON…$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
     .string "…Grumble…$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
-    .string "I guess I have to do things fair and\n"
-    .string "square…$"
+	.string "Supongo que debería actuar\n"
+	.string "honradamente…$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
-    .string "Do you consider type alignments in\n"
-    .string "battle?\p"
-    .string "If you know your type advantages,\n"
-    .string "you'll do better in battle.$"
+	.string "¿Tienes en cuenta los tipos durante\n"
+	.string "el combate?\p"
+	.string "Si conoces bien los distintos tipos,\n"
+	.string "rendirás más en combate.$"
 
 GoldenrodUnderground_Text_SupernerdTeruBeaten:
-    .string "Ow, ow, ow!$"
+	.string "¡Oh, oh, oh!$"
 
 GoldenrodUnderground_Text_SupernerdTeruAfterBattle:
-    .string "I know my POKéMON type alignments.\p"
-    .string "But I only use one type of POKéMON.$"
+	.string "Conozco mis tipos de POKéMON.\p"
+	.string "Pero sólo uso un tipo de POKéMON.$"
 
 GoldenrodUnderground_Text_PokemaniacIssacSeen:
-    .string "My POKéMON just got a haircut!\p"
-    .string "I'll show you how strong it is!$"
+	.string "¡Les corté el pelo a mis POKéMON!\n"
+	.string "¡Ahora verás lo fuertes que son!\p"
+	.string "$"
 
 GoldenrodUnderground_Text_PokemaniacIssacBeaten:
-    .string "Aiyeeee!$"
+	.string "¡Ayyyy!$"
 
 GoldenrodUnderground_Text_PokemaniacIssacAfterBattle:
-    .string "Your POKéMON will like you more if\n"
-    .string "you give them haircuts.$"
+	.string "Los POKéMON serán más amigos tuyos si\n"
+	.string "los llevas a cortarse el pelo.$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldSeen:
-    .string "I think you have some rare POKéMON\n"
-    .string "with you.\p"
-    .string "Let me see them!$"
+	.string "Creo que tienes algunos POKéMON muy\n"
+	.string "raros.\p"
+	.string "¡Déjame verlos!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
-    .string "Gaah! I lost! That makes me mad!$"
+	.string "¡Bah! ¡He perdido! ¡Qué rabia me da!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "When I was walking near the BIKE\n"
@@ -427,21 +429,21 @@ GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "being watched from the rooftops...$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
-    .string "Are you making a POKéDEX? Here's a\n"
-    .string "hot tip.\p"
-    .string "The HIKER on ROUTE 33, ANTHONY, is a\n"
-    .string "good guy.\p"
-    .string "He'll phone you if he sees any rare\n"
-    .string "POKéMON.$"
+	.string "¿Tienes una POKéDEX? Pues te daré\n"
+	.string "una pista.\p"
+	.string "El MONTAÑERO de la RUTA 33, LUIS, es un\n"
+	.string "buen chico.\p"
+	.string "Te telefoneará si ve algún POKéMON\n"
+	.string "raro.$"
 
 GoldenrodUnderground_Text_DoorsLocked:
-    .string "The door's locked…$"
+	.string "Puerta cerrada…$"
 
 GoldenrodUnderground_Text_DoorIsOpen:
-    .string "The door is open.$"
+	.string "Puerta abierta.$"
 
 GoldenrodUnderground_Text_KeyOpenedDoor:
-    .string "The BASEMENT KEY opened the door.$"
+	.string "Puerta abierta con LLAVE del SÓTANO.$"
 
 GoldenrodUnderground_Text_NoEntry:
-    .string "NO ENTRY BEYOND THIS POINT$"
+	.string "PROHIBIDO PASAR DE ESTE PUNTO$"

@@ -30,13 +30,12 @@ Route6_EventScript_Item_Silver_Wind::
     end
 
 Route6_Text_PokefanM:
-	.string "The road is closed until the\n"
-	.string "problem at the POWER PLANT is\l"
-	.string "solved.$"
+	.string "La carretera está cortada hasta que\n"
+	.string "arreglen la CENTRAL ENERGÍA.$"
 
 Route6_Text_UndergroundPathSign:
-	.string "UNDERGROUND PATH\p"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "VÍA SUBTERRÁNEA\p"
+	.string "CIUDAD CELESTE - CIUDAD CARMÍN$"
 
 PokefanM_Text_RexSeen:
 	.string "My STANTLER is the cutest in the\n"

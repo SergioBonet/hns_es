@@ -28,4 +28,4 @@ Route34IlexForestGate_Text_Lass:
 	.string "GRASS-type POKéMON.$"
 
 Route34IlexForestGate_Text_Butterfree:
-	.string "BUTTERFREE: Freeh!$"
+	.string "BUTTERFREE: ¡Free!$"

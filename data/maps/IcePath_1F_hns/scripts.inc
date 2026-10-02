@@ -121,5 +121,6 @@ IcePath_1F_Text_Cruel:
     .string "You will push my back, won't you?$"
 
 IcePath_1F_Text_Thanks:
-    .string "You really are kind.\n"
-    .string "Thank you so much!$"
+	.string "Sois una persona muy cortés.\p"
+	.string "¡Muchísimas gracias!\p"
+	.string "$"

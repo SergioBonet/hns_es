@@ -361,7 +361,7 @@ Route25_BillsHouse_hns_Text_Linoone:
 	.string "LINOONE$"
 
 Route25_BillsHouse_hns_Text_Cancel:
-	.string "CANCEL$"
+	.string "SALIR$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
 	.string "POKéMON NOT DETECTED.$"
@@ -585,29 +585,25 @@ Route25_BillsHouse_Text_TeleporterUnlocked:
 	.string "Just use that computer over there.$"
 
 Route25_BillsHouse_Text_AskToSeeMon:
-	.string "If you have that POKéMON, may I\n"
-	.string "see it, please?$"
+	.string "Si tienes ese POKéMON, ¿me dejas\n"
+	.string "verlo?$"
 
 Route25_BillsHouse_Text_ExcitedToSee:
-	.string "You will show me? How good of\n"
-	.string "you!$"
+	.string "¿Me lo dejas ver? ¡Qué amable eres!$"
 
 Route25_BillsHouse_Text_YouDontHaveIt:
-	.string "You don't have it?\n"
-	.string "That's too bad…$"
+	.string "¿No lo tienes? ¡Qué pena…!$"
 
 Route25_BillsHouse_Text_ShownPokemon:
-	.string "Ah, so that is {STR_VAR_1}?\p"
-	.string "Isn't it cute! That's so kind\n"
-	.string "of you.$"
+	.string "¡Ah! ¿es ése {STR_VAR_1}?\p"
+	.string "¡Qué mono! Eres muy amable.$"
 
 Route25_BillsHouse_Text_Appreciation:
-	.string "Thanks!\p"
-	.string "This is a token of my\n"
-	.string "appreciation.$"
+	.string "¡Gracias!\p"
+	.string "Toma esto como agradecimiento.$"
 
 Route25_BillsHouse_Text_ComeAgain:
-	.string "Come visit again sometime.$"
+	.string "Vuelve cuando quieras.$"
 
 Route25_BillsHouse_Text_ShownAll:
 	.string "Thanks for showing me so many\n"
@@ -618,8 +614,8 @@ Route25_BillsHouse_Text_ShownAll:
 	.string "whenever you like.$"
 
 Route25_BillsHouse_Text_WrongPokemon:
-	.string "Hm?\p"
-	.string "That's not the POKéMON that I\n"
-	.string "was told about.$"
+	.string "¿Mmm?\p"
+	.string "Ése no es el POKéMON del que me\n"
+	.string "hablaron.$"
 
 

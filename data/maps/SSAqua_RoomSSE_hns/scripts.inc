@@ -89,12 +89,10 @@ SSAqua_RoomSSE_Text_EntertainedGranddaughter:
     .string "I want to thank you for that.$"
 
 SSAqua_RoomSSE_Text_GrandpaHaveThis:
-    .string "I know! I'd like you\n"
-    .string "to have this!$"
+	.string "¡Me gustaría que tuvieras esto!$"
 
 SSAqua_RoomSSE_Text_GrandpaTravelling:
-    .string "We're traveling around\n"
-    .string "the world.$"
+	.string "Estamos viajando por todo el mundo.$"
 
 SSAqua_RoomSSE_Text_GranddaughterWasPlaying:
     .string "Grandpa, here I am!\n"
@@ -102,4 +100,4 @@ SSAqua_RoomSSE_Text_GranddaughterWasPlaying:
     .string "the CAPTAIN and this person!$"
 
 SSAqua_RoomSSE_Text_GranddaughterHadFun:
-    .string "I had lots of fun playing!$"
+	.string "¡Me he divertido mucho jugando!$"

@@ -1272,20 +1272,19 @@ CableClub_Text_CloseThisMenu_Frlg::
 	.string "おわります$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle_Frlg::
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Para un combate doble debes tener al\n"
+	.string "menos dos POKéMON.$"
 
 CableClub_Text_NeedTwoMonsToTrade_Frlg::
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "Para realizar el intercambio debes\n"
+	.string "llevar al menos dos POKéMON contigo.$"
 
 CableClub_Text_CantTradeEnigmaBerry_Frlg::
 	.string "A POKéMON holding the {STR_VAR_1}\n"
 	.string "BERRY can't be traded.$"
 
 CableClub_Text_PleaseWaitBCancel_Frlg::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Por favor, espera. Botón B: cancelar$"
 
 CableClub_Text_WhenAllPlayersReadyAConfirmBCancel_Frlg::
 	.string "When all players are ready…\n"
@@ -1326,7 +1325,7 @@ CableClub_Text_PlayersMadeDifferentSelections_Frlg::
 	.string "made different selections.$"
 
 CableClub_Text_PleaseVisitAgain_Frlg::
-	.string "Please do visit again.$"
+	.string "Por favor, vuelve pronto.$"
 
 CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 	.string "The number of participants is\n"
@@ -1399,8 +1398,8 @@ CableClub_Text_OtherTrainerNotReady_Frlg::
 	.string "The other TRAINER is not ready.$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken_Frlg::
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+	.string "Tienes al menos un POKéMON que no se\n"
+	.string "puede seleccionar.$"
 
 CableClub_Text_AdapterNotConnected_Frlg::
 	.string "The Wireless Adapter is not\n"
@@ -1633,8 +1632,9 @@ CableClub_Text_UnionRoomInfo_Frlg::
 	.string "Would you like to enter the ROOM?$"
 
 CableClub_Text_EnjoyUnionRoom_Frlg::
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "Espero que disfrutes de esta visita a\n"
+	.string "la Sala Unión.\p"
+	.string "$"
 
 CableClub_Text_FirstTimeRightThisWay_Frlg::
 	.string "Hello!\n"

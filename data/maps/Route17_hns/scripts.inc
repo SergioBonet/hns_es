@@ -97,44 +97,45 @@ Route17_EventScript_RematchCharlesTryGiveItem::
 	end
 
 Route17_Text_BikerRileySeen:
-	.string "Hey, you! You're from JOHTO, huh?$"
+	.string "¡Eh, tú! Eres de JOHTO, ¿verdad?$"
 
 Route17_Text_BikerRileyBeaten:
-	.string "Whoa, you kick!$"
+	.string "¡Venga, golpea!$"
 
 Route17_Text_BikerRileyAfterBattle:
-	.string "Don't get cocky, you JOHTO punk!$"
+	.string "¡No te pases, que esto no es JOHTO!$"
 
 Route17_Text_BikerJoelSeen:
-	.string "Wow. That's a cool BICYCLE!$"
+	.string "¡Uau! ¡Qué BICI más guay!$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "But you don't just look cool…$"
+	.string "Pero tú no pareces guay…$"
 
 Route17_Text_BikerJoelAfterBattle:
-	.string "I look cool, but I'm weak, so I'm\n"
-	.string "not really cool.\p"
-	.string "I have to train harder…$"
+	.string "Soy guay, pero estoy débil. Por eso no\n"
+	.string "lo parezco.\p"
+	.string "Debería entrenar mucho más…$"
 
 Route17_Text_BikerGlennSeen:
-	.string "Hey! Want to have a speed battle?$"
+	.string "¡Eh! ¿Un combate rapidito?$"
 
 Route17_Text_BikerGlennBeaten:
-	.string "Yikes! You've got awesome torque!$"
+	.string "¡Vaya! ¡Qué vitalidad!$"
 
 Route17_Text_BikerGlennAfterBattle:
-	.string "Hands-free riding is considered\n"
-	.string "cool on CYCLING ROAD.$"
+	.string "Montar sin manos en el CAMINO de\n"
+	.string "BICIS es muy guay.$"
 
 Route17_Text_BikerCharlesSeen:
-	.string "We're fearless highway stars!$"
+	.string "¡Somos estrellas de la carretera!\p"
+	.string "$"
 
 Route17_Text_BikerCharlesBeaten:
-	.string "Arrrgh! Crash and burn!$"
+	.string "¡Arrrg! ¡Chocar y arder!$"
 
 Route17_Text_BikerCharlesAfterBattle:
-	.string "Reckless driving causes accidents!\n"
-	.string "Take it easy!$"
+	.string "¡Conducir de forma imprudente causa\n"
+	.string "accidentes! ¡Ten cuidado!$"
 
 Route17_Text_RileyRegister:
 	.string "Not bad for a JOHTO kid!$"

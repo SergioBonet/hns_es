@@ -445,11 +445,11 @@ BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle_hns:
 	.string "Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_TakeSinglesChallenge_hns:
-	.string "Would you like to challenge\n"
-	.string "the SINGLE BATTLE Tournament?$"
+	.string "¿Deseas enfrentarte al desafío de\n"
+	.string "un TORNEO de COMBATES INDIVIDUALES?$"
 
 BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain_hns:
-	.string "We hope to see you again.$"
+	.string "Siempre a su servicio.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge_hns:
 	.string "The SINGLE BATTLE Tournament\n"
@@ -473,17 +473,16 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge_hns:
 	.string "you will be disqualified.$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge_hns:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Antes de llevarte a la CÚPULA BATALLA,\n"
+	.string "debo guardar tu partida. ¿De acuerdo?$"
 
 BattleFrontier_BattleDomeLobby_Text_WhichLevelMode_hns:
-	.string "The tournament offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "El torneo se disputa en dos niveles:\n"
+	.string "el nivel 50 y el nivel libre. ¿Cuál eliges?$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons_hns:
-	.string "Now select the three POKéMON that\n"
-	.string "you wish to enter, please.$"
+	.string "Selecciona los tres POKéMON\n"
+	.string "con los que quieres combatir.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "Excuse me!\p"
@@ -493,7 +492,9 @@ BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "EGGS{STR_VAR_1}.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsEnd_hns:
-	.string "Please come see me when you are ready.$"
+	.string "Vuelve cuando tengas todo lo\n"
+	.string "necesario.\p"
+	.string "$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "Excuse me!\p"
@@ -536,18 +537,18 @@ BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom_hns:
 	.string "see me.$"
 
 BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying_hns:
-	.string "Thank you for playing!$"
+	.string "¡Gracias por participar!\p"
+	.string "$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved_hns:
-	.string "Your record will be saved.\n"
-	.string "Please wait.$"
+	.string "Se va a guardar tu récord. Espera…$"
 
 BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou_hns:
 	.string "We've been waiting for you!$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge_hns2_hns:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Antes de llevarte a la CÚPULA BATALLA,\n"
+	.string "debo guardar tu partida. ¿De acuerdo?$"
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle_hns:
 	.string "Where the strategies of TRAINERS\n"
@@ -586,8 +587,8 @@ BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50_hns:
 	.string "Level 50 SINGLE BATTLE Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50_hns:
-	.string "They're the results of the last\n"
-	.string "Level 50 DOUBLE BATTLE Tournament.$"
+	.string "Son los resultados del último TORNEO\n"
+	.string "de COMBATES DOBLES de nivel 50.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen_hns:
 	.string "They're the results of the last\n"
@@ -611,8 +612,8 @@ BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier_hns:
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_BattleDomeSign2_hns:
-	.string "The BATTLE DOME\n"
-	.string "Become the Unbeatable Superstar!$"
+	.string "CÚPULA BATALLA\n"
+	.string "¡Conviértete en el rival a batir!$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction_hns:
@@ -620,13 +621,14 @@ BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction_hns:
 	.string "Under Construction!$"
 
 BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation_hns:
-	.string "When a TRAINER chains tournament\n"
-	.string "wins at the BATTLE DOME, he or she\l"
-	.string "gains a reputation as a star.\p"
-	.string "Tough TRAINERS are drawn by that\n"
-	.string "reputation to the BATTLE DOME.\p"
-	.string "A true superstar is a TRAINER who\n"
-	.string "can keep winning tournaments.$"
+	.string "Cuando un ENTRENADOR logra varias\n"
+	.string "victorias seguidas en los torneos\l"
+	.string "de la CÚPULA BATALLA, pronto se corre\l"
+	.string "la voz y se convierte en una estrella.\p"
+	.string "La reputación de la CÚPULA BATALLA\n"
+	.string "atrae a los mejores ENTRENADORES.\p"
+	.string "Las auténticas superestrellas son las\n"
+	.string "que consiguen seguir ganando torneos.$"
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound_hns:
 	.string "I ran into one of the tournament\n"

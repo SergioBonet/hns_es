@@ -694,13 +694,13 @@ SecretBase_Text_RegistrationCompleted:
 	.string "Registration completed.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Se han eliminado los datos.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} encendió el PC.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
-	.string "What would you like to do?$"
+	.string "¿Qué quieres hacer?$"
 
 SecretBase_Text_RegistryInfo:
 	.string "Once registered, a SECRET BASE will not\n"

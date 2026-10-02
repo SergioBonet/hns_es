@@ -70,61 +70,58 @@ BillHouse_Text_TakeThisEevee:
     .string "{PLAYER}?$"
 
 BillHouse_Text_CountingOnYou:
-    .string "BILL: I knew you'd come through!\p"
-    .string "Way to go! You're the real deal!\p"
-    .string "OK, I'm counting on you.\p"
-    .string "Take good care of it!$"
+	.string "BILL: ¡Sabía que aceptarías!\p"
+	.string "¡Vamos! ¡Tú sí que vales!\p"
+	.string "Bueno, cuento contigo.\p"
+	.string "¡Cuídalo bien!$"
 
 BillHouse_Text_ReceivedEevee:
-    .string "{PLAYER} received EEVEE!$"
+	.string "¡{PLAYER} recibió a EEVEE!$"
 
 BillHouse_Text_EeveeMayEvolve:
-    .string "BILL: PROF.ELM claims EEVEE may\n"
-    .string "evolve in new and unknown ways.$"
+	.string "BILL: ELM dice que EEVEE evoluciona\n"
+	.string "en formas nuevas y desconocidas.$"
 
 BillHouse_Text_PartyFull:
-    .string "Whoa, wait. You can't carry any\n"
-    .string "more POKéMON.$"
+	.string "No, espera. No puedes llevar más\n"
+	.string "POKéMON.$"
 
 BillHouse_Text_NoEevee:
-    .string "Oh… Now what to do?$"
+	.string "¡Oh…! ¿Qué podemos hacer ahora?$"
 
 BillHouse_Text_PopWontWork:
-    .string "BILL: My pop, he won't work. All he\n"
-    .string "does is goof off all day long.\p"
-    .string "He's getting to be a real headache…$"
+	.string "BILL: Mi padre no trabaja. Lo único que\n"
+	.string "hace es holgazanear.\p"
+	.string "Es que no da ni golpe…$"
 
 BillHouse_Text_MomBeforeEcruteak:
-    .string "Oh, you collect POKéMON? My son\n"
-    .string "BILL is an expert.\p"
-    .string "He just got called to the POKéMON\n"
-    .string "CENTER in ECRUTEAK CITY.\p"
-    .string "My husband went off to the GAME\n"
-    .string "CORNER without being called…$"
+	.string "Anda, ¿coleccionas POKéMON? Mi hijo\p"
+	.string "BILL es todo un experto.\p"
+	.string "Le han llamado del CENTRO POKéMON de\n"
+	.string "CIUDAD IRIS.\p"
+	.string "Mi marido fue al CASINO sin que le\n"
+	.string "llamara nadie…$"
 
 BillHouse_Text_MomAfterEcruteak:
-    .string "My husband was once known as a\n"
-    .string "POKéMANIAC.\p"
-    .string "BILL must have taken after his\n"
-    .string "father.$"
+	.string "Mi marido era conocido como un\p"
+	.string "POKéMANÍACO. BILL ha debido de seguir\n"
+	.string "los pasos de su padre.$"
 
 BillHouse_Text_SisterUsefulNumber:
-    .string "Are you a TRAINER?\p"
-    .string "I've got a useful phone number\n"
-    .string "for you.$"
+	.string "¿Entrenas POKéMON? Tengo un número\n"
+	.string "de teléfono que te será útil.$"
 
 BillHouse_Text_RecordedBillsNumber:
-    .string "{PLAYER} recorded BILL's number.$"
+	.string "{PLAYER} grabó el n.º de BILL.$"
 
 BillHouse_Text_SisterRefusedNumber:
-    .string "My brother made the PC POKéMON\n"
-    .string "storage system.\p"
-    .string "I was going to give you BILL's\n"
-    .string "number…$"
+	.string "Mi hermano creó el Sistema de\p"
+	.string "Almacenamiento de POKéMON del PC.\p"
+	.string "Te iba a dar el teléfono de BILL…$"
 
 BillHouse_Text_SisterPhoneFull:
-    .string "You can't record any more numbers.$"
+	.string "No puedes grabar ningún número más.$"
 
 BillHouse_Text_SisterStorageSystem:
-    .string "My big brother BILL made the PC\n"
-    .string "POKéMON storage system.$"
+	.string "Mi hermano BILL creó el Sistema de\p"
+	.string "Almacenamiento de los POKéMON.$"

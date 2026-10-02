@@ -37,15 +37,14 @@ MtMortar_2F_EventScript_Nerd::
 	end
 
 MtMortar_2F_Text_SupernerdHughSeen::
-	.string "Yo! MARKUS!$"
+	.string "¡Eh! ¡MARC!$"
 
 MtMortar_2F_Text_SupernerdHughBeaten:
 	.string "Sorry, my mistake.\n"
 	.string "I misjudged you.$"
 
 MtMortar_2F_Text_SupernerdHughAfter:
-	.string "I'm investigating MT.MORTAR,\n"
-	.string "but my pal's gone AWOL.\p"
-	.string "Have you seen a trainer who\n"
-	.string "has a SLOWPOKE that can use\l"
-	.string "STRENGTH?$"
+	.string "Estoy investigando MT. MORTERO, pero\n"
+	.string "mi compañero ha desaparecido.\p"
+	.string "¿Has visto a un entrenador que tiene\n"
+	.string "un SLOWPOKE que puede usar FUERZA?$"

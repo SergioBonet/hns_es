@@ -158,8 +158,8 @@ Route29_EventScript_ItemPotion::
 	end
 
 Route29_Text_OldMan1:
-	.string "POKéMON hide in the grass.\n"
-	.string "Who knows when they'll pop out…$"
+	.string "Los POKéMON se esconden en la hierba.\n"
+	.string "Nadie sabe cuándo salen…$"
 
 Route29_Text_OldMan2:
 	.string "I've seen you a couple times.\n"
@@ -189,9 +189,9 @@ Route29_Text_OldManDeclined:
 	.string "POKéMON.$"
 
 Route29_Text_Youngster:
-	.string "Yo. How are your POKéMON?\p"
-	.string "If they're weak and not ready\n"
-	.string "for battle, keep out of the grass.$"
+	.string "¿Cómo están tus POKéMON?\p"
+	.string "Si están débiles y no pueden luchar,\n"
+	.string "no entres en la hierba.$"
 
 Route29_Text_Lass:
 	.string "See those ledges?\n"
@@ -200,16 +200,16 @@ Route29_Text_Lass:
 	.string "without walking through the grass.$"
 
 Route29_Text_Girl:
-	.string "I wanted to take a break,\n"
-	.string "so I saved to record my progress.$"
+	.string "Quería descansar un poco, así que\n"
+	.string "guardé la partida.$"
 
 Route29_Text_Boy_WaitingForDay:
 	.string "I'm waiting for POKéMON that\n"
 	.string "appear only later in the day.$"
 
 Route29_Text_Boy_WaitingForNight:
-	.string "I'm waiting for POKéMON that\n"
-	.string "appear only at night.$"
+	.string "Estoy esperando los POKéMON que\n"
+	.string "aparecen solo por la noche.$"
 
 Route29_Text_MeetTuscany:
 	.string "TUSCANY: I do believe that this\n"
@@ -241,6 +241,6 @@ Route29_Text_TuscanyTuesday:
 	.string "children.$"
 
 Route29_Text_Sign1:
-	.string "ROUTE 29\p"
-	.string "CHERRYGROVE CITY - NEW BARK TOWN$"
+	.string "RUTA 29\p"
+	.string "CIUDAD CEREZO - PUEBLO PRIMAVERA$"
 

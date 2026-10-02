@@ -14,5 +14,5 @@ RedsHouse_Text_NES:
 	.string "Better get going--no time to lose!$"
 
 RedsHouse_Text_PC:
-	.string "It looks like it hasn't been used\n"
-	.string "in a long time…$"
+	.string "Parece que nadie lo ha usado en mucho\n"
+	.string "tiempo…$"

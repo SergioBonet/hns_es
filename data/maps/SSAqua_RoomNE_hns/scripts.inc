@@ -12,22 +12,21 @@ SSAqua_RoomNE_EventScript_Ethan::
 	end
 
 SSAqua_RoomNE_Text_HikerNolandSeen:
-    .string "Are you alone?\n"
-    .string "Then let's battle!$"
+	.string "¿Estás aquí? ¡Pues luchemos!$"
 
 SSAqua_RoomNE_Text_HikerNolandBeaten:
-    .string "That's too much to handle!$"
+	.string "¡Es demasiado!$"
 
 SSAqua_RoomNE_Text_HikerNolandAfterBattle:
-    .string "I wonder if there are any\n"
-    .string "mountains worth climbing in KANTO?$"
+	.string "Me pregunto si en KANTO habrá\n"
+	.string "montañas que valga la pena escalar.$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanSeen:
-    .string "Do you know LILY?\n"
-    .string "She's a hot DJ in KANTO.$"
+	.string "¿Conoces a LILA? Es una DJ muy buena\n"
+	.string "de KANTO.$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanBeaten:
-    .string "Gyaaaah!$"
+	.string "¡Yaaaa!$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanAfterBattle:
     .string "LILY's nice, but\n"

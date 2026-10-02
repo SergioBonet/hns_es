@@ -75,10 +75,10 @@ Gate_Route43_Rocket_Text_TollFee:
     .string "through.$"
 
 Gate_Route43_Rocket_Text_ThankYou:
-    .string "Thank you very much!$"
+	.string "¡Gracias, joven!$"
 
 Gate_Route43_Rocket_Text_AllYouGot:
-    .string "Then pay what you have, please.$"
+	.string "Entonces paga lo que tengas.$"
 
 Gate_Route43_Rocket_Text_KickOut:
 	.string "Wow!\p"
@@ -89,20 +89,19 @@ Gate_Route43_Rocket_Text_KickOut:
 	.string "okay?$"
 
 Gate_Route43_Rocket_Text_MakingABundle:
-    .string "He-he-he. We're making a bundle.\p"
-    .string "Everyone wants to see what's going\n"
-    .string "on up at LAKE OF RAGE.$"
+	.string "¡Je, je! Nos estamos forrando.\p"
+	.string "Todo el mundo quiere ver lo que ocurre\n"
+	.string "en el LAGO DE LA FURIA.$"
 
 Route43Gate_Text_OfficerFoundTM:
-    .string "I got chased from my post by these\n"
-    .string "thugs in black.\p"
-    .string "They left this behind.\p"
-    .string "It makes me uncomfortable. Could\n"
-    .string "you take it away?$"
+	.string "Esos gamberros de negro me echaron de\n"
+	.string "mi puesto.\p"
+	.string "Se dejaron esto. Me molesta.\p"
+	.string "¿Podrías llevártelo?$"
 
 Gate_Route43_Text_ReceivedTM30:
     .string "{PLAYER} received TM36.$"
 
 Gate_Route43_Text_OfficerAvoidGrass:
-    .string "Use this gate to avoid walking in\n"
-    .string "the grass.$"
+	.string "Usa esta puerta para no andar por la\n"
+	.string "hierba.$"

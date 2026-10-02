@@ -21,7 +21,7 @@ MoveRelearner_Text_AnythingElse:
 	.string "Is there anything else I may do for you?$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Please choose your Pokémon.$"
+	.string "Elige el POKéMON.$"
 
 MoveRelearner_Text_HaveNoPkmn:
 	.string "You have no Pokémon.$"

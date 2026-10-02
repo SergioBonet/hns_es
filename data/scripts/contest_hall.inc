@@ -1651,8 +1651,7 @@ LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice:
 	.string "choice than another player.$"
 
 LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Por favor, espera. Botón B: cancelar$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:

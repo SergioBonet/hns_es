@@ -110,7 +110,7 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirector2:
 	.string "can beat me!$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorWin:
-	.string "OK, OK. I'll tell you where he is.$"
+	.string "Muy bien. Te diré dónde está.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter:
 	.string "The boss stashed the DIRECTOR in\n"
@@ -353,15 +353,15 @@ GoldenrodCity_RadioTower_5F_Text_RocketBossSeen:
 	.string "our meticulous plans!$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossBeaten:
-	.string "No! Forgive me, GIOVANNI!$"
+	.string "¡No! ¡Perdóname, GIOVANNI!$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossAfter:
-	.string "How could this be?\p"
-	.string "Our dreams have come to naught.\p"
-	.string "I wasn't up to the task after all.\p"
-	.string "Like GIOVANNI did before me, I will\n"
-	.string "disband TEAM ROCKET here today.\p"
-	.string "Farewell.$"
+	.string "¿Qué ha pasado?\p"
+	.string "Nuestros sueños hechos añicos.\p"
+	.string "Creo que no he estado a la altura.\p"
+	.string "Como ya hiciera GIOVANNI, hoy yo\n"
+	.string "desarticularé el TEAM ROCKET.\p"
+	.string "¡Adiós!$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorThanks:
 	.string "DIRECTOR: {PLAYER}, thank you!\p"
@@ -414,10 +414,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "I can't remember.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorFakeout:
-	.string "Are you expecting something?\n"
-	.string "This is what they call FAKE OUT.\p"
-	.string "I really must go back to my OFFICE\n"
-	.string "this time. See ya!$"
+	.string "Bueno, no me hagas caso. Creo que\n"
+	.string "estoy desvariando un poco.\p"
+	.string "¡Ahora sí que me vuelvo a la oficina!\p"
+	.string "$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
 	.string "DIRECTOR: Hello, {PLAYER}!\p"
@@ -428,10 +428,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
 	.string "our programs.$"
 
 GoldenrodCity_RadioTower_5F_Text_Ben:
-	.string "BEN: Do you listen to our music?$"
+	.string "NARDO: ¿Escuchas nuestra música?$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorOfficeSign:
-	.string "5F DIRECTOR'S   OFFICE$"
+	.string "P4 OFICINA DEL DIRECTOR$"
 
 GoldenrodCity_RadioTower_5F_Text_Studio1Sign:
-	.string "5F STUDIO 1$"
+	.string "P4 ESTUDIO 1$"

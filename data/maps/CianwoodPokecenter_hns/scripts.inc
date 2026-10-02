@@ -51,9 +51,9 @@ CianwoodPokecenter_EventScript_Lass::
 	end
 
 CianwoodCity_Text_PokecenterLass:
-	.string "Did you meet the POKéMANIAC?\p"
-	.string "He's always bragging about his\n"
-	.string "rare POKéMON.$"
+	.string "¿Conoces al POKéMANÍACO?\p"
+	.string "Siempre está presumiendo de sus raros\n"
+	.string "POKéMON.$"
 
 
 CianwoodGym_EventScript_GymGuide::
@@ -72,25 +72,24 @@ CianwoodGym_EventScript_GymGuideAfter::
 	end
 
 CianwoodCity_Text_GymGuide:
-	.string "The POKéMON GYM trainers here are\n"
-	.string "macho bullies.\p"
-	.string "If I stick around, they might\n"
-	.string "come after me.\p"
-	.string "Here's some advice: the GYM LEADER\n"
-	.string "uses the FIGHTING-type.\p"
-	.string "So you should confound him with\n"
-	.string "psychic POKéMON.\p"
-	.string "Wipe out his POKéMON before they\n"
-	.string "can use their physical strength.\p"
-	.string "And those boulders in the middle\n"
-	.string "of the GYM?\p"
-	.string "If you don't move them correctly,\n"
-	.string "you won't reach the GYM LEADER.\p"
-	.string "If you get stuck, go outside.$"
+	.string "Los entrenadores del GIMNASIO\p"
+	.string "POKéMON de aquí son muy agresivos.\p"
+	.string "Si me ven, seguro que vienen a por mí.\p"
+	.string "Escucha este consejo: el LÍDER\p"
+	.string "del GIMNASIO usa POKéMON del tipo\n"
+	.string "lucha.\p"
+	.string "Así que deberías retarle con\p"
+	.string "POKéMON de tipo psíquico.\p"
+	.string "Elimina sus POKé- MON antes de que\n"
+	.string "puedan usar su fuerza física.\p"
+	.string "¿Y esas rocas en mitad del GIMNASIO?\p"
+	.string "Si no las mueves adecuadamente, no\n"
+	.string "llegarás hasta el LÍDER del GIMNASIO.\p"
+	.string "Si te atascas, salte.$"
 
 CianwoodCity_Text_GymGuideWin:
-	.string "{PLAYER}! You won!\n"
-	.string "I could tell by looking at you!$"
+	.string "¡{PLAYER}! ¡Has ganado! ¡Con sólo\n"
+	.string "mirarte, lo sé!$"
 
 CianwoodPokecenter_EventScript_Nerd::
 	lock
@@ -101,8 +100,8 @@ CianwoodPokecenter_EventScript_Nerd::
 	end
 
 CianwoodCity_Text_PokecenterSuperNerd:
-	.string "I love showing off the POKéMON\n"
-	.string "that I've raised.\p"
-	.string "Don't you?\p"
-	.string "I'm going to get into a bunch of\n"
-	.string "battles, and show off my POKéMON!$"
+	.string "Me encanta fardar de los POKéMON\p"
+	.string "que he mejorado. ¿A ti no?\p"
+	.string "¡Voy a enfrentarme a otros\n"
+	.string "entrenadores para mostrar mis\l"
+	.string "POKéMON!$"

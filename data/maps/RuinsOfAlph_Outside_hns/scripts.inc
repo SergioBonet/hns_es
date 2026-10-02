@@ -100,37 +100,35 @@ RuinsOfAlph_Outside_Text_Scientist:
 	.string "POKéDEX. Follow me.$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
-	.string "What do you want? I'm studying--\n"
-	.string "don't disturb me!$"
+	.string "¿Qué quieres? Estoy estudiando. ¡No\n"
+	.string "me molestes!$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Beaten:
-	.string "Sorry…\n"
-	.string "I'm frustrated by our lack of\p"
-	.string "real understanding…$"
+	.string "Perdona… Me deprime nuestra falta de\n"
+	.string "conocimientos…$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_After:
-	.string "The RUINS are from about 1500\n"
-	.string "years ago.\p"
-	.string "Nobody knows who built them.\p"
-	.string "It's also not known if the POKéMON\n"
-	.string "statues have any meaning.\p"
-	.string "It's all one big mystery…$"
+	.string "Las RUINAS datan de hace unos 1.500\n"
+	.string "años.\p"
+	.string "Nadie sabe quién las construyó.\p"
+	.string "Y tampoco sabemos si las estatuas de\n"
+	.string "los POKéMON significan algo.\p"
+	.string "Es un gran misterio…$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Seen:
-	.string "Hmmm… This is a strange place.$"
+	.string "¡Mmm…! ¡Qué lugar tan extraño!$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Beaten:
 	.string "…$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_After:
-	.string "I like thinking here.$"
+	.string "Me gusta pensar aquí.$"
 
 RuinsOfAlph_Outside_Text_MysteryChamberSign:
-	.string "MYSTERY STONE PANEL CHAMBER$"
+	.string "SALA DEL PANEL DE PIEDRA MISTERIOSO$"
 
 RuinsOfAlph_Outside_Text_MainSign:
-	.string "RUINS OF ALPH\n"
-	.string "VISITORS WELCOME$"
+	.string "RUINAS ALFA ¡Bienvenidos!$"
 
 RuinsOfAlph_Outside_Text_ResearchSign:
 	.string "RUINS OF ALPH RESEARCH CENTER\p"
@@ -138,20 +136,22 @@ RuinsOfAlph_Outside_Text_ResearchSign:
 	.string "RUINS OF ALPH$"
 
 RuinsOfAlph_Outside_Text_Fisher1:
-	.string "While exploring the RUINS, we\n"
-	.string "suddenly noticed an odd presence.\p"
-	.string "We all got scared and ran away.\n"
-	.string "You should be careful too.$"
+	.string "Mientras explorábamos las RUINAS, de\n"
+	.string "repente notamos una extraña\l"
+	.string "presencia.\p"
+	.string "Nos asustamos y huimos.\p"
+	.string "Tu también debes tener cuidado.$"
 
 RuinsOfAlph_Outside_Text_Fisher2:
-	.string "The RUINS hide a huge secret!\p"
-	.string "…I think…$"
+	.string "¡Las RUINAS esconden un gran\n"
+	.string "secreto!\p"
+	.string "Creo…$"
 
 RuinsOfAlph_Outside_Text_Youngster1:
 	.string "There are many kinds of UNOWN, so\n"
 	.string "we use them for our secret codes.$"
 
 RuinsOfAlph_Outside_Text_Youngster2:
-	.string "A… H… E… A… D… Hmm…\p"
-	.string "What?\p"
-	.string "I'm decoding this message!$"
+	.string "A… D… E… L… A… N… T… E… Mmmmmm…\p"
+	.string "¿Qué?\p"
+	.string "¡Estoy decodificando el mensaje!$"

@@ -115,8 +115,8 @@ LakeOfRage_House2_Text_LakeHistory:
     .string "I don't understand what's happening.$"
 
 LakeOfRage_House2_Text_MenInBlack:
-    .string "The LAKE hasn't been normal since\n"
-    .string "those men wearing black arrived.$"
+	.string "En el LAGO pasan cosas raras desde\n"
+	.string "que llegaron esos hombres de negro.$"
 
 LakeOfRage_House2_Text_LastMon:
     .string "Well don't let me take your last\n"
@@ -136,8 +136,8 @@ LakeOfRage_House2_Text_ForMe:
 	.string "me?$"
 
 LakeOfRage_House2_Text_HaveMagikarp:
-    .string "Ah, you have a MAGIKARP! Let's\n"
-    .string "see how big that baby is.$"
+	.string "¡Ah, tienes un MAGIKARP! A ver lo\n"
+	.string "grande que es ese bebé.$"
 
 LakeOfRage_House2_Text_BigPayout:
     .string "Wow! This one is outstanding!\p"
@@ -146,8 +146,8 @@ LakeOfRage_House2_Text_BigPayout:
 	.string "trouble.$"
 
 LakeOfRage_House2_Text_Bonus:
-    .string "The record is the important thing.\p"
-    .string "Think of that as a bonus!$"
+	.string "Lo importante es el récord. ¡Piensa en\n"
+	.string "él como una bonificación!$"
 
 LakeOfRage_House2_Text_TooShort:
     .string "Wow! This one is outstanding!\p"
@@ -156,8 +156,8 @@ LakeOfRage_House2_Text_TooShort:
     .string "I guess it's worth something.$"
 
 LakeOfRage_House2_Text_NotMagikarp:
-    .string "What? That's not a MAGIKARP!$"
+	.string "¿Qué? ¡Eso no es un MAGIKARP!$"
 
 LakeOfRage_House2_Text_Refused:
-    .string "Oh… So you didn't get one good\n"
-    .string "enough to show me? Maybe next time.$"
+	.string "¿No tienes ninguno bueno que\n"
+	.string "enseñarme? Quizá la próxima vez.$"

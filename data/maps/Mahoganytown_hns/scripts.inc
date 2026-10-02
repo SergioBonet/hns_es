@@ -259,25 +259,25 @@ MahoganyTown_Text_RageCandyBarMerchantSavorIt:
     .string "Good! Savor it!$"
 
 MahoganyTown_Text_RageCandyBarMerchantNotEnoughMoney:
-    .string "You don't have enough money.$"
+	.string "No tienes dinero suficiente.$"
 
 MahoganyTown_Text_RageCandyBarMerchantRefused:
-    .string "Oh, fine then…$"
+	.string "Oh, de acuerdo…$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
-    .string "RAGECANDYBAR's sold out.\p"
-    .string "I'm packing up. Don't bother me,\n"
-    .string "kiddo.$"
+	.string "CARAMELOS FURIA agotados.\p"
+	.string "Estoy haciendo las maletas. No me\n"
+	.string "molestes, joven.$"
 
 MahoganyTown_Text_Gramps:
-    .string "Are you off to see the GYARADOS\n"
-    .string "rampage at the LAKE?$"
+	.string "¿Vas al LAGO a ver a los violentos\n"
+	.string "GYARADOS?$"
 
 MahoganyTown_Text_GrampsClearedRocketHideout:
-    .string "MAGIKARP have returned to LAKE\n"
-    .string "OF RAGE.\p"
-    .string "That should be good news for the\n"
-    .string "anglers there.$"
+	.string "Los MAGIKARP han vuelto al LAGO DE LA\n"
+	.string "FURIA.\p"
+	.string "Son buenas noticias para los\n"
+	.string "pescadores.$"
 
 MahoganyTown_Text_Fisher:
     .string "Since you came this far, take the\n"
@@ -286,21 +286,21 @@ MahoganyTown_Text_Fisher:
     .string "out LAKE OF RAGE right now.$"
 
 MahoganyTown_Text_Lass:
-    .string "Visit Grandma's shop. She sells\n"
-    .string "stuff that nobody else has.$"
+	.string "Visita la Tienda de la Abuela. Hay\n"
+	.string "cosas que sólo ella tiene.$"
 
 MahoganyTown_Text_Sign:
-    .string "MAHOGANY TOWN\p"
-    .string "Welcome to the Home of the Ninja$"
+	.string "PUEBLO CAOBA\p"
+	.string "El hogar de los Ninja$"
 
 MahoganyTown_Text_RagecandybarSign:
     .string "While visiting MAHOGANY TOWN, try\n"
     .string "a RAGECANDYBAR!$"
 
 MahoganyTown_Text_GymSign:
-    .string "MAHOGANY TOWN POKéMON GYM\p"
-    .string "LEADER: PRYCE\p"
-    .string "The Teacher of Winter's Harshness$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "PUEBLO CAOBA: FREDO\p"
+	.string "El maestro del crudo invierno$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "PROF.ELM: {PLAYER}, how are\n"

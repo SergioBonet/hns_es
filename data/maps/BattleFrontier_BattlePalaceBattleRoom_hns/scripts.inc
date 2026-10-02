@@ -469,8 +469,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent_hns:
 	.string "Are you prepared?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "¿Quieres guardar la partida y salir del\n"
+	.string "juego?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge_hns:
 	.string "Do you wish to quit your challenge?$"

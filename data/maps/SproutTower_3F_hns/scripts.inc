@@ -161,95 +161,89 @@ SproutTower_3F_Movement_EscapeRope:
 	step_end
 
 SproutTower_Text_ElderLecturesRival:
-	.string "ELDER: You are indeed skilled\n"
-	.string "as a trainer.\p"
-	.string "As promised, here is your HM.\p"
-	.string "But let me say this: You should\n"
-	.string "treat your POKéMON better.\p"
-	.string "The way you battle is far too\n"
-	.string "harsh.\p"
-	.string "POKéMON are not tools of war…$"
+	.string "ANCIANO: Eres muy hábil entrenando\n"
+	.string "POKéMON.\p"
+	.string "Como te prometí, aquí tienes tu MO.\p"
+	.string "Pero déjame que te diga que deberías\n"
+	.string "tratar mejor a tus POKéMON.\p"
+	.string "Luchas de forma muy violenta.\p"
+	.string "Los POKéMON no son armas de guerra.$"
 
 SproutTower_Text_RivalOnlyCaresStrong:
-	.string "…\n"
-	.string "…Humph!\p"
-	.string "He claims to be the ELDER but\n"
-	.string "he's weak.\p"
-	.string "It stands to reason.\p"
-	.string "I'd never lose to fools who babble\n"
-	.string "about being nice to POKéMON.\p"
-	.string "I only care about strong\n"
-	.string "POKéMON that can win.\p"
-	.string "I really couldn't care less\n"
-	.string "about weak POKéMON.$"
+	.string "…\p"
+	.string "¡Bah! Afirma ser el\p"
+	.string "ANCIANO, pero es muy débil.\p"
+	.string "Es evidente.\p"
+	.string "Jamás perdería ante quienes dicen\n"
+	.string "que hay que ser bueno con los\l"
+	.string "POKéMON.\p"
+	.string "Sólo me interesan los POKéMON\n"
+	.string "ganadores.\p"
+	.string "Paso de los POKéMON débiles.$"
 
 SproutTower_Text_RivalUsedEscapeRope:
-	.string "{RIVAL} used an ESCAPE ROPE!$"
+	.string "¡{RIVAL} usó CUERDA HUIDA!$"
 
 SproutTower_Text_SageLi_Seen:
-	.string "So good of you to come here!\p"
-	.string "SPROUT TOWER is a place of\n"
-	.string "training.\p"
-	.string "People and POKéMON test their\n"
-	.string "bonds to build a bright future\l"
-	.string "together.\p"
-	.string "I am the final test.\p"
-	.string "Allow me to check the ties\n"
-	.string "between your POKéMON and you!$"
+	.string "¡Encantado de verte por aquí!\p"
+	.string "TORRE BELLSPROUT es un lugar de\n"
+	.string "entrenamiento.\p"
+	.string "La gente y los POKéMON evalúan sus\n"
+	.string "vínculos para construir juntos un\l"
+	.string "futuro mejor.\p"
+	.string "Yo soy la prueba final.\p"
+	.string "¡Déjame evaluar tus vínculos con los\n"
+	.string "POKéMON!$"
 
 SproutTower_Text_SageLi_Beaten:
-	.string "Ah, excellent!$"
+	.string "¡Ah, excelente!$"
 
 SproutTower_Text_SageLi_TakeFlash:
-	.string "You and your POKéMON should\n"
-	.string "have no problem using this move.\p"
-	.string "Take this FLASH HM.$"
+	.string "Tú y tus POKéMON no deberíais tener\n"
+	.string "problemas con este movimiento.\p"
+	.string "Toma esta MO. Es DESTELLO.$"
 
 SproutTower_Text_SageLi_FlashExplain:
-	.string "FLASH illuminates even the\n"
-	.string "darkest of all places.\p"
-	.string "But to use it out of battle, you\n"
-	.string "need the BADGE from VIOLET's GYM.$"
+	.string "DESTELLO ilumina hasta el lugar más\n"
+	.string "oscuro.\p"
+	.string "Y, con la MEDALLA de CIUDAD MALVA,\n"
+	.string "podrás usarlo fuera del combate.$"
 
 SproutTower_Text_SageLi_AfterBattle:
-	.string "I hope you learn and grow from\n"
-	.string "your journey.$"
+	.string "¡Ojalá aprendas y madures con tu\n"
+	.string "viaje!$"
 
 SproutTower_Text_SageJin_Seen:
-	.string "I train to find enlightenment\n"
-	.string "in POKéMON!$"
+	.string "¡Me entreno para saberlo todo sobre\n"
+	.string "los POKéMON!$"
 
 SproutTower_Text_SageJin_Beaten:
-	.string "My training is incomplete…$"
+	.string "Mi entrenamiento es incompleto…$"
 
 SproutTower_Text_SageJin_AfterBattle:
-	.string "As POKéMON grow stronger,\n"
-	.string "so does the trainer.\p"
-	.string "No, wait. As the trainer\n"
-	.string "grows stronger, so do the\l"
-	.string "POKéMON.$"
+	.string "Cuanto más fuerte sea el POKéMON, más\n"
+	.string "fuerte será su entrenador.\p"
+	.string "No, espera. Cuanto más fuerte sea el\n"
+	.string "entrenador, más fuerte el POKéMON.$"
 
 SproutTower_Text_SageTroy_Seen:
-	.string "Let me see how much you trust\n"
-	.string "your POKéMON.$"
+	.string "A ver cuánto confías en tus POKéMON.$"
 
 SproutTower_Text_SageTroy_Beaten:
-	.string "Yes, your trust is real!$"
+	.string "¡Sí, tu confianza es auténtica!$"
 
 SproutTower_Text_SageTroy_AfterBattle:
-	.string "It is not far to the ELDER.$"
+	.string "No estás lejos del ANCIANO.$"
 
 SproutTower_Text_SageNeal_Seen:
 	.string "The ELDER's HM lights even\n"
 	.string "pitch-black darkness.$"
 
 SproutTower_Text_SageNeal_Beaten:
-	.string "It is my head that is bright!$"
+	.string "¡Mi cerebro sí que es brillante!$"
 
 SproutTower_Text_SageNeal_AfterBattle:
-	.string "Let there be light on your\n"
-	.string "journey.$"
+	.string "¡Que haya luz en tus viajes!$"
 
 SproutTower_Text_3F_Painting:
-	.string "It's a powerful painting of a\n"
-	.string "BELLSPROUT.$"
+	.string "Es un bonito cuadro de un BELLSPROUT.$"

@@ -23,7 +23,7 @@ SaffronCity_FightingDojoVIP_Text_Nurse1:
 	.string "I will heal your POKéMON.$"
 
 SaffronCity_FightingDojoVIP_Text_Nurse2:
-	.string "We hope to see you again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 
 SaffronCity_FightingDojoVIP_EventScript_Declined::
@@ -745,9 +745,9 @@ SaffronCity_FightingDojoVIP_Text_Whitney_Rematch:
 	.string "Want to have a rematch with me?$"
 
 SaffronCity_FightingDojoVIP_Text_Whitney_RematchDefeat:
-	.string "Waaaaah!\p"
-	.string "Waaaaah!\p"
-	.string "…Snivel, hic… …You meanie!$"
+	.string "¡Uaaaaa!\p"
+	.string "¡Uaaaaa!\p"
+	.string "¡Buaa, buaa…! ¡Eres cruel!$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "Ah, the JOHTO CHAMPION! Good of\n"

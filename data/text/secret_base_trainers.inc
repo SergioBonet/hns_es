@@ -14,8 +14,8 @@ SecretBase_Text_Trainer0DeclineBattle:
 	.string "Oh, you can't now…$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.string "¡Aaaaargh! ¡Qué fuerte eres!\n"
+	.string "¡No le digas a nadie que he perdido!$"
 
 SecretBase_Text_Trainer0PostBattle:
 	.string "What do you think of my SECRET BASE?\n"
@@ -42,9 +42,9 @@ SecretBase_Text_Trainer5DeclineBattle:
 	.string "You can't now, okay.$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.string "Mmmm… He perdido,\n"
+	.string "¡pero no se lo digas a nadie!\l"
+	.string "¡Es un secreto supersecreto!$"
 
 SecretBase_Text_Trainer5PostBattle:
 	.string "If you're in this area again,\n"
@@ -73,8 +73,8 @@ SecretBase_Text_Trainer1DeclineBattle:
 	.string "You're not interested in this spot?$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.string "¡Ya no puedo más!\n"
+	.string "¡Me rindo!$"
 
 SecretBase_Text_Trainer1PostBattle:
 	.string "Okay, when I move one day,\n"
@@ -100,8 +100,8 @@ SecretBase_Text_Trainer6DeclineBattle:
 	.string "Some other time, then!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.string "Mmmm… Tengo mucho que aprender.\n"
+	.string "Me acabas de dar una lección…$"
 
 SecretBase_Text_Trainer6PostBattle:
 	.string "Thanks for battling with me.\n"
@@ -126,8 +126,8 @@ SecretBase_Text_Trainer2DeclineBattle:
 	.string "When you're ready, give me a shout!$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "¡Aaaah! ¡Me has aplastado!\n"
+	.string "Pero aun así ha estado bien…$"
 
 SecretBase_Text_Trainer2PostBattle:
 	.string "Well, anyway, I should go buy some\n"
@@ -158,7 +158,7 @@ SecretBase_Text_Trainer7DeclineBattle:
 	.string "How disappointing…$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+	.string "Has ganado…$"
 
 SecretBase_Text_Trainer7PostBattle:
 	.string "That was all in good fun!\n"
@@ -185,7 +185,7 @@ SecretBase_Text_Trainer3DeclineBattle:
 	.string "for this place?$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "Me has ganado…$"
 
 SecretBase_Text_Trainer3PostBattle:
 	.string "Where's your SECRET BASE?\n"
@@ -211,8 +211,8 @@ SecretBase_Text_Trainer8DeclineBattle:
 	.string "I'll battle with you anytime.$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.string "¿Eh?\n"
+	.string "¿Me has vencido?$"
 
 SecretBase_Text_Trainer8PostBattle:
 	.string "I won't lose at collecting decorations.\n"
@@ -240,7 +240,7 @@ SecretBase_Text_Trainer4DeclineBattle:
 	.string "into it.$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "Ya veo que vales mucho…$"
 
 SecretBase_Text_Trainer4PostBattle:
 	.string "We can both become stronger.\n"
@@ -270,8 +270,8 @@ SecretBase_Text_Trainer9DeclineBattle:
 	.string "anytime.$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.string "¡Tú sí que tienes un estilazo!\n"
+	.string "Me has dejado boquiabierta…$"
 
 SecretBase_Text_Trainer9PostBattle:
 	.string "What did you think of my style?\n"

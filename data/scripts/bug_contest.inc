@@ -161,10 +161,11 @@ BugContest_Text_First2:
 	.string "SHAUN, who caught a writhing\l"
 	.string "PINSIR!$"
 BugContest_Text_First3:
-	.string "This Bug-Catching Contest Winner\n"
-	.string "is...\p"
-	.string "{PLAYER}, who caught a whopping\n"
-	.string "{STR_VAR_1}!$"
+	.string "Y, finalmente, el primer puesto de este\n"
+	.string "Concurso de Captura de Bichos es…\p"
+	.string "¡para el {STR_VAR_1} que ha atrapado\n"
+	.string "{PLAYER}!\p"
+	.string "$"
 
 BugContest_Text_Second1:
 	.string "Placing third is the COOLTRAINER\n"

@@ -173,66 +173,67 @@ Route27_Text_FisherHey:
     .string "Hey!$"
 
 Route27_Text_FisherMessage:
-    .string "Do you know what you just did?\p"
-    .string "You've taken your first step into\n"
-    .string "KANTO.\p"
-    .string "Check your POKéGEAR MAP and see.$"
+	.string "¿Sabes lo que acabas de hacer?\p"
+	.string "Acabas de entrar en KANTO.\p"
+	.string "Consulta el MAPA del POKéGEAR.$"
 
 Route27_Text_CooltrainermBlakeSeen:
-    .string "You look pretty strong.\n"
-    .string "Let me battle you!$"
+	.string "Pareces muy fuerte. ¡Déjame luchar\n"
+	.string "contigo!$"
 
 Route27_Text_CooltrainermBlakeBeaten:
     .string "Yow!$"
 
 Route27_Text_CooltrainermBlakeAfter:
-    .string "If you prevail on this harsh trek,\n"
-    .string "the truth will be revealed!\p"
-    .string "Heh, sorry, I just wanted to say\n"
-    .string "something cool.$"
+	.string "Si continúas por este duro camino,\n"
+	.string "¡conocerás la verdad!\p"
+	.string "Lo siento, pero me apetecía decir algo\n"
+	.string "chulo.$"
 
 Route27_Text_CooltrainermBrianSeen:
-    .string "Hm? You're good, aren't you?$"
+	.string "Mmm… Sabes cómo entrenar, ¿verdad?\p"
+	.string "$"
 
 Route27_Text_CooltrainermBrianBeaten:
-    .string "Just as I thought!$"
+	.string "¡Tal como pensaba!$"
 
 Route27_Text_CooltrainermBrianAfter:
-    .string "A good trainer can recognize other\n"
-    .string "good trainers.$"
+	.string "Un buen entrenador puede reconocer a\n"
+	.string "otros buenos entrenadores.$"
 
 Route27_Text_CooltrainerfReenaSeen:
-    .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+	.string "No deberías subestimar a los\p"
+	.string "POKéMON salvajes de esta zona.$"
 
 Route27_Text_CooltrainerfReenaBeaten:
-    .string "Oh! You're much too strong!$"
+	.string "¡Oh! ¡Qué fuerte eres!$"
 
 Route27_Text_CooltrainerfReenaAfter:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+	.string "Eres muy joven, pero tampoco se te\n"
+	.string "puede subestimar.$"
 
 Route27_Text_ReenaRegister:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+	.string "Eres muy joven, pero tampoco se te\n"
+	.string "puede subestimar.$"
 
 Route27_Text_ReenaRematchIntro:
-    .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+	.string "No deberías subestimar a los\p"
+	.string "POKéMON salvajes de esta zona.$"
 
 Route27_Text_ReenaRematchDefeat:
-    .string "Oh! You're much too strong!$"
+	.string "¡Oh! ¡Qué fuerte eres!$"
 
 Route27_Text_ReenaPostRematch:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+	.string "Eres muy joven, pero tampoco se te\n"
+	.string "puede subestimar.$"
 
 Route27_Text_CooltrainerfMeganSeen:
-    .string "It's rare to see anyone come here.\p"
-    .string "Are you training on your own?$"
+	.string "Es raro que venga alguien por aquí.\n"
+	.string "¿Te entrenas sin compañía?\p"
+	.string "$"
 
 Route27_Text_CooltrainerfMeganBeaten:
-    .string "Oh! You're really strong!$"
+	.string "¡Oh! ¡Eres muy fuerte!$"
 
 Route27_Text_CooltrainerfMeganAfter:
     .string "I'm checking out pre- and post-\n"
@@ -243,43 +244,45 @@ Route27_Text_CooltrainerfMeganAfter:
     .string "moves later on.$"
 
 Route27_Text_PsychicGilbertSeen:
-    .string "Don't say a thing!\p"
-    .string "Let me guess what you're thinking.\p"
-    .string "Mmmmmmm…\p"
-    .string "I got it! You're on the POKéMON\n"
-    .string "LEAGUE challenge!$"
+	.string "¡No digas nada! ¡Déjame adivinar lo que\n"
+	.string "piensas! ¡Mmm…!\p"
+	.string "¡Listo! ¡Estás en la LIGA POKéMON!\p"
+	.string "$"
 
 Route27_Text_PsychicGilbertBeaten:
-    .string "You're too much!$"
+	.string "¡Eres demasiado!$"
 
 Route27_Text_PsychicGilbertAfter:
-    .string "With your skills, you'll do well at\n"
-    .string "the LEAGUE.\p"
-    .string "That's what my premonition says.$"
+	.string "Con tus habilidades, te irá bien en la\n"
+	.string "LIGA.\p"
+	.string "Eso es lo que presiento.$"
 
 Route27_Text_BirdKeeperJoseSeen:
-    .string "Tweet! Tweet! Tetweet!$"
+	.string "¡Far! ¡Far! ¡Feeetch!$"
 
 Route27_Text_BirdKeeperJoseBeaten:
-    .string "Tweet!$"
+	.string "¡Far!$"
 
 Route27_Text_BirdKeeperJoseAfter:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+	.string "Los Ornitólogos imitamos el canto de\n"
+	.string "los pájaros para controlar nuestros\l"
+	.string "POKéMON.$"
 
 Route27_Text_JoseRegister:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+	.string "Los Ornitólogos imitamos el canto de\n"
+	.string "los pájaros para controlar nuestros\l"
+	.string "POKéMON.$"
 
 Route27_Text_JoseRematchIntro:
-    .string "Tweet! Tweet! Tetweet!$"
+	.string "¡Far! ¡Far! ¡Feeetch!$"
 
 Route27_Text_JoseRematchDefeat:
-    .string "Tweet!$"
+	.string "¡Far!$"
 
 Route27_Text_JosePostRematch:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+	.string "Los Ornitólogos imitamos el canto de\n"
+	.string "los pájaros para controlar nuestros\l"
+	.string "POKéMON.$"
 
 Route27_Text_JoseHasItem:
     .string "Hey! I found something\n"
@@ -297,17 +300,17 @@ Route27_Text_JoseNoRoom:
     .string "Come back when you have room.$"
 
 TohjoFalls_Text_Sign:
-    .string "TOHJO FALLS\p"
-    .string "THE LINK BETWEEN KANTO AND JOHTO$"
+	.string "CATARATAS TOHJO\p"
+	.string "La conexión entre KANTO y JOHTO$"
 
 Route27_Text_FisherScottSeen:
-    .string "I'm feeling great today!\p"
-    .string "I feel like I could boot even the\n"
-    .string "LEAGUE CHAMP!$"
+	.string "¡Hoy me siento muy bien!\p"
+	.string "¡Siento que podría vencer hasta al\n"
+	.string "CAMPEÓN de LIGA!$"
 
 Route27_Text_FisherScottBeaten:
-    .string "No! Not in this battle!$"
+	.string "¡No! ¡En esta batalla, no!$"
 
 Route27_Text_FisherScottAfter:
-    .string "Just like in fishing, it's all over\n"
-    .string "in POKéMON if you give up.$"
+	.string "Como en la pesca, con los POKéMON\p"
+	.string "todo está perdido si te rindes.$"

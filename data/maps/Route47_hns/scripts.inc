@@ -61,8 +61,8 @@ Route47_Text_Couple1Beaten::
 	.string "KAE: You're unusual too!$"
 
 Route47_Text_Couple1After1::
-	.string "THOM: It seems your power is\n"
-	.string "impossible to predict!$"
+	.string "Cad: Tu increíble fuerza es\n"
+	.string "incalculable.$"
 
 Route47_Text_Couple1After2::
 	.string "KAE: I figured you were an ordinary\n"

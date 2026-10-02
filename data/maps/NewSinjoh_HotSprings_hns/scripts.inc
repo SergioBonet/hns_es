@@ -252,7 +252,8 @@ NewSinjoh_HotSprings_Text_PLATutorConfirm:
 	.string "You'd like to learn {STR_VAR_1}?$"
 
 NewSinjoh_HotSprings_Text_PLATutorWhichMon:
-	.string "Which POKeMON should learn it?$"
+	.string "¿Qué POKéMON quieres que lo aprenda?\p"
+	.string "$"
 
 NewSinjoh_HotSprings_Text_PLATutorDone:
 	.string "Done! Your POKeMON has mastered\n"
@@ -304,7 +305,7 @@ NewSinjoh_HotSprings_Text_PLAMove_PowerShift:
 	.string "POWER SHIFT$"
 
 NewSinjoh_HotSprings_Text_PLAMove_Cancel:
-	.string "CANCEL$"
+	.string "SALIR$"
 
 
 NewSinjoh_HotSprings_EventScript_ActivateArcanine::

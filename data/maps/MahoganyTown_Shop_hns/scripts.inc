@@ -236,17 +236,17 @@ MahoganyMart1F_Text_Pharmacist_Lance:
     .string "ROCKETS have hijacked my basement!$"
 
 MahoganyMart1F_Text_BlackBelt:
-    .string "Heheh! The experi- ment worked like\n"
-    .string "a charm.\p"
-    .string "MAGIKARP are just worthless, but\n"
-    .string "GYARADOS are big moneymakers.$"
+	.string "El experimento funcionó a las mil\n"
+	.string "maravillas.\p"
+	.string "Los MAGIKARP no valen nada, pero los\n"
+	.string "GYARADOS son muy productivos.$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
     .string "Urrgh…\p"
     .string "That guy's POKéMON are tough…$"
 
 MahoganyMart1F_Text_Lance_HyperBeam:
-    .string "LANCE: DRAGONITE, HYPER BEAM.$"
+	.string "LANCE: DRAGONITE, HÍPER RAYO.$"
 
 MahoganyMart1F_Text_Lance_Radio:
     .string "What took you, {PLAYER}?\p"
@@ -258,6 +258,7 @@ MahoganyMart1F_Text_Lance_Stairs:
 	.string "DRAGONITE!$"
 
 MahoganyMart1F_Text_Lance_SplitUp:
-    .string "LANCE: {PLAYER}, we should split up\n"
-    .string "to check this place.\p"
-    .string "I'll go first.$"
+	.string "LANCE: {PLAYER}, debemos separarnos\n"
+	.string "para inspeccionar el lugar. Iré yo\l"
+	.string "primero.\p"
+	.string "$"

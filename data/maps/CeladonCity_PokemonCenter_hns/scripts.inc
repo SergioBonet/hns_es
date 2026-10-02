@@ -25,15 +25,14 @@ CeladonCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "watch yourself.$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
-	.string "TEAM ROCKET's hideout is in the\n"
-	.string "basement of the GAME CORNER.\p"
-	.string "Oh, wait. That was three years\n"
-	.string "ago.$"
+	.string "El TEAM ROCKET está escondido en el\n"
+	.string "sótano del CASINO.\p"
+	.string "Espera. Eso fue hace tres años.$"
 
 Celadon_Text_Eusine1:
-	.string "EUSINE: Hi!\p"
-	.string "I'm back visiting my hometown.\p"
-	.string "It's been quite a while.$"
+	.string "EUSINE: ¡Hola!\p"
+	.string "Vuelvo de visitar mi ciudad.\p"
+	.string "Llevaba tiempo sin ir.$"
 
 Celadon_Text_EusineLeaves:
 	.string "{PLAYER}, have you heard?\p"

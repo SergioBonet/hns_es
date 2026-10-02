@@ -79,34 +79,33 @@ SeafoamIslands_Gym_Text_Blaine_ExplainTM:
 	.string "extra BURN HEAL! Waaah!$"
 
 SeafoamIslands_Gym_Text_BlaineIntro:
-	.string "BLAINE: Waaah!\p"
-	.string "My GYM in CINNABAR burned down.\p"
-	.string "My fire-breathing POKéMON and I are\n"
-	.string "homeless because of the volcano.\p"
-	.string "Waaah!\p"
-	.string "But I'm back in business as a GYM\n"
-	.string "LEADER here in this cave.\p"
-	.string "If you can beat me, I'll give you\n"
-	.string "a BADGE.\p"
-	.string "Ha! You'd better have BURN HEAL!$"
+	.string "BLAINE: ¡Buaaa!\p"
+	.string "Mi GIMNASIO de ISLA CANELA se ha\n"
+	.string "quemado.\p"
+	.string "El volcán nos ha dejado sin casa a mis\n"
+	.string "POKéMON comefuego y a mí.\p"
+	.string "¡Buaaaa!\p"
+	.string "Pero sigo haciendo mi trabajo de\p"
+	.string "LÍDER de GIMNASIO en esta cueva.\p"
+	.string "Si me vences, te daré una MEDALLA.\p"
+	.string "¡Ja! Espero que tengas ANTIQUEMAR.$"
 
 SeafoamIslands_Gym_Text_BlaineWinLoss:
-	.string "BLAINE: Awesome. I've burned out…\p"
-	.string "You've earned VOLCANOBADGE!$"
+	.string "BLAINE: Increíble. Me consumí…\p"
+	.string "¡Has ganado la MEDALLA VOLCÁN!$"
 
 SeafoamIslands_Gym_Text_ReceivedVolcanoBadge:
-	.string "{PLAYER} received VOLCANOBADGE.$"
+	.string "{PLAYER} recibió la MED. VOLCÁN.$"
 
 SeafoamIslands_Gym_Text_BlaineAfterBattle:
-	.string "BLAINE: I did lose this time, but\n"
-	.string "I'm going to win the next time.\p"
-	.string "When I rebuild my CINNABAR GYM,\n"
-	.string "we'll have to have a rematch.$"
+	.string "BLAINE: Esta vez he perdido, pero la\n"
+	.string "próxima te ganaré.\p"
+	.string "Cuando reconstruya mi GIMNASIO de I.\n"
+	.string "CANELA, tendremos la revancha.$"
 
 SeafoamIslands_Gym_Text_BlaineFightDone:
-	.string "BLAINE: My fire POKéMON will be\n"
-	.string "even stronger.\p"
-	.string "Just you watch!$"
+	.string "BLAINE: Mis POKéMON de fuego serán\n"
+	.string "más fuertes. ¡Ya lo verás!$"
 
 SeafoamIslands_Gym_Text_BlaineRematch:
 	.string "BLAINE: Whoa!\p"
@@ -123,15 +122,15 @@ SeafoamIslands_Gym_Text_BlaineRematchDefeat:
 	.string "defenses.$"
 
 SeafoamIslands_Gym_Text_GymGuideWin:
-	.string "Yo!\p"
-	.string "… Huh? It's over already?\p"
-	.string "Sorry, sorry!\p"
-	.string "CINNABAR GYM was gone, so I didn't\n"
-	.string "know where to find you.\p"
-	.string "But, hey, you're plenty strong even\n"
-	.string "without my advice. I knew you'd win!$"
+	.string "¡Vaya!\p"
+	.string "¿Eh…? ¿Ya ha acabado?\p"
+	.string "¡Lo siento!\p"
+	.string "El GIMNASIO de ISLA CANELA ya no\n"
+	.string "existe y no sabía dónde encontrarte.\p"
+	.string "Pero eres fuerte hasta sin mis\n"
+	.string "consejos. ¡Sabía que ganarías!$"
 
 SeafoamIslands_Gym_Text_GymGuideWin2:
-	.string "A POKéMON GYM can be anywhere as\n"
-	.string "long as the GYM LEADER is there.\p"
-	.string "There's no need for a building.$"
+	.string "Los GIMNASIOS POKéMON están allí\n"
+	.string "donde se encuentre su LÍDER.\p"
+	.string "No es necesario un edificio.$"

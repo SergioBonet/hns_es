@@ -297,19 +297,19 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oh, what should I do…?$"
 
 EcruteakCity_Text_Gramps1:
-	.string "ECRUTEAK used to have two towers:\n"
-	.string "one each in the east and west.$"
+	.string "En CIUDAD IRIS había dos torres:\p"
+	.string "una en el Este y otra en el Oeste.$"
 
 EcruteakCity_Text_Gramps2:
-	.string "Ah, child. Have you learned to\n"
-	.string "dance like the KIMONO GIRLS?\p"
-	.string "If you go to their DANCE THEATER,\n"
-	.string "an odd old man will give you\l"
-	.string "something nice, I hear.$"
+	.string "¡Ah, tú! ¿Has aprendido a bailar como\n"
+	.string "las CHICAS KIMONO?\p"
+	.string "Si vas a su TEATRO de DANZA, un raro\n"
+	.string "anciano te dará algo bonito.\p"
+	.string "Eso me han dicho.$"
 
 EcruteakCity_Text_Lass1:
-	.string "I'm going to practice at the DANCE\n"
-	.string "THEATER. Care to join me?$"
+	.string "Voy a practicar en el TEATRO de DANZA.\p"
+	.string "¿Vienes conmigo?$"
 
 EcruteakCity_Text_Lass2:
 	.string "The tower that used to be here…\p"
@@ -318,37 +318,39 @@ EcruteakCity_Text_Lass2:
 	.string "I hear there are ghosts in it now.$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
-	.string "Three big POKéMON ran off in different\n"
-	.string "directions. What were they?$"
+	.string "Tres POKéMON muy grandes huyeron en\n"
+	.string "direcciones diferentes. ¿Qué estaría\l"
+	.string "pasando?$"
 
 EcruteakCity_Text_Fisher:
-	.string "I heard a rumor about OLIVINE\n"
-	.string "LIGHTHOUSE.\p"
-	.string "The POKéMON that serves as the\n"
-	.string "beacon fell ill. Sounds like they\l"
-	.string "are in trouble.$"
+	.string "He oído un rumor sobre el FARO de C.\n"
+	.string "OLIVO.\p"
+	.string "El POKéMON que usan como luz ha caído\n"
+	.string "enfermo.\p"
+	.string "Parece que tienen problemas.$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "The POKéMON at OLIVINE LIGHTHOUSE\n"
-	.string "has been cured.\p"
-	.string "Boats can safely sail out to sea at\n"
-	.string "night again.$"
+	.string "El POKéMON de FARO OLIVO se ha\n"
+	.string "curado.\p"
+	.string "Los barcos pueden volver a navegar\n"
+	.string "seguros de noche.$"
 
 EcruteakCity_Text_Youngster:
-	.string "I hear POKéMON are rampaging at the\n"
-	.string "LAKE OF RAGE. I'd like to see that.$"
+	.string "Los POKéMON están causando estragos\n"
+	.string "en el LAGO DE LA FURIA. Me gustaría\l"
+	.string "verlo.$"
 
 EcruteakCity_Text_Gramps3:
-	.string "In the distant past…\p"
-	.string "This tower burned in a fire. Three\n"
-	.string "nameless POKéMON perished in it.\p"
-	.string "A rainbow-colored POKéMON descended\n"
-	.string "from the sky and resurrected them…\p"
-	.string "It's a legend that has been passed\n"
-	.string "down by ECRUTEAK GYM LEADERS.\p"
-	.string "Me?\p"
-	.string "I was a trainer way back when.\n"
-	.string "Hohoho!$"
+	.string "Hace mucho, mucho tiempo…\p"
+	.string "Esta torre ardió por el fuego. Tres\p"
+	.string "POKéMON desconocidos perecieron en\n"
+	.string "ella.\p"
+	.string "Un POKéMON con los colores del arco\n"
+	.string "iris bajó del cielo y los resucitó…\p"
+	.string "Es una leyenda que ha ido pasando de\p"
+	.string "LÍDER a LÍDER en el GIMNASIO IRIS.\p"
+	.string "¿Yo?\p"
+	.string "Yo sólo soy un entrenador. ¡Jo, jo, jo!$"
 
 EcruteakCity_Text_SageGym:
 	.string "Gym Leader MORTY is not here right\n"
@@ -356,29 +358,26 @@ EcruteakCity_Text_SageGym:
 	.string "BURNED TOWER.$"
 
 EcruteakCity_Text_Sign:
-	.string "ECRUTEAK CITY\n"
-	.string "A Historical City\p"
-	.string "Where the Past Meets the Present$"
+	.string "CIUDAD IRIS Una ciudad donde\n"
+	.string "conviven el pasado y el presente$"
 
 EcruteakCity_Text_TinTowerSign:
-	.string "TIN TOWER\p"
-	.string "A legendary POKéMON is said to\n"
-	.string "roost here.$"
+	.string "TORRE HOJALATA\p"
+	.string "Aquí duerme un POKéMON legendario.$"
 
 EcruteakCity_Text_OfficeSign:
 	.string "Barrier Station to TIN TOWER\p"
 	.string "No Trespassing by the Unworthy.$"
 
 EcruteakCity_Text_GymSign:
-	.string "ECRUTEAK CITY POKéMON GYM\n"
-	.string "LEADER: MORTY\p"
-	.string "The Mystic Seer of the Future$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD IRIS: MORTI\p"
+	.string "El místico adivino del futuro$"
 
 EcruteakCity_Text_DanceTheaterSign:
-	.string "ECRUTEAK DANCE THEATER$"
+	.string "TEATRO DE DANZA DE CIUDAD IRIS$"
 
 EcruteakCity_Text_BurnedTowerSign:
-	.string "BURNED TOWER\p"
-	.string "It was destroyed by a mysterious\n"
-	.string "fire.\p"
-	.string "Please stay away, as it is unsafe.$"
+	.string "TORRE QUEMADA\p"
+	.string "Destruida por un misterioso incendio\n"
+	.string "¡Atención! ¡Peligro!$"

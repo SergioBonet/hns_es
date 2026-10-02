@@ -621,7 +621,8 @@ Alola_Ulaula_Text_MoveTutorConfirm:
 	.string "You'd like to learn {STR_VAR_1}?$"
 
 Alola_Ulaula_Text_MoveTutorWhichMon:
-	.string "Which POKéMON should learn it?$"
+	.string "¿Qué POKéMON quieres que lo aprenda?\p"
+	.string "$"
 
 Alola_Ulaula_Text_MoveTutorDone:
 	.string "EXCELLENT!\p"
@@ -711,5 +712,5 @@ Alola_Ulaula_Text_TutorMove_WorkUp:
 	.string "WORK UP$"
 
 Alola_Ulaula_Text_TutorMove_Cancel:
-	.string "CANCEL$"
+	.string "SALIR$"
 

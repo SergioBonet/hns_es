@@ -78,9 +78,10 @@ BattleTowerOutsideBeautyText:
 	.string "three should go into battle…$"
 
 BattleTowerOutsideSailorText:
-	.string "Hehehe, I snuck out from work.\p"
-	.string "I can't bail out until I've won!\p"
-	.string "I have to win it all. That I must!$"
+	.string "Je, je… Me escapé del trabajo.\p"
+	.string "¡No puedo achicar agua hasta que haya\n"
+	.string "ganado!\p"
+	.string "Tengo que ganarlo todo. ¡Debo ganarlo!$"
 
 BattleTowerOutsideSignText:
 	.string "{UP_ARROW} TRAINER HILL ENTRANCE\p"

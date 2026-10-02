@@ -15,12 +15,12 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Yeah, and the GYM in CINNABAR's gone.\p"
-	.string "I was really amazed.\p"
-	.string "…Yes? I'm on the phone. Go away!$"
+	.string "¡Sí! Ya no hay GIMNASIO en la\p"
+	.string "ISLA CANELA. Me quedé de piedra.\p"
+	.string "¿Sí? Estoy al teléfono. ¡Fuera!$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
-	.string "JIGGLYPUFF: Puu pupuu.$"
+	.string "JIGGLYPUFF: Puff, puff.$"
 
 PewterCity_PokemonCenter_EventScript_Mondo::
 	lock
@@ -70,7 +70,7 @@ PewterCity_PokemonCenter_Text_TradeCompleted:
 	.string "It's a real trickster!$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Most POKéMON get drowsy if they hear a\n"
-	.string "JIGGLYPUFF singing.\p"
-	.string "There are several moves that can be\n"
-	.string "used only while a POKéMON is asleep.$"
+	.string "Casi todos los POKéMON se duermen al\n"
+	.string "oír cantar a JIGGLYPUFF.\p"
+	.string "Cuando un POKéMON está dormido, se\n"
+	.string "pueden usar ciertos movimientos.$"

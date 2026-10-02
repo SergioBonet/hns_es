@@ -185,14 +185,14 @@ GoldenrodDeptStore_Text_BlackBeltMove:
 	.string "MACHOKE, help us move that boulder!$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt1:
-    .string "Hey, kid! You're holding us up!\p"
-    .string "Our policy is to work behind the\n"
-    .string "scenes where no one can see us!$"
+	.string "¡Eh, tú! ¡Estás interrumpiéndonos!\p"
+	.string "¡Tenemos por costumbre trabajar sin\n"
+	.string "que nadie nos vea!$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt2:
-    .string "I lose my passion for work if\n"
-    .string "someone's watching.\p"
-    .string "Come on, kid, scoot!$"
+	.string "Pierdo las ganas de trabajar si hay\n"
+	.string "alguien mirando.\p"
+	.string "¡Venga, tú, fuera de aquí!$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt3:
     .string "Oohah! Oohah!\p"
@@ -205,4 +205,4 @@ GoldenrodDeptStore_Text_B1FBlackBelt3After:
     .string "Take it if you want it!$"
 
 GoldenrodDeptStore_Text_B1FMachoke:
-    .string "MACHOKE: Maaacho!$"
+	.string "MACHOKE: ¡Machok!$"

@@ -69,11 +69,10 @@ Route10_PowerPlantBackRoom_Text_ManagerWhoWouldRuinMyGenerator:
 	.string "get a taste of my ZAP CANNON!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
-	.string "MANAGER: I won't forgive him!\p"
-	.string "The culprit can cry and\n"
-	.string "apologize,\p"
-	.string "but I'll still hammer him!\p"
-	.string "Gahahahah!$"
+	.string "DIRECTOR: ¡Nunca le perdonaré!\p"
+	.string "Aunque el culpable llore y suplique\n"
+	.string "perdón, ¡le machacaré!\p"
+	.string "¡Ja, ja, ja!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
 	.string "MANAGER: Ah! Yeah!\p"
@@ -81,8 +80,8 @@ Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
 	.string "beloved generator! You found it?$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
-	.string "Wahah! Thanks!\p"
-	.string "Here! Take this TM as a reward!$"
+	.string "¡Yuju! ¡Gracias!\p"
+	.string "¡Toma esta MT como recompensa!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "MANAGER: That TM is THUNDER.\p"

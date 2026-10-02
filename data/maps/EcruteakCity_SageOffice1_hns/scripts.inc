@@ -94,19 +94,20 @@ EcruteakTinTowerEntrance_Text_SageNoBadge:
 	.string "to leave.$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "TIN TOWER is off limits to anyone\n"
-	.string "without ECRUTEAK GYM's BADGE.\p"
-	.string "Ah!\p"
-	.string "ECRUTEAK's GYM BADGE! Please, go\n"
-	.string "right through.$"
+	.string "Sin la MEDALLA del GIMNASIO de CIUDAD\p"
+	.string "IRIS, no se puede entrar en la TORRE\n"
+	.string "HOJALATA.\p"
+	.string "¡Ah!\p"
+	.string "¡La MEDALLA de CIUDAD IRIS!\p"
+	.string "Puedes pasar.$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
-	.string "A momentous event has occurred.\p"
-	.string "I beg your pardon, but I must ask\n"
-	.string "you to leave.\p"
-	.string "…What soothes the soul…\p"
-	.string "The WISE TRIO say things that are\n"
-	.string "so very difficult to understand…$"
+	.string "Ha ocurrido un hecho importante.\p"
+	.string "Perdóname, pero tengo que pedirte que\n"
+	.string "te vayas.\p"
+	.string "Lo que alivia el alma…\p"
+	.string "El TRÍO DE SABIOS dice cosas muy\n"
+	.string "difíciles de entender…$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
 	.string "A momentous event has occurred.\p"
@@ -127,7 +128,7 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "Please, do go on.$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
-	.string "Please, do go on.$"
+	.string "Sigue adelante.$"
 
 EcruteakTinTowerEntrance_Text_SageDone:
 	.string "That bell's chime is indicative of\n"
@@ -136,16 +137,16 @@ EcruteakTinTowerEntrance_Text_SageDone:
 	.string "Truly are worthy.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "The TIN TOWER ahead is a nine-\n"
-	.string "tier tower of divine beauty.\p"
-	.string "It soothes the soul of all who\n"
-	.string "see it.$"
+	.string "La TORRE HOJALATA es una espléndida\n"
+	.string "torre de nueve pisos.\p"
+	.string "Alivia el alma de todos los que la\n"
+	.string "miran.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
 	.string "The TIN TOWER shook! A POKéMON must\n"
 	.string "have returned to the top!$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
-	.string "Two towers… Two POKéMON…\p"
-	.string "But when one burned down, both\n"
-	.string "POKéMON flew away, never to return.$"
+	.string "Dos torres… Dos POKéMON…\p"
+	.string "Pero cuando una se quemó, los dos\p"
+	.string "POKéMON huyeron y nunca volvieron.$"

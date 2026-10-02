@@ -72,35 +72,34 @@ GoldenrodDeptStore7_EventScript_Bugcatcher::
 	end
 
 GoldenrodDeptStore_Text_RoofPokefanF:
-    .string "Whew, I'm tired.\p"
-    .string "I sometimes come up to the rooftop\n"
-    .string "to take a break from shopping.$"
+	.string "Uf, estoy cansada. A veces vengo a la\n"
+	.string "azotea a tomarme un respiro.$"
 
 GoldenrodDeptStore_Text_RoofFisher:
-    .string "Pardon? Who says an adult can't get\n"
-    .string "into this?\p"
-    .string "I'm going to be back every day to\n"
-    .string "collect all the dolls!$"
+	.string "¿Perdona? ¿Quién dijo que un adulto\n"
+	.string "no podía meterse en esto?\p"
+	.string "¡Voy a volver todos los días para\n"
+	.string "coleccionar todos los muñecos!$"
 
 GoldenrodDeptStore_Text_RoofTwin:
-    .string "They have bargain sales here every\n"
-    .string "so often.$"
+	.string "Aquí suelen tener gangas a menudo.$"
 
 GoldenrodDeptStore_Text_RoofSuperNerdOhWow:
-    .string "Oh, wow!$"
+	.string "¡Oh, uau!$"
 
 GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
-    .string "Will you quit bothering me?$"
+	.string "¿Vas a dejarme en paz?$"
 
 GoldenrodDeptStore_Text_RoofPokefanM:
-    .string "There's something I really want,\n"
-    .string "but I don't have the necessary cash…\p"
-    .string "Maybe I'll sell off the BERRIES I've\n"
-    .string "collected…$"
+	.string "Hay algo que quiero realmente, pero no\n"
+	.string "tengo el dinero suficiente…\p"
+	.string "Es posible que venda las BAYAS que he\n"
+	.string "recogido…$"
 
 GoldenrodDeptStore_Text_RoofTeacher:
-    .string "Oh, everything is so cheap!\p"
-    .string "I bought so much, my PACK's crammed!$"
+	.string "¡Oh, todo está tan barato!\p"
+	.string "¡Compré tanto que mi MOCHILA está\n"
+	.string "abarrotada!$"
 
 GoldenrodDeptStore_Text_RoofBugCatcher:
     .string "My POKéMON always get paralyzed or\n"

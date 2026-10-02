@@ -274,14 +274,14 @@ BattleFrontier_OutsideWest_Text_ThisIsBattleTower_hns:
 	.string "POKéMON for elimination-style matches.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket_hns:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Buenas, ¿vienes para coger el ferry?\n"
+	.string "¿Puedo ver tu TICKET?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard_hns:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER} no tiene ningún TICKET…\p"
+	.string "Cuánto lo lamento.\p"
+	.string "Necesitas un TICKET para poder\n"
+	.string "subir a bordo del ferry.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo_hns:
 	.string "{PLAYER} flashed the TICKET.\p"
@@ -310,10 +310,10 @@ BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends_hns:
 	.string "I've been useless!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower_hns:
-	.string "I want to go to the BATTLE TOWER,\n"
-	.string "but I can't find it even though I have\l"
-	.string "a map of the BATTLE FRONTIER.\p"
-	.string "This place is just too big!$"
+	.string "Quiero ir a la TORRE BATALLA,\n"
+	.string "pero no la encuentro, y eso que tengo\l"
+	.string "un mapa del FRENTE de BATALLA…\p"
+	.string "¡Es que este sitio es muy grande!$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere_hns:
 	.string "I wanted to take a challenge as soon\n"
@@ -330,9 +330,9 @@ BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere_hns:
 	.string "know about the BATTLE FRONTIER.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons_hns:
-	.string "Hey, bro…\p"
-	.string "Are you sure we can make challenges\n"
-	.string "even if we don't have any POKéMON?$"
+	.string "Eh, colega…\p"
+	.string "¿Seguro que podemos combatir\n"
+	.string "aunque no tengamos ni un POKéMON?$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons_hns:
 	.string "Uh…\n"
@@ -378,8 +378,8 @@ BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling_hns:
 	.string "That's disappointing…$"
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol_hns:
-	.string "Today, I'm going to keep battling, no\n"
-	.string "matter what, until I get a Symbol.$"
+	.string "¡Hoy no pienso parar de combatir hasta\n"
+	.string "que no haya ganado un símbolo! ¡Ea!$"
 
 BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome_hns:
 	.string "Oh? You're off to challenge\n"
@@ -411,10 +411,10 @@ BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier_hns:
 	.string "my looks and ability!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople_hns:
-	.string "Munch, munch…\p"
-	.string "It looks like this square's filled with\n"
-	.string "tough people.\p"
-	.string "Munch, munch…$"
+	.string "Ñam, ñam…\p"
+	.string "Esta plaza está llena de tipos duros,\n"
+	.string "¿no crees?\p"
+	.string "Ñam, ñam…$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike_hns:
 	.string "Crunch, munch…\p"
@@ -444,12 +444,13 @@ BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering_hns:
 	.string "because my cheering was so loud!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine_hns:
-	.string "Oh, shush!\n"
-	.string "Keep that racket down!\p"
-	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some GYM LEADER!\p"
-	.string "The DOME ACE is mine!\n"
-	.string "The only idol for me!$"
+	.string "¡Venga, ya!\n"
+	.string "¡Dejad de discutir! ¡Parecéis críos!\p"
+	.string "¡Menudos fans de pacotilla!\n"
+	.string "¡No os merecéis animar\l"
+	.string "ni a un LÍDER de GIMNASIO!\p"
+	.string "¡El ASTRO de la CÚPULA es para mí!\n"
+	.string "¡Es mi único ídolo!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers_hns:
 	.string "Those people squabbling over there…\p"

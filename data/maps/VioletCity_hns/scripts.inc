@@ -398,22 +398,19 @@ VioletCity_Text_LiquidJustice:
 	.string "grass all day!$"
 
 VioletCity_Text_EarlAsksIfYouBeatFalkner:
-	.string "Hello!\n"
-	.string "You are trainer?\p"
-	.string "Battle GYM LEADER,\n"
-	.string "win you did?$"
+	.string "¡Hola! ¿Entrenas POKéMON? ¿Has\n"
+	.string "ganado al LÍDER del GIMNASIO?$"
 
 VioletCity_Text_VeryNiceIndeed:
-	.string "Ooh, la la!\n"
-	.string "Very indeed nice!$"
+	.string "¡Oh, la, la! ¡Muy bien!$"
 
 VioletCity_Text_FollowEarl:
-	.string "Is that so? Then study shall\n"
-	.string "you! Follow me!$"
+	.string "¿Es verdad? ¡Pues tú estudiarás!\n"
+	.string "¡Sígueme!$"
 
 VioletCity_Text_HereTeacherIAm:
-	.string "Here, teacher I am.\n"
-	.string "Good it is you study here!$"
+	.string "El profesor soy yo. ¡Bien está que\n"
+	.string "aquí estudies!$"
 
 VioletCity_Text_Lass:
 	.string "Ghosts are rumored to appear\n"
@@ -429,11 +426,10 @@ VioletCity_Text_Boy:
 	.string "you might learn something new!$"
 
 VioletCity_Text_Gramps:
-	.string "FALKNER, from the VIOLET\n"
-	.string "POKéMON GYM, is a fine trainer!\p"
-	.string "He inherited his father's gym\n"
-	.string "and has done a great job with\l"
-	.string "it.$"
+	.string "¡PEGASO, del GIMNASIO POKéMON\p"
+	.string "de CIUDAD MALVA, es magnífico!\p"
+	.string "Heredó el gimnasio de su padre y ha\n"
+	.string "hecho un gran trabajo.$"
 
 VioletCity_Text_Youngster:
 	.string "I saw a wiggly tree up ahead!\p"
@@ -441,8 +437,8 @@ VioletCity_Text_Youngster:
 	.string "and dances! Cool!$"
 
 VioletCity_Text_Sign:
-	.string "VIOLET CITY\p"
-	.string "The City of Nostalgic Scents$"
+	.string "CIUDAD MALVA\p"
+	.string "La ciudad de los aromas nostálgicos$"
 
 VioletCity_Text_GymSign:
 	.string "VIOLET CITY POKéMON GYM\p"
@@ -450,11 +446,11 @@ VioletCity_Text_GymSign:
 	.string "Master of Flying POKéMON$"
 
 VioletCity_Text_SproutTowerSign:
-	.string "SPROUT TOWER\p"
-	.string "Experience the Way of POKéMON$"
+	.string "TORRE BELLSPROUT\p"
+	.string "Vive la vida POKéMON$"
 
 VioletCity_Text_EarlsAcademySign:
-	.string "EARL'S POKéMON ACADEMY$"
+	.string "ACADEMIA POKéMON DE PRIMO$"
 
 VioletCity_Text_Pichu:
 	.string "PICHU: Chuuuu!$"
@@ -476,8 +472,8 @@ VioletCity_Text_Elm_Call:
 	.string "Could you talk to him?$"
 
 VioletCity_Text_Kimono_Girl1:
-.string "Me oh my...\n"
-.string "That EGG must be...!$"
+	.string "¡Oh! ¡Ese Huevo…!\p"
+	.string "$"
 
 VioletCity_Text_Kimono_Girl2:
 .string "I see...\p"
@@ -487,11 +483,13 @@ VioletCity_Text_Kimono_Girl2:
 .string "Now I get it...$"
 
 VioletCity_Text_Kimono_Girl3:
-.string "That EGG is truly an important EGG.\p"
-.string "Please do take good care of it\n"
-.string "for me. Is that understood?$"
+	.string "Ese Huevo es extremadamente\n"
+	.string "importante. Debéis cuidarlo con tesón.\p"
+	.string "¿Puedo confiar en que lo haréis?\p"
+	.string "$"
 
 VioletCity_Text_Kimono_Girl4:
-.string "I am counting on you.$"
+	.string "Entonces no me defraudéis.\p"
+	.string "$"
 
 

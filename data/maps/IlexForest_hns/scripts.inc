@@ -668,16 +668,16 @@ IlexForest_Text_ItsTheMissingPokemon:
 	.string "It's the missing POKéMON!$"
 
 IlexForest_Text_Kwaaaa:
-	.string "FARFETCH'D: Kwaa!$"
+	.string "FARFETCH'D: ¡Farf!$"
 
 IlexForest_Text_CharcoalMasterIntro:
-	.string "Ah! My FARFETCH'D!\p"
-	.string "You found it for us, kid?\p"
-	.string "Without it, we wouldn't be able\n"
-	.string "to CUT trees for charcoal.\p"
-	.string "Thanks, kid!\p"
-	.string "Now, how can I thank you…\p"
-	.string "I know! Here, take this.$"
+	.string "¡Ah! ¡Mi FARFETCH'D!\p"
+	.string "¿Lo encontraste para nosotros?\p"
+	.string "Sin su ayuda, no podríamos CORTAR\p"
+	.string "árboles para hacer carbón vegetal.\p"
+	.string "¡Gracias!\p"
+	.string "¿Cómo podría agradecértelo…?\p"
+	.string "¡Ya sé! Coge esto.$"
 
 IlexForest_Text_CharcoalMasterOutro:
 	.string "That's the CUT HM.\n"
@@ -687,19 +687,18 @@ IlexForest_Text_CharcoalMasterOutro:
 	.string "GYM BADGE from AZALEA to use it.$"
 
 IlexForest_Text_CharcoalMasterTalkAfter:
-	.string "Do you want to apprentice as a\n"
-	.string "charcoal maker with me?\p"
-	.string "You'll be first-rate in ten years!$"
+	.string "¿Quieres que te enseñe mi oficio? ¡En\n"
+	.string "diez años serás el mejor!$"
 
 IlexForest_Text_Lass:
-	.string "Did something happen to the\n"
-	.string "forest's guardian?$"
+	.string "¿Le ha pasado algo al guardián del\n"
+	.string "bosque?$"
 
 IlexForest_Text_Signpost:
-	.string "ILEX FOREST is so overgrown with\n"
-	.string "trees that you can't see the sky.\p"
-	.string "Please watch out for items that may\n"
-	.string "have been dropped.$"
+	.string "Hay tantos árboles en el ENCINAR que\n"
+	.string "no se ve ni el cielo.\p"
+	.string "Por favor, busca objetos que puedan\n"
+	.string "haber caído.$"
 
 IlexForest_Text_Shrine:
 	.string "ILEX FOREST SHRINE…\p"
@@ -717,7 +716,7 @@ IlexForest_Text_ShrineCelebiEvent:
 	.string "Want to put the GS BALL here?$"
 
 IlexForest_Text_InsertGSBall:
-	.string "{PLAYER} put in the GS BALL.$"
+	.string "{PLAYER} coloca la GS BALL.$"
 
 IlexForest_Text_KurtCaughtCelebi:
 	.string "Whew, wasn't that something!\p"
@@ -729,8 +728,8 @@ IlexForest_Text_KurtCaughtCelebi:
 	.string "I'm going!$"
 
 IlexForest_Text_BugCatcherWayneSeen:
-	.string "Don't sneak up on me like that!\p"
-	.string "You frightened a POKéMON away!$"
+	.string "¡No me des estos sustos!\p"
+	.string "¡Un POKéMON ha escapado asustado!$"
 
 IlexForest_Text_BugCatcherWayneBeaten:
 	.string "I hadn't seen that POKéMON before…$"
@@ -754,8 +753,9 @@ IlexForest_Text_Kimono_Girl2:
 	.string "get out of this forest?$"
 
 IlexForest_Text_Kimono_Girl3:
-	.string "Me oh my... You are lost yourself,\n"
-	.string "aren't you?$"
+	.string "¿Significa eso que vos también\n"
+	.string "desconocéis el camino?\p"
+	.string "$"
 
 IlexForest_Text_Kimono_Girl4:
 	.string "Wow! Are you going to show me how\n"

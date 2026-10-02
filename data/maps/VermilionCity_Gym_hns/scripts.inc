@@ -289,30 +289,28 @@ VermilionCity_Gym_EventScript_Surge_Defeated::
 	end
 
 VermilionGym_Text_LtSurgeIntro:
-	.string "SURGE: Hey, you little tyke!\p"
-	.string "I have to hand it to you.\n"
-	.string "It may not be very smart to\l"
-	.string "challenge me, but it takes guts!\p"
-	.string "When it comes to electric\n"
-	.string "POKéMON, I'm number one!\p"
-	.string "I've never lost on the\n"
-	.string "battlefield.\p"
-	.string "I'll zap you just like I did my\n"
-	.string "enemies in war!$"
+	.string "SURGE: ¡Eh, tú, joven!\p"
+	.string "Tengo que reconocerlo. No es que sea\n"
+	.string "inteligente desafiarme, ¡pero requiere\l"
+	.string "agallas!\p"
+	.string "Cuando se trata de POKéMON\p"
+	.string "eléctricos, ¡soy el número uno!\p"
+	.string "Nunca he perdido en la batalla.\p"
+	.string "¡Te electrocutaré como hice con el\n"
+	.string "enemigo en la guerra!$"
 
 VermilionGym_Text_LtSurgeWinLoss:
-	.string "SURGE: Arrrgh! You are strong!\p"
-	.string "OK, kid. You get THUNDERBADGE!$"
+	.string "SURGE: ¡Arrrgh! ¡Eres fuerte!\p"
+	.string "Vale, joven. ¡Toma la MEDALLA TRUENO!$"
 
 VermilionGym_Text_ReceivedThunderBadge:
 	.string "{PLAYER} received THUNDERBADGE.$"
 
 VermilionGym_Text_ThunderBadgeInfo:
-	.string "SURGE: THUNDERBADGE increases\n"
-	.string "POKéMON's speed.\p"
-	.string "Consider it proof that you\n"
-	.string "defeated me.\p"
-	.string "You wear it proudly, hear?$"
+	.string "SURGE: La MEDALLA TRUENO aumenta la\p"
+	.string "VELOCIDAD de los POKéMON.\p"
+	.string "Te la mereces por haberme vencido.\p"
+	.string "Llévala con orgullo, ¿me oyes?$"
 
 VermilionGym_Text_LtSurge_GiveTM:
 	.string "And take this TM. It served me\n"
@@ -329,9 +327,9 @@ VermilionGym_Text_LtSurgeThunderstone:
 
 
 VermilionGym_Text_LtSurgePostBattle:
-	.string "SURGE: Hey, kid! Still slugging\n"
-	.string "and chugging away?\p"
-	.string "My POKéMON and I are still at it!$"
+	.string "SURGE: ¡Eh, tú! ¿Todavía estás\n"
+	.string "molestando por aquí?\p"
+	.string "¡Mis POKéMON y yo seguimos en ello!$"
 
 VermilionGym_Text_SurgeRematch:
 	.string "SURGE: So, you're now KANTO\n"
@@ -349,20 +347,20 @@ VermilionGym_Text_GentlemanGregorySeen:
 	.string "Not if I can help it!$"
 
 VermilionGym_Text_GentlemanGregoryBeaten:
-	.string "Sorry I failed you,\n"
-	.string "LT.SURGE, sir!$"
+	.string "¡Cuánto siento haberle fallado, LT.\n"
+	.string "SURGE!$"
 
 VermilionGym_Text_GentlemanGregoryAfter:
 	.string "When I was still in the army,\n"
 	.string "LT.SURGE saved my life.$"
 
 VermilionGym_Text_GuitaristVincentSeen:
-	.string "LT.SURGE recognized my potential\n"
-	.string "with electric POKéMON.\p"
-	.string "Think you can beat me?$"
+	.string "El LT. SURGE reconoció mi potencial\n"
+	.string "con los POKéMON eléctricos.\p"
+	.string "¿Crees que puedes vencerme?$"
 
 VermilionGym_Text_GuitaristVincentBeaten:
-	.string "Ooh, how shocking!$"
+	.string "¡Ooh! ¡Increíble!$"
 
 VermilionGym_Text_GuitaristVincentAfter:
 	.string "Mom told me not to quit my\n"
@@ -371,16 +369,15 @@ VermilionGym_Text_GuitaristVincentAfter:
 	.string "success there either?$"
 
 VermilionGym_Text_JugglerHortonSeen:
-	.string "I'm going to take you down!\n"
-	.string "Prepare to be shocked!$"
+	.string "¡Voy a acabar contigo! ¡Vas a echar\n"
+	.string "chispas!$"
 
 VermilionGym_Text_JugglerHortonBeaten:
-	.string "Gwaaah! I was overpowered…$"
+	.string "¡Vaya! Me has vencido…$"
 
 VermilionGym_Text_JugglerHortonAfter:
-	.string "Don't get too comfortable about\n"
-	.string "beating me…\p"
-	.string "LT.SURGE is tough.$"
+	.string "No te relajes por haberme vencido…\p"
+	.string "LT. SURGE es muy fuerte.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
@@ -398,9 +395,8 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "be easy getting to him.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-	.string "Whew! That was an electrifying\n"
-	.string "bout!\p"
-	.string "It sure made me nervous.$"
+	.string "¡Vaya combate más electrizante!\p"
+	.string "¡Me has puesto muy nervioso!$"
 
 VermilionCity_Gym_Text_GymStatue::
     .string "VERMILION POKéMON GYM\n"

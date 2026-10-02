@@ -63,7 +63,9 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+	.string "Te doy la bienvenida.\p"
+	.string "¡Oh, tu POKéMON…!\p"
+	.string "$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
     .string "Wait, I already gave you that TM!$"
@@ -75,9 +77,9 @@ GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "some more effort.$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
-    .string "It's very attached to you.\p"
-    .string "This move should be perfect for a\n"
-    .string "pair like you.$"
+	.string "Está muy unido a ti.\p"
+	.string "Este movimiento sería perfecto para\n"
+	.string "vosotros.$"
 
 GoldenrodDeptStore_Text_5FLass:
     .string "During the day, a lady comes to check\n"
@@ -85,10 +87,10 @@ GoldenrodDeptStore_Text_5FLass:
     .string "She even gives away TMs!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
-    .string "You can't rename a POKéMON you get\n"
-    .string "in a trade.\p"
-    .string "The name is a reflection of the\n"
-    .string "original trainer's feelings for it.$"
+	.string "No puedes cambiar el nombre de un\p"
+	.string "POKéMON que has intercambiado.\p"
+	.string "El nombre refleja los sentimientos del\n"
+	.string "entrenador original.$"
 
 GoldenrodDeptStore_Text_Girl:
 	.string "The lady gave me RETURN!\n"
@@ -120,5 +122,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-    .string "Customize Your POKéMON\p"
-    .string "5F TM CORNER$"
+	.string "Personaliza a tus POKéMON\p"
+	.string "P4 TIENDA DE MT$"

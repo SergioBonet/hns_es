@@ -31,9 +31,9 @@ AzaleaPokeCenter_EventScript_PokefanF::
 	end
 
 AzaleaPokecenter_Text_Gentleman:
-	.string "Do your POKéMON know HM moves?\p"
-	.string "Those moves can be used even if\n"
-	.string "your POKéMON has fainted.$"
+	.string "¿Tus POKéMON saben movimientos MO?\p"
+	.string "Se pueden usar estos movimientos\n"
+	.string "aunque el POKéMON esté debilitado.$"
 
 AzaleaPokecenter_Text_UnusedPCExplanation:
 	.string "This BILL guy created the system\n"
@@ -42,8 +42,9 @@ AzaleaPokecenter_Text_UnusedPCExplanation:
 	.string "POKéMON per BOX.$"
 
 AzaleaPokecenter_Text_FishingGuru:
-	.string "BILL's PC can store up to 30\n"
-	.string "POKéMON per BOX.$"
+	.string "Gracias al Sistema de Almacenamiento\n"
+	.string "de Bill se pueden depositar hasta 30\l"
+	.string "POKéMON por Caja.$"
 
 AzaleaPokecenter_Text_PokefanF:
 	.string "Do you know about BERRIES?\p"

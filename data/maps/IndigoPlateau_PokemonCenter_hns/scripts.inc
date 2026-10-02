@@ -96,14 +96,14 @@ IndigoPlateau_Text_RivalEntrance1:
     .string "I challenge you!$"
 
 IndigoPlateau_Text_RivalWin:
-    .string "…\p"
-    .string "OK--I lost…$"
+	.string "…\p"
+	.string "Vale. He perdido.$"
 
 IndigoPlateau_Text_RivalAfter:
-    .string "…Darn… I still can't win…\p"
-    .string "I… I have to think more about my\n"
-    .string "POKéMON…\p"
-    .string "Humph! Try not to lose!$"
+	.string "¡Maldición…! Sigo sin ganar…\p"
+	.string "Yo… Tengo que pensar más en mis\n"
+	.string "POKéMON…\p"
+	.string "¡Umm! ¡Procura no perder!$"
 
 IndigoPlateau_EventScript_Psychic::
 	lock
@@ -146,19 +146,19 @@ IndigoPlateau_EventScript_Abra::
 	end
 
 IndigoPlateau_Text_TeleportGuy1:
-    .string "Ah! You're challenging the ELITE\n"
-    .string "FOUR? Are you sure you're ready?\p"
-    .string "If you need to train some more,\n"
-    .string "my ABRA can help you.\p"
-    .string "It can TELEPORT you home.\p"
-    .string "Would you like to go home now?$"
+	.string "¿Qué? ¿Vas a desafiar al ALTO\p"
+	.string "MANDO? ¿Seguro que quieres hacerlo?\p"
+	.string "Si necesitas entrenarte más, mi\p"
+	.string "ABRA te puede ayudar.\p"
+	.string "ABRA te puede TELETRANSPORTAR.\p"
+	.string "¿Te gustaría volver a casa?$"
 
 IndigoPlateau_Text_TeleportGuyYes:
-    .string "OK, OK. Picture your house in your\n"
-    .string "mind…$"
+	.string "Vale. Concéntrate en la imagen de tu\n"
+	.string "casa…$"
 
 IndigoPlateau_Text_TeleportGuyNo:
-    .string "OK, OK. The best of luck to you!$"
+	.string "Vale, vale. ¡Que tengas suerte!$"
 
 IndigoPlateau_Text_Abra:
     .string "ABRA: Aabra…$"

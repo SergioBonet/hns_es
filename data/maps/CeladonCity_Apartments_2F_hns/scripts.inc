@@ -15,16 +15,15 @@ CeladonCity_Apartments_2F_EventScript_Sign::
 	end
 
 CeladonMansion2F_Text_Computer:
-	.string "{PLAYER} turned on the PC.\p"
+	.string "{PLAYER} encendió el PC.\p"
 	.string "…\p"
-	.string "Someone was in the middle of\n"
-	.string "composing an e-mail.\p"
-	.string "…I hope you'll come visit KANTO.\p"
-	.string "I think you'll be surprised at\n"
-	.string "how much things have changed here.\p"
-	.string "You'll also see many POKéMON that\n"
-	.string "aren't native to JOHTO.\p"
-	.string "To the PRODUCER\p"
+	.string "Alguien estaba escribiendo un e-mail.\p"
+	.string "Espero que vengas a KANTO.\p"
+	.string "Te sorprenderás de cuánto han\n"
+	.string "cambiado las cosas por aquí.\p"
+	.string "También verás muchos POKéMON\p"
+	.string "que no son nativos de JOHTO.\p"
+	.string "Al PRODUCTOR\p"
 	.string "…$"
 
 CeladonMansion2F_Text_DevOfficeSign:

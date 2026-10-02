@@ -39,21 +39,22 @@ GoldenrodDeptStore1_EventScript_Directory::
 	end
 
 GoldenrodDeptStor1_Text_Receptionist:
-    .string "Welcome to GOLDENROD DEPT.STORE.$"
+	.string "Éste es el CENTRO COMERCIAL de\n"
+	.string "CIUDAD TRIGAL.$"
 
 GoldenrodDeptStore1_Text_Gentleman:
-    .string "The DEPT.STORE has a decent\n"
-    .string "selection.\p"
-    .string "But some items are only available\n"
-    .string "as GAME CORNER prizes.$"
+	.string "El CENTRO COMERCIAL tiene buenos\n"
+	.string "artículos.\p"
+	.string "Pero algunos objetos sólo se\n"
+	.string "consiguen en el CASINO.$"
 
 GoldenrodDeptStore1_Text_PokefanF:
-    .string "I'm raring to shop again today!$"
+	.string "¡Me encanta ir de compras!$"
 
 GoldenrodDeptStore1_Text_BugCatcher:
-    .string "Mom's good at bargain hunting.\p"
-    .string "She always buys stuff at lower\n"
-    .string "prices.$"
+	.string "Mamá es experta en conseguir gangas.\p"
+	.string "Siempre compra cosas a precios más\n"
+	.string "bajos.$"
 
 GoldenrodDeptStore1_Text_Directory:
     .string "1F SERVICE COUNTER\n"

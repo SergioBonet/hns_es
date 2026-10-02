@@ -86,18 +86,19 @@ CeladonGameCorner_EventScript_Woman::
 	end
 
 CeladonGameCorner_Text_PokefanM:
-	.string "The slot machines are all state\n"
-	.string "of the art.$"
+	.string "Todas las tragaperras son de última\n"
+	.string "generación.$"
 
 CeladonGameCorner_Text_Teacher:
-	.string "It's this machine I want.\p"
-	.string "It cleaned me out yesterday, so it\n"
-	.string "should pay out today.$"
+	.string "Quiero jugar en esta máquina.\p"
+	.string "Ayer me desplumó, así que hoy soltará\n"
+	.string "las fichas.$"
 
 CeladonGameCorner_Text_FishingGuru:
-	.string "I think this slot machine will pay\n"
-	.string "out…\p"
-	.string "The odds vary among machines.$"
+	.string "Creo que esta máquina está repleta de\n"
+	.string "fichas…\p"
+	.string "Las posibilidades de ganar varían\n"
+	.string "según la máquina.$"
 
 CeladonGameCorner_Text_Fisher1:
 	.string "Gahahaha!\p"
@@ -111,11 +112,10 @@ CeladonGameCorner_Text_Fisher2:
 	.string "things for other people!$"
 
 CeladonGameCorner_Text_GymGuide:
-	.string "Hey! CHAMP in making!\p"
-	.string "Are you playing the slots too?\p"
-	.string "I'm trying to get enough coins for\n"
-	.string "a prize POKéMON.\p"
-	.string "But I don't have enough coins yet…$"
+	.string "¿Tú también juegas a las tragaperras?\p"
+	.string "Quiero conseguir bastantes fichas\n"
+	.string "para cambiarlas por un POKéMON.\p"
+	.string "Pero aún no tengo suficientes…$"
 
 CeladonGameCorner_Text_PokefanF:
 	.string "Roulette…\p"

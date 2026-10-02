@@ -31,7 +31,7 @@ NewSinjoh_Cafe_Text_ResturantGreeting:
 	.string "How can I help you today?$"
 
 NewSinjoh_Cafe_Text_ResturantEnd:
-	.string "Please come again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 NewSinjoh_Cafe_EventScript_BaldingMan::
 	msgbox NewSinjoh_Cafe_Text_BaldingMan, MSGBOX_NPC

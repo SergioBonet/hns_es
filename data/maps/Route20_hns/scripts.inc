@@ -115,7 +115,7 @@ Route20_Text_Dewgong:
 	.string "DEWGONG: Goooong!$"
 
 Route20_Text_SeafoamSign:
-	.string "SEAFOAM ISLANDS$"
+	.string "ISLAS ESPUMA$"
 
 Route20_Text_NicoleRegister:
 	.string "Your POKéMON swims fast!\n"
@@ -133,38 +133,40 @@ Route20_Text_NicolePostRematch:
 	.string "so are my POKéMON!$"
 
 Route20_Text_SwimmerfNicoleSeen:
-	.string "I feel so much lighter in water.$"
+	.string "Me siento más ligera en el agua.$"
 
 Route20_Text_SwimmerfNicoleBeaten:
-	.string "Oh, no!$"
+	.string "¡Oh, no!$"
 
 Route20_Text_SwimmerfNicoleAfterBattle:
-	.string "Swimming exercises your full body.\p"
-	.string "It's really good for you.$"
+	.string "La natación fortalece todo tu cuerpo.\n"
+	.string "¡Es muy sana!$"
 
 Route20_Text_SwimmerfLoriSeen:
-	.string "What an impressive collection of\n"
-	.string "GYM BADGES. We should battle!$"
+	.string "¡Vaya colección de MEDALLAS de\p"
+	.string "GIMNASIO! ¡Luchemos!$"
 
 Route20_Text_SwimmerfLoriBeaten:
 	.string "No!$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
-	.string "SURF is no longer the only HM move\n"
-	.string "you use in water.$"
+	.string "SURF ya no es el único movimiento que\n"
+	.string "se utiliza en el agua.$"
 
 Route20_Text_SwimmermCameronSeen:
-	.string "I guess it's impossible to swim\n"
-	.string "all the way to JOHTO.$"
+	.string "Supongo que es imposible ir nadando\n"
+	.string "así hasta Johto.\p"
+	.string "$"
 
 Route20_Text_SwimmermCameronBeaten:
-	.string "Aiyah!$"
+	.string "¡Aiyaa!$"
 
 Route20_Text_SwimmermCameronAfterBattle:
-	.string "Besides the sea, I can also swim\n"
-	.string "in ponds and rivers.$"
+	.string "Además de nadar en el mar, puedo nadar\n"
+	.string "en estanques y ríos.$"
 
 Route20_Text_CinnabarIsland_GymUnusedSign:
-	.string "What does this sign say?\p"
-	.string "CINNABAR GYM LEADER: BLAINE$"
+	.string "¿Qué pone en este letrero?\p"
+	.string "LÍDER DEL GIMNASIO de ISLA CANELA:\n"
+	.string "BLAINE$"
 

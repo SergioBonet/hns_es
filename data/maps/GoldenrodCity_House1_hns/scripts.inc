@@ -105,8 +105,8 @@ GoldenrodCity_NameRatersHouse_Text_PleasedToRateMonNickname:
 	.string "POKéMON's nickname.$"
 
 GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Which POKéMON's nickname should\n"
-	.string "I critique?$"
+	.string "¿Qué mote de POKéMON quieres que\n"
+	.string "evalúe?$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
 	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
@@ -143,7 +143,7 @@ GoldenrodCity_NameRatersHouse_Text_MagnificentName:
 	.string "{STR_VAR_1} now and beyond.$"
 
 GoldenrodCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Now, now.\n"
-	.string "That is merely an EGG!$"
+	.string "Pero vamos a ver… ¡Esto es solo un\n"
+	.string "Huevo!$"
 
 

@@ -775,7 +775,7 @@ SinjohRuins_Lab_Text_DropedItem:
 	.string "an item...$"
 
 SinjohRuins_Lab_Text_StevenName:
-	.string "STEVEN$"
+	.string "MÁXIMO$"
 
 SinjohRuins_Lab_EventScript_3Plates::
 	setspeaker SinjohRuins_Lab_Text_StevenName

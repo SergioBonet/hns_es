@@ -73,10 +73,12 @@ BlackthornCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Would you like me to do that?$"
 
 BlackthornCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "¿Qué POKéMON debe olvidar\n"
+	.string "movimientos?\p"
+	.string "$"
 
 BlackthornCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "¿Qué movimiento debe olvidar?$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
 	.string "{STR_VAR_1} knows only one move\n"
@@ -189,7 +191,8 @@ BlackthornCity_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
 	.string "a move?$"
 
 BlackthornCity_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Which POKéMON needs tutoring?$"
+	.string "¿Qué POKéMON quieres que lo aprenda?\p"
+	.string "$"
 
 BlackthornCity_MoveRelearnersHouse_Text_TeachWhichMove:
 	.string "Which move should I teach?$"
@@ -200,8 +203,8 @@ BlackthornCity_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "I can teach that POKéMON.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
+	.string "{PLAYER} entregó una Escama Corazón a\n"
+	.string "cambio.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
 	.string "If your POKéMON need to learn a move,\n"

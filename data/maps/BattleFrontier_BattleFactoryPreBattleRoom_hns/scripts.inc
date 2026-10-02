@@ -471,8 +471,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent_hns:
 	.string "Are you ready?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent_hns:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "¡Ahora, el 4.º combate!\n"
+	.string "¿De acuerdo?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent_hns:
 	.string "The 5th match is next!\n"
@@ -487,8 +487,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent_hns:
 	.string "Are you ready?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "¿Quieres guardar la partida y salir del\n"
+	.string "juego?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge_hns:
 	.string "Would you like to retire from your\n"
@@ -499,8 +499,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent_hns:
 	.string "about your upcoming opponent.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "Al parecer, tiene grandes dotes para\n"
+	.string "entrenar POKéMON de tipo NORMAL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType_hns:
 	.string "The TRAINER is apparently skilled\n"
@@ -511,8 +511,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType_hns:
 	.string "in the handling of the WATER type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "Al parecer, tiene grandes dotes para\n"
+	.string "entrenar POKéMON de tipo ELÉCTRICO.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType_hns:
 	.string "The TRAINER is apparently skilled\n"
@@ -531,8 +531,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType_hns:
 	.string "in the handling of the POISON type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "Al parecer, tiene grandes dotes para\n"
+	.string "entrenar POKéMON de tipo TIERRA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType_hns:
 	.string "The TRAINER is apparently skilled\n"
@@ -559,24 +559,24 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType_hns:
 	.string "in the handling of the DRAGON type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "Al parecer, tiene grandes dotes para\n"
+	.string "entrenar POKéMON de tipo SINIESTRO.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType_hns:
 	.string "The TRAINER is apparently skilled\n"
 	.string "in the handling of the FAIRY type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "Al parecer, tiene grandes dotes para\n"
+	.string "entrenar POKéMON de tipo ACERO.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite_hns:
 	.string "The TRAINER appears to have no clear\n"
 	.string "favorites when it comes to type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady_hns:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "Dicen que su estilo de lucha es lento,\n"
+	.string "pero muy seguro.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance_hns:
 	.string "The favorite battle style appears to\n"
@@ -603,8 +603,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible_hns:
 	.string "be flexibly adaptable to the situation.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict_hns:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "Dicen que resulta imposible predecir\n"
+	.string "su estilo de lucha en el combate.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained_hns:
 	.string "The favorite battle style appears to\n"
@@ -619,11 +619,11 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete_hns:
 	.string "Your POKéMON swap is complete.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay_hns:
-	.string "Right this way, please!$"
+	.string "¡Por aquí, por favor!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait_hns:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Voy a guardar los datos.\n"
+	.string "Un momento, por favor.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle_hns:
 	.string "Would you like to record your latest\n"
@@ -650,5 +650,5 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead_hns:
 	.string "Are you prepared to face him?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead_hns:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Como comprenderás, no puedo darte\n"
+	.string "pistas sobre el JEFE de la FÁBRICA.$"

@@ -1003,8 +1003,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship_hns:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal_hns:
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
+	.string "¡Esta vez parece que se\n"
+	.string "ha propuesto ganar el título!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue_hns:

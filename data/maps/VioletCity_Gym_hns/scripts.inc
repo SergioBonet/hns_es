@@ -73,7 +73,7 @@ VioletGym_Text_Falkner_WinLoss:
 	.string "ZEPHYRBADGE.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
-	.string "{PLAYER} received ZEPHYRBADGE.$"
+	.string "{PLAYER} recibió la MEDALLA CÉFIRO.$"
 
 VioletGym_Text_Falkner_BadgeExplain:
 	.string "ZEPHYRBADGE raises the ATTACK\n"
@@ -93,12 +93,12 @@ VioletGym_Text_Falkner_TMExplain:
 	.string "POKéMON.$"
 
 VioletGym_Text_Falkner_AfterFight:
-	.string "There are POKéMON GYMS in cities\n"
-	.string "and towns ahead.\p"
-	.string "You should test your skills at\n"
-	.string "these GYMS.\p"
-	.string "I'm going to train harder to\n"
-	.string "become the greatest bird master!$"
+	.string "Encontrarás GIMNASIOS POKéMON\p"
+	.string "en las ciudades y en los pueblos.\p"
+	.string "Deberías probar tus habilidades en\n"
+	.string "estos GIMNASIOS.\p"
+	.string "¡Yo seguiré entrenándome para ser el\n"
+	.string "maestro de los pájaros!$"
 
 VioletGym_Text_Falkner_Rematch:
 	.string "Congratulations on defeating\n"
@@ -114,29 +114,28 @@ VioletGym_Text_Falkner_RematchLoss:
 	.string "become the greatest bird master!$"
 
 VioletGym_Text_BirdKeeperRod_Seen:
-	.string "The keyword is guts!\p"
-	.string "Those here are training night and\n"
-	.string "day to become bird POKéMON masters.\p"
-	.string "Come on!$"
+	.string "¡La clave está en tener valor!\p"
+	.string "Éstos se entrenan noche y día para\n"
+	.string "convertirse en maestros POKéMON.\p"
+	.string "¡Adelante!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
-	.string "Gaaah!$"
+	.string "¡Aaah!$"
 
 VioletGym_Text_BirdKeeperRod_After:
-	.string "FALKNER's skills are for real!\p"
-	.string "Don't get cocky just because\n"
-	.string "you beat me!$"
+	.string "¡La destreza de PEGASO es real!\p"
+	.string "¡No te confíes por haberme vencido!$"
 
 VioletGym_Text_BirdKeeperAbe_Seen:
-	.string "Let me see if you are good\n"
-	.string "enough to face FALKNER!$"
+	.string "¡Demuéstrame que vales lo suficiente\n"
+	.string "para luchar contra PEGASO!$"
 
 VioletGym_Text_BirdKeeperAbe_Beaten:
-	.string "This can't be true!$"
+	.string "¡No puede ser cierto!$"
 
 VioletGym_Text_BirdKeeperAbe_After:
-	.string "This is pathetic, losing to some\n"
-	.string "rookie trainer…$"
+	.string "Qué patético resulta perder contra\n"
+	.string "entrenadores novatos…$"
 
 VioletGym_Text_GymGuide_Intro:
 	.string "Hey! What's up? I'm no trainer,\n"
@@ -157,9 +156,8 @@ VioletGym_Text_GymGuide_Intro:
 	.string "their stuff!$"
 
 VioletGym_Text_GymGuide_Win:
-	.string "Nice battle! Keep it up,\n"
-	.string "and you'll be the CHAMP in no\l"
-	.string "time at all!$"
+	.string "¡Bonita batalla! ¡Sigue así y podrás\n"
+	.string "conseguir lo que quieras!$"
 
 VioletCity_Gym_EventScript_Statue::
 	lock
@@ -176,7 +174,7 @@ VioletCity_Gym_EventScript_Statue2::
 	end
 
 VioletCity_Gym_Text_GymStatue:
-	.string "VIOLET CITY POKéMON GYM$"
+	.string "Gimnasio POKéMON de CIUDAD MALVA$"
 
 VioletCity_Gym_Text_GymStatueCertified:
 	.string "VIOLET CITY POKéMON GYM\p"

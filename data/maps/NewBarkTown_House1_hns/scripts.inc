@@ -18,14 +18,14 @@ NewBarkTown_House1_EventScript_Daughter::
 	end
 
 NewBarkTown_House1_Text_NeighborsDaughter:
-	.string "PIKACHU is an evolved POKéMON.\p"
-	.string "I was amazed by PROF.ELM's\n"
-	.string "findings.\p"
-	.string "He's so famous for his research\n"
-	.string "on POKéMON evolution.\p"
-	.string "…sigh…\p"
-	.string "I wish I could be a researcher\n"
-	.string "like him…$"
+	.string "PIKACHU es un POKéMON evolucionado.\p"
+	.string "El descubrimiento del PROF. ELM me\n"
+	.string "deja impresionada.\p"
+	.string "Es muy famoso por su investigación\n"
+	.string "sobre la evolución POKéMON.\p"
+	.string "(Suspiro…)\p"
+	.string "Ojalá fuera una investigadora como\n"
+	.string "él…$"
 
 
 NewBarkTown_House1_Text_Neighbor:

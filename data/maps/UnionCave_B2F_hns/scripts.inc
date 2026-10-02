@@ -50,13 +50,13 @@ UnionCave_B2F_EventScript_Item_MaxRevive::
 	end
 
 UnionCave_B2F_Text_CooltrainermNickSeen:
-	.string "There are two kinds of people.\p"
-	.string "Those who have style, and those\n"
-	.string "who don't.\p"
-	.string "What kind of person are you?$"
+	.string "Hay dos tipos de personas.\p"
+	.string "Las que tienen estilo y las que no lo\n"
+	.string "tienen.\p"
+	.string "¿A qué tipo perteneces tú?$"
 
 UnionCave_B2F_Text_CooltrainermNickBeaten:
-	.string "You've got dazzling style!$"
+	.string "¡Tu estilo es deslumbrante!$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
 	.string "Your POKéMON style is stunning and\n"
@@ -64,24 +64,24 @@ UnionCave_B2F_Text_CooltrainermNickAfter:
 	.string "You'll just keep getting better!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
-	.string "I'm in training. Care for a round?$"
+	.string "Estoy entrenando. ¿Quieres luchar?$"
 
 UnionCave_B2F_Text_CooltrainerfGwenBeaten:
-	.string "Aww, no! You're too good for me.$"
+	.string "No, eres demasiado para mí.$"
 
 UnionCave_B2F_Text_CooltrainerfGwenAfter:
-	.string "I'm going to train by myself until I\n"
-	.string "improve.$"
+	.string "Seguiré entrenándome hasta que\n"
+	.string "mejore.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaSeen:
-	.string "If the POKéMON I liked were there,\n"
-	.string "I'd go anywhere.\p"
-	.string "That's what a real trainer does.$"
+	.string "Si los POKéMON que me gustan\n"
+	.string "estuvieran ahí, iría sin pensarlo.\p"
+	.string "Eso haría un buen entrenador.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
-	.string "I'd rather pet my babies than this!$"
+	.string "¡Preferiría cuidar de mis niños!$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
-	.string "Just once a week, a POKéMON comes to\n"
-	.string "the water's edge.\p"
-	.string "I wanted to see that POKéMON…$"
+	.string "Cada semana viene un POKéMON hasta la\n"
+	.string "orilla.\p"
+	.string "Quería ver a ese POKéMON…$"

@@ -97,13 +97,13 @@ FuchsiaCity_EventScript_SafariZone::
 	end
 
 FuchsiaCity_Text_Youngster:
-	.string "One of the ELITE FOUR used to be\n"
-	.string "the LEADER of FUCHSIA's GYM.$"
+	.string "Un miembro del ALTO MANDO era el\p"
+	.string "LÍDER del GIMNASIO de CIUDAD FUCSIA.$"
 
 FuchsiaCity_Text_PokefanM:
-	.string "KOGA's daughter succeeded him as\n"
-	.string "the GYM LEADER after he joined the\l"
-	.string "ELITE FOUR.$"
+	.string "La hija de KOGA le ha sucedido como\p"
+	.string "LÍDER del GIMNASIO cuando él se unió\n"
+	.string "al ALTO MANDO.$"
 
 FuchsiaCity_Text_Teacher:
 	.string "The SAFARI ZONE is under new\n"
@@ -111,18 +111,19 @@ FuchsiaCity_Text_Teacher:
 	.string "And it has tons of new POKéMON!$"
 
 FuchsiaCity_Text_Sign:
-	.string "FUCHSIA CITY\p"
-	.string "Behold! It's Passion Pink!$"
+	.string "CIUDAD FUCSIA\p"
+	.string "¡Mirad la CIUDAD FUCSIA! ¡La pasión\n"
+	.string "rosa!$"
 
 FuchsiaCity_Text_GymSign:
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: JANINE\p"
-	.string "The Poisonous Ninja Master$"
+	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
+	.string "CIUDAD FUCSIA: SACHIKO\p"
+	.string "La venenosa maestra ninja$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
-	.string "There's a notice here…\p"
-	.string "SAFARI ZONE OFFICE is closed until\n"
-	.string "further notice.$"
+	.string "Aquí hay una nota…\p"
+	.string "El PUESTO GUARDA DE LA ZONA SAFARI\p"
+	.string "está cerrado hasta nuevo aviso$"
 
 FuchsiaCity_Text_SafariZone:
 	.string "SAFARI ZONE\n"
@@ -130,11 +131,11 @@ FuchsiaCity_Text_SafariZone:
 	.string "DEVON CORP.$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:
-	.string "The WARDEN is traveling abroad.\p"
-	.string "Therefore, the SAFARI ZONE is\n"
-	.string "closed.$"
+	.string "El GUARDA está de viaje. Ésa es la\n"
+	.string "razón por la que la ZONA SAFARI está\l"
+	.string "cerrada$"
 
 FuchsiaCity_Text_NoLitteringSign:
-	.string "No littering.\p"
-	.string "Please take your waste with you.$"
+	.string "No ensuciar.\p"
+	.string "Por favor, no tirar basura$"
 

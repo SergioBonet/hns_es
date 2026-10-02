@@ -30,7 +30,9 @@ CeladonDeptStore5_EventScript_Receptionist_Already::
 	end
 
 CeladonDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+	.string "Te doy la bienvenida.\p"
+	.string "¡Oh, tu POKéMON…!\p"
+	.string "$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
     .string "Wait, I already gave you that TM!$"
@@ -42,8 +44,8 @@ CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "some more effort.$"
 
 CeladonDeptStore_Text_5FReceptionistItLooksEvilHowAboutThisTM:
-    .string "It looks evil. How about this TM\n"
-    .string "for it?$"
+	.string "Parece malvado. ¿Qué te parece esta\n"
+	.string "MT para él?$"
 
 CeladonDept5_EventScript_Gent::
 	msgbox CeladonDeptStore5F_Text_Gentleman, MSGBOX_NPC
@@ -80,18 +82,18 @@ CeladonDeptStore5_Text_Falkner:
 	.string "be at the DOJO in SAFFRON CITY.$"
 
 CeladonDeptStore5F_Text_Gentleman:
-	.string "I want to buy some items that\n"
-	.string "raise POKéMON stats, but I don't\l"
-	.string "have enough money…$"
+	.string "Quiero comprar objetos que aumenten\n"
+	.string "las habilidades de mis POKéMON. ¡Pero\l"
+	.string "no tengo dinero!$"
 
 CeladonDeptStore5F_Text_Sailor:
 	.string "I want PP UP, so I can raise the\n"
 	.string "PP of moves. But you can't buy it…$"
 
 CeladonDeptStore5F_Text_Teacher:
-	.string "Using items on them makes POKéMON\n"
-	.string "happy.\p"
-	.string "They hate certain items, though…$"
+	.string "Si usas objetos en tus POKéMON, se\n"
+	.string "pondrán contentos.\p"
+	.string "Aunque hay algunos que no les gustan.$"
 
 CeladonDeptStore5F_Text_Directory:
-	.string "5F: DRUG STORE$"
+	.string "P4: FARMACIA$"

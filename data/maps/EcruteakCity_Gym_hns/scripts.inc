@@ -77,7 +77,7 @@ EcruteakCity_Gym_EventScript_Statue2::
 	end
 
 EcruteakCity_Gym_Text_GymStatue:
-	.string "ECRUTEAK CITY POKéMON GYM$"
+	.string "Gimnasio POKéMON de CIUDAD IRIS$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
 	.string "ECRUTEAK CITY POKéMON GYM\p"
@@ -103,8 +103,8 @@ MortyIntroText:
 	.string "that level!$"
 
 MortyWinLossText:
-	.string "I'm not good enough yet...\p"
-	.string "All right. This BADGE is yours.$"
+	.string "Aún no soy lo bastante bueno…\p"
+	.string "De acuerdo. Esta MEDALLA es tuya.$"
 
 Text_ReceivedFogBadge:
 	.string "{PLAYER} received the FOGBADGE.$"
@@ -161,14 +161,14 @@ SageJeffreyBeatenText:
 	.string "them both.$"
 
 SageJeffreyAfterBattleText:
-	.string "Where did POKéMON come from?$"
+	.string "¿De dónde vienen los POKéMON?$"
 
 SagePingSeenText:
-	.string "Can you inflict any damage\n"
-	.string "on our POKéMON?$"
+	.string "¿Puedes causar algún daño a nuestros\n"
+	.string "POKéMON?$"
 
 SagePingBeatenText:
-	.string "Ah! Well done!$"
+	.string "¡Ah! ¡Bien hecho!$"
 
 SagePingAfterBattleText:
 	.string "We use GHOST-type POKéMON.\p"
@@ -176,10 +176,10 @@ SagePingAfterBattleText:
 	.string "harm them!$"
 
 MediumMarthaSeenText:
-	.string "I shall win!$"
+	.string "¡Ganaré!$"
 
 MediumMarthaBeatenText:
-	.string "I... I... I lost!$"
+	.string "¡He… he perdido!$"
 
 MediumMarthaAfterBattleText:
 	.string "The one who wants to win the\n"
@@ -190,7 +190,7 @@ MediumGraceSeenText:
 	.string "Defeat me if you want a hint!$"
 
 MediumGraceBeatenText:
-	.string "Wha-what?$"
+	.string "¿Có… cómo?$"
 
 MediumGraceAfterBattleText:
 	.string "Fine. I'll tell you the secret\n"
@@ -210,13 +210,11 @@ EcruteakCity_GymGuideText:
 	.string "nightmares...$"
 
 EcruteakCity_GymGuideWinText:
-	.string "Whew, {PLAYER}. You did great!\p"
-	.string "I was cowering in the corner\n"
-	.string "out of pure terror!$"
+	.string "¡Uauu, {PLAYER}! ¡Genial!\p"
+	.string "¡Me escondí en el rincón muerto de\n"
+	.string "miedo!$"
 
 EcruteakCity_GymClosedText:
-	.string "MORTY, the GYM LEADER, is\n"
-	.string "absent.\p"
-	.string "Sorry, but you'll have to\n"
-	.string "leave.\p"
-	.string "Hohohoho.$"
+	.string "MORTI, el LÍDER de GIMNASIO, no está.\p"
+	.string "Lo siento, pero tendrás que irte.\p"
+	.string "Jo, jo, jo, jo.$"

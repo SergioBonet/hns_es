@@ -12,8 +12,8 @@ Route22_EventScript_Sign::
 	end
 
 Route22_Text_VictoryRoadEntranceSign:
-	.string "POKéMON LEAGUE\p"
-	.string "VICTORY ROAD ENTRANCE$"
+	.string "LIGA POKéMON Acceso a la CALLE\n"
+	.string "VICTORIA$"
 
 Route22_EventScript_ResetActivation::
 	setvar VAR_TEMP_0, 0
@@ -299,10 +299,11 @@ Route22_Text_Giovanni1:
 	.string "stronger organization!$"
 
 Route22_Text_Silver2:
-	.string "{RIVAL}: What aspect of you was\n"
-	.string "number one?\p"
-	.string "Gathering so many only to be\n"
-	.string "defeated by a mere child!$"
+	.string "{RIVAL}: ¡Bah! Una organización\n"
+	.string "repleta de esbirros que en el momento\l"
+	.string "de la verdad se deja vencer por\l"
+	.string "alguien tan joven. ¡Qué vergüenza!\p"
+	.string "$"
 
 Route22_Text_Giovanni2:
 	.string "GIOVANNI: Putting together the\n"
@@ -316,8 +317,10 @@ Route22_Text_Giovanni2:
 	.string "revival of me and my TEAM ROCKET!$"
 
 Route22_Text_Silver3:
-	.string "{RIVAL}: I don't understand you!\p"
-	.string "You don't make any sense!$"
+	.string "{RIVAL}: ¡No entiendo toda esa\n"
+	.string "palabrería sin sentido!\p"
+	.string "¡No entiendo nada de tus desvaríos!\p"
+	.string "$"
 
 Route22_Text_Giovanni3:
 	.string ".......................\p"

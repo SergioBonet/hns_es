@@ -55,18 +55,18 @@ GoldenrodCity_BikeShop_Text_Clerk2:
 	.string "you will reach greater speeds!$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
-    .string "…sigh… I moved here, but I can't\n"
-    .string "sell my BICYCLES. Why is that?\p"
-    .string "Could you ride a BICYCLE and\n"
-    .string "advertise for me?$"
+	.string "(Suspiro…) Me trasladé aquí, pero no\n"
+	.string "vendo mis BICIS. ¿Por qué?\p"
+	.string "¿Montarías en una BICI para hacerme\n"
+	.string "publicidad?$"
 
 GoldenrodCity_BikeShop_Text_ClerkAgreed:
-    .string "Really? Great!\p"
-    .string "Give me your name and phone number,\n"
-    .string "and I'll loan you a BICYCLE.$"
+	.string "¿De verdad? ¡Bien!\p"
+	.string "Dime tu nombre y número de teléfono y\n"
+	.string "te prestaré una BICI.$"
 
 GoldenrodCity_BikeShop_Text_BorrowedBicycle:
-    .string "{PLAYER} borrowed a BICYCLE.$"
+	.string "{PLAYER} tomó prestada una BICI.$"
 
 GoldenrodCity_BikeShop_Text_Mainshop:
 	.string "Business has been hard to come\n"
@@ -79,12 +79,11 @@ GoldenrodCity_BikeShop_Text_Mainshop:
 	.string "Beware! You will then go faster!$"
 
 GoldenrodCity_BikeShop_Text_Refused:
-    .string "…sigh… Oh, for the kindness of\n"
-    .string "people…$"
+	.string "(Suspiro…) ¡Oh, rayos y centellas…!$"
 
 GoldenrodCity_BikeShop_Text_JustReleasedCompact:
-    .string "Just released!\p"
-    .string "First-rate compact BICYCLES!$"
+	.string "¡Lo último! ¡BICIS compactas de\n"
+	.string "máxima calidad!$"
 
 GoldenrodCity_BikeShop_Text_Bicycle:
-    .string "It's a shiny new BICYCLE!$"
+	.string "¡Es una BICI novísima!$"

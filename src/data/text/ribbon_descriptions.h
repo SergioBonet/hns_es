@@ -1,7 +1,7 @@
 const u8 gRibbonDescriptionPart1_Champion[] = _("CINTA HALL de la FAMA");
 const u8 gRibbonDescriptionPart2_Champion[] = _("por ganar al CAMPEÓN.");
 const u8 gRibbonDescriptionPart1_CoolContest[] = _("CONCURSO CARISMA");
-const u8 gRibbonDescriptionPart1_BeautyContest[] = _("BELLEZA");
+const u8 gRibbonDescriptionPart1_BeautyContest[] = _("CONCURSO BELLEZA");
 const u8 gRibbonDescriptionPart1_CuteContest[] = _("CONCURSO DULZURA");
 const u8 gRibbonDescriptionPart1_SmartContest[] = _("CONCURSO INGENIO");
 const u8 gRibbonDescriptionPart1_ToughContest[] = _("CONCURSO DUREZA");

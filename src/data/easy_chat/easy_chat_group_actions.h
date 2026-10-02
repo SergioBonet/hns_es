@@ -247,7 +247,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Actions[] = {
     },
     [EC_INDEX(EC_WORD_EATS)] =
     {
-        .text = COMPOUND_STRING("VENGO"),
+        .text = COMPOUND_STRING("COME"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_REFUSE),
         .enabled = TRUE,
     },

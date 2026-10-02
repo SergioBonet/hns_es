@@ -505,7 +505,7 @@ static const u8 sRegionMapSectionId_To_PopUpThemeIdMapping_BW[] =
 #endif
 };
 
-static const u8 sText_PyramidFloor1[] = _("PYRAMID FLOOR 1");
+static const u8 sText_PyramidFloor1[] = _("PIRÁMIDE- NV. 1");
 static const u8 sText_PyramidFloor2[] = _("PIRÁMIDE- NV. 2");
 static const u8 sText_PyramidFloor3[] = _("PIRÁMIDE- NV. 3");
 static const u8 sText_PyramidFloor4[] = _("PIRÁMIDE- NV. 4");

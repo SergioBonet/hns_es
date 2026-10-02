@@ -70,10 +70,10 @@ enum
 
 static const u8 sCreditsText_EmptyString[]                     = _("");
 static const u8 sCreditsText_PkmnHnS[]                         = _("POKéMON HEART & SOUL");
-static const u8 sCreditsText_LeadDeveloper[]                   = _("Lead Developer");
+static const u8 sCreditsText_LeadDeveloper[]                   = _("Desarrollador principal");
 static const u8 sCreditsText_LilDill[]                         = _("LIL DILL");
-static const u8 sCreditsText_Assets[]                          = _("Assets Sourced");
-static const u8 sCreditsText_Developers[]                      = _("Developers");
+static const u8 sCreditsText_Assets[]                          = _("Recursos utilizados");
+static const u8 sCreditsText_Developers[]                      = _("Desarrolladores");
 static const u8 sCreditsText_InfiniteBacon42[]                 = _("InfiniteBacon42");
 static const u8 sCreditsText_Exclsior[]                        = _("Exclsior");
 static const u8 sCreditsText_TixoRebel[]                       = _("TixoRebel");
@@ -86,7 +86,7 @@ static const u8 sCreditsText_Pinny[]                           = _("Pinny");
 static const u8 sCreditsText_Grintoul[]                        = _("Grintoul");
 
 
-static const u8 sCreditsText_Playtesters[]                     = _("Playtesters");
+static const u8 sCreditsText_Playtesters[]                     = _("Probadores");
 static const u8 sCreditsText_MearaTheDigger[]                  = _("MearaTheDigger");
 static const u8 sCreditsText_Kingofrocks[]                     = _("Kingofrocks");
 static const u8 sCreditsText_Ferropexola[]                     = _("Ferropexola");
@@ -128,17 +128,17 @@ static const u8 sCreditsText_Beliot419[]                       = _("Beliot419");
 static const u8 sCreditsText_shiningstar5022[]                 = _("shiningstar5022");
 static const u8 sCreditsText_Nettorizo[]                       = _("Nettorizo");
 
-static const u8 sCreditsText_Engine[]                          = _("Engine");
+static const u8 sCreditsText_Engine[]                          = _("Motor");
 static const u8 sCreditsText_Pret[]                            = _("pokeemerald - Pret");
 static const u8 sCreditsText_Resetes12[]                       = _("Modern Emerald - Resetes12");
 static const u8 sCreditsText_PokeemeraldExpansion[]            = _("Pokeemerald Expansion");
 
-static const u8 sCreditsText_Maps[]                            = _("Maps");
+static const u8 sCreditsText_Maps[]                            = _("Mapas");
 static const u8 sCreditsText_Kertra[]                          = _("Crystal Advance - Kertra");
 static const u8 sCreditsText_BlackFragrant[]                   = _("Fire Gold - blackfragrant");
 static const u8 sCreditsText_SkidMarc25[]                      = _("SkidMarc25");
 
-static const u8 sCreditsText_Tilesets[]                        = _("Tilesets");
+static const u8 sCreditsText_Tilesets[]                        = _("Gráficos de mapas");
 static const u8 sCreditsText_KertraTiles[]                     = _("Crystal advance - Kertra");
 static const u8 sCreditsText_Ekat99[]                          = _("Ekat99");
 static const u8 sCreditsText_TheDeadHeroAlistair[]             = _("TheDeadHeroAlistair");
@@ -148,7 +148,7 @@ static const u8 sCreditsText_lbsbezerra[]                      = _("lbsbezerra")
 static const u8 sCreditsText_WesleyFG[]                        = _("WesleyFG");
 static const u8 sCreditsText_Kalarie[]                         = _("Kalarie");
 
-static const u8 sCreditsText_Gameplay[]                        = _("Gameplay");
+static const u8 sCreditsText_Gameplay[]                        = _("Jugabilidad");
 static const u8 sCreditsText_TheSmithPlaysGameplay[]           = _("Crystal Legacy - TSP");
 
 static const u8 sCreditsText_Dialogue[]                        = _("Dialogue");
@@ -286,19 +286,19 @@ static const struct CreditsEntry sCreditsEntry_Zero = {11, FALSE, sCreditsText_Z
 
 
 
-static const u8 sCreditsText_PkmnEmeraldVersion[]             = _("POKéMON EMERALD VERSION");
-static const u8 sCreditsText_Credits[]                        = _("Credits");
-static const u8 sCreditsText_ExecutiveDirector[]              = _("Executive Director");
+static const u8 sCreditsText_PkmnEmeraldVersion[]             = _("POKéMON EDICIÓN ESMERALDA");
+static const u8 sCreditsText_Credits[]                        = _("Créditos");
+static const u8 sCreditsText_ExecutiveDirector[]              = _("Director ejecutivo");
 static const u8 sCreditsText_Director[]                       = _("Director");
 static const u8 sCreditsText_ArtDirector[]                    = _("Art Director");
 static const u8 sCreditsText_BattleDirector[]                 = _("Battle Director");
 static const u8 sCreditsText_MainProgrammer[]                 = _("Main Programmer");
 static const u8 sCreditsText_BattleSystemPgrms[]              = _("Battle System Programmers");
 static const u8 sCreditsText_FieldSystemPgrms[]               = _("Field System Programmer");
-static const u8 sCreditsText_Programmers[]                    = _("Programmers");
+static const u8 sCreditsText_Programmers[]                    = _("Programadores");
 static const u8 sCreditsText_MainGraphicDesigner[]            = _("Main Graphic Designer");
 static const u8 sCreditsText_GraphicDesigners[]               = _("Graphic Designers");
-static const u8 sCreditsText_PkmnDesigners[]                  = _("POKéMON Designers");
+static const u8 sCreditsText_PkmnDesigners[]                  = _("Diseño de POKéMON");
 static const u8 sCreditsText_MusicComposition[]               = _("Music Composition");
 static const u8 sCreditsText_SoundEffectsAndPkmnVoices[]      = _("Sound Effects & POKéMON Voices");
 static const u8 sCreditsText_GameDesigners[]                  = _("Game Designers");
@@ -308,20 +308,20 @@ static const u8 sCreditsText_ScriptDesigners[]                = _("Script Design
 static const u8 sCreditsText_MapDesigners[]                   = _("Map Designers");
 static const u8 sCreditsText_MapDataDesigners[]               = _("Map Data Designers");
 static const u8 sCreditsText_ParametricDesigners[]            = _("Parametric Designers");
-static const u8 sCreditsText_PokedexText[]                    = _("POKéDEX Text");
-static const u8 sCreditsText_EnvAndToolPgrms[]                = _("Environment & Tool Programmers");
+static const u8 sCreditsText_PokedexText[]                    = _("Textos de la POKéDEX");
+static const u8 sCreditsText_EnvAndToolPgrms[]                = _("Programación de herramientas");
 static const u8 sCreditsText_NCLProductTesting[]              = _("NCL Product Testing");
-static const u8 sCreditsText_SpecialThanks[]                  = _("Special Thanks");
-static const u8 sCreditsText_Coordinators[]                   = _("Coordinators");
-static const u8 sCreditsText_Producers[]                      = _("Producers");
-static const u8 sCreditsText_ExecProducers[]                  = _("Executive Producers");
+static const u8 sCreditsText_SpecialThanks[]                  = _("Agradecimientos");
+static const u8 sCreditsText_Coordinators[]                   = _("Coordinadores");
+static const u8 sCreditsText_Producers[]                      = _("Productores");
+static const u8 sCreditsText_ExecProducers[]                  = _("Productores ejecutivos");
 static const u8 sCreditsText_InfoSupervisors[]                = _("Information Supervisors");
-static const u8 sCreditsText_TaskManagers[]                   = _("Task Managers");
+static const u8 sCreditsText_TaskManagers[]                   = _("Gestión de tareas");
 static const u8 sCreditsText_BrailleCodeCheck[]               = _("Braille Code Check");
 static const u8 sCreditsText_WorldDirector[]                  = _("World Director");
 static const u8 sCreditsText_BattleFrontierData[]             = _("Battle Frontier Data");
-static const u8 sCreditsText_SupportProgrammers[]             = _("Support Programmers");
-static const u8 sCreditsText_Artwork[]                        = _("Artwork");
+static const u8 sCreditsText_SupportProgrammers[]             = _("Programación de apoyo");
+static const u8 sCreditsText_Artwork[]                        = _("Ilustraciones");
 static const u8 sCreditsText_LeadProgrammer[]                 = _("Lead Programmer");
 static const u8 sCreditsText_LeadGraphicArtist[]              = _("Lead Graphic Artist");
 static const u8 sCreditsText_SatoshiTajiri[]                  = _("Satoshi Tajiri");
@@ -415,13 +415,13 @@ static const u8 sCreditsText_KazukiYoshihara[]                = _("Kazuki Yoshih
 static const u8 sCreditsText_RetsujiNomoto[]                  = _("Retsuji Nomoto");
 static const u8 sCreditsText_AzusaTajima[]                    = _("Azusa Tajima");
 static const u8 sCreditsText_ShusakuEgami[]                   = _("Shusaku Egami");
-static const u8 sCreditsText_PackageAndManual[]               = _("Package & Manual Illustration");
-static const u8 sCreditsText_EnglishVersion[]                 = _("English Version Coordinators");
+static const u8 sCreditsText_PackageAndManual[]               = _("Ilustración de caja y manual");
+static const u8 sCreditsText_EnglishVersion[]                 = _("Coordinación versión inglesa");
 static const u8 sCreditsText_Translator[]                     = _("Translator");
 static const u8 sCreditsText_TextEditor[]                     = _("Text Editor");
 static const u8 sCreditsText_NCLCoordinator[]                 = _("NCL Coordinator");
-static const u8 sCreditsText_GraphicDesigner[]                = _("Graphic Designer");
-static const u8 sCreditsText_NOAProductTesting[]              = _("NOA Product Testing");
+static const u8 sCreditsText_GraphicDesigner[]                = _("Diseño gráfico");
+static const u8 sCreditsText_NOAProductTesting[]              = _("Pruebas de producto NOA");
 static const u8 sCreditsText_HideyukiNakajima[]               = _("Hideyuki Nakajima");
 static const u8 sCreditsText_HidenoriSaeki[]                  = _("Hidenori Saeki");
 static const u8 sCreditsText_YokoWatanabe[]                   = _("Yoko Watanabe");

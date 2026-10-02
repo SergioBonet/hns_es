@@ -24,6 +24,5 @@ MrPsychic_Text_1:
 	.string "¡Tú lo quisiste!$"
 
 MrPsychic_Text_2:
-	.string "TM29 is PSYCHIC.\p"
-	.string "It may lower the target's\n"
-	.string "SP.DEF.$"
+	.string "La MT29 es PSÍQUICO.\p"
+	.string "Puede bajar la DEF. ESP. del objetivo.$"

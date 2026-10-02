@@ -90,13 +90,13 @@ SaffronCity_Gym_Text_MarshBadgeInfo:
 	.string "¡Llegarás a ser lo que te propongas!$"
 
 SaffronCity_Gym_Text_Sabrina_GiveTM:
-	.string "Here, take this as well.$"
+	.string "Toma, quédate también esto.$"
 
 SaffronCity_Gym_Text_Sabrina_ExplainTM:
-	.string "It holds SKILL SWAP.\p"
-	.string "It can take your opponents' abilities\n"
-	.string "away from them and give them your own.\p"
-	.string "Use it wisely...$"
+	.string "Contiene INTERCAMBIO.\p"
+	.string "Puede quitarles las habilidades a tus\n"
+	.string "rivales y darles las tuyas.\p"
+	.string "Úsalo con sabiduría…$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "SABRINA: Tu amor por tus POKéMON\p"
@@ -105,16 +105,15 @@ SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "de poder psíquico…$"
 
 SaffronCity_Gym_Text_SabrinaRematch:
-	.string "SABRINA: Ah, the KANTO CHAMPION.\p"
-	.string "I sensed your return.\p"
-	.string "Your power has grown immensely.\p"
-	.string "Even now, I feel your aura.\p"
-	.string "Want to have a rematch with me?$"
+	.string "SABRINA: Ah, el CAMPEÓN de KANTO.\p"
+	.string "Presentía tu regreso.\p"
+	.string "Tu poder ha crecido enormemente.\p"
+	.string "Incluso ahora siento tu aura.\p"
+	.string "¿Quieres la revancha?$"
 
 SaffronCity_Gym_Text_SabrinaRematchDefeat:
-	.string "SABRINA: Your love for your\n"
-	.string "POKéMON again overwhelmed my\l"
-	.string "psychic power…$"
+	.string "SABRINA: Tu amor por tus POKéMON ha\n"
+	.string "vuelto a superar mi poder psíquico…$"
 
 SaffronCity_Gym_Text_MediumRebeccaSeen:
 	.string "¡El poder de todos a los que venciste\n"
@@ -134,8 +133,8 @@ SaffronCity_Gym_Text_PsychicFranklinBeaten:
 	.string "¡Tu alma tiene más poder que la mía!$"
 
 SaffronCity_Gym_Text_PsychicFranklinAfter:
-	.string "You made your soul stronger, not\n"
-	.string "just your abilities.$"
+	.string "No solo has fortalecido tus\n"
+	.string "habilidades, también tu alma.$"
 
 SaffronCity_Gym_Text_MediumDorisSeen:
 	.string "¡Fufufufu…! Lo veo claramente.\p"
@@ -186,13 +185,13 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+	.string "GIMNASIO POKéMON DE CIUDAD AZAFRÁN\n"
+	.string "LÍDER: SABRINA\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+	.string "GIMNASIO POKéMON DE CIUDAD AZAFRÁN\n"
+	.string "LÍDER: SABRINA\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO, {PLAYER}$"

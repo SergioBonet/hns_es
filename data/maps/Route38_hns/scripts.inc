@@ -177,36 +177,36 @@ Route38_Text_SailorHarryAfter:
 	.string "con los POKéMON.$"
 
 Route38_Text_BeautyOliviaSeen:
-	.string "Don't you think my POKéMON\n"
-	.string "and I are beautiful?$"
+	.string "¿No te parece que mis POKéMON y yo\n"
+	.string "somos preciosos?$"
 
 Route38_Text_BeautyOliviaBeaten:
 	.string "Bebemos LECHE MU-MU a diario.$"
 
 Route38_Text_BeautyOliviaAfter:
-	.string "MOOMOO MILK is good for\n"
-	.string "beauty and health,\p"
-	.string "but inconveniently, they\n"
-	.string "only sell one bottle at a time.$"
+	.string "La LECHE MU-MU es buena para la\n"
+	.string "belleza y la salud,\p"
+	.string "pero, por desgracia, solo venden una\n"
+	.string "botella cada vez.$"
 
 Route38_Text_Sign:
 	.string "RUTA 38\p"
 	.string "CIUDAD OLIVO - CIUDAD IRIS$"
 
 Route38_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "If a POKéMON is trying to\n"
-	.string "evolve, you can stop it.\p"
-	.string "Press the B Button during\n"
-	.string "evolution to cancel it.\p"
-	.string "That startles the POKéMON\n"
-	.string "and stops its evolution.$"
+	.string "PISTAS para ENTRENADORES\p"
+	.string "Si un POKéMON intenta evolucionar,\n"
+	.string "puedes impedirlo.\p"
+	.string "Pulsa el Botón B durante la evolución\n"
+	.string "para cancelarla.\p"
+	.string "Eso sobresalta al POKéMON y detiene\n"
+	.string "su evolución.$"
 
 
 Route38_Text_WaterSign:
-	.string "NO SWIMMING OR FISHING.\n"
-	.string "WATER FOR FARMING ONLY.\p"
-	.string "-ECRUTEAK COUNCIL$"
+	.string "PROHIBIDO NADAR Y PESCAR.\n"
+	.string "AGUA SOLO PARA LA GRANJA.\p"
+	.string "- AYUNTAMIENTO DE CIUDAD IRIS$"
 
 Route38_Text_DanaRegister:
 	.string "¡Tengo una buena noticia!\p"
@@ -227,14 +227,12 @@ Route38_Text_DanaPostRematch:
 	.string "es famosa por su sabor.$"
 
 Route38_Text_DanaHasItem:
-	.string "Hey! I found something\n"
-	.string "interesting!\p"
-	.string "Here, you can have it!$"
+	.string "¡Eh! ¡He encontrado algo interesante!\p"
+	.string "¡Toma, para ti!$"
 
 Route38_Text_DanaGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "¡Te avisaré si encuentro algo más!$"
 
 Route38_Text_DanaNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "Mmm, tienes la MOCHILA llena.\p"
+	.string "Vuelve cuando tengas sitio.$"

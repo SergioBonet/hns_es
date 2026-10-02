@@ -24,18 +24,18 @@ Route2_EventScript_Nugget::
     end
 
 Route2_Text_RobRegister:
-	.string "Let me get your number!$"
+	.string "¡Dame tu número!$"
 
 Route2_Text_RobRematchIntro:
-	.string "I've caught even more bugs!\n"
-	.string "Check them out!$"
+	.string "¡He atrapado aún más bichos! ¡Míralos!$"
 
 Route2_Text_RobRematchDefeat:
-	.string "I need better bugs!$"
+	.string "¡Necesito bichos mejores!$"
 
 Route2_Text_RobPostRematch:
-	.string "I caught every bug in VIRIDIAN.\n"
-	.string "Is there a better FOREST somewhere?$"
+	.string "He atrapado todos los bichos de\n"
+	.string "CIUDAD VERDE. ¿Habrá algún BOSQUE\l"
+	.string "mejor por ahí?$"
 
 Route2_Text_BugCatcherRob_Seen:
 	.string "Mis POKéMON bicho son muy fuertes.\p"
@@ -72,8 +72,8 @@ Route2_Text_BugCatcherDoug_AfterBattle:
 	.string "¡Me encanta tocarlos!$"
 
 Route2_Text_Sign:
-	.string "ROUTE 2\p"
-	.string "VIRIDIAN CITY - PEWTER CITY$"
+	.string "RUTA 2\p"
+	.string "CIUDAD VERDE - CIUDAD PLATEADA$"
 
 Route2_Text_DiglettsCaveSign:
 	.string "CUEVA DIGLETT$"

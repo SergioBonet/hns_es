@@ -30,12 +30,12 @@ LavenderTown_PokemonCenter1F_Text_Gentleman:
 	.string "ENERGÍA.$"
 
 LavenderTown_PokemonCenter1F_Text_Teacher:
-	.string "There's a radio program that plays\n"
-	.string "POKé FLUTE music.\p"
-	.string "Oh? Ah, your radio needs a RADIO\n"
-	.string "UPGRADE to tune into it.\p"
-	.string "Maybe the RADIO STATION here\n"
-	.string "in town can provide you one?$"
+	.string "Hay un programa de radio que emite\n"
+	.string "música de la POKé FLAUTA.\p"
+	.string "¿Eh? Ah, tu radio necesita una MEJORA\n"
+	.string "de RADIO para sintonizarlo.\p"
+	.string "¿Quizás la EMISORA DE RADIO de aquí\n"
+	.string "te pueda dar una?$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
 	.string "Si la CENTRAL ENERGÍA no está en\n"

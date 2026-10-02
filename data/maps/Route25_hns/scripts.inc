@@ -26,12 +26,12 @@ Route25_EventScript_MistyRematch::
     end
 
 Route25_Text_Misty:
-    .string "MISTY: I love the sunset here!\n"
-	.string "It gives me the courage to go on,\l"
-	.string "you know?\p"
-	.string "Right!\p"
-	.string "If you're ready for a real splash,\n"
-	.string "meet me at the FIGHTING DOJO!$"
+	.string "MISTY: ¡Me encanta la puesta de sol de\n"
+	.string "aquí! Me da ánimos para seguir\l"
+	.string "adelante, ¿sabes?\p"
+	.string "¡Eso es!\p"
+	.string "Si estás listo para mojarte de verdad,\n"
+	.string "¡ven a verme al DOJO KARATE!$"
 
 Route25_EventScript_Dudley::
 	trainerbattle_single TRAINER_DUDLEY_HNS, Route25_Text_SchoolboyDudleySeen, Route25_Text_SchoolboyDudleyBeaten
@@ -191,31 +191,23 @@ Route25_Trigger_SuicuneLeftLeft::
 	goto Route25_Trigger_SuicuneLeft
 
 Route25_Text_Eusine1:
-	.string "EUSINE: Puff, puff...\n"
-	.string "I am... no match for you.\p"
-	.string "...As I predicted.\n"
-	.string "..........................\l"
-	.string "... Go ahead.\p"
-	.string "Since I met you in the BURNED TOWER\n"
-	.string "at ECRUTEAK CITY, I've sort of\l"
-	.string "known that SUICUNE would choose\l"
-	.string "you.$"
+	.string "EUSINE: Uf, uf… No soy… rival para ti.\p"
+	.string "… Como predije. …… … Adelante.\p"
+	.string "Desde que te conocí en la TORRE\n"
+	.string "QUEMADA de CIUDAD IRIS, intuía que\l"
+	.string "SUICUNE te elegiría a ti.$"
 
 Route25_Text_Eusine2:
-	.string "Take a look at it!\p"
-	.string "SUICUNE is waiting for you!\n"
-	.string "It has been waiting for a battle\l"
-	.string "with a worthy trainer to whom it\l"
-	.string "can entrust itself.$"
+	.string "¡Míralo!\p"
+	.string "¡SUICUNE te está esperando! Esperaba\n"
+	.string "un combate con un ENTRENADOR digno al\l"
+	.string "que poder confiarse.$"
 
 Route25_Text_Eusine3:
-	.string "{PLAYER}...\n"
-	.string "You two are truly amazing...\p"
-	.string "I have never seen a battle this\n"
-	.string "intense!\l"
-	.string "I have no regrets...\p"
-	.string "Farewell, SUICUNE!\n"
-	.string "Farewell... {PLAYER}!$"
+	.string "{PLAYER}… Sois increíbles los dos…\p"
+	.string "¡Nunca había visto un combate tan\n"
+	.string "intenso! No me arrepiento de nada…\p"
+	.string "¡Adiós, SUICUNE! ¡Adiós… {PLAYER}!$"
 
 Route25_EventScript_Eusine::
 	msgbox Route25_Text_Eusine2, MSGBOX_NPC

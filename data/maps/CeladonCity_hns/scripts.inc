@@ -20,10 +20,10 @@ CeladonCity_EventScript_Erika::
     end
 
 CeladonCity_Text_Erika:
-    .string "Oh, {PLAYER}.\n"
-	.string "Isn't the fountain lovely today?\p"
-	.string "If you wish for another battle,\n"
-	.string "I'll be at the FIGHTING DOJO.$"
+	.string "Oh, {PLAYER}. ¿Verdad que la fuente\n"
+	.string "está preciosa hoy?\p"
+	.string "Si quieres otro combate, estaré en el\n"
+	.string "DOJO KARATE.$"
 
 CeladonCity_EventScript_Fatman::
 	msgbox CeladonCity_Text_Fisher, MSGBOX_NPC
@@ -156,13 +156,13 @@ CeladonCity_Text_MansionSign:
 	.string "MANSIÓN AZULONA$"
 
 CeladonCity_Text_GameCornerSign:
-	.string "The Playground for Everybody--\n"
-	.string "CELADON GAME CORNER$"
+	.string "El lugar de diversión para todos:\n"
+	.string "CASINO de CIUDAD AZULONA$"
 
 CeladonCity_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
-	.string "against SPECIAL attacks such as\l"
-	.string "FLAMETHROWER and SURF.\p"
-	.string "Get your items at CELADON DEPT.\n"
-	.string "STORE!$"
+	.string "PISTAS para ENTRENADORES\p"
+	.string "La PROTECCIÓN X protege a los\n"
+	.string "POKéMON de los ataques ESPECIALES,\l"
+	.string "como LANZALLAMAS y SURF.\p"
+	.string "¡Compra tus objetos en el CENTRO\n"
+	.string "COMERCIAL de CIUDAD AZULONA!$"

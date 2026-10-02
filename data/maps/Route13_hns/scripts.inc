@@ -133,25 +133,26 @@ Route13_Text_PokefanmAlexAfterBattle:
 	.string "mundo?$"
 
 Route13_Text_AlexRegister:
-	.string "You're not royalty but you're good.\n"
-	.string "Let me get your number.$"
+	.string "No eres de la realeza, pero eres bueno.\n"
+	.string "Dame tu número.$"
 
 Route13_Text_AlexRematchIntro:
-	.string "I've added knights to my court!\n"
-	.string "Let's battle!$"
+	.string "¡He añadido caballeros a mi corte!\n"
+	.string "¡Luchemos!$"
 
 Route13_Text_AlexRematchDefeat:
-	.string "Dethroned again…$"
+	.string "Destronado otra vez…$"
 
 Route13_Text_AlexPostRematch:
-	.string "Maybe I'm just a pawn after all.$"
+	.string "Quizá solo sea un peón, después de\n"
+	.string "todo.$"
 
 Route13_Text_PokefanmJoshuaSeen:
 	.string "¡Jijiji! ¿Quieres luchar contra mi\n"
 	.string "grupo de PIKACHU?$"
 
 Route13_Text_PokefanmJoshuaBeaten:
-	.string "PI-PIKACHU!$"
+	.string "¡PI-PIKACHU!$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
 	.string "Parece que tienes muchos POKéMON,\n"
@@ -193,27 +194,27 @@ Route13_Text_HikerKennyAfterBattle:
 	.string "poco.$"
 
 Route13_Text_KennyRegister:
-	.string "Maybe POKéMON change over time too.\n"
-	.string "Let's battle again sometime!$"
+	.string "Quizá los POKéMON también cambian con\n"
+	.string "el tiempo. ¡Luchemos otra vez algún\l"
+	.string "día!$"
 
 Route13_Text_KennyRematchIntro:
-	.string "I've learned from geology!\n"
-	.string "Let's go!$"
+	.string "¡He aprendido de la geología! ¡Vamos!$"
 
 Route13_Text_KennyRematchDefeat:
-	.string "Still not enough…$"
+	.string "Aún no es suficiente…$"
 
 Route13_Text_KennyPostRematch:
-	.string "The power of POKéMON is like\n"
-	.string "erosion. We will persevere!$"
+	.string "El poder de los POKéMON es como la\n"
+	.string "erosión. ¡Perseveraremos!$"
 
 Route13_Text_TrainerTips:
 	.string "PISTAS ENTRENADOR\p"
 	.string "¡Mira! Allí, a la izquierda del poste$"
 
 Route13_Text_Sign:
-	.string "ROUTE 13\p"
-	.string "NORTH TO SILENCE BRIDGE$"
+	.string "RUTA 13\p"
+	.string "AL NORTE, PUENTE SILENCIO$"
 
 Route13_Text_DirectionsSign:
 	.string "HACIA EL NORTE AL PUEBLO LAVANDA\p"
@@ -420,33 +421,35 @@ Route13_Movement_BoatArrive:
 	step_end
 
 Route13_GetOffBoat_Text_0:
-	.string "Welcome back to mainland Kanto!\p"
-	.string "Come back if you'd like to take a trip\n"
-	.string "to the ALOLA ISLES!$"
+	.string "¡Bienvenido de nuevo al continente, a\n"
+	.string "KANTO!\p"
+	.string "Vuelve si quieres hacer un viaje a las\n"
+	.string "ISLAS ALOLA.$"
 
 Route13_TravelToAlola_Text_0:
-	.string "Ahoy there!\p"
-	.string "That's one strange souvenir.\n"
-	.string "You must be from the ISLES!$"
+	.string "¡Ah del barco!\p"
+	.string "Menudo recuerdo tan raro. ¡Tú debes\n"
+	.string "de ser de las ISLAS!$"
 Route13_TravelToAlola_Text_0_5:
-	.string "Would you like to take the next ship?\n"
-	.string "It departs shortly!$"
+	.string "¿Quieres coger el próximo barco? ¡Sale\n"
+	.string "enseguida!$"
 
 Route13_TravelToAlola_Text_1:
-	.string "Ahoy! Let's get you on board!$"
+	.string "¡Ah del barco! ¡Sube a bordo!$"
 
 Route13_TravelToAlola_Text_2:
-	.string "Ahoy!\n"
-	.string "Come back when you'd like to set sail.$"
+	.string "¡Ah del barco! Vuelve cuando quieras\n"
+	.string "zarpar.$"
 
 Route13_TravelToAlola_Text_3:
-	.string "Ah, it's you again!\n"
-	.string "Do you want to go to the ALOLA ISLES?$"
+	.string "¡Ah, otra vez tú! ¿Quieres ir a las\n"
+	.string "ISLAS ALOLA?$"
 
 Route13_TravelToAlola_Text_4:
-	.string "Ahoy!\n"
-	.string "This port is for residents only.\p"
-	.string "All of the residents of these ISLES\n"
-	.string "carry some… {PAUSE 30}strange souvenirs.\p"
-	.string "It makes them so easy to identify,\n"
-	.string "I don't even need to check tickets!$"
+	.string "¡Ah del barco!\p"
+	.string "Este puerto es solo para residentes.\p"
+	.string "Todos los residentes de estas ISLAS\n"
+	.string "llevan algún… {PAUSE 30}recuerdo raro.\p"
+	.string "¡Así se les reconoce tan fácilmente\n"
+	.string "que ni siquiera tengo que revisar los\l"
+	.string "billetes!$"

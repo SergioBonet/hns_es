@@ -10,10 +10,12 @@ BlackthornMart_EventScript_BlackBelt::
 	end
 
 BlackthornMart_Text_CooltrainerM:
-	.string "You can't buy MAX REVIVE, but it\n"
-	.string "fully restores a fainted POKéMON.\p"
-	.string "Beware--it won't restore PP, the\n"
-	.string "POWER POINTS needed for moves.$"
+	.string "El REVIVIR MÁXIMO no se puede\n"
+	.string "comprar, pero restaura por completo a\l"
+	.string "un POKéMON debilitado.\p"
+	.string "Cuidado: no recupera los PP, los\n"
+	.string "PUNTOS de PODER necesarios para los\l"
+	.string "movimientos.$"
 
 BlackthornMart_Text_BlackBelt:
 	.string "REPELENTE MÁXIMO evita que se\n"

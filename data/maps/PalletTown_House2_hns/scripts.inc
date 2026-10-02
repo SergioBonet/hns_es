@@ -76,10 +76,10 @@ PalletTown_House2_Text_Alright:
 	.string "aspecto enseguida.$"
 
 PalletTown_House2_Text_AllDone:
-	.string "DAISY: There you go! All done.\p"
-	.string "See? Doesn't {STR_VAR_1} look\n"
-	.string "nice?\p"
-	.string "It's such a cute POKéMON.$"
+	.string "DALIA: ¡Ya está! Terminado.\p"
+	.string "¿Lo ves? ¿A que {STR_VAR_1} está muy\n"
+	.string "guapo?\p"
+	.string "Es un POKéMON muy mono.$"
 
 PalletTown_House2_Text_AlreadyGroomed:
 	.string "DALIA: Siempre tomo té a esta hora.\n"

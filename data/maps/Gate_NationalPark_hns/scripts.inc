@@ -207,39 +207,41 @@ Gate_NationalPark_Movement_Player_EnterParkBotB:
 	step_end
 
 Route35NationalParkGate_Text_OfficerAskToParticipate:
-	.string "Hello Trainer! The Bug-Catching\n"
-	.string "Contest is on today.\p"
-	.string "The rules are simple.\p"
-	.string "Using one of your POKéMON, catch a\n"
-	.string "bug POKéMON to be judged.\p"
-	.string "Would you like to give it a try?$"
+	.string "¡Hola, ENTRENADOR! Hoy se celebra el\n"
+	.string "Concurso de Captura de Bichos.\p"
+	.string "Las reglas son sencillas.\p"
+	.string "Con uno de tus POKéMON, atrapa un\n"
+	.string "POKéMON de tipo BICHO para que lo\l"
+	.string "evalúen.\p"
+	.string "¿Quieres participar?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Any EXP your POKéMON gains during\n"
-	.string "the contest will be reverted when\l"
-	.string "you leave.\p"
-	.string "Here are the SPORT BALLS for the\n"
-	.string "Contest.$"
+	.string "La experiencia que ganen tus POKéMON\n"
+	.string "durante el concurso se perderá al\l"
+	.string "salir.\p"
+	.string "Aquí tienes las COMPETI BALL para el\n"
+	.string "concurso.$"
 
 Route35NationalParkGate_Text_ReceivedSportBalls:
-	.string "{PLAYER} received SPORT BALLS.$"
+	.string "¡{PLAYER} ha recibido COMPETI BALLS!$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
-	.string "The person who gets the strongest\n"
-	.string "bug POKéMON is the winner.\p"
-	.string "If you run out of SPORT BALLS,\n"
-	.string "you're done.\p"
-	.string "You can catch up to 5 POKéMON. The\n"
-	.string "last one caught will be the only\l"
-	.string "one kept and placed in the contest.\p"
-	.string "Go out and catch the strongest bug\n"
-	.string "POKéMON you can find!$"
+	.string "Gana quien atrape el POKéMON de tipo\n"
+	.string "BICHO más fuerte.\p"
+	.string "Si te quedas sin COMPETI BALL, se\n"
+	.string "acabó.\p"
+	.string "Puedes atrapar hasta 5 POKéMON. Solo\n"
+	.string "te quedarás con el último que atrapes,\l"
+	.string "que será el que participe en el\l"
+	.string "concurso.\p"
+	.string "¡Sal ahí fuera y atrapa el POKéMON de\n"
+	.string "tipo BICHO más fuerte que\l"
+	.string "encuentres!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "If you have more than one POKéMON,\n"
-	.string "you'll have to use the\l"
-	.string "first POKéMON in your party.\p"
-	.string "Is that OK with you?$"
+	.string "Si tienes más de un POKéMON, tendrás\n"
+	.string "que usar el primero de tu equipo.\p"
+	.string "¿Te parece bien?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
 	.string "Bien, guardaremos los otros POKéMON\n"
@@ -322,15 +324,15 @@ Route35NationalParkGate_EventScript_Beauty::
 	end
 
 Route35NationalParkGate_Text_Rocker:
-	.string "I love bird POKéMON! I found a\n"
-	.string "DARK-type bird in the park\l"
-	.string "last night!$"
+	.string "¡Me encantan los POKéMON pájaro!\n"
+	.string "¡Anoche encontré en el parque un\l"
+	.string "pájaro de tipo SINIESTRO!$"
 
 Route35NationalParkGate_Text_BC2:
-	.string "I caught a whopping SCYTHER!$"
+	.string "¡He atrapado un SCYTHER enorme!$"
 
 Route35NationalParkGate_Text_Beauty:
-	.string "He always wins these contests!$"
+	.string "¡Siempre gana estos concursos!$"
 
 Route35NationalParkGate_Text_WeHoldContests:
 	.string "En el PARQUE se suelen celebrar\n"

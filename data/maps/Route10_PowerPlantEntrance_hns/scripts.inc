@@ -117,8 +117,7 @@ Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
 	.string "allí un hombre muy sospechoso.$"
 
 Route10_PowerPlantEntrance_Text_Officer1CouldIAskForYourCooperation:
-	.string "Could I ask for your\n"
-	.string "cooperation?$"
+	.string "¿Podría pedirte tu colaboración?$"
 
 Route10_PowerPlantEntrance_Text_Officer1HaveToBeefUpSecurity:
 	.string "Tendremos que reforzar las medidas de\n"
@@ -145,11 +144,12 @@ Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
 	.string "¡El generador ya funciona!$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
-	.string "The POWER PLANT's MANAGER is in\n"
-	.string "the back room with the generator.\p"
-	.string "But since someone wrecked the\n"
-	.string "generator, he's been both sad and\l"
-	.string "furious…$"
+	.string "El ENCARGADO de la CENTRAL ENERGÍA\n"
+	.string "está en la sala del fondo, con el\l"
+	.string "generador.\p"
+	.string "Pero desde que alguien estropeó el\n"
+	.string "generador, está triste y furioso a la\l"
+	.string "vez…$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenCheerful:
 	.string "El Director está contento porque el\n"
@@ -187,29 +187,28 @@ Route10_PowerPlantEntrance_EventScript_TradeCompleted::
 	end
 
 Route10_PowerPlantEntrance_Text_WantToTrade:
-	.string "I work here at the POWER PLANT.\n"
-	.string "My MAGNETON's been my partner\l"
-	.string "for years.\p"
-	.string "But I've always wanted a\n"
+	.string "Trabajo aquí, en la CENTRAL ENERGÍA.\n"
+	.string "Mi MAGNETON es mi compañero desde\l"
+	.string "hace años.\p"
+	.string "Pero siempre he querido un\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Would you trade one for my\n"
+	.string "¿Me cambiarías uno por mi\n"
 	.string "{STR_VAR_2}?$"
 
 Route10_PowerPlantEntrance_Text_TakeCare:
-	.string "Thanks! Take good care of\n"
-	.string "MAGGIE for me!$"
+	.string "¡Gracias! ¡Cuida bien de MAGNI por mí!$"
 
 Route10_PowerPlantEntrance_Text_DeclineTrade:
-	.string "No? That's a shame.\n"
-	.string "My MAGNETON's a hard worker.$"
+	.string "¿No? Qué pena. Mi MAGNETON es muy\n"
+	.string "trabajador.$"
 
 Route10_PowerPlantEntrance_Text_NotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not what I had in mind.$"
+	.string "Mmm, eso no es un {STR_VAR_1}. No es lo\n"
+	.string "que tenía en mente.$"
 
 Route10_PowerPlantEntrance_Text_TradeCompleted:
-	.string "How's MAGGIE doing?\n"
-	.string "She loves magnetic fields!$"
+	.string "¿Qué tal está MAGNI? ¡Le encantan los\n"
+	.string "campos magnéticos!$"
 
 Route10_PowerPlantEntrance_Text_Engineer4WeCanGetMagnetTrainRunning:
 	.string "¡Muy bien! El MAGNETOTRÉN\p"

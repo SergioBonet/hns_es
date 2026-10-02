@@ -34,7 +34,7 @@ Route29_Trigger_Monview::
 	end
 
 Route29_Text_PressAorB:
-	.string "Press A or B to stop viewing.$"
+	.string "Pulsa A o B para dejar de mirar.$"
 
 Route29_EventScript_OldMan::
 	lock
@@ -162,31 +162,30 @@ Route29_Text_OldMan1:
 	.string "Nadie sabe cuándo salen…$"
 
 Route29_Text_OldMan2:
-	.string "I've seen you a couple times.\n"
-	.string "How many POKéMON have you caught?\p"
-	.string "Would you like me to tell you\n"
-	.string "how to catch POKéMON?$"
+	.string "Ya te he visto un par de veces.\n"
+	.string "¿Cuántos POKéMON has atrapado?\p"
+	.string "¿Quieres que te explique cómo se\n"
+	.string "atrapan los POKéMON?$"
 
 Route29_Text_OldManExplanation:
-	.string "If you weaken them first,\n"
-	.string "POKéMON are easier to catch.\p"
-	.string "Then, throw a ball at them from\n"
-	.string "your bag! Any ball will do.\p"
-	.string "If you want to learn more,\n"
-	.string "go to the ACADEMY in VIOLET CITY!\p"
-	.string "The students there know a lot\n"
-	.string "about POKéMON.$"
+	.string "Si primero los debilitas, es más fácil\n"
+	.string "atrapar a los POKéMON.\p"
+	.string "Luego, ¡lánzales una BALL de tu\n"
+	.string "MOCHILA! Sirve cualquiera.\p"
+	.string "Si quieres saber más, ¡ve a la ACADEMIA\n"
+	.string "de CIUDAD MALVA!\p"
+	.string "Los alumnos de allí saben mucho de\n"
+	.string "POKéMON.$"
 
 Route29_Text_OldManDeclined:
-	.string "Oh. Fine, then.\p"
-	.string "Check every route to find\n"
-	.string "different types of POKéMON.\p"
-	.string "Your POKéDEX shows where you can\n"
-	.string "find them too!\p"
-	.string "If you want to learn more,\n"
-	.string "go to the ACADEMY in VIOLET CITY!\p"
-	.string "The students know a lot about\n"
-	.string "POKéMON.$"
+	.string "Ah. Bueno, pues nada.\p"
+	.string "Recorre todas las rutas para\n"
+	.string "encontrar distintos tipos de POKéMON.\p"
+	.string "¡Tu POKéDEX también te muestra dónde\n"
+	.string "encontrarlos!\p"
+	.string "Si quieres saber más, ¡ve a la ACADEMIA\n"
+	.string "de CIUDAD MALVA!\p"
+	.string "Los alumnos saben mucho de POKéMON.$"
 
 Route29_Text_Youngster:
 	.string "¿Cómo están tus POKéMON?\p"
@@ -194,51 +193,51 @@ Route29_Text_Youngster:
 	.string "no entres en la hierba.$"
 
 Route29_Text_Lass:
-	.string "See those ledges?\n"
-	.string "It's scary to jump off them.\p"
-	.string "But you can go to NEW BARK\n"
-	.string "without walking through the grass.$"
+	.string "¿Ves esos salientes? Da miedo saltar\n"
+	.string "desde ellos.\p"
+	.string "Pero así puedes ir a PUEBLO PRIMAVERA\n"
+	.string "sin pasar por la hierba.$"
 
 Route29_Text_Girl:
 	.string "Quería descansar un poco, así que\n"
 	.string "guardé la partida.$"
 
 Route29_Text_Boy_WaitingForDay:
-	.string "I'm waiting for POKéMON that\n"
-	.string "appear only later in the day.$"
+	.string "Estoy esperando a los POKéMON que\n"
+	.string "solo aparecen más tarde.$"
 
 Route29_Text_Boy_WaitingForNight:
 	.string "Estoy esperando los POKéMON que\n"
 	.string "aparecen solo por la noche.$"
 
 Route29_Text_MeetTuscany:
-	.string "TUSCANY: I do believe that this\n"
-	.string "is the first time we've met?\p"
-	.string "I'm TUSCANY of the WEEKDAY FAMILY.\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "MARTA: ¿Diría que es la primera vez\n"
+	.string "que nos vemos?\p"
+	.string "Soy MARTA, de la FAMILIA de los DÍAS\n"
+	.string "de la SEMANA.\p"
+	.string "Si adivinas cuál es mi día favorito, te\n"
+	.string "daré una recompensa.$"
 
 Route29_Text_TuscanyNope:
-	.string "Not quite!$"
+	.string "¡No exactamente!$"
 
 Route29_Text_TuscanyGivesGift:
-	.string "Yes! By way of introduction,\n"
-	.string "please accept this gift, a SILK\l"
-	.string "SCARF.$"
+	.string "¡Sí! A modo de presentación, acepta\n"
+	.string "este regalo, por favor: un PAÑUELO\l"
+	.string "SEDA.$"
 
 Route29_Text_TuscanyGaveGift:
-	.string "TUSCANY: Wouldn't you agree\n"
-	.string "that it is most adorable?\p"
-	.string "It strengthens NORMAL-type\n"
-	.string "moves.\p"
-	.string "I am certain it will be of use.$"
+	.string "MARTA: ¿No te parece de lo más\n"
+	.string "adorable?\p"
+	.string "Potencia los movimientos de tipo\n"
+	.string "NORMAL.\p"
+	.string "Estoy segura de que te será útil.$"
 
 Route29_Text_TuscanyTuesday:
-	.string "TUSCANY: Have you met MONICA,\n"
-	.string "my older sister?\p"
-	.string "Or my younger brother, WESLEY?\p"
-	.string "I am the third of seven\n"
-	.string "children.$"
+	.string "MARTA: ¿Conoces a LUNA, mi hermana\n"
+	.string "mayor?\p"
+	.string "¿O a mi hermano pequeño, MIGUEL?\p"
+	.string "Soy la tercera de siete hermanos.$"
 
 Route29_Text_Sign1:
 	.string "RUTA 29\p"

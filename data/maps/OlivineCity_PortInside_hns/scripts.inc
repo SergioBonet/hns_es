@@ -63,23 +63,21 @@ OlivineCity_PortInside_Movement_OakLeave:
 	step_end
 
 OlivineCity_PortInside_Text_Nationaldex1:
-	.string "PROF.OAK: Hello!\n"
-	.string "You are starting to have the\l"
-	.string "attitude of a CHAMPION, {PLAYER}!\p"
-	.string "It's time for your POKéDEX to\n"
-	.string "match who you are.\p"
-	.string "Let me see your POKéDEX for a\n"
-	.string "second.\p"
-	.string "I'll upgrade your POKéDEX with the\n"
-	.string "NATIONAL MODE.$"
+	.string "PROF. OAK: ¡Hola! ¡Empiezas a tener la\n"
+	.string "actitud de un CAMPEÓN, {PLAYER}!\p"
+	.string "Ya es hora de que tu POKéDEX esté a tu\n"
+	.string "altura.\p"
+	.string "Déjame ver tu POKéDEX un momento.\p"
+	.string "Voy a mejorar tu POKéDEX con el MODO\n"
+	.string "NACIONAL.$"
 OlivineCity_PortInside_Text_Nationaldex2:
 	.string "¡La POKéDEX de {PLAYER} contiene\n"
 	.string "ahora datos sobre el Modo Nacional!$"
 OlivineCity_PortInside_Text_Nationaldex3:
-	.string "PROF.OAK: It won't be easy to\n"
-	.string "complete the NATIONAL POKéDEX...\p"
-	.string "However, I'm sure you will make\n"
-	.string "honest attempt on our behalf!$"
+	.string "PROF. OAK: No será fácil completar la\n"
+	.string "POKéDEX NACIONAL…\p"
+	.string "¡Pero seguro que harás todo lo posible\n"
+	.string "por nosotros!$"
 OlivineCity_PortInside_Text_Nationaldex4:
 	.string "¡Oh! ¡Es tardísimo!\p"
 	.string "Tengo que ir a grabar a la radio de\n"
@@ -256,12 +254,11 @@ OlivinePort_Movement_BoatLeave:
 	step_end
 
 OlivinePort_Text_NoPass:
-    .string "{PLAYER} tried to show the\n"
-    .string "{STR_VAR_1}…\p"
-    .string "…But no {STR_VAR_1}!\p"
-    .string "Sorry!\n"
-    .string "You may board only if you have an\l"
-    .string "{STR_VAR_1}.$"
+	.string "{PLAYER} ha intentado enseñar el\n"
+	.string "{STR_VAR_1}…\p"
+	.string "¡… Pero no tiene {STR_VAR_1}!\p"
+	.string "¡Lo siento! Solo puedes embarcar si\n"
+	.string "tienes un {STR_VAR_1}.$"
 
 OlivinePort_Text_SailorGetOnBoard:
 	.string "El barco va a zarpar. Por favor, sube a\n"
@@ -271,7 +268,7 @@ OlivinePort_Text_CantBoard:
 	.string "Lo siento. No puedes embarcar.$"
 
 OlivinePort_Text_WhereSail:
-    .string "Where would you like to sail?$"
+	.string "¿Adónde quieres zarpar?$"
 
 OlivinePort_Text_AskBoard:
 	.string "Éste es el FERRY S.S. AQUA.\p"
@@ -288,12 +285,11 @@ OlivinePort_Text_FlashTicket:
 	.string "Muy bien. ¡Gracias, joven!$"
 
 OlivinePort_Text_NoTicket:
-    .string "{PLAYER} tried to show the\n"
-    .string "S.S.TICKET…\p"
-    .string "…But no TICKET!\p"
-    .string "Sorry!\n"
-    .string "You may board only\l"
-    .string "if you have an S.S.TICKET.$"
+	.string "{PLAYER} ha intentado enseñar el\n"
+	.string "TICKET BARCO…\p"
+	.string "¡… Pero no tiene el TICKET!\p"
+	.string "¡Lo siento! Solo puedes embarcar si\n"
+	.string "tienes un TICKET BARCO.$"
 
 OlivinePort_Text_FishingGuru1:
 	.string "Aquí es fácil atrapar SHELLDER.\p"

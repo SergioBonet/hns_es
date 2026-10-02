@@ -1,8 +1,8 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "LICUÓLOGO: ¡Que sí, que sí!\n"
+	.string "¡Que yo soy el LICUÓLOGO! ¿Quién si no?\p"
+	.string "¡Quédate conmigo y aprenderás\n"
+	.string "a sacarle el jugo a las cosas!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
 	.string "BLEND MASTER: Hmmm! So, you wish to\n"
@@ -57,29 +57,28 @@ BerryBlender_Text_BlendMasterPokeblockCaseFull:
 	.string "Use some {POKEBLOCK}S and hurry back!$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "¡Eh!\n"
+	.string "¡Fenomenal!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "¡Espectacular!$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "¡Estoy francamente impresionado!$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "Me encanta licuar con el LICUÓLOGO,\n"
+	.string "¡hacemos {POKEBLOCK}S alucinantes!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "Esa concentración…\n"
+	.string "Esos ojos fijos en la flecha…\p"
+	.string "Esa rapidez para pulsar el Botón A…\n"
+	.string "Esa increíble precisión…\p"
+	.string "Ese LICUÓLOGO es realmente único.$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "Dicen que el LICUÓLOGO se pasa la vida\n"
+	.string "practicando su técnica en la montaña.\p"
+	.string "Pero a veces se acerca a CALAGUA y\n"
+	.string "se queda el día entero licuando BAYAS.$"

@@ -22,8 +22,7 @@ TohjoFalls_GiovanniRoom_EventScript_Radio::
 	end
 
 TohjoFalls_GiovanniRoom_Text_RadioObject::
-	.string "A radio...\n"
-	.string "The battery is dead...$"
+	.string "Una radio… No tiene pilas…$"
 
 TohjoFalls_GiovanniRoom_CancelScene::
 	setvar VAR_TOHJO_FALLS_GIOVANNI_STATE, 0
@@ -189,35 +188,35 @@ TohjoFalls_Movement_GiovanniLeave:
 	step_end
 
 TohjoFalls_GiovanniRoom_Text_Radio:
-	.string "RADIO: ... ...\n"
-	.string "Ahem, we are TEAM ROCKET!\l"
-	.string "After three years of preparation,\l"
-	.string "we have risen again from the ashes!\l"
-	.string "GIOVANNI! Can you hear us?\l"
-	.string "We did it!\l"
-	.string "Where is our boss?\l"
-	.string "Is he listening?$"
+	.string "RADIO: … …\n"
+	.string "Ejem, ¡somos el TEAM ROCKET!\l"
+	.string "¡Tras tres años de preparativos,\l"
+	.string "hemos resurgido de nuestras cenizas!\l"
+	.string "¡GIOVANNI! ¿Nos oye?\l"
+	.string "¡Lo hemos conseguido!\l"
+	.string "¿Dónde está nuestro jefe?\l"
+	.string "¿Nos estará escuchando?$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniIntro:
-	.string "GIOVANNI: ...\p"
-	.string "I don't know why you have come\n"
-	.string "here.\p"
-	.string "Anyway, I have to warn you that\n"
-	.string "this is not a place for kids like\l"
-	.string "you.\p"
-	.string "You have a certain look.\n"
-	.string "It reminds me of the kid who stood\l"
-	.string "in front of me three years ago...\p"
-	.string "You have the same eyes...\p"
-	.string "...\p"
-	.string "I'm on my way to GOLDENROD CITY\n"
-	.string "to answer the call and join my team.\l"
-	.string "Are you going to get in my way?$"
+	.string "GIOVANNI: …\p"
+	.string "No sé por qué has venido aquí.\p"
+	.string "En cualquier caso, debo advertirte de\n"
+	.string "que este no es lugar para críos como\l"
+	.string "tú.\p"
+	.string "Tienes una mirada especial. Me\n"
+	.string "recuerda al chaval que se plantó\l"
+	.string "delante de mí hace tres años…\p"
+	.string "Tienes los mismos ojos…\p"
+	.string "…\p"
+	.string "Voy de camino a CIUDAD TRIGAL para\n"
+	.string "responder a la llamada y reunirme con\l"
+	.string "mi equipo. ¿Vas a interponerte en mi\l"
+	.string "camino?$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniBeforeBattle:
-	.string "My old associates need me...\n"
-	.string "We will not repeat the failure of\l"
-	.string "three years ago!$"
+	.string "Mis antiguos socios me necesitan… ¡No\n"
+	.string "repetiremos el fracaso de hace tres\l"
+	.string "años!$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniDefeat:
 	.string "¿Pero quién te has creído que eres?$"

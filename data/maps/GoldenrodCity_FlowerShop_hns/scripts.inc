@@ -20,8 +20,8 @@ GoldenrodCity_FlowerShop_EventScript_MintClerkNotReady::
 	end
 
 GoldenrodCity_FlowerShop_Text_MintClerkNotReady:
-	.string "We are currently out of stock.\p"
-	.string "Please come back later.$"
+	.string "Ahora mismo no nos queda nada.\p"
+	.string "Vuelve más tarde, por favor.$"
 
 	.align 2
 GoldenrodCity_FlowerShop_Mints:
@@ -115,33 +115,30 @@ GoldenrodCity_FlowerShop_Text_Floria:
 	.string "REGADERA…$"
 
 GoldenrodCity_FlowerShop_Text_Owner1:
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, of course not!\p"
-.string "This is a flower shop, so we do\n"
-.string "have watering cans...\p"
-.string "But I cannot let you have one!\n"
-.string "It's too dangerous!\p"
-.string "Well, maybe if you manage to\n"
-.string "defeat gym leader WHITNEY, it\l"
-.string "might be okay.$"
+	.string "Por lo visto, en la RUTA 36 hay un árbol\n"
+	.string "muy raro.\p"
+	.string "Dicen que baila cuando lo riegas…\p"
+	.string "¡Bah, qué va!\p"
+	.string "Como esto es una floristería, sí que\n"
+	.string "tenemos regaderas…\p"
+	.string "¡Pero no puedo darte una! ¡Es\n"
+	.string "demasiado peligroso!\p"
+	.string "Bueno, a lo mejor, si consigues vencer\n"
+	.string "a BLANCA, la LÍDER del GIMNASIO, no\l"
+	.string "pasaría nada.$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, that's a PLAINBADGE from\n"
-.string "the GOLDENROD GYM!\p"
-.string "Did you defeat WHITNEY?!\p"
-.string "Well, then there's nothing to worry\n"
-.string "about, is there?\p"
-.string "I'll let you use this SQUIRTBOTTLE\n"
-.string "for a while then.\l"
-.string "...\p"
-.string "Oh, never mind. Keep it!$"
+	.string "Por lo visto, en la RUTA 36 hay un árbol\n"
+	.string "muy raro.\p"
+	.string "Dicen que baila cuando lo riegas…\p"
+	.string "¡Oh, esa es la MEDALLA LLANURA del\n"
+	.string "GIMNASIO de CIUDAD TRIGAL!\p"
+	.string "¿Has vencido a BLANCA?\p"
+	.string "Entonces no hay nada de qué\n"
+	.string "preocuparse, ¿verdad?\p"
+	.string "Te dejaré esta REGADERA un tiempo.\p"
+	.string "…\p"
+	.string "¡Bah, da igual! ¡Quédatela!$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
 	.string "El árbol extraño está en la RUTA 36.\n"

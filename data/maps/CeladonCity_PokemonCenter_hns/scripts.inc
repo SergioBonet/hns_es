@@ -19,10 +19,9 @@ CeladonCity_PokemonCenter_EventScript_Eusine::
 	end
 
 CeladonCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "ERIKA is a master of grass\n"
-	.string "POKéMON.\p"
-	.string "She'll make you pay if you don't\n"
-	.string "watch yourself.$"
+	.string "ERIKA es una experta en POKéMON de\n"
+	.string "tipo PLANTA.\p"
+	.string "Si no tienes cuidado, te lo hará pagar.$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "El TEAM ROCKET está escondido en el\n"
@@ -35,20 +34,20 @@ Celadon_Text_Eusine1:
 	.string "Llevaba tiempo sin ir.$"
 
 Celadon_Text_EusineLeaves:
-	.string "{PLAYER}, have you heard?\p"
-	.string "There have been fresh rumors of a\n"
-	.string "rainbow-colored POKéMON\n"
-	.string "appearing at TIN TOWER.\p"
-	.string "I've just had my party healed,\n"
-	.string "so now I'm headed to ECRUTEAK.\p"
-	.string "I'll be seeing you, {PLAYER}!$"
+	.string "{PLAYER}, ¿te has enterado?\p"
+	.string "Hay rumores nuevos de que un POKéMON\n"
+	.string "de color arcoíris ha aparecido en la\l"
+	.string "TORRE CAMPANA.\p"
+	.string "Acaban de curar a mi equipo, así que\n"
+	.string "me voy a CIUDAD IRIS.\p"
+	.string "¡Nos vemos, {PLAYER}!$"
 
 Celadon_Text_NoBeasts:
-	.string "Oh, by the way, {PLAYER}.\p"
-	.string "Have you caught the legendary\n"
-	.string "POKéMON RAIKOU and ENTEI?\p"
-	.string "<……><……><……>\p"
-	.string "Okay…\p"
-	.string "If you catch even one, I hope\n"
-	.string "that you'll inform me.\p"
-	.string "I'm counting on you, {PLAYER}!$"
+	.string "Ah, por cierto, {PLAYER}.\p"
+	.string "¿Has atrapado a los POKéMON\n"
+	.string "legendarios RAIKOU y ENTEI?\p"
+	.string "……\p"
+	.string "Vale…\p"
+	.string "Si atrapas aunque sea uno, espero que\n"
+	.string "me avises.\p"
+	.string "¡Cuento contigo, {PLAYER}!$"

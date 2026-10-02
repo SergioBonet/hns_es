@@ -22,6 +22,6 @@ Gate_Route31_VioletCity_Text_Policeman:
 	.string "BELLSPROUT?$"
 
 Gate_Route31_VioletCity_Text_CooltrainerF:
-	.string "I saw the cutest POKéMON out\n"
-	.string "there.\p"
-	.string "It looked a lot like PIKACHU!$"
+	.string "He visto ahí fuera el POKéMON más\n"
+	.string "mono.\p"
+	.string "¡Se parecía mucho a PIKACHU!$"

@@ -342,18 +342,18 @@ AzaleaTown_Movement_KurtLeave:
 	step_end
 
 AzaleaTown_Text_RivalBefore:
-	.string "…Tell me something.\p"
-	.string "Is it true that TEAM ROCKET\n"
-	.string "has returned?\p"
-	.string "What? You beat them? Hah! Quit\n"
-	.string "lying.\p"
-	.string "You're not joking?\n"
-	.string "Then let's see how good you are.$"
+	.string "… Dime una cosa.\p"
+	.string "¿Es verdad que el TEAM ROCKET ha\n"
+	.string "vuelto?\p"
+	.string "¿Qué? ¿Que les has vencido? ¡Ja! No\n"
+	.string "mientas.\p"
+	.string "¿No es broma? Entonces veamos lo\n"
+	.string "bueno que eres.$"
 
 AzaleaTown_Text_RivalWin:
-	.string "…Humph! Useless POKéMON!\p"
-	.string "Listen, you. You only won because\n"
-	.string "my POKéMON were weak.$"
+	.string "… ¡Bah! ¡POKéMON inútiles!\p"
+	.string "Escúchame bien. Solo has ganado\n"
+	.string "porque mis POKéMON eran débiles.$"
 
 AzaleaTown_Text_RivalAfter:
 	.string "Odio a los débiles.\p"
@@ -373,9 +373,9 @@ AzaleaTown_Text_RivalLoss:
 	.string "¡Ja! Sabía que mentías.$"
 
 AzaleaTown_Text_Rocket1:
-	.string "It's unsafe to go in there,\n"
-	.string "so I'm standing guard.\p"
-	.string "Aren't I a good Samaritan?$"
+	.string "Ahí dentro no es seguro, así que\n"
+	.string "estoy montando guardia.\p"
+	.string "¿A que soy un buen samaritano?$"
 
 AzaleaTown_Text_Rocket2:
 	.string "¿Sabes algo sobre las COLASLOWPOKE?\p"
@@ -389,9 +389,9 @@ AzaleaTown_Text_GrampsBefore:
 	.string "lugar.$"
 
 AzaleaTown_Text_GrampsAfter:
-	.string "The SLOWPOKE have returned.\p"
-	.string "Knowing them, they could've just\n"
-	.string "been goofing off somewhere.$"
+	.string "Los SLOWPOKE han vuelto.\p"
+	.string "Conociéndolos, puede que solo\n"
+	.string "estuvieran holgazaneando por ahí.$"
 
 AzaleaTown_Text_Teacher:
 	.string "¿Viste a CÉSAR para que te diera\n"
@@ -406,8 +406,8 @@ AzaleaTown_Text_Youngster:
 	.string "CORTAR árboles.$"
 
 AzaleaTown_Text_Slowpoke1:
-	.string "SLOWPOKE:..........\p"
-	.string "...............YAWN?$"
+	.string "SLOWPOKE: ……\p"
+	.string "…… ¿BOSTEZO?$"
 
 AzaleaTown_Text_Kurt1:
 	.string "¡El ENCINAR está inquieto!\p"
@@ -421,9 +421,9 @@ AzaleaTown_Text_Kurt3:
 	.string "está tan inquieto?$"
 
 AzaleaTown_Text_Sign:
-	.string "AZALEA TOWN\n"
-	.string "Where People and POKéMON Live in\l"
-	.string "Happy Harmony.$"
+	.string "PUEBLO AZALEA\n"
+	.string "Donde gente y POKéMON\l"
+	.string "viven en feliz armonía.$"
 
 AzaleaTown_Text_KurtsHouseSign:
 	.string "CASA DE CÉSAR$"

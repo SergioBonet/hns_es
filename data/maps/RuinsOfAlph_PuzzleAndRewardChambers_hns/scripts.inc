@@ -370,34 +370,37 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten::
 	end
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Reward:
-	.string "The chamber reacts!\n"
-	.string "The way is open.$"
+	.string "¡La sala reacciona! El camino está\n"
+	.string "abierto.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon:
-	.string "Some kind of ancient sensor.\n"
-	.string "What is it looking for?$"
+	.string "Una especie de sensor antiguo. ¿Qué\n"
+	.string "buscará?$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Solved:
-	.string "The way is open.$"
+	.string "El camino está abierto.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist1:
-	.string "Welcome to this chamber.\p"
-	.string "There are sliding panels that depict\n"
-	.string "a POKéMON drawn by the ancients.\p"
-	.string "Slide the panels around to form\n"
-	.string "the picture.\p"
-	.string "To the left is a description of\n"
-	.string "the POKéMON.\p"
-	.string "Scientists in the lab are examin-\n"
-	.string "-ing some newly found patterns.$"
+	.string "Bienvenido a esta sala.\p"
+	.string "Hay unos paneles deslizantes que\n"
+	.string "representan a un POKéMON dibujado\l"
+	.string "por los antiguos.\p"
+	.string "Desliza los paneles para formar el\n"
+	.string "dibujo.\p"
+	.string "A la izquierda hay una descripción del\n"
+	.string "POKéMON.\p"
+	.string "Los científicos del laboratorio están\n"
+	.string "estudiando unos dibujos encontrados\l"
+	.string "hace poco.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist2:
-	.string "A hole just opened up in the floor!\n"
-	.string "I'd better tell the others.$"
+	.string "¡Se acaba de abrir un agujero en el\n"
+	.string "suelo! Será mejor que se lo cuente a\l"
+	.string "los demás.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist3:
-	.string "Now a hole in the wall too?!\n"
-	.string "This is getting spooky.$"
+	.string "¿¡Ahora también un agujero en la\n"
+	.string "pared!? Esto empieza a dar miedo.$"
 
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
@@ -405,7 +408,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
 	.string "Con sus ojos explora la zona.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
-	.string "It's UNOWN text!$"
+	.string "¡Es un texto en UNOWN!$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Statue:
 	.string "Es una réplica de un antiguo POKéMON.$"

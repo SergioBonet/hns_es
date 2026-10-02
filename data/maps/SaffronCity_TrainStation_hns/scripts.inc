@@ -296,8 +296,9 @@ SaffronMagnetTrainStation_Text_OfficerTrainHasntComeIn:
 	.string "Aunque no creo que funcione.$"
 
 SaffronMagnetTrainStation_Text_OfficerComingAboard:
-    .string "We'll soon depart for GOLDENROD.\p"
-    .string "Are you coming aboard?$"
+	.string "Pronto saldremos hacia CIUDAD\n"
+	.string "TRIGAL.\p"
+	.string "¿Subes a bordo?$"
 
 SaffronMagnetTrainStation_Text_OfficerRightThisWay:
 	.string "¿Por favor, puedo ver su\n"

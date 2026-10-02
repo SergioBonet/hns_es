@@ -88,23 +88,23 @@ GoldenrodCity_RadioTower_4F4_EventScript_Meowth::
 
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
-	.string "PROTON: Now wait just one second!\p"
-	.string "Aren't you the one who got in our\n"
-	.string "way at SLOWPOKE WELL?\p"
-	.string "I see... You're doing all this\n"
-	.string "because you want to make me angry.\l"
-	.string "Be careful!\p"
-	.string "But since you seem to wish it, I'll\n"
-	.string "show you the full extent of a TEAM\l"
-	.string "ROCKET EXECUTIVE's wrath!$"
+	.string "PROTÓN: ¡Espera un momento!\p"
+	.string "¿No eres tú el que se interpuso en\n"
+	.string "nuestro camino en el POZO SLOWPOKE?\p"
+	.string "Ya veo… Haces todo esto porque\n"
+	.string "quieres que me enfade. ¡Ten cuidado!\p"
+	.string "Pero ya que parece que lo deseas, ¡te\n"
+	.string "mostraré toda la ira de un EJECUTIVO\l"
+	.string "del TEAM ROCKET!$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Beaten:
-	.string "Phew...$"
+	.string "Uf…$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_After:
-	.string "PROTON: You may have won this\n"
-	.string "time... But all you did was make\p"
-	.string "TEAM ROCKET's wrath grow.$"
+	.string "PROTÓN: Puede que esta vez hayas\n"
+	.string "ganado… Pero lo único que has\l"
+	.string "conseguido es\p"
+	.string "aumentar la ira del TEAM ROCKET.$"
 
 GoldenrodCity_RadioTower_4F4_Text_Fisher:
 	.string "Mientras estaba en las RUINAS oía la\n"
@@ -121,20 +121,20 @@ GoldenrodCity_RadioTower_4F4_Text_DJMaryCleared:
 	.string "¿Aceptas esto como agradecimiento?$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryPinkBow:
-	.string "MARY: It's good for dodging the\n"
-	.string "enemy's attacks.$"
+	.string "ROSA: Es buenísimo para esquivar los\n"
+	.string "ataques del enemigo.$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryAfter:
-	.string "MARY: Please tune into me on PROF.\n"
-	.string "OAK'S POKéMON TALK show!$"
+	.string "ROSA: ¡Sintonízame en el programa LA\n"
+	.string "HORA POKéMON del PROF. OAK!$"
 
 GoldenrodCity_RadioTower_4F4_Text_Meowth:
 	.string "MEOWTH: Meowth…$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Seen:
-	.string "You plan to rescue the DIRECTOR?\p"
-	.string "That won't be possible because I'm\n"
-	.string "going to beat you!$"
+	.string "¿Pretendes rescatar al DIRECTOR?\p"
+	.string "¡Eso no va a ser posible porque voy a\n"
+	.string "vencerte!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Beaten:
 	.string "¡No! ¡Increíble!$"
@@ -148,13 +148,13 @@ GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2Seen:
 	.string "¡No des un paso más!$"
 
 GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2Beaten:
-	.string "The fortress came down!$"
+	.string "¡La fortaleza ha caído!$"
 
 GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2After:
-	.string "You've earned my respect, so here's\n"
-	.string "some advice.\p"
-	.string "It's not too late. You can still turn\n"
-	.string "back.$"
+	.string "Te has ganado mi respeto, así que te\n"
+	.string "daré un consejo.\p"
+	.string "No es demasiado tarde. Aún puedes dar\n"
+	.string "media vuelta.$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Seen:
 	.string "¿Son buenos mis POKéMON?\p"
@@ -169,9 +169,9 @@ GoldenrodCity_RadioTower_4F4_Text_GruntF4After:
 	.string "¿Qué importan los POKéMON?$"
 
 GoldenrodCity_RadioTower_4F4_Text_ScientistRichSeen:
-	.string "Most excellent.\p"
-	.string "This RADIO TOWER will fulfill our\n"
-	.string "grand design.$"
+	.string "Excelente.\p"
+	.string "Esta ESTACIÓN DE RADIO hará realidad\n"
+	.string "nuestro gran plan.$"
 
 GoldenrodCity_RadioTower_4F4_Text_ScientistRichBeaten:
 	.string "¡Mmmm…!\p"

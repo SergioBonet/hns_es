@@ -42,17 +42,17 @@ GoldenrodCity_BikeShop_EventScript_Bike::
 	end
 
 GoldenrodCity_BikeShop_Text_Clerk2:
-	.string "Riding the BIKE is as simple as\n"
-	.string "pressing a button if you\l"
-	.string "REGISTER it from the BAG.\p"
-	.string "If you need to go faster,\n"
-	.string "you first need to come to a stop!\p"
-	.string "That might seem like strange\n"
-	.string "advice, but you can only change\l"
-	.string "gears on the BIKE while stopped.\p"
-	.string "Press your R button when stopped\n"
-	.string "and the next time you pedal,\l"
-	.string "you will reach greater speeds!$"
+	.string "Montar en BICI es tan fácil como\n"
+	.string "pulsar un botón si la REGISTRAS desde\l"
+	.string "la MOCHILA.\p"
+	.string "Si necesitas ir más rápido, ¡primero\n"
+	.string "tienes que pararte!\p"
+	.string "Puede parecer un consejo raro, pero\n"
+	.string "solo puedes cambiar de marcha en la\l"
+	.string "BICI cuando estás parado.\p"
+	.string "Pulsa el botón R cuando estés parado\n"
+	.string "y, la próxima vez que pedalees, ¡irás\l"
+	.string "mucho más rápido!$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
 	.string "(Suspiro…) Me trasladé aquí, pero no\n"
@@ -69,14 +69,14 @@ GoldenrodCity_BikeShop_Text_BorrowedBicycle:
 	.string "{PLAYER} tomó prestada una BICI.$"
 
 GoldenrodCity_BikeShop_Text_Mainshop:
-	.string "Business has been hard to come\n"
-	.string "by since we moved from KANTO.\l"
-	.string "We appreciate your help!\p"
-	.string "Can you make sure to show off\n"
-	.string "our patented gear-changing tech?\p"
-	.string "It's as simple as pressing R when\n"
-	.string "you are stopped on your BIKE.\p"
-	.string "Beware! You will then go faster!$"
+	.string "Desde que nos mudamos de KANTO, el\n"
+	.string "negocio va fatal. ¡Te agradecemos tu\l"
+	.string "ayuda!\p"
+	.string "¿Podrías presumir de nuestro sistema\n"
+	.string "patentado de cambio de marchas?\p"
+	.string "Es tan fácil como pulsar R cuando\n"
+	.string "estés parado en tu BICI.\p"
+	.string "¡Cuidado! ¡Irás más rápido!$"
 
 GoldenrodCity_BikeShop_Text_Refused:
 	.string "(Suspiro…) ¡Oh, rayos y centellas…!$"

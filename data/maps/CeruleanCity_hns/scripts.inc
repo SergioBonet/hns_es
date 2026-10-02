@@ -24,16 +24,16 @@ CeruleanCity_EventScript_Guard::
 	end
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "This is CERULEAN CAVE.\p"
-    .string "Horribly strong POKéMON live inside\n"
-    .string "there.\p"
-    .string "It takes a very special TRAINER to\n"
-    .string "be allowed inside there.\p"
-    .string "You'd have to be strong enough to\n"
-    .string "become the KANTO POKéMON LEAGUE\l"
-    .string "CHAMPION for starters.\p"
-    .string "And, you would have to have\n"
-    .string "made a great achievement.$"
+	.string "Esta es la CUEVA CELESTE.\p"
+	.string "Ahí dentro viven POKéMON\n"
+	.string "terriblemente fuertes.\p"
+	.string "Solo dejan entrar a ENTRENADORES muy\n"
+	.string "especiales.\p"
+	.string "Para empezar, tendrías que ser lo\n"
+	.string "bastante fuerte como para ser\l"
+	.string "CAMPEÓN de la LIGA POKéMON de KANTO.\p"
+	.string "Y, además, tendrías que haber logrado\n"
+	.string "una gran hazaña.$"
 
 CeruleanCity_Text_CooltrainerM1:
 	.string "¿La CENTRAL ENERGÍA de Kanto? Está\n"
@@ -42,10 +42,10 @@ CeruleanCity_Text_CooltrainerM1:
 	.string "Creo que hubo un accidente allí.$"
 
 CeruleanCity_Text_CooltrainerM2:
-	.string "You're collecting every single\n"
-	.string "kind of POKéMON?\p"
-	.string "That must be quite a challenge,\n"
-	.string "but it sounds fun too.$"
+	.string "¿Estás coleccionando todas las\n"
+	.string "especies de POKéMON?\p"
+	.string "Debe de ser todo un desafío, pero\n"
+	.string "también suena divertido.$"
 
 CeruleanCity_Text_SuperNerd:
 	.string "El CABO que está al norte es ideal para\n"
@@ -112,8 +112,8 @@ CeruleanCity_EventScript_Youngster::
 	end
 
 CeruleanCity_Text_Youngster1:
-	.string "The cave north of town has\n"
-	.string "horribly powerful POKéMON in it.$"
+	.string "En la cueva al norte de la ciudad hay\n"
+	.string "POKéMON terriblemente poderosos.$"
 
 CeruleanCity_Text_Youngster2:
 	.string "¡Caray!\p"
@@ -144,10 +144,10 @@ CeruleanCity_Text_Sign:
 	.string "Una misteriosa aura azulada la rodea$"
 
 CeruleanCity_Text_GymSign:
-	.string "CERULEAN CITY\n"
-	.string "POKéMON GYM\n"
-	.string "LEADER: MISTY\p"
-	.string "The Tomboyish Mermaid$"
+	.string "GIMNASIO POKéMON\n"
+	.string "DE CIUDAD CELESTE\l"
+	.string "LÍDER: MISTY\p"
+	.string "La sirena marimacho$"
 
 CeruleanCity_Text_BikeShopSign:
 	.string "Aquí hay una nota…\p"

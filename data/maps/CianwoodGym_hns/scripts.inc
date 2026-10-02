@@ -20,8 +20,8 @@ CianwoodGym_Text_GymStatue:
 	.string "Gimnasio POKéMON de CIUDAD ORQUÍDEA$"
 
 CianwoodGym_Text_GymStatueCertified:
-	.string "CIANWOOD CITY POKéMON GYM\p"
-	.string "CHUCK'S CERTIFIED TRAINERS:\n"
+	.string "GIMNASIO POKéMON DE CIUDAD ORQUÍDEA\p"
+	.string "CERTIFICADOS POR ANÍBAL:\n"
 	.string "{PLAYER}$"
 
 CianwoodGym_EventScript_Chuck::
@@ -79,10 +79,10 @@ CianwoodGym_EventScript_ChuckGotoDojo::
 	end
 
 CianwoodGym_Text_ChuckGotoDojo:
-	.string "WAHAHAHA {PLAYER}!\n"
-	.string "I'm in the middle of my training!\p"
-	.string "If you want another match, come to\n"
-	.string "the FIGHTING DOJO in SAFFRON!$"	
+	.string "¡JAJAJAJÁ, {PLAYER}! ¡Estoy en pleno\n"
+	.string "entrenamiento!\p"
+	.string "Si quieres otro combate, ¡ven al DOJO\n"
+	.string "KARATE de CIUDAD AZAFRÁN!$"
 
 CianwoodGym_EventScript_ChuckAtDojo::
 	msgbox CianwoodGym_Text_ChuckAtDojo, MSGBOX_DEFAULT
@@ -91,8 +91,7 @@ CianwoodGym_EventScript_ChuckAtDojo::
 	end
 
 CianwoodGym_Text_ChuckAtDojo:
-	.string "I will see you at the DOJO!\n"
-	.string "WAHAHAHAHAHA$"
+	.string "¡Nos vemos en el DOJO! ¡JAJAJAJAJÁ!$"
 
 CianwoodGym_EventScript_OlivineCheckMahog::
 	goto_if_set FLAG_DEFEATED_MAHOGANY_TOWN_GYM, CianwoodGym_EventScript_Chuck_Battle3
@@ -162,9 +161,10 @@ CianwoodGym_Text_ChuckBadgeSpeech:
 	.string "¡Toma esto también!$"
 
 CianwoodGym_Text_ChuckTMSpeech:
-	.string "That is FOCUS PUNCH.\p"
-	.string "It moves slow but deals huge\n"
-	.string "damage. Just don't get hit first!$"
+	.string "Es PUÑO CERTERO.\p"
+	.string "Es lento, pero causa muchísimo daño.\n"
+	.string "¡Solo procura que no te golpeen\l"
+	.string "primero!$"
 
 CianwoodGym_Text_ChuckAfter:
 	.string "¡UAJAJAA! ¡Ha sido muy divertido!\p"
@@ -173,14 +173,13 @@ CianwoodGym_Text_ChuckAfter:
 	.string "horas al día!$"
 
 CianwoodGym_Text_ChuckRematch:
-	.string "WAHAHAH! JOHTO CHAMPION!\p"
-	.string "You've come back for more!\p"
-	.string "I see your skills have improved!\p"
-	.string "Ready to see who's stronger?$"
+	.string "¡JAJAJÁ! ¡CAMPEÓN de JOHTO!\p"
+	.string "¡Has vuelto a por más!\p"
+	.string "¡Veo que has mejorado!\p"
+	.string "¿Listo para ver quién es más fuerte?$"
 
 CianwoodGym_Text_ChuckRematchDefeat:
-	.string "Wha? Huh? I lost?\n"
-	.string "Again?$"
+	.string "¿Qué? ¿Eh? ¿He perdido? ¿Otra vez?$"
 
 CianwoodGym_EventScript_Yoshi::
 	trainerbattle_single TRAINER_YOSHI_HNS, CianwoodGym_Text_BlackbeltYoshiSeen, CianwoodGym_Text_BlackbeltYoshiBeaten
@@ -196,8 +195,8 @@ CianwoodGym_Text_BlackbeltYoshiBeaten:
 	.string "¡No puede ser!$"
 
 CianwoodGym_Text_BlackbeltYoshiAfter:
-	.string "You seem to have a strong bond\n"
-	.string "with your POKéMON too!$"
+	.string "¡Parece que tú también tienes un\n"
+	.string "vínculo muy fuerte con tus POKéMON!$"
 
 CianwoodGym_EventScript_Lao::
 	trainerbattle_single TRAINER_LAO_HNS, CianwoodGym_Text_BlackbeltLaoSeen, CianwoodGym_Text_BlackbeltLaoBeaten
@@ -212,8 +211,8 @@ CianwoodGym_Text_BlackbeltLaoBeaten:
 	.string "¡Es increíble!$"
 
 CianwoodGym_Text_BlackbeltLaoAfter:
-	.string "Fighting POKéMON are afraid of\n"
-	.string "psychics…$"
+	.string "Los POKéMON de tipo LUCHA les tienen\n"
+	.string "miedo a los psíquicos…$"
 
 
 CianwoodGym_EventScript_Nob::
@@ -244,6 +243,6 @@ CianwoodGym_Text_BlackbeltLungBeaten:
 	.string "¡Me has aplastado!$"
 
 CianwoodGym_Text_BlackbeltLungAfter:
-	.string "My POKéMON lost…\n"
-	.string "My… my pride is shattered…$"
+	.string "Mis POKéMON han perdido… Mi… mi\n"
+	.string "orgullo está hecho añicos…$"
 

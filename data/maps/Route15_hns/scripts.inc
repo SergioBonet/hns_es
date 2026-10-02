@@ -114,18 +114,18 @@ Route15_Text_TeacherHillaryAfterBattle:
 	.string "deporte también.$"
 
 Route15_Text_HillaryRegister:
-	.string "You've taught me a lesson!\n"
-	.string "May I have your number?$"
+	.string "¡Me has dado una lección! ¿Me das tu\n"
+	.string "número?$"
 
 Route15_Text_HillaryRematchIntro:
-	.string "I'll school you this time!$"
+	.string "¡Esta vez te daré yo la lección!$"
 
 Route15_Text_HillaryRematchDefeat:
-	.string "Back to the drawing board…$"
+	.string "Vuelta a empezar…$"
 
 Route15_Text_HillaryPostRematch:
-	.string "Teaching POKéMON is just like\n"
-	.string "teaching children. Patience!$"
+	.string "Enseñar a los POKéMON es como enseñar\n"
+	.string "a los niños. ¡Paciencia!$"
 
 Route15_Text_SchoolboyKippSeen:
 	.string "Espera. Tengo que llamar a mamá.$"
@@ -144,8 +144,8 @@ Route15_Text_SchoolboyTommyBeaten:
 	.string "¡Me olvidé de hacer los deberes!$"
 
 Route15_Text_SchoolboyTommyAfterBattle:
-	.string "Sayonara! I just learned that in\n"
-	.string "my Japanese class.$"
+	.string "¡Sayonara! Lo acabo de aprender en mi\n"
+	.string "clase de japonés.$"
 
 Route15_Text_SchoolboyJohnnySeen:
 	.string "Vamos a la TORRE RADIO de LAVANDA\p"
@@ -170,19 +170,19 @@ Route15_Text_SchoolboyBillyAfterBattle:
 	.string "yo sería el mejor de la clase!$"
 
 Route15_Text_BillyRegister:
-	.string "I should've paid more attention in class.\n"
-	.string "Can I have your number?$"
+	.string "Debería haber prestado más atención\n"
+	.string "en clase. ¿Me das tu número?$"
 
 Route15_Text_BillyRematchIntro:
-	.string "I've been studying hard!\n"
-	.string "Let me show you what I learned!$"
+	.string "¡He estudiado mucho! ¡Deja que te\n"
+	.string "enseñe lo que he aprendido!$"
 
 Route15_Text_BillyRematchDefeat:
-	.string "I need to study more…$"
+	.string "Tengo que estudiar más…$"
 
 Route15_Text_BillyPostRematch:
-	.string "Book smarts aren't everything.\n"
-	.string "I need battle experience too!$"
+	.string "Los libros no lo son todo. ¡También\n"
+	.string "necesito experiencia en combate!$"
 
 Route15_Text_Sign:
 	.string "RUTA 15\p"

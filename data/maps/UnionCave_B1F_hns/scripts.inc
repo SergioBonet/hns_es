@@ -48,9 +48,9 @@ UnionCave_B1F_Text_HikerLeonardBeaten:
 	.string "¡Jajaja! Te gusta pelear, ¿verdad?$"
 
 UnionCave_B1F_Text_HikerLeonardAfter:
-	.string "I live down here.\p"
-	.string "You can, too, if you'd like.\p"
-	.string "There's plenty of room, you see.$"
+	.string "Yo vivo aquí abajo.\p"
+	.string "Tú también puedes, si quieres.\p"
+	.string "Hay sitio de sobra, ¿ves?$"
 
 UnionCave_B1F_Text_PokemaniacAndrewSeen:
 	.string "¿Quién anda ahí?\p"
@@ -60,8 +60,8 @@ UnionCave_B1F_Text_PokemaniacAndrewBeaten:
 	.string "¡Fuera…! ¡Lárgate!$"
 
 UnionCave_B1F_Text_PokemaniacAndrewAfter:
-	.string "Just me and my POKéMON. I'm de-\n"
-	.string "lirious with joy.$"
+	.string "Solo mis POKéMON y yo. Estoy loco de\n"
+	.string "alegría.$"
 
 UnionCave_B1F_Text_PokemaniacCalvinSeen:
 	.string "He venido hasta aquí para estudiar a\n"

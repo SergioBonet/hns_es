@@ -39,7 +39,7 @@ SproutTower_Text_SageNico_AfterBattle:
 	.string "hasta de los terremotos.$"
 
 SproutTower_Text_SageEdmond_Seen:
-	.string "…Sway like leaves in the wind…$"
+	.string "… Cimbréate como las hojas al viento…$"
 
 SproutTower_Text_SageEdmond_Beaten:
 	.string "¡Oh, estoy débil!$"

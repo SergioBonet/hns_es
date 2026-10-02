@@ -233,7 +233,7 @@ Route36_Movement_SudoWoodo:
 	step_end
 
 Route36_Text_UseSquirtbottle:
-	.string "Use SQUIRTBOTTLE?$"
+	.string "¿Usar la REGADERA?$"
 
 Route36_Text_UsedSquirtbottle:
 	.string "{PLAYER} usó la REGADERA.$"
@@ -244,10 +244,10 @@ Route36_Text_SudowoodoAttacked:
 	.string "¡El árbol extraño atacó!$"
 
 Route36_Text_RockSmashGuy1:
-	.string "Wa-hey!\p"
-	.string "I was going to snap that tree\n"
-	.string "with my straight-arm punch.\p"
-	.string "But I couldn't! I'm a failure!$"
+	.string "¡Uaaa!\p"
+	.string "Iba a partir ese árbol con mi puñetazo\n"
+	.string "directo.\p"
+	.string "¡Pero no he podido! ¡Soy un fracaso!$"
 
 Route36_Text_RockSmashGuy2:
 	.string "¿Quitaste ese pobre árbol?\p"
@@ -261,13 +261,13 @@ Route36_Text_RockSmashGuy3:
 	.string "¡destrózala!$"
 
 Route36_Text_OddTree:
-	.string "A weird tree is blocking the way.$"
+	.string "Un árbol muy raro bloquea el camino.$"
 
 Route36_Text_Lass1:
-	.string "Be careful at night on this route!\p"
-	.string "I saw a POKéMON that looked like\n"
-	.string "GROWLITHE, but it had a scary aura\l"
-	.string "to it.$"
+	.string "¡Ten cuidado de noche en esta ruta!\p"
+	.string "Vi un POKéMON que parecía un\n"
+	.string "GROWLITHE, pero desprendía un aura\l"
+	.string "que daba miedo.$"
 
 Route36_Text_Lass2_ClearedSudowoodo:
 	.string "Ese árbol extraño desapareció sin\n"
@@ -297,25 +297,25 @@ Route36_Text_SchoolboyAlanAfter:
 	.string "muchas cosas.$"
 
 Route36_Text_MeetArthur:
-	.string "ARTHUR: Who are you?\n"
-	.string "I'm ARTHUR of the WEEKDAY FAMILY.\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "JOSUÉ: ¿Quién eres? Soy JOSUÉ, de la\n"
+	.string "FAMILIA de los DÍAS de la SEMANA.\p"
+	.string "Si adivinas cuál es mi día favorito, te\n"
+	.string "daré una recompensa.$"
 
 Route36_Text_ArthurNope:
-	.string "Not quite!$"
+	.string "¡No exactamente!$"
 
 Route36_Text_ArthurGivesGift:
 	.string "Toma. Coge esto.$"
 
 Route36_Text_ArthurGaveGift:
-	.string "ARTHUR: A POKéMON that uses ROCK-\n"
-	.string "type moves should hold on to that.\p"
-	.string "It pumps up ROCK-type attacks.$"
+	.string "JOSUÉ: Un POKéMON que use movimientos\n"
+	.string "de tipo ROCA debería llevar eso.\p"
+	.string "Potencia los ataques de tipo ROCA.$"
 
 Route36_Text_ArthurThursday:
-	.string "ARTHUR: I'm ARTHUR of Thursday.\n"
-	.string "I'm the fifth son out of seven.$"
+	.string "JOSUÉ: Soy JOSUÉ, del jueves. Soy el\n"
+	.string "quinto hijo de siete.$"
 
 Route36_Text_Sign:
 	.string "RUTA 36$"
@@ -356,14 +356,13 @@ Route36_Text_AlanPostRematch:
 	.string "muchas cosas.$"
 
 Route36_Text_AlanHasItem:
-	.string "Hey! I found something\n"
-	.string "while studying!\p"
-	.string "Here, you can have it!$"
+	.string "¡Eh! ¡He encontrado algo mientras\n"
+	.string "estudiaba!\p"
+	.string "¡Toma, para ti!$"
 
 Route36_Text_AlanGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "¡Te avisaré si encuentro algo más!$"
 
 Route36_Text_AlanNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "Mmm, tienes la MOCHILA llena.\p"
+	.string "Vuelve cuando tengas sitio.$"

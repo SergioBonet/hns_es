@@ -84,7 +84,7 @@ CharcoalKiln_Text_Boss1:
 	.string "no salir.$"
 
 CharcoalKiln_Text_Boss2:
-	.string "The SLOWPOKE have returned…$"
+	.string "Los SLOWPOKE han vuelto…$"
 
 CharcoalKiln_Text_Boss3:
 	.string "Los SLOWPOKE han vuelto…\p"
@@ -103,7 +103,7 @@ CharcoalKiln_Text_Apprentice1:
 	.string "¿Están jugando fuera?$"
 
 CharcoalKiln_Text_Apprentice2:
-	.string "The SLOWPOKE came back!$"
+	.string "¡Los SLOWPOKE han vuelto!$"
 
 CharcoalKiln_Text_Apprentice3:
 	.string "Lo siento. Olvidé darte las gracias.\p"

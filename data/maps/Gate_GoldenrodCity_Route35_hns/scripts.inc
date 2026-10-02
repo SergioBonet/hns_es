@@ -92,12 +92,12 @@ Route35GoldenrodGate_Text_ReceivedMonWithMail:
 	.string "{PLAYER} recibió POKéMON con CARTA.$"
 
 Route35GoldenrodGate_Text_RandyWeirdTree:
-	.string "Make sure to put it at the front of\n"
-	.string "your team when you find my friend!\p"
-	.string "ROUTE 31!\p"
-	.string "Oh, yeah. There was a weird tree\n"
-	.string "blocking the road.\p"
-	.string "I wonder if it's been cleared?$"
+	.string "¡Ponlo el primero de tu equipo cuando\n"
+	.string "encuentres a mi amigo!\p"
+	.string "¡RUTA 31!\p"
+	.string "Ah, sí. Había un árbol muy raro\n"
+	.string "cortando el camino.\p"
+	.string "¿Lo habrán quitado ya?$"
 
 Route35GoldenrodGate_Text_CantCarryMoreMon:
 	.string "No puedes llevar otro POKéMON…$"
@@ -125,9 +125,8 @@ Route35GoldenrodGate_Text_PokefanF_Lullaby:
 	.string "la radio.$"
 
 Route35GoldenrodGate_Text_Fisher:
-	.string "I wonder how many kinds of POKéMON\n"
-	.string "there are in the world.\p"
-	.string "Three years ago, PROF.OAK said that\n"
-	.string "there were 150 different kinds.\p"
-	.string "But recently I heard there's\n"
-	.string "over 400!$"
+	.string "Me pregunto cuántas clases de\n"
+	.string "POKéMON habrá en el mundo.\p"
+	.string "Hace tres años, el PROF. OAK dijo que\n"
+	.string "había 150.\p"
+	.string "¡Pero hace poco oí que hay más de 400!$"

@@ -36,7 +36,7 @@ VioletCity_Mart_Text_Granny:
 	.string "POKéMON con mucho cariño.$"
 
 VioletCity_Mart_Text_CooltrainerM:
-	.string "POKéMON can hold items like\n"
-	.string "POTION and ANTIDOTE.\p"
-	.string "But they don't appear to know\n"
-	.string "how to use man-made items.$"
+	.string "Los POKéMON pueden llevar objetos\n"
+	.string "como POCIONES y ANTÍDOTOS.\p"
+	.string "Pero parece que no saben usar objetos\n"
+	.string "hechos por el hombre.$"

@@ -18,11 +18,11 @@ OlivineCity_EventScript_PunisherBoy::
 	end
 
 OlivineCity_Text_PunishmentBro:
-	.string "Along the way to CIANWOOD,\n"
-	.string "there are four deserted islands.\p"
-	.string "Bad kids are taken to those\n"
-	.string "islands as punishment!$"
+	.string "De camino a CIUDAD ORQUÍDEA hay\n"
+	.string "cuatro islas desiertas.\p"
+	.string "¡A los niños malos los llevan a esas\n"
+	.string "islas como castigo!$"
 
 OlivineCity_Text_PunishmentBoy:
-	.string "Whenever I get in trouble,\n"
-	.string "big bro always scares me.$"
+	.string "Cada vez que me meto en líos, mi\n"
+	.string "hermano mayor me asusta.$"

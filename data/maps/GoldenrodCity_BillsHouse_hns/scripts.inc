@@ -60,14 +60,15 @@ GoldenrodCity_BillsHouse_EventScript_Bill_Refused::
 	end
 
 BillHouse_Text_TakeThisEevee:
-    .string "BILL: Hi, {PLAYER}! Do us a favor and\n"
-    .string "take this EEVEE.\p"
-    .string "It was left in our care while\n"
-    .string "I was away working on my system.\p"
-    .string "Someone has to take care of it,\n"
-    .string "but I don't like being outside.\p"
-    .string "Can I count on you to play with it,\n"
-    .string "{PLAYER}?$"
+	.string "BILL: ¡Hola, {PLAYER}! Hazme un favor y\n"
+	.string "llévate este EEVEE.\p"
+	.string "Me lo dejaron a mi cargo mientras\n"
+	.string "estaba fuera trabajando en mi\l"
+	.string "sistema.\p"
+	.string "Alguien tiene que cuidarlo, pero a mí\n"
+	.string "no me gusta salir.\p"
+	.string "¿Puedo contar contigo para que\n"
+	.string "juegues con él, {PLAYER}?$"
 
 BillHouse_Text_CountingOnYou:
 	.string "BILL: ¡Sabía que aceptarías!\p"

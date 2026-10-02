@@ -137,11 +137,11 @@ VictoryRoad_Text_RivalBefore:
 	.string "¡{PLAYER}! ¡Yo te desafío!$"
 
 VictoryRoad_Text_RivalDefeat:
-    .string "…I couldn't win…\p"
-    .string "I gave it every-thing I had…\p"
-    .string "What you possess, and what I lack…\p"
-    .string "I'm beginning to understand what\n"
-    .string "that dragon master said to me…$"
+	.string "… No he podido ganar…\p"
+	.string "Lo he dado todo…\p"
+	.string "Lo que tú tienes y a mí me falta…\p"
+	.string "Empiezo a entender lo que me dijo ese\n"
+	.string "maestro de los dragones…$"
 
 VictoryRoad_Text_RivalAfter:
 	.string "Sigo queriendo ser el mejor\n"

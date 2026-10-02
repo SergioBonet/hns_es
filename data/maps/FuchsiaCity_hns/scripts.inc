@@ -21,20 +21,21 @@ FuchsiaCity_Text_BaobaName:
 	.string "BAOBA$"
 
 FuchsiaCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "Something awful has happened!\n"
-	.string "My old SAFARI ZONE in FUCHSIA CITY\l"
-	.string "was bought out and reopened!\p"
-	.string "And apparently it has exotic new\n"
-	.string "POKéMON!\p"
-	.string "It's hurting my business!\p"
-	.string "{PLAYER}, you must venture into the\n"
-	.string "new SAFARI ZONE and catch a POKéMON\l"
-	.string "to show me. I must know about these\l"
-	.string "'exotic' POKéMON.\p"
-	.string "Please {PLAYER}, my business depends\n"
-	.string "on you!$"
+	.string "GUARDA BAOBA: ¡{PLAYER}!\p"
+	.string "Soy el GUARDA BAOBA.\p"
+	.string "¡Ha pasado algo terrible! ¡Han\n"
+	.string "comprado mi antigua ZONA SAFARI de\l"
+	.string "CIUDAD FUCSIA y la han vuelto a abrir!\p"
+	.string "¡Y por lo visto tiene POKéMON nuevos y\n"
+	.string "exóticos!\p"
+	.string "¡Me está arruinando el negocio!\p"
+	.string "{PLAYER}, tienes que adentrarte en la\n"
+	.string "nueva ZONA SAFARI y atrapar un\l"
+	.string "POKéMON para enseñármelo. Necesito\l"
+	.string "saber cómo son esos POKéMON\l"
+	.string "“exóticos”.\p"
+	.string "Por favor, {PLAYER}, ¡mi negocio\n"
+	.string "depende de ti!$"
 
 FuchsiaCity_EventScript_Dratini::
 	lock
@@ -106,9 +107,9 @@ FuchsiaCity_Text_PokefanM:
 	.string "al ALTO MANDO.$"
 
 FuchsiaCity_Text_Teacher:
-	.string "The SAFARI ZONE is under new\n"
-	.string "management.\p"
-	.string "And it has tons of new POKéMON!$"
+	.string "La ZONA SAFARI tiene una nueva\n"
+	.string "dirección.\p"
+	.string "¡Y tiene montones de POKéMON nuevos!$"
 
 FuchsiaCity_Text_Sign:
 	.string "CIUDAD FUCSIA\p"
@@ -126,9 +127,9 @@ FuchsiaCity_Text_SafariZoneOfficeSign:
 	.string "está cerrado hasta nuevo aviso$"
 
 FuchsiaCity_Text_SafariZone:
-	.string "SAFARI ZONE\n"
-	.string "NOW OWNED BY\l"
-	.string "DEVON CORP.$"
+	.string "ZONA SAFARI\n"
+	.string "AHORA PROPIEDAD\l"
+	.string "DE DEVON S.A.$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:
 	.string "El GUARDA está de viaje. Ésa es la\n"

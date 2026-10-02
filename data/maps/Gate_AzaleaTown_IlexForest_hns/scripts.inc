@@ -22,6 +22,6 @@ Gate_AzaleaTown_IlexForest_Text_Officer:
 	.string "te pierdas.$"
 
 Gate_AzaleaTown_IlexForest_Text_Granny:
-	.string "The ILEX FOREST is watched\n"
-	.string "over by its protector.\p"
-	.string "Stay out of mischief!$"
+	.string "El ENCINAR está bajo la vigilancia de\n"
+	.string "su protector.\p"
+	.string "¡No hagas travesuras!$"

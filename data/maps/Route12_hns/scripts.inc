@@ -86,8 +86,8 @@ Route12_Text_Magikarp:
 	.string "MAGIKARP: Kaaaarp.$"
 
 Route12_Text_NewFisher:
-	.string "Careful, something vicious lives in\n"
-	.string "these waters.$"
+	.string "Cuidado, en estas aguas vive algo muy\n"
+	.string "fiero.$"
 
 Route12_Text_FisherMartinSeen:
 	.string "La paciencia es la clave para pescar y\n"
@@ -118,28 +118,24 @@ Route12_Text_FisherBarneyBeaten:
 	.string "¡La respuesta vendrá luego!$"
 
 Route12_Text_FisherBarneyAfterBattle:
-	.string "I think electricity is the most\n"
-	.string "important thing in our daily\l"
-	.string "lives.\p"
-	.string "If it weren't, people wouldn't\n"
-	.string "have made such a fuss when the\l"
-	.string "POWER PLANT went out of\l"
-	.string "commission.$"
+	.string "Creo que la electricidad es lo más\n"
+	.string "importante de nuestro día a día.\p"
+	.string "Si no lo fuera, la gente no habría\n"
+	.string "armado tanto revuelo cuando la\l"
+	.string "CENTRAL ENERGÍA dejó de funcionar.$"
 
 Route12_Text_KyleRegister:
-	.string "I'll remember this.\n"
-	.string "Give me your number!$"
+	.string "Me acordaré de esto. ¡Dame tu número!$"
 
 Route12_Text_KyleRematchIntro:
-	.string "Did you forget?\n"
-	.string "Let's see!$"
+	.string "¿Se te ha olvidado? ¡Veamos!$"
 
 Route12_Text_KyleRematchDefeat:
-	.string "You remembered.$"
+	.string "Te has acordado.$"
 
 Route12_Text_KylePostRematch:
-	.string "The thrill of battle is almost\n"
-	.string "as good as a big catch!$"
+	.string "¡La emoción de un combate es casi tan\n"
+	.string "buena como una gran captura!$"
 
 Route12_Text_FisherKyleSeen:
 	.string "¿Te acuerdas?$"
@@ -148,10 +144,10 @@ Route12_Text_FisherKyleBeaten:
 	.string "Te acuerdas, ¿no?$"
 
 Route12_Text_FisherKyleAfterBattle:
-	.string "The tug you feel on the ROD when\n"
-	.string "you hook a POKéMON…\p"
-	.string "That's the best feeling ever for\n"
-	.string "an angler like me.$"
+	.string "El tirón que notas en la CAÑA cuando\n"
+	.string "picas a un POKéMON…\p"
+	.string "Para un pescador como yo, es la mejor\n"
+	.string "sensación del mundo.$"
 
 Route12_EventScript_Sign::
 	msgbox Route12_Text_Sign, MSGBOX_SIGN

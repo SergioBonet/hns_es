@@ -115,20 +115,19 @@ GoldenrodCity_Gym_EventScript_Statue2::
 	end
 
 GoldenrodCity_Gym_Text_GymStatue:
-	.string "GOLDENROD POKéMON GYM$"
+	.string "GIMNASIO POKéMON DE CIUDAD TRIGAL$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
-	.string "GOLDENROD TOWN POKéMON GYM\p"
-	.string "WHITNEY'S CERTIFIED TRAINERS:\n"
+	.string "GIMNASIO POKéMON DE CIUDAD TRIGAL\p"
+	.string "CERTIFICADOS POR BLANCA:\n"
 	.string "{PLAYER}$"
 
 GoldenrodCity_Gym_Text_WhitneyBefore:
-    .string "Hi! I'm WHITNEY!\p"
-    .string "Everyone was into POKéMON, so I got\n"
-    .string "into it too!\p"
-    .string "POKéMON are super-cute!\p"
-    .string "You want to battle? I'm warning\n"
-    .string "you- I'm good!$"
+	.string "¡Hola! ¡Soy BLANCA!\p"
+	.string "Todo el mundo estaba con los POKéMON,\n"
+	.string "¡así que yo también me aficioné!\p"
+	.string "¡Los POKéMON son supermonos!\p"
+	.string "¿Quieres luchar? Te aviso: ¡soy buena!$"
 
 GoldenrodCity_Gym_Text_WhitneyShouldntBeSoSerious:
 	.string "¡Ayy…!\p"
@@ -151,11 +150,12 @@ GoldenrodCity_Gym_Text_PlayerReceivedPlainBadge:
 	.string "{PLAYER} recibió la MEDALLA PLANICIE.$"
 
 GoldenrodCity_Gym_Text_WhitneyPlainBadge:
-    .string "PLAINBADGE lets your POKéMON use\n"
-    .string "STRENGTH outside of battle.\p"
-    .string "It also boosts your POKéMON's\n"
-	.string "DEFENSE.\p"
-    .string "Oh, you can have this too!$"
+	.string "La MEDALLA LLANURA permite a tus\n"
+	.string "POKéMON usar FUERZA fuera de los\l"
+	.string "combates.\p"
+	.string "Además, aumenta la DEFENSA de tus\n"
+	.string "POKéMON.\p"
+	.string "¡Ah, y quédate también con esto!$"
 
 GoldenrodCity_Gym_Text_WhitneyAttract:
 	.string "¡Es ATRACCIÓN! Utiliza todo el\n"
@@ -164,14 +164,14 @@ GoldenrodCity_Gym_Text_WhitneyAttract:
 	.string "yo?$"
 
 GoldenrodCity_Gym_Text_WhitneyGoodCry:
-    .string "Ah, that was a good cry!$"
+	.string "¡Ah, qué bien me ha sentado llorar!$"
 
 GoldenrodCity_Gym_Text_WhitneyRematch:
-    .string "Hi! It's you!\p"
-    .string "Wow, JOHTO CHAMPION now?\p"
-    .string "You really are amazing!\p"
-    .string "I want to see how strong you are.\p"
-    .string "Want to have a rematch with me?$"
+	.string "¡Hola! ¡Eres tú!\p"
+	.string "¿Ahora eres el CAMPEÓN de JOHTO?\p"
+	.string "¡Eres increíble!\p"
+	.string "Quiero ver lo fuerte que eres.\p"
+	.string "¿Quieres la revancha?$"
 
 GoldenrodCity_Gym_Text_WhitneyRematchDefeat:
 	.string "¡Uaaaaa!\p"
@@ -230,15 +230,16 @@ GoldenrodCity_Gym_Text_BeautySamanthaAfter:
 	.string "de ataques…$"
 
 GoldenrodCity_Gym_Text_GymGuide:
-    .string "Yo! CHAMP in making!\p"
-    .string "This GYM is home to WHITNEY, the\n"
-    .string "master of NORMAL-type POKéMON.\p"
-    .string "Be cautious of her cute team.\p"
-    .string "Some of the POKéMON in this gym\n"
-    .string "have the newly discovered FAIRY\l"
-    .string "type as well.\p"
-    .string "Check ROUTE 34 if you need a\n"
-    .string "FIGHTING-type or POISON-type.$"
+	.string "¡Eh! ¡Futuro CAMPEÓN!\p"
+	.string "Este GIMNASIO es el hogar de BLANCA,\n"
+	.string "la maestra de los POKéMON de tipo\l"
+	.string "NORMAL.\p"
+	.string "Ten cuidado con su equipo tan mono.\p"
+	.string "Algunos POKéMON de este gimnasio\n"
+	.string "también tienen el recién descubierto\l"
+	.string "tipo HADA.\p"
+	.string "Mira en la RUTA 34 si necesitas un tipo\n"
+	.string "LUCHA o VENENO.$"
 
 GoldenrodCity_Gym_Text_GymGuideWin:
 	.string "¿Has ganado? ¡Genial! Yo estaba\n"

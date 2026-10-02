@@ -50,8 +50,8 @@ GameFreak_Text_GraphicArtistRefused:
 	.string "DIPLOMA.$"
 
 GameFreak_Text_GraphicArtistError:
-	.string "Something's wrong. I'll have to\n"
-	.string "cancel printing.$"
+	.string "Algo va mal. Tendré que cancelar la\n"
+	.string "impresión.$"
 
 GameFreak_Text_Programmer:
 	.string "¿Quién? ¿Yo? Soy el PROGRAMADOR.\p"
@@ -70,9 +70,8 @@ CeladonMansion3F_Text_Drawing:
 	.string "guapa.$"
 
 CeladonMansion3F_Text_GameProgram:
-	.string "It's the game program. Messing\n"
-	.string "with it could put a bug in the\n"
-	.string "game!$"
+	.string "Es el programa del juego. ¡Si lo tocas,\n"
+	.string "podrías meter un fallo en el juego!$"
 
 CeladonMansion3F_Text_ReferenceMaterial:
 	.string "Está lleno de material de referencia:\n"

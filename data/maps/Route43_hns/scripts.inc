@@ -127,10 +127,10 @@ Route43_Text_PokemaniacRonBeaten:
 	.string "¡Mi NIDOKING lo ha hecho muy bien!$"
 
 Route43_Text_PokemaniacRonAfter:
-    .string "It's okay for people to like\n"
-    .string "different types of POKéMON.\p"
-    .string "POKéMON isn't just about having the\n"
-    .string "most powerful one.$"
+	.string "No pasa nada porque a cada uno le\n"
+	.string "gusten tipos de POKéMON distintos.\p"
+	.string "Los POKéMON no consisten solo en\n"
+	.string "tener el más poderoso.$"
 
 Route43_Text_FisherMarvinSeen:
 	.string "No estoy en racha.\p"
@@ -147,8 +147,8 @@ Route43_Text_FisherMarvinAfter:
 	.string "BALL.$"
 
 Route43_Text_CamperSpencerSeen:
-    .string "I can do so much with my\n"
-    .string "POKéMON--it's super-fun!$"
+	.string "¡Puedo hacer tantas cosas con mis\n"
+	.string "POKéMON! ¡Es superdivertido!$"
 
 Route43_Text_CamperSpencerBeaten:
 	.string "Perder no es nada divertido…$"

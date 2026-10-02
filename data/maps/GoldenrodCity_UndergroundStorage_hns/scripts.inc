@@ -73,15 +73,17 @@ RadioTowerBasement_Text_GruntM14After:
 	.string "¡Perdóname, GIOVANNI!$"
 
 RadioTowerBasement_Text_GruntM15Seen:
-    .string "Hyuck-hyuck-hyuck! Look who it is!\p"
-    .string "Ready? I'm really tough now!$"
+	.string "¡Ja, ja, ja! ¡Mira quién está aquí!\p"
+	.string "¿Listo? ¡Ahora soy muy fuerte!$"
 
 RadioTowerBasement_Text_GruntM15Beaten:
-    .string "Hyuck-hyuck-hyuck! You're so good!\p"
-    .string "This TEAM ROCKET thing is just\n"
-    .string "a job, but I can see it hurts others.\p"
-    .string "That's it, I'm leaving.\p"
-    .string "Thank you so much. Sorry GIOVANNI!$"
+	.string "¡Ja, ja, ja! ¡Qué bueno eres!\p"
+	.string "Esto del TEAM ROCKET es solo un\n"
+	.string "trabajo, pero ya veo que hace daño a\l"
+	.string "los demás.\p"
+	.string "Se acabó, me largo.\p"
+	.string "Muchísimas gracias. ¡Lo siento,\n"
+	.string "GIOVANNI!$"
 
 RadioTowerBasement_Text_GruntM15After:
 	.string "¡Ji, ji, ji! ¡Vaya combate! ¡No te\n"

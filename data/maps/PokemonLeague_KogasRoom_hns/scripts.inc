@@ -63,14 +63,14 @@ PokemonLeague_KogasRoom_EventScript_KogaDefeated::
 	end
 
 PokemonLeague_KogasRoom_Text_RematchBefore:
-    .string "KOGA: Fwahahahaha!\p"
-    .string "You return, brave challenger.\p"
-    .string "My ninja skills have sharpened.\p"
-    .string "New sinister traps await you.\p"
-    .string "Poison, sleep, and more...\n"
-    .string "Be ready!\p"
-    .string "Fwahahahaha!\p"
-    .string "Show me how you've grown!$"
+	.string "KOGA: ¡Juajajajajá!\p"
+	.string "Has vuelto, valiente aspirante.\p"
+	.string "Mis habilidades ninja se han afilado.\p"
+	.string "Te esperan nuevas trampas siniestras.\p"
+	.string "Veneno, sueño y mucho más…\n"
+	.string "¡Prepárate!\p"
+	.string "¡Juajajajajá!\p"
+	.string "¡Muéstrame cuánto has crecido!$"
 
 PokemonLeague_KogasRoom_Text_Before:
 	.string "¡Ja, ja, ja!\p"

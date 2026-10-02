@@ -35,24 +35,25 @@ IndigoPlateau_EventScript_ShigyNinja::
 	end
 
 IndigoPlateau_Text_ShigyNinja:
-	.string "Congrats on making it here!\p"
-	.string "I've seen tons of trainers come\n"
-	.string "through here over the years, and\l"
-	.string "all of them are wonderfully unique.\p"
-	.string "You should be proud of yourself\n"
-	.string "for getting this far!\p"
-	.string "Now, go get 'em!$"
+	.string "¡Enhorabuena por llegar hasta aquí!\p"
+	.string "He visto pasar a montones de\n"
+	.string "ENTRENADORES a lo largo de los años, y\l"
+	.string "todos son maravillosamente únicos.\p"
+	.string "¡Deberías estar orgulloso de haber\n"
+	.string "llegado tan lejos!\p"
+	.string "¡Ahora, a por ellos!$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "The POKéMON LEAGUE is not taking\n"
-	.string "new challengers at the moment.\p"
-	.string "Please check back later.$"
+	.string "La LIGA POKéMON no acepta nuevos\n"
+	.string "aspirantes en este momento.\p"
+	.string "Vuelve más tarde, por favor.$"
 
 IndigoPlateau_Text_CooltrainerM:
-    .string "At the POKéMON LEAGUE, you'll get\n"
-    .string "tested by the ELITE FOUR.\p"
-    .string "You have to beat them all. If you\n"
-    .string "lose, you have to start all over!$"
+	.string "En la LIGA POKéMON te pondrá a prueba\n"
+	.string "el ALTO MANDO.\p"
+	.string "Tienes que vencerlos a todos. ¡Si\n"
+	.string "pierdes, tendrás que empezar desde el\l"
+	.string "principio!$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
@@ -86,14 +87,13 @@ IndigoPlateau_Silver_Battle_Chikorita::
 	return
 
 IndigoPlateau_Text_RivalEntrance1:
-    .string "Hold it.\p"
-    .string "You're going to take the POKéMON\n"
-    .string "LEAGUE challenge now?\p"
-    .string "That's not going to happen.\p"
-    .string "My super-well-trained POKéMON\n"
-    .string "are going to pound you.\p"
-    .string "{PLAYER}!\n"
-    .string "I challenge you!$"
+	.string "Alto.\p"
+	.string "¿Vas a enfrentarte ya al desafío de\n"
+	.string "la LIGA POKéMON?\p"
+	.string "Eso no va a pasar.\p"
+	.string "Mis POKéMON, superbién entrenados,\n"
+	.string "van a machacarte.\p"
+	.string "¡{PLAYER}! ¡Te desafío!$"
 
 IndigoPlateau_Text_RivalWin:
 	.string "…\p"

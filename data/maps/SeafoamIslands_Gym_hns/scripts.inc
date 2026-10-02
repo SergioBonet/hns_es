@@ -56,27 +56,28 @@ SeafoamIslands_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SeafoamIslands_Gym_Text_GymStatue::
-    .string "CINNABAR POKéMON GYM\n"
-    .string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+	.string "GIMNASIO POKéMON DE ISLA CANELA\n"
+	.string "LÍDER: BLAINE\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
-    .string "CINNABAR POKéMON GYM\n"
-    .string "LEADER: BLAINE\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+	.string "GIMNASIO POKéMON DE ISLA CANELA\n"
+	.string "LÍDER: BLAINE\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO, {PLAYER}$"
 
 SeafoamIslands_Gym_Text_Blaine_GiveTM:
-	.string "Take this too!$"
+	.string "¡Toma, llévate esto también!$"
 
 SeafoamIslands_Gym_Text_Blaine_ExplainTM:
-	.string "This TM contains\n"
-	.string "the awesome OVERHEAT!\p"
-	.string "The overwhelming heat scorches your\n"
-	.string "opponents, but then drops your power.\p"
-	.string "I hope your next opponent has an\n"
-	.string "extra BURN HEAL! Waaah!$"
+	.string "¡Esta MT contiene el impresionante\n"
+	.string "SOFOCO!\p"
+	.string "Un calor abrumador que abrasa a los\n"
+	.string "rivales, pero que luego reduce tu\l"
+	.string "poder.\p"
+	.string "¡Espero que tu próximo rival tenga un\n"
+	.string "ANTIQUEMAR de sobra! ¡Uaaah!$"
 
 SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "BLAINE: ¡Buaaa!\p"
@@ -108,18 +109,18 @@ SeafoamIslands_Gym_Text_BlaineFightDone:
 	.string "más fuertes. ¡Ya lo verás!$"
 
 SeafoamIslands_Gym_Text_BlaineRematch:
-	.string "BLAINE: Whoa!\p"
-	.string "I see you've become the KANTO\n"
-	.string "CHAMPION!\p"
-	.string "That's blazing!\p"
-	.string "Your skills are top-notch.\p"
-	.string "I'm always up for a battle.\p"
-	.string "Want to have a rematch with me?$"
+	.string "BLAINE: ¡Caramba!\p"
+	.string "¡Veo que te has convertido en el\n"
+	.string "CAMPEÓN de KANTO!\p"
+	.string "¡Eso es abrasador!\p"
+	.string "Tus habilidades son de primera.\p"
+	.string "Yo siempre estoy dispuesto a luchar.\p"
+	.string "¿Quieres la revancha?$"
 
 SeafoamIslands_Gym_Text_BlaineRematchDefeat:
-	.string "BLAINE: Your skills are truly fiery!\p"
-	.string "You've burned right through my\n"
-	.string "defenses.$"
+	.string "BLAINE: ¡Tus habilidades son\n"
+	.string "realmente ardientes!\p"
+	.string "¡Has atravesado mis defensas a fuego!$"
 
 SeafoamIslands_Gym_Text_GymGuideWin:
 	.string "¡Vaya!\p"

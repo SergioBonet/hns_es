@@ -22,7 +22,7 @@ Route40_Text_SwimmermSimonSeen:
 	.string "Es imprescindible.$"
 
 Route40_Text_SwimmermSimonBeaten:
-	.string "OK! Uncle! I give!$"
+	.string "¡Vale! ¡Me rindo!$"
 
 Route40_Text_SwimmermSimonAfter:
 	.string "CIUDAD ORQUÍDEA está bastante lejos\n"
@@ -110,23 +110,23 @@ Route40_EventScript_Youngster::
 	end
 
 Route40_Text_StandingYoungster:
-	.string "Have you gone to the TRAINER\n"
-	.string "HILL?\p"
-	.string "I think a lot of tough trainers\n"
-	.string "have gathered there already.\p"
-	.string "But since you have so many BADGES\n"
-	.string "you shouldn't do badly at all.$"
+	.string "¿Has ido a la COLINA DESAFÍO?\p"
+	.string "Creo que allí ya se ha reunido un\n"
+	.string "montón de ENTRENADORES duros.\p"
+	.string "Pero como tienes tantas MEDALLAS, no\n"
+	.string "deberías hacerlo nada mal.$"
 
 Route40_Text_Monica:
-	.string "MONICA: Glad to meet you.\n"
-	.string "I'm MONICA of the WEEKDAY FAMILY.\p"
-	.string "I bet you can't guess my favorite\n"
-	.string "day of the week!$"
+	.string "LUNA: Encantada de conocerte. Soy\n"
+	.string "LUNA, de la FAMILIA de los DÍAS de la\l"
+	.string "SEMANA.\p"
+	.string "¡A que no adivinas cuál es mi día\n"
+	.string "favorito de la semana!$"
 
 Route40_Text_MonicaGivesGift:
-	.string "That's right!\p"
-	.string "As a token of our friendship,\n"
-	.string "I have a gift for you!$"
+	.string "¡Correcto!\p"
+	.string "¡Como muestra de nuestra amistad,\n"
+	.string "tengo un regalo para ti!$"
 
 Route40_Text_MonicaGaveGift:
 	.string "Luna: Es un objeto que aumenta el\n"
@@ -145,7 +145,7 @@ Route40_Text_MonicaNotMonday:
 	.string "pena…!$"
 
 Route40_Text_MonicaNope:
-	.string "Not that one.$"
+	.string "Ese no.$"
 
 Rotue40_EventScript_Monica::
 	lock

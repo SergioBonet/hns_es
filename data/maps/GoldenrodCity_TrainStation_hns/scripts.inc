@@ -317,8 +317,7 @@ GoldenrodMagnetTrainStation_Text_GentlemanPresident:
 	.string "de KANTO.$"
 
 GoldenrodCity_TrainStation_Text_Boy:
-	.string "You brought the MAGNET TRAIN PASS,\n"
-	.string "right?$"
+	.string "Traes el MAGNETOPASE, ¿verdad?$"
 
 GoldenrodCity_TrainStation_Text_Psychic:
-	.string "I thought you had it!$"
+	.string "¡Ya me parecía que lo tenías!$"

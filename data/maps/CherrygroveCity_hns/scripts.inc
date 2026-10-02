@@ -286,8 +286,7 @@ CherrygroveCity_Text_GuideGentIntro:
 	.string "cosas.$"
 
 CherrygroveCity_Text_GuideGentTourStart:
-	.string "OK, then!\n"
-	.string "Follow me!$"
+	.string "¡Muy bien! ¡Sígueme!$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
 	.string "Esto es un CENTRO POKéMON.\p"
@@ -301,47 +300,44 @@ CherrygroveCity_Text_GuideGentMart:
 	.string "salvajes y otras muchas cosas.$"
 
 CherrygroveCity_Text_GuideGentRoute30:
-	.string "ROUTE 30 is out this way.\p"
-	.string "Trainers will be battling\n"
-	.string "their prized POKéMON there.$"
+	.string "Por aquí se va a la RUTA 30.\p"
+	.string "Allí los ENTRENADORES luchan con sus\n"
+	.string "POKéMON más queridos.$"
 
 CherrygroveCity_Text_GuideGentSea:
-	.string "This is the sea, as you can see.\p"
-	.string "Some POKéMON are found only in\n"
-	.string "in water.$"
+	.string "Esto es el mar, como puedes ver.\p"
+	.string "Hay POKéMON que solo viven en el agua.$"
 
 CherrygroveCity_Text_GuideGentMap:
-	.string "Here…\p"
-	.string "It's my house! Thanks for\n"
-	.string "your company.\p"
-	.string "Oh, and if you're ever lost, check\n"
-	.string "the MAP on your POKéGEAR!\p"
-	.string "I wish you luck on your journey!$"
+	.string "Aquí…\p"
+	.string "¡Esta es mi casa! Gracias por\n"
+	.string "acompañarme.\p"
+	.string "Ah, y si alguna vez te pierdes, ¡mira el\n"
+	.string "MAPA de tu POKéGEAR!\p"
+	.string "¡Te deseo suerte en tu viaje!$"
 
 CherrygroveCity_Text_GuideGentDecline:
-	.string "Oh… It's something I enjoy\n"
-	.string "doing…\p"
-	.string "Fine. Come see me whenever\n"
-	.string "you like.$"
+	.string "Oh… Es algo que me gusta hacer…\p"
+	.string "Bueno. Ven a verme cuando quieras.$"
 
 CherrygroveCity_Text_RivalSeen:
 	.string "… … … … … … … …\p"
-	.string "You got a POKéMON at the LAB.\p"
-	.string "What a waste.\n"
-	.string "A wimp like you.\p"
+	.string "Te han dado un POKéMON en el\n"
+	.string "LABORATORIO.\p"
+	.string "Qué desperdicio. Un debilucho como tú.\p"
 	.string "… … … … … … … …\p"
-	.string "Don't you get what I'm saying?\n"
-	.string "Well, I too, have a good POKéMON.\p"
-	.string "I'll show you what I mean!$"
+	.string "¿No entiendes lo que te digo? Bueno,\n"
+	.string "yo también tengo un buen POKéMON.\p"
+	.string "¡Ya verás a qué me refiero!$"
 
 CherrygroveCity_Text_SilverWin:
 	.string "Grrr. ¿Feliz de haber ganado?$"
 
 CherrygroveCity_Text_RivalAfter:
 	.string "… … … … … … … …\p"
-	.string "Do you want to know who I am?\p"
-	.string "I'm going to be the world's\n"
-	.string "greatest POKéMON trainer.$"
+	.string "¿Quieres saber quién soy?\p"
+	.string "Voy a ser el mejor ENTRENADOR POKéMON\n"
+	.string "del mundo.$"
 
 CherrygroveCity_Text_RivalID:
 	.string "¡Dame eso! Es mi Ficha de ENTRENADOR,\n"
@@ -354,8 +350,8 @@ CherrygroveCity_Text_TeacherHaveMapCard:
 	.string "sitio está bien.$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
-	.string "MR. POKéMON's house is still\n"
-	.string "farther up ahead.$"
+	.string "La casa del SR. POKéMON está más\n"
+	.string "adelante.$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
 	.string "He luchado contra los entrenadores\n"
@@ -384,10 +380,10 @@ CherryGroveCity_Text_Staryu:
 	.string "STARYU: Yuuuuuuuu.$"
 
 CherryGroveCity_Text_Corsola:
-	.string "CORSOLA: Corsola! La!$"
+	.string "CORSOLA: ¡Corsola! ¡La!$"
 
 CherryGroveCity_Text_Krabby:
-	.string "KRABBY: KOOOOKEEE!$"
+	.string "KRABBY: ¡KOOOOKIIII!$"
 
 CherryGroveCity_Movement_Trigger_Gent:
 	walk_down

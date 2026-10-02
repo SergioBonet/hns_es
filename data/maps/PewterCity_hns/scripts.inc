@@ -58,8 +58,9 @@ PewterCity_EventScript_Cooltrainer::
 	end
 
 PewterCity_Text_CooltrainerF:
-	.string "Have you visited PEWTER GYM?\p"
-	.string "The LEADER uses ROCK-type POKéMON.$"
+	.string "¿Has visitado el GIMNASIO de CIUDAD\n"
+	.string "PLATEADA?\p"
+	.string "El LÍDER usa POKéMON de tipo ROCA.$"
 
 PewterCity_Text_BugCatcher:
 	.string "Por la noche, los CLEFAIRY salen a\n"
@@ -111,9 +112,9 @@ PewterCity_Text_GymSign:
 	.string "la roca$"
 
 PewterCity_Text_MuseumSign:
-	.string "There's a notice here…\p"
-	.string "PEWTER MUSEUM OF SCIENCE is closed for\n"
-	.string "renovations…$"
+	.string "Aquí hay un aviso…\p"
+	.string "El MUSEO DE LA CIENCIA de CIUDAD\n"
+	.string "PLATEADA está cerrado por reformas…$"
 
 PewterCity_Text_MtMoonGiftShopSign:
 	.string "Aquí hay una nota…\p"

@@ -198,29 +198,30 @@ BattleFrontier_Lounge3_EventScript_FaceOriginalDirection_hns::
 	end
 
 BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere_hns::
-	.string "…What's that you want?\p"
-	.string "Can't you see we're kind of busy here?\n"
-	.string "Can't your business wait till later?$"
+	.string "¿Y tú qué es lo que quieres?\p"
+	.string "¿No ves que estamos ocupados?\n"
+	.string "¿O es que no puedes esperar?$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling_hns::
-	.string "…Huh?\n"
-	.string "You look to me like a tough TRAINER.\p"
-	.string "Heheh…\n"
-	.string "Listen, I have this proposition.\p"
-	.string "We have a little group going here,\n"
-	.string "and we play a little game with what\l"
-	.string "goes on in the BATTLE FRONTIER.\p"
-	.string "The rules are really simple.\p"
-	.string "First, we pick one of the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Then, we each pick a different TRAINER\n"
-	.string "who's taking that facility's challenge,\l"
-	.string "and bet with our Battle Points.\p"
-	.string "The guy who bet on the TRAINER with\n"
-	.string "the best record takes all the Battle\l"
-	.string "Points in the pool.\p"
-	.string "Sounds simple, huh?\n"
-	.string "So, anyway…$"
+	.string "Anda, mira, a primera vista\n"
+	.string "se ve que ENTRENAS con fiereza.\p"
+	.string "Je, je, je…\n"
+	.string "Oye, te propongo una cosa.\p"
+	.string "Hemos formado un grupillo aquí,\n"
+	.string "y solemos jugar a un juego que va\l"
+	.string "sobre el FRENTE de BATALLA.\p"
+	.string "Las reglas son muy sencillas.\p"
+	.string "Primero, elegimos uno de los escenarios\n"
+	.string "que hay en el FRENTE de BATALLA.\p"
+	.string "Luego, cada uno elige a un ENTRENADOR\n"
+	.string "que vaya a participar en el desafío\l"
+	.string "de ese escenario y apostamos por él\l"
+	.string "nuestros PUNTOS de BATALLA.\p"
+	.string "El que apueste por el ENTRENADOR que\n"
+	.string "consiga el mejor resultado, se lleva\l"
+	.string "los PUNTOS de BATALLA de los demás.\p"
+	.string "¿Fácil, verdad?\n"
+	.string "Pues eso.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle_hns::
 	.string "Estoy buscando a un ENTRENADOR que\n"
@@ -309,30 +310,29 @@ BattleFrontier_Lounge3_Text_ChallengeBattlePyramid_hns::
 	.string "que me inspire la suficiente confianza.$"
 
 BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe_hns::
-	.string "I'll see to it that you benefit, too.\n"
-	.string "So how about it?\l"
-	.string "How about entering that event for me?$"
+	.string "Creo que tú también podrías ganar algo.\n"
+	.string "Así que, ¿qué me dices?\l"
+	.string "¿Aceptarías ese desafío por mí?$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints_hns::
-	.string "All right, that's perfect.\n"
-	.string "So, uh… How about spotting me some\l"
-	.string "of your Battle Points?\p"
-	.string "Trust me, I'll show you my gratitude\n"
-	.string "afterward.$"
+	.string "Perfecto… ¿Qué tal si me prestas\n"
+	.string "algunos de tus PUNTOS de BATALLA?\p"
+	.string "Confía en mí, sé agradecer los favores\n"
+	.string "con creces.$"
 
 BattleFrontier_Lounge3_Text_HowMuchCanYouSpot_hns::
-	.string "Great, great!\n"
-	.string "So, how much can you spot me?$"
+	.string "¡Genial, genial!\n"
+	.string "¿Cuántos me puedes prestar?$"
 
 BattleFrontier_Lounge3_Text_YouDontHaveEnoughPoints_hns::
-	.string "Oh, no, no, no!\n"
-	.string "You don't have enough Battle Points!\p"
-	.string "I wish you wouldn't monkey around and\n"
-	.string "waste everyone's time!$"
+	.string "¡Oh, no, no, no! ¡No tienes suficientes\n"
+	.string "PUNTOS de BATALLA!\p"
+	.string "¡Yo que tú no iría por ahí burlándome de\n"
+	.string "la gente ni haciéndole perder el tiempo!$"
 
 BattleFrontier_Lounge3_Text_ThanksOffYouGo_hns::
-	.string "Heheh! Thanks much!\n"
-	.string "So, off you go!$"
+	.string "¡Je, je, je! ¡Muchas gracias!\n"
+	.string "¡Venga, adelante!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle_hns::
 	.string "¡Te espera el COMBATE INDIVIDUAL\n"
@@ -421,52 +421,52 @@ BattleFrontier_Lounge3_Text_GetToBattlePyramid_hns::
 	.string "¡El futuro de los dos está en tus manos!$"
 
 BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints_hns::
-	.string "Oh, it's you…\n"
-	.string "Nice try…\p"
-	.string "I hate to break it to you, but I can't\n"
-	.string "return your Battle Points…\p"
-	.string "I guess we'll have to let it motivate\n"
-	.string "us to try harder next time!$"
+	.string "Ah, eres tú…\n"
+	.string "Buen intento…\p"
+	.string "Siento decírtelo, pero no puedo\n"
+	.string "devolverte tus PUNTOS de BATALLA…\p"
+	.string "¡Tendremos que motivarnos para\n"
+	.string "hacerlo mejor la próxima vez!$"
 
 BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints_hns::
-	.string "Oh, yes!\n"
-	.string "Hello there, champ!\p"
-	.string "I knew you could!\n"
-	.string "I knew you would!\l"
-	.string "We're both big winners!\p"
-	.string "I'll return your Battle Points and,\n"
-	.string "of course, a little extra from me!$"
+	.string "¡Eh, hola!\p"
+	.string "¡Sabía que podías!\n"
+	.string "¡Sabía que lo harías!\l"
+	.string "Gracias a ti, ¡hemos ganado los dos!\p"
+	.string "Toma, tus PUNTOS de BATALLA\n"
+	.string "y, por supuesto, ¡tu recompensa!$"
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints_hns::
-	.string "{PLAYER} obtained\n"
-	.string "{STR_VAR_1} Battle Points.$"
+	.string "{PLAYER} obtuvo\n"
+	.string "{STR_VAR_1} PUNTOS de BATALLA.$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge_hns::
-	.string "If you're up for another challenge,\n"
-	.string "please do think of me!$"
+	.string "Antes de aceptar otro desafío,\n"
+	.string "¡habla antes conmigo!$"
 
 BattleFrontier_Lounge3_Text_NotInterested_hns::
-	.string "Not interested?! You shouldn't be\n"
-	.string "so afraid to take a chance!$"
+	.string "¡¿No te interesa?!\n"
+	.string "¡No deberías tener miedo de probar!$"
 
 BattleFrontier_Lounge3_Text_Oh_hns::
 	.string "Oh…$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer_hns::
-	.string "I backed the wrong TRAINER again!\p"
-	.string "Maybe I should be battling normally\n"
-	.string "like everyone else…$"
+	.string "¡He apostado otra vez por\n"
+	.string "el ENTRENADOR equivocado!\p"
+	.string "Quizás debería combatir yo misma,\n"
+	.string "como hacen los demás…$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled_hns::
-	.string "That TRAINER…\p"
-	.string "He's good, but he gets rattled too\n"
-	.string "easily to survive the BATTLE DOME…$"
+	.string "Ese ENTRENADOR…\p"
+	.string "Es bueno, pero no lo veo con el aguante\n"
+	.string "necesario para la CÚPULA BATALLA…$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne_hns::
-	.string "Giggle!\n"
-	.string "I know a winner when I see one!$"
+	.string "¡Yo reconozco a un ENTRENADOR\n"
+	.string "ganador nada más verlo! ¡Ji, ji, ji!$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges_hns::
-	.string "Those TRAINERS…\n"
-	.string "What are they doing?\l"
-	.string "They should be taking challenges.$"
+	.string "Pero esos ENTRENADORES…\n"
+	.string "¿Qué están haciendo?\l"
+	.string "Deberían estar combatiendo, ¿no?$"

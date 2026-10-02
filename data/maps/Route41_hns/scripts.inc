@@ -24,8 +24,7 @@ Route41_Text_SwimmermCharlieBeaten:
 	.string "¡Vaya! ¡Estoy como una pasa!$"
 
 Route41_Text_SwimmermCharlieAfter:
-	.string "Isn't it relaxing just floating\n"
-	.string "like this?$"
+	.string "¿A que relaja mucho flotar así?$"
 
 Route41_EventScript_George::
 	trainerbattle_single TRAINER_GEORGE_HNS, Route41_Text_SwimmermGeorgeSeen, Route41_Text_SwimmermGeorgeBeaten
@@ -110,9 +109,9 @@ Route41_Text_SwimmerfKayleeBeaten:
 	.string "¿Así es como lo haces?$"
 
 Route41_Text_SwimmerfKayleeAfter:
-	.string "There's supposed to be a big\n"
-	.string "POKéMON deep beneath WHIRL ISLANDS.\p"
-	.string "I wonder what it could be?$"
+	.string "Dicen que en lo más profundo de las\n"
+	.string "ISLAS REMOLINO hay un gran POKéMON.\p"
+	.string "¿Qué será?$"
 
 Route41_EventScript_Susie::
 	trainerbattle_single TRAINER_SUSIE_HNS, Route41_Text_SwimmerfSusieSeen, Route41_Text_SwimmerfSusieBeaten
@@ -281,11 +280,11 @@ Route41_EventScript_TentacruelAttack4::
 	end
 
 Route41_Text_Tentacruel:
-	.string "TENTACRUEL: Cruooo...$"
+	.string "TENTACRUEL: Cruooo…$"
 
 Route41_Text_TentacruelAttack:
-	.string "TENTACRUEL: CRUOOOOOO!$"
+	.string "TENTACRUEL: ¡CRUOOOOOO!$"
 
 Route41_Text_TentacruelHeal:
-	.string "The TENTACRUEL used RECOVER!\n"
-	.string "It is fully healed!$"
+	.string "¡TENTACRUEL ha usado RECUPERACIÓN!\n"
+	.string "¡Se ha curado por completo!$"

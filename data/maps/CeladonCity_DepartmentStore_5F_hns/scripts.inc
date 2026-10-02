@@ -35,13 +35,13 @@ CeladonDeptStore_Text_5FReceptionistOhYourMon:
 	.string "$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+	.string "¡Espera, si ya te he dado esa MT!$"
 
 CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Mmmm…\n"
+	.string "No está mal, pero tampoco muy bien.\p"
+	.string "Tendrías que esforzarte un\n"
+	.string "poco más, ¿no te parece?$"
 
 CeladonDeptStore_Text_5FReceptionistItLooksEvilHowAboutThisTM:
 	.string "Parece malvado. ¿Qué te parece esta\n"
@@ -74,12 +74,11 @@ CeladonDeptStore5_EventScript_Falkner::
 	end
 
 CeladonDeptStore5_Text_Falkner:
-	.string "{PLAYER}. I didn't expect to see\n"
-	.string "you here.\p"
-	.string "I'm picking up gear for my\n"
-	.string "bird POKéMON.\p"
-	.string "If you want to face me again, I'll\n"
-	.string "be at the DOJO in SAFFRON CITY.$"
+	.string "{PLAYER}. No esperaba verte por aquí.\p"
+	.string "Estoy comprando cosas para mis\n"
+	.string "POKéMON pájaro.\p"
+	.string "Si quieres volver a enfrentarte a mí,\n"
+	.string "estaré en el DOJO de CIUDAD AZAFRÁN.$"
 
 CeladonDeptStore5F_Text_Gentleman:
 	.string "Quiero comprar objetos que aumenten\n"
@@ -87,8 +86,9 @@ CeladonDeptStore5F_Text_Gentleman:
 	.string "no tengo dinero!$"
 
 CeladonDeptStore5F_Text_Sailor:
-	.string "I want PP UP, so I can raise the\n"
-	.string "PP of moves. But you can't buy it…$"
+	.string "Quiero un MÁS PP para subir los PP de\n"
+	.string "los movimientos. Pero no se puede\l"
+	.string "comprar…$"
 
 CeladonDeptStore5F_Text_Teacher:
 	.string "Si usas objetos en tus POKéMON, se\n"

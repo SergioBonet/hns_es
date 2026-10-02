@@ -30,8 +30,8 @@ CeladonDeptStore6F_Text_Vending:
 	.string "¡Una máquina expendedora!$"
 
 CeladonDeptStore6F_Text_Clang:
-	.string "Clang!\p"
-	.string "{STRING} popped out.$"
+	.string "¡Clonc!\p"
+	.string "¡Ha salido {STRING}!$"
 
 CeladonDeptStore6F_Text_VendingNoMoney:
 	.string "¡Uups, no tienes bastantes fichas!$"
@@ -49,5 +49,5 @@ CeladonDeptStore6F_Text_Youngster:
 	.string "Quería jugar…$"
 
 CeladonDeptStore6F_Text_Directory:
-	.string "6F: ROOFTOP SQUARE VENDING\n"
-	.string "MACHINES$"
+	.string "6.ª P.: MÁQUINAS EXPENDEDORAS DE LA\n"
+	.string "AZOTEA$"

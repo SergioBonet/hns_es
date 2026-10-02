@@ -236,8 +236,8 @@ SproutTower_Text_SageTroy_AfterBattle:
 	.string "No estás lejos del ANCIANO.$"
 
 SproutTower_Text_SageNeal_Seen:
-	.string "The ELDER's HM lights even\n"
-	.string "pitch-black darkness.$"
+	.string "La MO del ANCIANO ilumina incluso la\n"
+	.string "oscuridad más absoluta.$"
 
 SproutTower_Text_SageNeal_Beaten:
 	.string "¡Mi cerebro sí que es brillante!$"

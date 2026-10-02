@@ -43,8 +43,7 @@ SSAqua_B1F_EventScript_Barfcan::
 	end
 
 SSAqua_B1F_Text_BarfCan:
-    .string "Yuck!\n"
-    .string "Shouldn't have looked!$"
+	.string "¡Puaj! ¡No debería haber mirado!$"
 
 SSAqua_B1F_Text_FastShipOnDutySailor:
 	.string "¡Eh! ¿Podrías buscar a mi compañero?\p"
@@ -176,18 +175,18 @@ SSAqua_B1F_EventScript_Kenneth::
 	end
 
 SSAqua_B1F_Text_SailorKennethSeen:
-	.string "I'm a sailor man!\p"
-	.string "But I'm training POKéMON, so I\n"
-	.string "can become the CHAMP!$"
+	.string "¡Soy marinero!\p"
+	.string "¡Pero estoy entrenando POKéMON para\n"
+	.string "ser CAMPEÓN!$"
 
 SSAqua_B1F_Text_SailorKennethBeaten:
 	.string "Me falta entrenamiento…$"
 
 SSAqua_B1F_Text_SailorKennethAfter:
-	.string "Eight BADGES! They must prove\n"
-	.string "that you've beaten\p"
-	.string "GYM LEADERS.\p"
-	.string "No wonder you're so good!$"
+	.string "¡Ocho MEDALLAS! Demuestran que has\n"
+	.string "vencido\p"
+	.string "a los LÍDERES de GIMNASIO.\p"
+	.string "¡Con razón eres tan bueno!$"
 
 SSAqua_B1F_EventScript_Shirley::
 	trainerbattle_single TRAINER_SHIRLEY_HNS, SSAqua_B1F_Text_TeacherShirleySeen, SSAqua_B1F_Text_TeacherShirleyBeaten

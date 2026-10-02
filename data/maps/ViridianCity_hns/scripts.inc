@@ -25,10 +25,9 @@ ViridianCity_Text_OakName:
 	.string "OAK$"
 
 ViridianCity_Text_OakCall:
-	.string "OAK: Ah, {PLAYER}!\p"
-	.string "Come and see my at my\n"
-	.string "LAB in PALLET TOWN\l"
-	.string "when you get the chance.$"
+	.string "OAK: ¡Ah, {PLAYER}!\p"
+	.string "Ven a verme a mi LABORATORIO de\n"
+	.string "PUEBLO PALETA cuando tengas ocasión.$"
 
 ViridianCity_EventScript_Gramps::
 	lock
@@ -111,15 +110,15 @@ ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "¡Buena suerte! ¡La vas a necesitar!$"
 
 ViridianCity_Text_DreamEaterFisherNew:
-	.string "…Zzzzz…\p" 
-	.string "Yawn!\p"
-	.string "I must have dozed off in the sun.\p"
-	.string "What? I remind you of somebody?\p"
-	.string "I don't know, here, have this.$"
+	.string "… Zzzzz…\p"
+	.string "¡Aaah!\p"
+	.string "Me habré quedado dormido al sol.\p"
+	.string "¿Qué? ¿Que te recuerdo a alguien?\p"
+	.string "No sé, toma, quédate esto.$"
 
 
 ViridianCity_Text_DreamEaterFisher_GotTM::
-	.string "…Zzzzz…$"
+	.string "… Zzzzz…$"
 
 ViridianCity_Text_DreamEaterFisher:
 	.string "¡Qué sueño!\p"

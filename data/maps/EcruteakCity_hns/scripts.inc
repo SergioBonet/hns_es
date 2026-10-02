@@ -118,30 +118,29 @@ EcruteakCity_Movement_Silver2:
 	step_end
 
 EcruteakCity_Text_Silver1:
-	.string "THUD!!$"
+	.string "¡PUMBA!$"
 
 EcruteakCity_Text_Silver2:
-	.string "{RIVAL}: How...? How is this\n"
-	.string "possible? How can I lose to mere\l"
-	.string "KIMONO GIRLS...?$"
+	.string "{RIVAL}: ¿Cómo…? ¿Cómo es posible?\n"
+	.string "¿Cómo puedo perder contra unas\l"
+	.string "simples CHICAS KIMONO…?$"
 
 EcruteakCity_Text_Silver3:
-	.string "{RIVAL}: You were watching me,\n"
-	.string "{PLAYER}...\p"
-	.string "Yeah, that's right!\p"
-	.string "I never thought defeating five\n"
-	.string "KIMONO GIRLS would be so hard...\p"
-	.string "I got beaten to a pulp...\p"
-	.string "...\p"
-	.string "You must have come here for the\n"
-	.string "same reason, right?\p"
-	.string "Don't get cocky just because you\n"
-	.string "defeated TEAM ROCKET!\p"
-	.string "These KIMONO GIRLS are insanely\n"
-	.string "strong.\p"
-	.string "See if you can defeat them.\p"
-	.string "But I'm not going back, I don't\n"
-	.string "want to see you win.$"
+	.string "{RIVAL}: Me estabas mirando,\n"
+	.string "{PLAYER}…\p"
+	.string "Sí, eso es.\p"
+	.string "Nunca pensé que vencer a cinco\n"
+	.string "CHICAS KIMONO fuera tan difícil…\p"
+	.string "Me han dado una paliza…\p"
+	.string "…\p"
+	.string "Tú también has venido por lo mismo,\n"
+	.string "¿verdad?\p"
+	.string "¡No te creas mucho solo porque\n"
+	.string "venciste al TEAM ROCKET!\p"
+	.string "Estas CHICAS KIMONO son fortísimas.\p"
+	.string "A ver si puedes vencerlas.\p"
+	.string "Pero yo no vuelvo, no quiero verte\n"
+	.string "ganar.$"
 
 EcruteakCity_EventScript_Gramps::
 	lock
@@ -281,20 +280,20 @@ EcruteakCity_EventScript_Item_RareCandy::
 	end
 
 EcruteakCity_Text_Eevee:
-	.string "EEVEE: Veee!$"
+	.string "EEVEE: ¡Veee!$"
 
 EcruteakCity_Text_Vulpix:
-	.string "VULPIX: Vullll Pix!$"
+	.string "VULPIX: ¡Vullll Pix!$"
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
-	.string "Oh, no. Oh, no…\p"
-	.string "My daughter is missing.\p"
-	.string "No… She couldn't have gone to the\n"
-	.string "BURNED TOWER.\p"
-	.string "I told her not to go near it…\p"
-	.string "People seem to disappear there…\p"
-	.string "Oh, what should I do…?$"
+	.string "Ay, no. Ay, no…\p"
+	.string "Mi hija ha desaparecido.\p"
+	.string "No… No puede haber ido a la TORRE\n"
+	.string "QUEMADA.\p"
+	.string "Le dije que no se acercara…\p"
+	.string "Allí la gente desaparece…\p"
+	.string "Ay, ¿qué hago…?$"
 
 EcruteakCity_Text_Gramps1:
 	.string "En CIUDAD IRIS había dos torres:\p"
@@ -312,10 +311,10 @@ EcruteakCity_Text_Lass1:
 	.string "¿Vienes conmigo?$"
 
 EcruteakCity_Text_Lass2:
-	.string "The tower that used to be here…\p"
-	.string "My grandma told me it used to be\n"
-	.string "much taller.\p"
-	.string "I hear there are ghosts in it now.$"
+	.string "La torre que había aquí…\p"
+	.string "Mi abuela me dijo que antes era mucho\n"
+	.string "más alta.\p"
+	.string "Dicen que ahora hay fantasmas dentro.$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
 	.string "Tres POKéMON muy grandes huyeron en\n"
@@ -353,9 +352,9 @@ EcruteakCity_Text_Gramps3:
 	.string "Yo sólo soy un entrenador. ¡Jo, jo, jo!$"
 
 EcruteakCity_Text_SageGym:
-	.string "Gym Leader MORTY is not here right\n"
-	.string "now. You may find him at the\l"
-	.string "BURNED TOWER.$"
+	.string "MORTI, el LÍDER del GIMNASIO, no está\n"
+	.string "ahora mismo. Puede que lo encuentres\l"
+	.string "en la TORRE QUEMADA.$"
 
 EcruteakCity_Text_Sign:
 	.string "CIUDAD IRIS Una ciudad donde\n"
@@ -366,8 +365,9 @@ EcruteakCity_Text_TinTowerSign:
 	.string "Aquí duerme un POKéMON legendario.$"
 
 EcruteakCity_Text_OfficeSign:
-	.string "Barrier Station to TIN TOWER\p"
-	.string "No Trespassing by the Unworthy.$"
+	.string "Puesto de control de la TORRE CAMPANA\p"
+	.string "Prohibido el paso a los que no sean\n"
+	.string "dignos.$"
 
 EcruteakCity_Text_GymSign:
 	.string "LÍDER DEL GIMNASIO POKéMON DE\n"

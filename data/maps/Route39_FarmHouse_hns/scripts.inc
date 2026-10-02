@@ -80,13 +80,11 @@ Route39_FarmHouse_EventScript_FarmerM_NotEnough::
 	end
 
 Route39_Text_FarmerMSickCow:
-	.string "My MILTANK ain't givin' me\n"
-	.string "milk no more.\p"
-	.string "This here FARM's got famous milk.\p"
-	.string "Most everyone wants a drink.\p"
-	.string "It'll give me lots o' milk if'n\n"
-	.string "I feed it lots o' BERRIES,\l"
-	.string "I reckon.$"
+	.string "Mi MILTANK ya no me da leche.\p"
+	.string "La leche de esta GRANJA es famosa.\p"
+	.string "Casi todo el mundo quiere probarla.\p"
+	.string "Si le doy muchas BAYAS, supongo que me\n"
+	.string "dará mucha leche.$"
 
 Route39_Text_FarmerMBuyMilk:
 	.string "¿Te gusta mi LECHE MU-MU?\p"
@@ -109,10 +107,10 @@ Route39_Text_FarmerMNoSale:
 	.string "¿No la quieres? Vuelve otro día.$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
-	.string "How bout another?$"
+	.string "¿Qué tal otra?$"
 
 Route39_Text_GotMilk:
-	.string "{PLAYER} got MOOMOO MILK.$"
+	.string "¡{PLAYER} ha conseguido LECHE MU-MU!$"
 
 Route39_Text_FarmerMMilking:
 	.string "Mejor que me vaya a ordeñar.$"
@@ -128,12 +126,13 @@ Route39_Text_FarmerFHealedMiltank:
 	.string "Aquí tienes algo que te ayudará.$"
 
 Route39_Text_FarmerFSnatchSpeech:
-	.string "That there's SNATCH.\p"
-	.string "It's a tricky move that lets\n"
-	.string "a POKéMON steal a foe's move\l"
-	.string "right before it's used.\p"
-	.string "If more than one POKéMON use\n"
-	.string "SNATCH, only the slowest one\l"
-	.string "will end up stealing the move.\p"
-	.string "Use it smart, hon. Timing is\n"
-	.string "everything.$"
+	.string "Esto es ROBO.\p"
+	.string "Es un movimiento muy astuto que\n"
+	.string "permite a un POKéMON robar el\l"
+	.string "movimiento del rival justo antes de\l"
+	.string "que lo use.\p"
+	.string "Si más de un POKéMON usa ROBO, solo el\n"
+	.string "más lento acabará robando el\l"
+	.string "movimiento.\p"
+	.string "Úsalo con cabeza, cielo. Todo es\n"
+	.string "cuestión de saber elegir el momento.$"

@@ -111,13 +111,14 @@ GoldenrodCity_UndergroundTunnel_Movement_Kimono_Leave2:
 
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono1:
-	.string "Team Rocket members in black suits\n"
-	.string "have been running around...\p"
-	.string "I was wondering what was going on.\n"
-	.string "So, you took on Team Rocket?\l"
-	.string "You are impressive!\p"
-	.string "You may be able to face the\n"
-	.string "legendary POKé...$"
+	.string "Los miembros del TEAM ROCKET con\n"
+	.string "traje negro no paran de correr de un\l"
+	.string "lado a otro…\p"
+	.string "Me preguntaba qué estaba pasando.\n"
+	.string "Así que te has enfrentado al TEAM\l"
+	.string "ROCKET, ¿eh? ¡Impresionante!\p"
+	.string "Quizás puedas enfrentarte al\n"
+	.string "legendario POKé…$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
 	.string "Oh, no he dicho nada.\p"
@@ -322,12 +323,12 @@ GoldenrodCity_UndergroundTunnel_EventScript_Item_Antidote::
 
 
 GoldenrodUnderground_Text_YoungerBrotherOffer:
-    .string "Welcome to the POKéMON SALON!\p"
-    .string "I'm the younger and less expensive\n"
-    .string "of the two HAIRCUT BROTHERS.\p"
-    .string "I'll spiff up your POKéMON for just\n"
-    .string "¥300.\p"
-    .string "So? How about it?$"
+	.string "¡Bienvenido a la PELUQUERÍA POKéMON!\p"
+	.string "Soy el menor y el más barato de los dos\n"
+	.string "HERMANOS PELUQUEROS.\p"
+	.string "Dejaré guapo a tu POKéMON por solo\n"
+	.string "¥300.\p"
+	.string "¿Qué te parece?$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
 	.string "¿A qué POKéMON le corto el pelo?$"
@@ -345,8 +346,9 @@ GoldenrodUnderground_Text_YoungerBrotherShortOnFunds:
 	.string "Necesitarás más dinero.$"
 
 GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
-    .string "I can do only one haircut a day.\p"
-    .string "Sorry, but I'm all done for today.$"
+	.string "Solo hago un corte de pelo al día.\p"
+	.string "Lo siento, pero por hoy ya he\n"
+	.string "terminado.$"
 
 
 
@@ -375,8 +377,8 @@ GoldenrodUnderground_Text_OlderBrotherNeedMoreMoney:
 	.string "Necesitarás más dinero.$"
 
 GoldenrodUnderground_Text_OlderBrotherOnePerDay:
-    .string "I do only one haircut a day.\n"
-    .string "I'm done for today.$"
+	.string "Solo hago un corte de pelo al día. Por\n"
+	.string "hoy ya he terminado.$"
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
 	.string "Me echaron del CASINO.\p"
@@ -384,7 +386,7 @@ GoldenrodUnderground_Text_SupernerdEricSeen:
 	.string "POKéMON…$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
-    .string "…Grumble…$"
+	.string "… Grrr…$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
 	.string "Supongo que debería actuar\n"
@@ -424,9 +426,9 @@ GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
 	.string "¡Bah! ¡He perdido! ¡Qué rabia me da!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
-	.string "When I was walking near the BIKE\n"
-	.string "SHOP last night, I felt like I was\l"
-	.string "being watched from the rooftops...$"
+	.string "Anoche, cuando pasaba cerca de la\n"
+	.string "TIENDA de BICIS, sentí que alguien me\l"
+	.string "observaba desde los tejados…$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
 	.string "¿Tienes una POKéDEX? Pues te daré\n"

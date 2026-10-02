@@ -10,15 +10,14 @@ SaffronCity_Text_BaobaName:
 	.string "BAOBA$"
 
 SaffronCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "I'm calling to tell you that the\n"
-	.string "SAFARI ZONE has expanded again!\p"
-	.string "Finally, my SAFARI ZONE has been\n"
-	.string "fully realized!\p"
-	.string "You remember where it is, right?\p"
-	.string "Just west of CIANWOOD CITY!\n"
-	.string "see you soon!$"
+	.string "GUARDA BAOBA: ¡{PLAYER}!\p"
+	.string "Soy el GUARDA BAOBA.\p"
+	.string "Te llamo para decirte que la ZONA\n"
+	.string "SAFARI se ha vuelto a ampliar.\p"
+	.string "¡Por fin mi ZONA SAFARI está completa!\p"
+	.string "Te acuerdas de dónde está, ¿verdad?\p"
+	.string "¡Justo al oeste de CIUDAD ORQUÍDEA!\n"
+	.string "¡Hasta pronto!$"
 
 SaffronCity_EventScript_Lass1A::
 	goto_if_set FLAG_RETURNED_MACHINE_PART, SaffronCity_EventScript_Lass1B
@@ -95,7 +94,7 @@ SaffronCity_EventScript_Elli::
 	end
 
 SaffronCity_Text_Elli:
-	.string "I love VULPIX! :D$"
+	.string "¡Me encanta VULPIX! :D$"
 
 SaffronCity_Text_Lass1:
 	.string "Aquí vive una niña que es experta en\n"
@@ -139,26 +138,25 @@ SaffronCity_Text_Fisher:
 	.string "¡Ñam, ñam!$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
-	.string "Chew… Chew…\p"
-	.string "I hear there was big trouble at the\n"
-	.string "POWER PLANT.\p"
-	.string "Chew… Chew… Haaah, I'm full!$"
+	.string "Ñam… Ñam…\p"
+	.string "He oído que hubo un gran problema en\n"
+	.string "la CENTRAL ENERGÍA.\p"
+	.string "Ñam… Ñam… ¡Aaah, estoy lleno!$"
 
 SaffronCity_Text_Youngster1:
 	.string "Entrar por primera vez en un callejón\n"
 	.string "me pone un poco nervioso.$"
 
 SaffronCity_Text_Youngster2:
-	.string "There's a place called the CONTEST\n"
-	.string "HALL in VIRIDIAN where trainers\l"
-	.string "gather from all over the place.$"
+	.string "En CIUDAD VERDE hay un sitio llamado\n"
+	.string "SALA DE CONCURSOS, donde se reúnen\l"
+	.string "ENTRENADORES de todas partes.$"
 
 SaffronCity_Text_Lass2:
-	.string "Our city was featured on a radio\n"
-	.string "program.\p"
-	.string "It's nice to hear praise for your\n"
-	.string "city, but it's a bit embarrassing\l"
-	.string "too.$"
+	.string "Nuestra ciudad salió en un programa\n"
+	.string "de radio.\p"
+	.string "Está bien que alaben tu ciudad, pero\n"
+	.string "también da un poco de vergüenza.$"
 
 SaffronCity_Text_Sign:
 	.string "CIUDAD AZAFRÁN\p"

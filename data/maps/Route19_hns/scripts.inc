@@ -75,8 +75,8 @@ Route19_Text_SwimmermHaroldBeaten:
 	.string "¡Glup…!$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
-	.string "At night, the sea turns black. It\n"
-	.string "feels like it will swallow you up.$"
+	.string "De noche, el mar se vuelve negro.\n"
+	.string "Parece que te va a tragar.$"
 
 Route19_Text_SwimmermTuckerSeen:
 	.string "(Resoplido)… Un… poco más…\p"
@@ -119,22 +119,22 @@ Route19_Text_Fisher1:
 	.string "el Sur, desde PUEBLO PALETA.$"
 
 Route19_Text_Kingler:
-	.string "KINGLER: KEEEEEEEEEEEE$"
+	.string "KINGLER: KIIIIIIIIIII$"
 
 Route19_Text_Fisher1_RocksCleared:
 	.string "Estoy sudando. ¡Voy a bañarme!$"
 
 Route19_Text_Fisher2:
-	.string "Aw man, KINGLER is blocking the\n"
-	.string "beach.$"
+	.string "Vaya, KINGLER está bloqueando la\n"
+	.string "playa.$"
 
 Route19_Text_FisherBefore:
-	.string "No fishing until these KINGLER\n"
-	.string "clear out.$"
+	.string "No se puede pescar hasta que se vayan\n"
+	.string "estos KINGLER.$"
 
 Route19_Text_Fisher2_RocksCleared:
-	.string "Those KINGLER finally left!\p"
-	.string "Now I can go fishing again.$"
+	.string "¡Por fin se han ido esos KINGLER!\p"
+	.string "Ahora puedo volver a pescar.$"
 
 Route19_Text_Sign:
 	.string "RUTA 19\p"

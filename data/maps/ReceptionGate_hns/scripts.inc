@@ -15,13 +15,13 @@ ReceptionGate_EventScript_Janine::
     end
 
 ReceptionGate_Text_Janine:
-    .string "JANINE: I'm on the way to my dad's\n"
-    .string "house to give him his lunch.\p"
-    .string "The ELITE FOUR has no time to rest\n"
-    .string "day or night. It's such hard work,\l"
-    .string "you know?\p"
-    .string "If you're ready for another battle,\n"
-    .string "I'll be at the DOJO later.$"
+	.string "SACHIKO: Voy a casa de mi padre a\n"
+	.string "llevarle la comida.\p"
+	.string "El ALTO MANDO no descansa ni de día ni\n"
+	.string "de noche. Es un trabajo muy duro,\l"
+	.string "¿sabes?\p"
+	.string "Si estás listo para otro combate,\n"
+	.string "luego estaré en el DOJO.$"
 
 
 ReceptionGate_EventScript_Officer::
@@ -71,9 +71,9 @@ VictoryRoadGate_Text_Officer:
 	.string "que demuestren su valía.$"
 
 VictoryRoadGate_Text_Kimono:
-    .string "Sorry kid, this way is closed until\n"
-    .string "someone deals with that LEGENDARY\l"
-    .string "POKéMON...$"
+	.string "Lo siento, chaval, este camino está\n"
+	.string "cerrado hasta que alguien se ocupe de\l"
+	.string "ese POKéMON LEGENDARIO…$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
 	.string "No tienes todas las MEDALLAS de\n"
@@ -86,9 +86,9 @@ VictoryRoadGate_Text_EightBadges:
 	.string "¡Le ruego que pase, por favor!$"
 
 VictoryRoadGate_Text_LeftBlackBelt:
-    .string "This way leads to MT.SILVER.\p"
-    .string "You'll see scary-strong POKéMON out\n"
-    .string "there.$"
+	.string "Este camino lleva al MT. PLATEADO.\p"
+	.string "Ahí fuera verás POKéMON\n"
+	.string "terriblemente fuertes.$"
 
 VictoryRoadGate_Text_RightBlackBelt:
 	.string "Vas a la LIGA POKéMON, ¿verdad?\p"

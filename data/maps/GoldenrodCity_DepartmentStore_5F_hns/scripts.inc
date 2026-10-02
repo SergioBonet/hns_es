@@ -68,13 +68,13 @@ GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
 	.string "$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+	.string "¡Espera, si ya te he dado esa MT!$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Mmmm…\n"
+	.string "No está mal, pero tampoco muy bien.\p"
+	.string "Tendrías que esforzarte un\n"
+	.string "poco más, ¿no te parece?$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
 	.string "Está muy unido a ti.\p"
@@ -82,9 +82,9 @@ GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
 	.string "vosotros.$"
 
 GoldenrodDeptStore_Text_5FLass:
-    .string "During the day, a lady comes to check\n"
-    .string "out POKéMON.\p"
-    .string "She even gives away TMs!$"
+	.string "Durante el día viene una señora a ver\n"
+	.string "los POKéMON.\p"
+	.string "¡Y hasta regala MT!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
 	.string "No puedes cambiar el nombre de un\p"
@@ -93,8 +93,8 @@ GoldenrodDeptStore_Text_5FPokefanM:
 	.string "entrenador original.$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "The lady gave me RETURN!\n"
-    .string "My POKéMON must really like me!$"
+	.string "¡La señora me dio RETRIBUCIÓN! ¡Mis\n"
+	.string "POKéMON deben de quererme mucho!$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock

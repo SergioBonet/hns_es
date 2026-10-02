@@ -248,15 +248,15 @@ MahoganyTown_Movement_PlayerMerchant2:
 	step_end
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
-	.string "Hiya, kid!\p"
-	.string "I see you're new in MAHOGANY TOWN.\p"
-	.string "Since you're new, you should try a\n"
-	.string "yummy RAGECANDYBAR!\p"
-	.string "Right now, it can be yours for just\n"
-	.string "¥300! Want one?$"
+	.string "¡Hola, chaval!\p"
+	.string "Veo que eres nuevo en PUEBLO CAOBA.\p"
+	.string "Como eres nuevo, ¡deberías probar un\n"
+	.string "rico CARAMELO FURIA!\p"
+	.string "Ahora mismo puede ser tuyo por solo\n"
+	.string "¥300. ¿Quieres uno?$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
-    .string "Good! Savor it!$"
+	.string "¡Bien! ¡Disfrútalo!$"
 
 MahoganyTown_Text_RageCandyBarMerchantNotEnoughMoney:
 	.string "No tienes dinero suficiente.$"
@@ -280,10 +280,10 @@ MahoganyTown_Text_GrampsClearedRocketHideout:
 	.string "pescadores.$"
 
 MahoganyTown_Text_Fisher:
-    .string "Since you came this far, take the\n"
-    .string "time to do some sightseeing.\p"
-    .string "You should head north and check\n"
-    .string "out LAKE OF RAGE right now.$"
+	.string "Ya que has llegado hasta aquí, tómate\n"
+	.string "tu tiempo para hacer turismo.\p"
+	.string "Deberías ir al norte y visitar ahora\n"
+	.string "mismo el LAGO DE LA FURIA.$"
 
 MahoganyTown_Text_Lass:
 	.string "Visita la Tienda de la Abuela. Hay\n"
@@ -294,8 +294,8 @@ MahoganyTown_Text_Sign:
 	.string "El hogar de los Ninja$"
 
 MahoganyTown_Text_RagecandybarSign:
-    .string "While visiting MAHOGANY TOWN, try\n"
-    .string "a RAGECANDYBAR!$"
+	.string "¡Si visitas PUEBLO CAOBA, prueba un\n"
+	.string "CARAMELO FURIA!$"
 
 MahoganyTown_Text_GymSign:
 	.string "LÍDER DEL GIMNASIO POKéMON DE\n"
@@ -303,17 +303,12 @@ MahoganyTown_Text_GymSign:
 	.string "El maestro del crudo invierno$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	.string "PROF.ELM: {PLAYER}, how are\n"
-	.string "things going?\p"
-	.string "I called because something weird\n"
-	.string "is happening with the radio\l"
-	.string "broadcasts.\p"
-	.string "They were talking about TEAM\n"
-	.string "ROCKET.\p"
-	.string "{PLAYER}, do you know anything\n"
-	.string "about it?\p"
-	.string "Maybe TEAM ROCKET has returned.\n"
-	.string "No, that just can't be true.\p"
-	.string "Sorry to bug you.\n"
-	.string "Take care!$"
+	.string "PROF. ELM: {PLAYER}, ¿qué tal va todo?\p"
+	.string "Te llamo porque está pasando algo\n"
+	.string "raro con las emisiones de radio.\p"
+	.string "Hablaban del TEAM ROCKET.\p"
+	.string "{PLAYER}, ¿sabes algo de eso?\p"
+	.string "Quizás el TEAM ROCKET ha vuelto. No,\n"
+	.string "no puede ser.\p"
+	.string "Perdona la molestia. ¡Cuídate!$"
 

@@ -29,8 +29,8 @@ NewBarkTown_House1_Text_NeighborsDaughter:
 
 
 NewBarkTown_House1_Text_Neighbor:
-	.string "My daughter is adamant about\n"
-	.string "becoming PROF.ELM's assistant.\p"
-	.string "She really loves POKéMON!\p"
-	.string "But then, so do I!$"
+	.string "Mi hija se ha empeñado en ser la\n"
+	.string "ayudante del PROF. ELM.\p"
+	.string "¡Le encantan los POKéMON!\p"
+	.string "¡Claro que a mí también!$"
 

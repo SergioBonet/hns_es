@@ -35,9 +35,11 @@ SaffronCity_PokemonCenter1F_Text_Fisher:
 	.string "Pasaba algo en la CENTRAL ENERGÍA.$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
-	.string "There's an odd cave in CERULEAN.\p"
-	.string "As a pro HIKER, I should explore it,\n"
-	.string "but that place scares even me.$"
+	.string "En CIUDAD CELESTE hay una cueva muy\n"
+	.string "rara.\p"
+	.string "Como MONTAÑERO profesional, debería\n"
+	.string "explorarla, pero ese sitio me da miedo\l"
+	.string "hasta a mí.$"
 
 SaffronCity_PokemonCenter1F_Text_Youngster:
 	.string "La OFICINA CENTRAL de SILPH S.A. y la\n"

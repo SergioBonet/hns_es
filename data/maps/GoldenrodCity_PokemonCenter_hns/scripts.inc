@@ -140,23 +140,24 @@ GoldenrodCity_PokemonCenter_EventScript_LinkNpc_End::
 	end
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Intro:
-	.string "LINK CORNER\p"
-	.string "SELECT LINK TYPE.$"
+	.string "ZONA DE CONEXIÓN\p"
+	.string "ELIGE EL TIPO DE CONEXIÓN.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_BattleMode:
-	.string "SELECT BATTLE TYPE.$"
+	.string "ELIGE EL TIPO DE COMBATE.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Goodbye:
-	.string "GOODBYE.$"
+	.string "ADIÓS.$"
 
 GoldenrodCity_PokemonCenter_EventScript_LinkExplainerNpc::
 	msgbox GoldenrodCity_PokemonCenter_Text_LinkExplainer, MSGBOX_NPC
 	end
 
 GoldenrodCity_PokemonCenter_Text_LinkExplainer:
-	.string "You can use this machine to trade\n"
-	.string "or battle with other local players.\p"
-	.string "Isn't technology wonderful?$"
+	.string "Con esta máquina puedes intercambiar\n"
+	.string "o luchar con otros jugadores\l"
+	.string "cercanos.\p"
+	.string "¿A que la tecnología es maravillosa?$"
 
 GoldenrodCity_PokemonCenter_EventScript_GbaKid1::
 	lock
@@ -191,18 +192,18 @@ GoldenrodCity_PokemonCenter_EventScript_Lass::
 	end
 
 GoldenrodCity_PokemonCenter_GrannyText:
-    .string "I just love living in the big city!\n"
-    .string "I moved here when I was a young\l"
-    .string "trainer, like you!$"
+	.string "¡Me encanta vivir en la gran ciudad!\n"
+	.string "¡Me mudé aquí cuando era un\l"
+	.string "ENTRENADOR joven, como tú!$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText1:
-    .string "This is a special POKéMON CENTER.\n"
-    .string "The roof is made of gold!$"
+	.string "Este es un CENTRO POKéMON especial.\n"
+	.string "¡El tejado es de oro!$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText2:
-    .string "I told my brother that the roof is\n"
-    .string "made of real gold. He'll believe\l"
-	.string "anything!$"
+	.string "Le dije a mi hermano que el tejado es\n"
+	.string "de oro de verdad. ¡Se cree cualquier\l"
+	.string "cosa!$"
 
 GoldenrodCity_PokemonCenter_LassText:
 	.string "Un POKéMON de nivel superior no\n"

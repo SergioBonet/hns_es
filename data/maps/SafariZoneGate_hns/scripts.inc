@@ -63,16 +63,15 @@ SafariZoneGate_EventScript_SlowpokeLady::
 
 
 SafariZone_Text_ForeignFeeling:
-	.string "SAFARI ZONE...\n"
-	.string "It makes me feel like I am in a\l"
-	.string "foreign country.\p"
-	.string "It brings up a strange feeling.$"
+	.string "La ZONA SAFARI… Me hace sentir como\n"
+	.string "si estuviera en un país extranjero.\p"
+	.string "Me produce una sensación extraña.$"
 
 SafariZone_Text_SilentNPC:
 	.string "… (Yo no soy de muchas palabras.)$"
 
 SafariZone_Text_Kangaskhan:
-	.string "KANGASKHAN: ..................$"
+	.string "KANGASKHAN: ……$"
 
 SafariZone_Text_JigglypuffTrainer:
 	.string "¡La ZONA SAFARI es un lugar de lo más\n"
@@ -88,22 +87,22 @@ SafariZone_Text_FirstCatch:
 	.string "capturaré en la ZONA SAFARI!$"
 
 SafariZone_Text_SlowpokeFan:
-	.string "There are many POKéMON to choose from,\n"
-	.string "but nothing beats the cuteness of\l"
-	.string "SLOWPOKE.\p"
-	.string "People often say that I look like one!$"
+	.string "Hay muchos POKéMON entre los que\n"
+	.string "elegir, pero nada supera lo mono que\l"
+	.string "es SLOWPOKE.\p"
+	.string "¡La gente suele decirme que me\n"
+	.string "parezco a uno!$"
 
 SafariZone_Text_CustomSystem:
-	.string "You may be under the impression there\n"
-	.string "is a sophisticated system to\l"
-	.string "customizing the SAFARI ZONE, right?\p"
-	.string "The real truth is that...$"
+	.string "Puede que tengas la impresión de que\n"
+	.string "hay un sistema sofisticado para\l"
+	.string "personalizar la ZONA SAFARI, ¿verdad?\p"
+	.string "La verdad es que…$"
 
 SafariZone_Text_Sign:
-	.string "SAFARI ZONE\n"
-	.string "This is where everything is thrilling.\p"
-	.string "Feel free to come by and experience\n"
-	.string "the wild!$"
+	.string "ZONA SAFARI\n"
+	.string "Aquí todo es emocionante.\p"
+	.string "¡Ven cuando quieras y vive lo salvaje!$"
 
 
 SafariZoneGate_EventScript_IncenseClerk::
@@ -170,6 +169,7 @@ SafariZoneGate_Pokemart_VitaminGuru:
 
 
 SafariZoneGate_Text_VitaminGuruSellWhatYouNeed:
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.string "¡Soy CURRO!\n"
+	.string "¡Se me va la olla y te vendo todo\l"
+	.string "lo que necesitas barato, barato!$"
 

@@ -13,14 +13,14 @@ Ecruteak_Text_ItemfinderTrueSpirit:
 	.string "¡Me gusta! Toma esto.$"
 
 Ecruteak_Text_ItemfinderExplanation:
-	.string "There are many items lying about\n"
-	.string "that aren't obvious.\p"
-	.string "Use DOWSING MACHINE to check if there\n"
-	.string "is an item on the ground near you.\p"
-	.string "It doesn't show the exact spot,\n"
-	.string "so you'll have to look yourself.\p"
-	.string "Oh yeah--I heard there are items\n"
-	.string "in ECRUTEAK's BURNED TOWER.$"
+	.string "Hay muchos objetos por ahí que no se\n"
+	.string "ven a simple vista.\p"
+	.string "Usa el ZAHORÍ para comprobar si hay\n"
+	.string "algún objeto en el suelo cerca de ti.\p"
+	.string "No muestra el lugar exacto, así que\n"
+	.string "tendrás que buscarlo tú.\p"
+	.string "Ah, sí: he oído que hay objetos en la\n"
+	.string "TORRE QUEMADA de CIUDAD IRIS.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
 	.string "¡Oh! A cada uno lo suyo, supongo…$"
@@ -68,9 +68,10 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "ECRUTEAK is a very old city.\n"
-	.string "Many generations passed down\l"
-	.string "their history in books like these.$"
+	.string "CIUDAD IRIS es una ciudad muy\n"
+	.string "antigua. Muchas generaciones han\l"
+	.string "transmitido su historia en libros como\l"
+	.string "estos.$"
 
 Ecruteak_Text_HistoryBook:
 	.string "HISTORIA de CIUDAD IRIS\p"

@@ -113,7 +113,7 @@ CianwoodCity_Text_ManiacShuckleLikesYou:
 	.string "serás amable con él!$"
 
 CianwoodCity_Text_ManiacRobbed:
-	.string "Huh, something's not right.$"
+	.string "Vaya, algo no va bien.$"
 
 CianwoodCity_Text_ManiacRobbed2:
 	.string "¡Oh, no, no…! Es como si me hubieran\n"
@@ -129,4 +129,4 @@ CianwoodCity_Text_ManiacLastMon:
 
 
 CianwoodCity_Text_ManiacReturnedMon:
-	.string "{PLAYER} returned SHUCKIE.$"
+	.string "{PLAYER} ha devuelto a CAPARAZZ.$"

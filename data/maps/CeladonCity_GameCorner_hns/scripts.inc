@@ -101,15 +101,16 @@ CeladonGameCorner_Text_FishingGuru:
 	.string "según la máquina.$"
 
 CeladonGameCorner_Text_Fisher1:
-	.string "Gahahaha!\p"
-	.string "The coins just keep coming in!\p"
-	.string "Hm? What, kid? You want to play?\p"
-	.string "I'll share my luck with you!$"
+	.string "¡Jajajajá!\p"
+	.string "¡No paran de salir fichas!\p"
+	.string "¿Mmm? ¿Qué pasa, chaval? ¿Quieres\n"
+	.string "jugar?\p"
+	.string "¡Te pasaré un poco de mi suerte!$"
 
 CeladonGameCorner_Text_Fisher2:
-	.string "Gahahaha!\p"
-	.string "It makes me feel good to do nice\n"
-	.string "things for other people!$"
+	.string "¡Jajajajá!\p"
+	.string "¡Hacer cosas buenas por los demás me\n"
+	.string "hace sentir bien!$"
 
 CeladonGameCorner_Text_GymGuide:
 	.string "¿Tú también juegas a las tragaperras?\p"
@@ -118,15 +119,16 @@ CeladonGameCorner_Text_GymGuide:
 	.string "Pero aún no tengo suficientes…$"
 
 CeladonGameCorner_Text_PokefanF:
-	.string "Roulette…\p"
-	.string "I prefer it over the slots because\n"
-	.string "it's easier to figure the odds.\p"
-	.string "But the payout is much lower.$"
+	.string "La ruleta…\p"
+	.string "La prefiero a las tragaperras porque\n"
+	.string "es más fácil calcular las\l"
+	.string "probabilidades.\p"
+	.string "Pero se gana mucho menos.$"
 
 CeladonGameCorner_Text_Gramps:
-	.string "Hmmm… The odds are surely\n"
-	.string "better putting it all on blue,\l"
-	.string "but… what to do?$"
+	.string "Mmm… Seguro que es más probable\n"
+	.string "apostarlo todo al azul, pero… ¿qué\l"
+	.string "hago?$"
 
 CeladonGameCorner_Text_Woman:
-	.string "I can't stop winning!$"
+	.string "¡No paro de ganar!$"

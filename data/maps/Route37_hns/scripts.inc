@@ -113,10 +113,11 @@ Route37_Text_PsychicGreg_After:
 	.string "buenas técnicas de lucha.$"
 
 Route37_Text_Sunny_Meet:
-	.string "SUNNY: Hi!\p"
-	.string "I'm SUNNY of the WEEKDAY family!\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "DOMINGO: ¡Hola!\p"
+	.string "¡Soy DOMINGO, de la FAMILIA de los\n"
+	.string "DÍAS de la SEMANA!\p"
+	.string "Si adivinas cuál es mi día favorito, te\n"
+	.string "daré una recompensa.$"
 
 Route37_Text_Sunny_GiveGift1:
 	.string "¡Me dijeron que te entregara esto si\n"
@@ -147,5 +148,5 @@ Route37_Text_Sunny_NotSunday:
 	.string "olvidé!$"
 
 Route37_Text_Sign:
-	.string "ROUTE 37\n"
-	.string "ECRUTEAK CITY AHEAD$"
+	.string "RUTA 37\n"
+	.string "CIUDAD IRIS MÁS ADELANTE$"

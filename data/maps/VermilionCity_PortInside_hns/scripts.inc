@@ -9,7 +9,7 @@ VermilionPortIndoor_EventScript_Nerd::
 	end
 
 VermilionPortPassage_Text_Teacher:
-	.string "The FAST SHIP sails every day!$"
+	.string "¡El FERRY zarpa todos los días!$"
 
 VermilionPort_Text_SuperNerd:
 	.string "¿Vienes de JOHTO?\p"
@@ -167,17 +167,16 @@ VermilionPort_Movement_BoatLeave:
 	step_end
 
 VermilionPort_Text_SailorCantSail:
-	.string "There's been a break-in at the\n"
-	.string "POWER PLANT, so we cannot set sail\l"
-	.string "until the THIEF is found.$"
+	.string "Ha habido un robo en la CENTRAL\n"
+	.string "ENERGÍA, así que no podemos zarpar\l"
+	.string "hasta que encuentren al LADRÓN.$"
 
 VermilionPort_Text_NoPass:
-    .string "{PLAYER} tried to show the\n"
-    .string "{STR_VAR_1}…\p"
-    .string "…But no {STR_VAR_1}!\p"
-    .string "Sorry!\n"
-    .string "You may board only if you have an\l"
-    .string "{STR_VAR_1}.$"
+	.string "{PLAYER} ha intentado enseñar el\n"
+	.string "{STR_VAR_1}…\p"
+	.string "¡… Pero no tiene {STR_VAR_1}!\p"
+	.string "¡Lo siento! Solo puedes embarcar si\n"
+	.string "tienes un {STR_VAR_1}.$"
 
 VermilionPort_Text_SailorGetOnBoard:
 	.string "El barco va a zarpar. Por favor, sube a\n"
@@ -187,7 +186,7 @@ VermilionPort_Text_CantBoard:
 	.string "Lo siento. No puedes embarcar.$"
 
 VermilionPort_Text_WhereSail:
-    .string "Where would you like to sail?$"
+	.string "¿Adónde quieres zarpar?$"
 
 VermilionPort_Text_AskBoard:
 	.string "Éste es el FERRY S.S. AQUA.\p"
@@ -204,9 +203,8 @@ VermilionPort_Text_FlashTicket:
 	.string "Muy bien. ¡Gracias, joven!$"
 
 VermilionPort_Text_NoTicket:
-    .string "{PLAYER} tried to show the\n"
-    .string "S.S.TICKET…\p"
-    .string "…But no TICKET!\p"
-    .string "Sorry!\n"
-    .string "You may board only\l"
-    .string "if you have an S.S.TICKET.$"
+	.string "{PLAYER} ha intentado enseñar el\n"
+	.string "TICKET BARCO…\p"
+	.string "¡… Pero no tiene el TICKET!\p"
+	.string "¡Lo siento! Solo puedes embarcar si\n"
+	.string "tienes un TICKET BARCO.$"

@@ -108,10 +108,9 @@ Route26_Text_GavenPostRematch:
 	.string "¡No va allí casi nadie!$"
 
 Route26_Text_CooltrainerfJoyceSeen:
-    .string "Since you've come this far,\n"
-    .string "you must be good.\p"
-    .string "I'm going to give this battle\n"
-    .string "everything I've got!$"
+	.string "Si has llegado hasta aquí, debes de\n"
+	.string "ser bueno.\p"
+	.string "¡Voy a darlo todo en este combate!$"
 
 Route26_Text_CooltrainerfJoyceBeaten:
 	.string "¡No! ¡No puedo creerlo!$"
@@ -132,16 +131,17 @@ Route26_Text_CooltrainerfBethBeaten:
 	.string "Los POKéMON no son armas de guerra.$"
 
 Route26_Text_CooltrainerfBethAfter:
-    .string "POKéMON are in-valuable, lifelong\n"
-    .string "partners.$"
+	.string "Los POKéMON son compañeros de por\n"
+	.string "vida que no tienen precio.$"
 
 Route26_Text_BethRegister:
 	.string "Los POKéMON son valiosos amigos para\n"
 	.string "toda la vida.$"
 
 Route26_Text_BethRematchIntro:
-    .string "I lost to a trainer named {RIVAL}.\p"
-    .string "But I won't lose to you!$"
+	.string "Perdí contra un ENTRENADOR llamado\n"
+	.string "{RIVAL}.\p"
+	.string "¡Pero contra ti no voy a perder!$"
 
 Route26_Text_BethRematchDefeat:
 	.string "Los POKéMON no son armas de guerra.$"
@@ -157,7 +157,7 @@ Route26_Text_PsychicRichardSeen:
 	.string "coleccionarlas, ¿verdad?$"
 
 Route26_Text_PsychicRichardBeaten:
-    .string "Good battle!$"
+	.string "¡Buen combate!$"
 
 Route26_Text_PsychicRichardAfter:
 	.string "Las personas y los POKéMON se\n"
@@ -165,7 +165,7 @@ Route26_Text_PsychicRichardAfter:
 	.string "¡No seas tan conformista!$"
 
 Route26_Text_Sign:
-    .string "ROUTE 26\p"
-    .string "POKéMON LEAGUE\n"
-    .string "RECEPTION GATE$"
+	.string "RUTA 26\p"
+	.string "PUERTA DE RECEPCIÓN\n"
+	.string "DE LA LIGA POKéMON$"
 

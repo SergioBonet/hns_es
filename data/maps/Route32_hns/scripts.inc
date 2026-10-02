@@ -395,11 +395,10 @@ Route32_Text_CooltrainerM_Experiences:
 	.string "debería ayudarte en tu viaje.$"
 
 Route32_Text_SlowpokeTailOffer:
-	.string "How would you like to have this\n"
-	.string "tasty, nutritious SLOWPOKETAIL?\p"
-	.string "For you right now, just\n"
-	.string "¥1,000,000!\p"
-	.string "You'll want this!$"
+	.string "¿Qué te parecería tener esta sabrosa\n"
+	.string "y nutritiva COLA de SLOWPOKE?\p"
+	.string "Para ti, ahora mismo, ¡solo ¥1.000.000!\p"
+	.string "¡Te va a encantar!$"
 
 Route32_Text_ThoughtKidsLoaded:
 	.string "¡Vaya! Pensaba que los niños de hoy en\n"
@@ -413,7 +412,7 @@ Route32_Text_FisherJustin_Seen:
 	.string "¡Se me escapó ese pez por tu culpa!$"
 
 Route32_Text_FisherJustin_Beaten:
-	.string "Sploosh!$"
+	.string "¡Chof!$"
 
 Route32_Text_FisherJustin_After:
 	.string "Paciencia…\p"
@@ -538,16 +537,16 @@ Route32_Text_RoarIntro:
 	.string "¡ESO ME GUSTA! ¡TOMA ESTO!$"
 
 Route32_Text_RoarOutro:
-	.string "WROOOOAR! IT'S ROAR!\p"
-	.string "EVEN POKéMON RUN FROM A GOOD\n"
-	.string "ROAR!$"
+	.string "¡GROOOOAR! ¡ES RUGIDO!\p"
+	.string "¡HASTA LOS POKéMON HUYEN DE UN BUEN\n"
+	.string "RUGIDO!$"
 
 Route32_Text_MeetFrieda:
-	.string "FRIEDA: Yahoo!\p"
-	.string "I'm FRIEDA of the WEEKDAY FAMILY!\n"
-	.string "Nice to meet you!\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "VICKI: ¡Yuju!\p"
+	.string "¡Soy VICKI, de la FAMILIA de los DÍAS\n"
+	.string "de la SEMANA! ¡Encantada!\p"
+	.string "Si adivinas cuál es mi día favorito, te\n"
+	.string "daré una recompensa.$"
 
 Route32_Text_FriedaGivesGift:
 	.string "¡Toma una FLECHA VENENOSA!$"
@@ -566,7 +565,7 @@ Route32_Text_FriedaFriday:
 	.string "¿No crees que es genial?$"
 
 Route32_Text_FriedaNope:
-	.string "FRIEDA: Not that one!$"
+	.string "VICKI: ¡Ese no!$"
 
 Route32_Text_Sign1:
 	.string "RUTA 32\p"
@@ -576,5 +575,5 @@ Route32_Text_Sign2:
 	.string "RUINAS ALFA ENTRADA ESTE$"
 
 Route32_Text_Sign3:
-	.string "UNION CAVE\n"
-	.string "AHEAD$"
+	.string "CUEVA UNIÓN\n"
+	.string "MÁS ADELANTE$"

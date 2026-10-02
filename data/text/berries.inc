@@ -186,10 +186,9 @@ Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
 	.string "It's like they have the will to live.$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
-	.string "I'm trying to be like my big sisters.\n"
-	.string "I'm growing flowers, too!\p"
-	.string "Here you go!\n"
-	.string "It's for you!$"
+	.string "Quiero ser como mis hermanas\n"
+	.string "mayores y cultivar flores.\p"
+	.string "¡Toma! ¡Es para ti!$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "Puedes plantar una BAYA y cultivarla\n"

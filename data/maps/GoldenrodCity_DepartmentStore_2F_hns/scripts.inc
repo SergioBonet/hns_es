@@ -35,10 +35,10 @@ GoldenrodDeptStore2_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_2FYoungster:
-    .string "POKéGEAR can store up to 100 phone\n"
-    .string "numbers.\p"
-    .string "It's hard to decide which numbers\n"
-    .string "to keep.$"
+	.string "El POKéGEAR puede guardar hasta 100\n"
+	.string "números de teléfono.\p"
+	.string "Es difícil decidir qué números\n"
+	.string "conservar.$"
 
 GoldenrodDeptStore_Text_2FCooltrainerF:
 	.string "Conseguí mi ABRA en el CASINO.\p"
@@ -205,8 +205,8 @@ GoldenrodDeptStore_EventScript_ExitVendingMachine::
 	end
 
 GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.string "Es una MÁQUINA EXPENDEDORA.\n"
+	.string "No sé si beber algo…$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
 	.string "¡Clank!\p"
@@ -214,9 +214,9 @@ GoldenrodDeptStore_Text_DrinkClankedDown:
 	.string "$"
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
-	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "¡Clang!\p"
+	.string "¡Qué suerte! ¡Ha caído otra\n"
+	.string "lata de {STR_VAR_1}!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
 	.string "No tienes suficiente dinero.$"

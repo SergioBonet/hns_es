@@ -14,14 +14,15 @@ gText_PlayerSavedGame::
 	.string "{PLAYER} guardó la partida.$"
 
 gText_DifferentSaveFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "¡AVISO!\p"
+	.string "Ya hay guardada otra partida\n"
+	.string "distinta.\p"
+	.string "Si guardas ahora, se perderá por\n"
+	.string "completo la aventura de la otra\l"
+	.string "partida, incluidos los objetos y los\l"
+	.string "POKéMON.\p"
+	.string "¿Seguro que quieres guardar ahora y\n"
+	.string "sobrescribir la otra partida?$"
 
 gText_SaveError::
 	.string "Error al guardar.\p"

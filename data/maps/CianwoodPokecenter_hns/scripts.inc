@@ -33,14 +33,13 @@ CianwoodPokemoncenter_EventScript_FisherGiveTentacool::
 	end
 
 CianwoodPokemoncenter_Text_Fisher1:
-	.string "As far as water POKéMON go,\n"
-	.string "TENTACOOL is the best by a\l"
-	.string "nautical mile!$"
+	.string "En cuanto a POKéMON de agua,\n"
+	.string "¡TENTACOOL es el mejor con diferencia!$"
 
 CianwoodPokemoncenter_Text_Fisher2:
-	.string "You seem like you need a water\n"
-	.string "POKéMON.\p"
-	.string "Here, take this one, I have plenty.$"
+	.string "Parece que te hace falta un POKéMON\n"
+	.string "de agua.\p"
+	.string "Toma, quédate este, tengo muchos.$"
 
 CianwoodPokecenter_EventScript_Lass::
 	lock

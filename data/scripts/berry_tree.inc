@@ -63,15 +63,17 @@ BerryTree_EventScript_ItemUseWailmerPail::
 	end
 
 BerryTree_Text_Hns_NotRipe:
-	.string "It's a BERRY tree!\n"
-	.string "These BERRIES aren't ripe yet.$"
+	.string "¡Es un árbol de BAYAS! Estas BAYAS aún\n"
+	.string "no están maduras.$"
 
 BerryTree_Text_Hns_Picked:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
+	.string "{PLAYER} recogió {STR_VAR_2}\n"
+	.string "{STR_VAR_1} de la planta.$"
 
 BerryTree_Text_Hns_BagFull:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} couldn't be taken.$"
+	.string "El BOLSILLO de BAYAS de la MOCHILA\n"
+	.string "está lleno.\p"
+	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_Hns_Sprouted:
 	.string "The berry tree suddenly sprouted!$"

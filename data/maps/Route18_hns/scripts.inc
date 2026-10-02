@@ -56,5 +56,5 @@ Route18_Text_BirdKeeperBobAfterBattle:
 	.string "el atajo.$"
 
 Route18_Text_Sign:
-	.string "ROUTE 18\p"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "RUTA 18\p"
+	.string "CIUDAD AZULONA - CIUDAD FUCSIA$"

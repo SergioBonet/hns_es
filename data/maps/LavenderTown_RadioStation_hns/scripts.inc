@@ -78,31 +78,31 @@ LavenderTown_RadioStation_Text_Gentleman:
 	.string "¡Me arruinaré!$"
 
 LavenderTown_RadioStation_Text_Gentleman_ReturnedMachinePart:
-	.string "Ah! So you're the {PLAYER} who\n"
-	.string "solved the POWER PLANT's problem?\p"
-	.string "Thanks to you, I never lost my\n"
-	.string "job.\p"
-	.string "I tell you, you're a real\n"
-	.string "lifesaver!\p"
-	.string "Please take this as my thanks.$"
+	.string "¡Ah! ¿Así que tú eres el {PLAYER} que\n"
+	.string "solucionó el problema de la CENTRAL\l"
+	.string "ENERGÍA?\p"
+	.string "Gracias a ti, no perdí mi trabajo.\p"
+	.string "¡Te lo digo de verdad, me has salvado\n"
+	.string "la vida!\p"
+	.string "Acepta esto como agradecimiento.$"
 
 LavendertownRadioStation_Text_Upgraded_Radio:
-	.string "{PLAYER} obtained the\n"
-	.string "RADIO UPGRADE!$"
+	.string "¡{PLAYER} ha obtenido la MEJORA de\n"
+	.string "RADIO!$"
 
 LavenderTown_RadioStation_Text_Gentleman_GotExpnCard:
-	.string "With that thing, you can tune into\n"
-	.string "the radio programs here in KANTO.\p"
-	.string "Gahahahaha!$"
+	.string "Con eso podrás sintonizar los\n"
+	.string "programas de radio de aquí, de KANTO.\p"
+	.string "¡Jajajajá!$"
 
 LavenderTown_RadioStation_Text_SuperNerd2:
-	.string "Hey there!\p"
-	.string "I am the super MUSIC DIRECTOR!\p"
-	.string "Huh? Your RADIO can't tune into\n" @POKéGEAR
-	.string "my music programs. How unfortunate!\p"
-	.string "If you get an EXPN CARD upgrade,\n"
-	.string "you can tune in. You'd better get\l"
-	.string "one!$"
+	.string "¡Hola!\p"
+	.string "¡Soy el superDIRECTOR MUSICAL!\p"
+	.string "¿Eh? Tu RADIO no puede sintonizar mis\n"
+	.string "programas musicales. ¡Qué pena!\p"
+	.string "Si consigues la mejora de la TARJETA\n"
+	.string "EXPANSIÓN, podrás sintonizarlos. ¡Más\l"
+	.string "te vale conseguir una!$"
 
 LavenderTown_RadioStation_Text_SuperNerd2_GotExpnCard:
 	.string "¡Oye, joven!\p"

@@ -97,40 +97,39 @@ Route20_EventScript_Headlocker::
 	end
 
 Route20_Text_Dennis:
-	.string "DENNIS: SHAAAAAAAA!$"
+	.string "DENNIS: ¡SHAAAAAAAA!$"
 
 Route20_Text_Headlocker:
-	.string "There's a rare POKéMON on this\n"
-	.string "route.\p"
-	.string "And sometimes it carries a rare\n"
-	.string "evolution item.\p"
-	.string "That's double rare!\p"
-	.string "I need to finish my POKéDEX, so\n"
-	.string "I've been fishing here for hours!$"
+	.string "En esta ruta hay un POKéMON raro.\p"
+	.string "Y a veces lleva un objeto evolutivo\n"
+	.string "raro.\p"
+	.string "¡Eso es doblemente raro!\p"
+	.string "Tengo que completar mi POKéDEX, ¡así\n"
+	.string "que llevo horas pescando aquí!$"
 
 Route20_Text_Seel:
-	.string "SEEL: Seel seel!$"
+	.string "SEEL: ¡Seel seel!$"
 
 Route20_Text_Dewgong:
-	.string "DEWGONG: Goooong!$"
+	.string "DEWGONG: ¡Goooong!$"
 
 Route20_Text_SeafoamSign:
 	.string "ISLAS ESPUMA$"
 
 Route20_Text_NicoleRegister:
-	.string "Your POKéMON swims fast!\n"
-	.string "Let me get your number!$"
+	.string "¡Tu POKéMON nada muy rápido! ¡Dame tu\n"
+	.string "número!$"
 
 Route20_Text_NicoleRematchIntro:
-	.string "All this swimming has made my\n"
-	.string "POKéMON stronger! Let's battle!$"
+	.string "¡De tanto nadar, mis POKéMON se han\n"
+	.string "vuelto más fuertes! ¡Luchemos!$"
 
 Route20_Text_NicoleRematchDefeat:
-	.string "Swept away again…$"
+	.string "Arrastrado otra vez…$"
 
 Route20_Text_NicolePostRematch:
-	.string "Win or lose, I'm getting fit and\n"
-	.string "so are my POKéMON!$"
+	.string "Gane o pierda, ¡me pongo en forma, y\n"
+	.string "mis POKéMON también!$"
 
 Route20_Text_SwimmerfNicoleSeen:
 	.string "Me siento más ligera en el agua.$"
@@ -147,7 +146,7 @@ Route20_Text_SwimmerfLoriSeen:
 	.string "GIMNASIO! ¡Luchemos!$"
 
 Route20_Text_SwimmerfLoriBeaten:
-	.string "No!$"
+	.string "¡No!$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
 	.string "SURF ya no es el único movimiento que\n"

@@ -44,10 +44,11 @@ LakeOfRage_EventScript_Pryce::
     end
 
 LakeOfRage_Text_Pryce:
-    .string "{PLAYER}.\p"
-	.string "Even here, the cold keeps me sharp.\p"
-	.string "If you wish to battle again, come\n"
-	.string "to the FIGHTING DOJO.$"
+	.string "{PLAYER}.\p"
+	.string "Incluso aquí, el frío me mantiene\n"
+	.string "alerta.\p"
+	.string "Si quieres volver a luchar, ven al DOJO\n"
+	.string "KARATE.$"
 
 LakeOfRage_EventScript_Gramps::
 	goto_if_ge VAR_MAHOGANY_TOWN_STATE, 14, LakeOfRage_EventScript_Gramps2
@@ -239,49 +240,46 @@ LakeOfRage_Movement_DragoniteLeave:
 	step_end
 
 LakeOfRage_Text_Dragonite:
-	.string "DRAGONITE: Gyafooha!$"
+	.string "DRAGONITE: ¡Gyafuja!$"
 
 LakeOfRage_Text_LanceForcedToEvolve:
-    .string "This lake is full of GYARADOS\n"
-    .string "but nothing else…\p"
-    .string "So the MAGIKARP are being forced\n"
-    .string "to evolve…$"
+	.string "Este lago está lleno de GYARADOS y\n"
+	.string "nada más…\p"
+	.string "Así que están obligando a los\n"
+	.string "MAGIKARP a evolucionar…$"
 
 LakeOfRage_Text_LanceIntro1:
-    .string "Did you come here because of\n"
-    .string "the rumors?\p"
-    .string "You're {PLAYER}? I'm LANCE, a\n"
-    .string "trainer like you.$"
+	.string "¿Has venido por los rumores?\p"
+	.string "¿Eres {PLAYER}? Soy LANCE, un\n"
+	.string "ENTRENADOR como tú.$"
 
 LakeOfRage_Text_LanceIntro2:
-    .string "This man here informed me of\n"
-    .string "some rumors.\p"
-    .string "So we came to investigate…$"
+	.string "Este hombre me ha hablado de unos\n"
+	.string "rumores.\p"
+	.string "Así que hemos venido a investigar…$"
 
 LakeOfRage_Text_LanceIntro3:
-    .string "I saw the way you battled\n"
-    .string "earlier, {PLAYER}.\p"
-    .string "I can tell that you're a trainer\n"
-    .string "with considerable skill.\p"
-    .string "If you don't mind, could you help\n"
-    .string "us investigate?$"
+	.string "Antes he visto cómo luchabas,\n"
+	.string "{PLAYER}.\p"
+	.string "Se nota que eres un ENTRENADOR con\n"
+	.string "mucha habilidad.\p"
+	.string "Si no te importa, ¿podrías ayudarnos a\n"
+	.string "investigar?$"
 
 LakeOfRage_Text_LanceRadioSignal:
-    .string "LANCE: Excellent!\p"
-    .string "It seems that the LAKE's MAGIKARP\n"
-    .string "are being forced to evolve.\p"
-    .string "A mysterious radio broadcast\n"
-    .string "coming from MAHOGANY is the cause.\p"
-    .string "We'll be waiting for you,\n"
-    .string "{PLAYER}.$"
+	.string "LANCE: ¡Excelente!\p"
+	.string "Parece que están obligando a\n"
+	.string "evolucionar a los MAGIKARP del LAGO.\p"
+	.string "La causa es una misteriosa emisión de\n"
+	.string "radio que llega desde PUEBLO CAOBA.\p"
+	.string "Te estaremos esperando, {PLAYER}.$"
 
 LakeOfRage_Text_LanceRefused:
-    .string "Oh… Well, if you change your mind,\n"
-    .string "please help us.$"
+	.string "Oh… Bueno, si cambias de idea,\n"
+	.string "ayúdanos, por favor.$"
 
 LakeOfRage_Text_LanceAskHelp:
-    .string "LANCE: Hm? Are you going to help\n"
-    .string "us?$"
+	.string "LANCE: ¿Mmm? ¿Vas a ayudarnos?$"
 
 LakeOfRage_Text_GyaradosCry:
 	.string "GYARADOS: ¡Gyaraa!$"
@@ -401,17 +399,18 @@ LakeOfRage_EventScript_WesleyCompleted::
 	end
 
 LakeOfRage_Text_MeetWesley:
-    .string "WESLEY: Well, how do you do?\p"
-    .string "I'm a member of the WEEKDAY family!\n"
-	.string "Can you guess my favorite day?$"
+	.string "MIGUEL: Bueno, ¿qué tal?\p"
+	.string "¡Soy de la familia de los DÍAS de la\n"
+	.string "SEMANA! ¿Adivinas cuál es mi día\l"
+	.string "favorito?$"
 
 LakeOfRage_Text_WesleyGivesGift:
 	.string "Encantado de conocerte. Toma un\n"
 	.string "recuerdo.$"
 
 LakeOfRage_Text_WesleyGaveGift:
-    .string "WESLEY: BLACK BELT beefs up the\n"
-    .string "power of fighting moves.$"
+	.string "MIGUEL: El CINTURÓN NEGRO potencia\n"
+	.string "los movimientos de tipo LUCHA.$"
 
 LakeOfRage_Text_WesleyWednesday:
 	.string "MIGUEL: Si me has encontrado, habrás\n"
@@ -419,7 +418,7 @@ LakeOfRage_Text_WesleyWednesday:
 	.string "¿O es que has tenido suerte?$"
 
 LakeOfRage_Text_WesleyNotWednesday:
-    .string "WESLEY: Not exactly...$"
+	.string "MIGUEL: No exactamente…$"
 
 LakeOfRage_EventScript_Sign1::
 	msgbox LakeOfRage_Text_Sign, MSGBOX_SIGN

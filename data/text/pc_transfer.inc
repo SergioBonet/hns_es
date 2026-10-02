@@ -31,19 +31,17 @@ gText_PkmnTransferredLanettesPCBoxFull::
 	.string "BOX “{STR_VAR_1}.”$"
 
 gText_PkmnSentToPCAfterCatch::
-	.string "{STR_VAR_2} was sent to\n"
-	.string "{B_PC_CREATOR_NAME} PC.\p"
-	.string "It was placed in \n"
-	.string "BOX “{STR_VAR_1}”.$"
+	.string "{STR_VAR_2} ha sido enviado al PC de\n"
+	.string "{B_PC_CREATOR_NAME}.\p"
+	.string "Se ha colocado en la CAJA\n"
+	.string "“{STR_VAR_1}”.$"
 
 gText_PlayerObtainedTheMon::
-	.string "{PLAYER} obtained\n"
-	.string "the {STR_VAR_1}!$"
+	.string "¡{PLAYER} ha obtenido {STR_VAR_1}!$"
 
 gText_NoMoreRoomForPokemon::
-	.string "There's no more room for POKéMON!\p"
-	.string "The POKéMON BOXES are full and\n"
-	.string "can't accept any more!$"
+	.string "¡No queda sitio para más POKéMON!\p"
+	.string "¡Las CAJAS POKéMON están llenas!$"
 
 gText_NicknameThisPokemon::
 	.string "¿Quieres darle un mote\n"

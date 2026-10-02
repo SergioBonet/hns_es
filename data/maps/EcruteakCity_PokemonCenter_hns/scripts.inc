@@ -102,23 +102,23 @@ EcruteakCity_PokemonCenter1F_Text_Bill1:
 	.string "¡Has llegado justo a tiempo!$"
 
 EcruteakCity_PokemonCenter1F_Text_Bill2:
-	.string "I just finished adjustments on my\n"
-	.string "POKéMON STORAGE SYSTEM.\p"
-	.string "You know that PC you use to store\n"
-	.string "all your POKéMON?\p"
-	.string "I developed that myself!\p"
-	.string "Now that I've installed this one,\n"
-	.string "my PC is running at all\l"
-	.string "POKéMON CENTERS in JOHTO and KANTO.\p"
-	.string "I have to hurry on back to\n"
-	.string "GOLDENROD and see my folks. Feel\l"
-	.string "free to visit anytime!\p"
-	.string "Buh-bye!$"
+	.string "Acabo de terminar los ajustes de mi\n"
+	.string "SISTEMA de ALMACENAMIENTO POKéMON.\p"
+	.string "¿Sabes ese PC que usas para guardar\n"
+	.string "todos tus POKéMON?\p"
+	.string "¡Lo desarrollé yo!\p"
+	.string "Ahora que he instalado este, mi PC\n"
+	.string "funciona en todos los CENTROS\l"
+	.string "POKéMON de JOHTO y KANTO.\p"
+	.string "Tengo que volver corriendo a CIUDAD\n"
+	.string "TRIGAL a ver a mis padres. ¡Pásate\l"
+	.string "cuando quieras!\p"
+	.string "¡Adiós!$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM:
-	.string "The way the KIMONO GIRLS dance is\n"
-	.string "marvelous.\p"
-	.string "Just like the way they use their\n"
+	.string "La forma de bailar de las CHICAS\n"
+	.string "KIMONO es maravillosa.\p"
+	.string "Igual que su forma de usar a sus\n"
 	.string "POKéMON.$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
@@ -130,9 +130,9 @@ EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
 	.string "Es pasando CIUDAD OLIVO.$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "MORTY, the GYM LEADER, is soooo\n"
-	.string "cool.\p"
-	.string "His POKéMON are really tough too.$"
+	.string "MORTI, el LÍDER del GIMNASIO, es taaan\n"
+	.string "guay.\p"
+	.string "Y sus POKéMON también son muy duros.$"
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
 	.string "LAGO DE LA FURIA.\p"

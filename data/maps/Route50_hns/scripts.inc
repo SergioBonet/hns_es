@@ -6,19 +6,19 @@ Route50_EventScript_BlackBelt1::
 	end
 
 Route50_Text_BlackBelt1::
-	.string "The body must be hardened\n"
-    .string "and the mind strengthened\l"
-    .string "in the harshest of conditions!$"
+	.string "¡El cuerpo debe endurecerse y la\n"
+	.string "mente fortalecerse en las condiciones\l"
+	.string "más duras!$"
 
 Route50_EventScript_BlackBelt2::
 	msgbox Route50_Text_BlackBelt2, MSGBOX_NPC
 	end
 
 Route50_Text_BlackBelt2::
-    .string "Phew!\p"
-    .string "I'm not as hardcore as he is.\p"
-	.string "There's really not much else\n"
-    .string "to do here but train.$"
+	.string "¡Uf!\p"
+	.string "Yo no soy tan duro como él.\p"
+	.string "Aquí, la verdad, no hay mucho más que\n"
+	.string "hacer aparte de entrenar.$"
   
 
 Route50_EventScript_Wessel::
@@ -49,27 +49,27 @@ Route50_EventScript_WesselAfter::
 	end
 
 Route50_Text_WesselBefore:
-	.string "Incredible, A VOLTORB!\p"
-    .string "But it appears to be made\n"
-    .string "of... Wood?\p"
-    .string "My hypothesis that this route\n"
-    .string "would contain many STEEL TYPE\l"
-    .string "POKéMON is disproven yet again.\p"
-    .string "But why else would I have found\n"
-    .string "this STEEL PLATE here?\p"
-    .string "I must collect more data!$"
+	.string "¡Increíble, un VOLTORB!\p"
+	.string "Pero parece que está hecho de…\n"
+	.string "¿madera?\p"
+	.string "Mi hipótesis de que en esta ruta\n"
+	.string "habría muchos POKéMON de tipo ACERO\l"
+	.string "vuelve a quedar refutada.\p"
+	.string "Pero entonces, ¿por qué iba a\n"
+	.string "encontrar aquí esta TABLA ACERO?\p"
+	.string "¡Tengo que reunir más datos!$"
 
 Route50_Text_WesselBeforeBattle:
-	.string "You want this PLATE?\n"
-	.string "But I haven't analyzed it yet!\p"
-	.string "Fine, we will battle for it.$"
+	.string "¿Quieres esta TABLA? ¡Pero si aún no\n"
+	.string "la he analizado!\p"
+	.string "Bueno, lucharemos por ella.$"
 
 Route50_Text_WesselDefeat:
-	.string "My hypothesis was wrong...$"
+	.string "Mi hipótesis era errónea…$"
 
 Route50_Text_WesselAfter:
-	.string "Take the PLATE. I don't want to\n"
-	.string "talk about it.$"
+	.string "Llévate la TABLA. No quiero hablar del\n"
+	.string "tema.$"
 
 Route50_EventScript_Finley::
 	goto_if_defeated TRAINER_FINLEY_HNS, Route50_EventScript_FinleyAfter
@@ -99,32 +99,30 @@ Route50_EventScript_FinleyAfter::
 	end
 
 Route50_Text_FinleyBefore:
-	.string "How are the villagers treating\n"
-    .string "you?\p"
-    .string "They can be very unwelcoming to\n"
-    .string "strangers.\p"
-    .string "But meeting new people is one\n"
-    .string "of life's greatest joys.\p"
-    .string "One day, I hope to meet CHAMPION\n"
-    .string "LANCE.\p"
-    .string "He is a legendary dragon tamer,\n"
-    .string "much like myself.\l"
-    .string "Who am I?\p"
-    .string "Well, I am FINLEY, keeper of the\n"
-    .string "DRACO PLATE.$"
+	.string "¿Qué tal te tratan los aldeanos?\p"
+	.string "Pueden ser muy poco acogedores con\n"
+	.string "los forasteros.\p"
+	.string "Pero conocer a gente nueva es una de\n"
+	.string "las mayores alegrías de la vida.\p"
+	.string "Algún día espero conocer al CAMPEÓN\n"
+	.string "LANCE.\p"
+	.string "Es un domador de dragones legendario,\n"
+	.string "igual que yo. ¿Que quién soy?\p"
+	.string "Bueno, soy FINLEY, guardián de la\n"
+	.string "TABLA DRACO.$"
 
 Route50_Text_FinleyBeforeBattle:
-	.string "I know the KIMONO's have sent you\n"
-	.string "to collect these PLATES.\p"
-	.string "They say you are worthy...\n"
-	.string "But can you conquer my dragons?$"
+	.string "Sé que las CHICAS KIMONO te han\n"
+	.string "enviado a recoger estas TABLAS.\p"
+	.string "Dicen que eres digno… Pero ¿podrás\n"
+	.string "con mis dragones?$"
 
 Route50_Text_FinleyDefeat:
-	.string "My dragons fought well.$"
+	.string "Mis dragones han luchado bien.$"
 
 Route50_Text_FinleyAfter:
-	.string "Perhaps you are even strong enough\n"
-	.string "to beat LANCE...$"
+	.string "Quizá incluso seas lo bastante fuerte\n"
+	.string "como para vencer a LANCE…$"
 
 Route50_EventScript_Item_ULtraBall::
     finditem ITEM_ULTRA_BALL

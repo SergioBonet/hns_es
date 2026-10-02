@@ -158,32 +158,30 @@ NationalPark_BugContest_Movement_AttendantSide:
 	step_end
 
 NationalPark_BugContest_Text_Trash:
-	.string "Nothing here.$"
+	.string "Aquí no hay nada.$"
 
 NationlParkBugContest_Text_EnjoyTheContest:
-	.string "ATTENDANT: Enjoy the Contest!$"
+	.string "ENCARGADO: ¡Disfruta del concurso!$"
 
 NationalParkBugContest_Text_Attendant:
-	.string "ATTENDANT: Would you like to end\n"
-	.string "the contest?$"
+	.string "ENCARGADO: ¿Quieres terminar el\n"
+	.string "concurso?$"
 
 NationalParkBugContest_Text_ContestantBelinda:
-	.string "BELINDA: I'm going to win!\n"
-	.string "Don't bother me.$"
+	.string "BELINDA: ¡Voy a ganar! No me molestes.$"
 
 NationalParkBugContest_Text_Contestant2A:
-	.string "ED: My PARASECT puts POKéMON to\n"
-	.string "sleep with SPORE.$"
+	.string "ED: Mi PARASECT duerme a los POKéMON\n"
+	.string "con ESPORA.$"
 
 NationalParkBugContest_Text_ContestantShaun:
-	.string "SHAUN: I'm not concerned about\n"
-	.string "winning.\p"
-	.string "I'm just looking for rare POKéMON.$"
+	.string "SHAUN: No me preocupa ganar.\p"
+	.string "Solo busco POKéMON raros.$"
 
 NationalParkBugContest_Text_Contestant6A:
-	.string "BARRY: You should weaken bug\n"
-	.string "POKéMON first,\p"
-	.string "then throw a BALL.$"
+	.string "BARRY: Primero tienes que debilitar a\n"
+	.string "los POKéMON de tipo BICHO\p"
+	.string "y luego lanzar una BALL.$"
 
 NationalParkBugContest_Text_Contestant7A:
 	.string "CINDY: Me gustan los POKéMON bicho.\p"
@@ -212,7 +210,7 @@ NationalParkBugContest_Text_Sign_BattleNotice:
 	.string "PARQUE NACIONAL PUESTO DEL GUARDA$"
 
 NationalParkBugContest_Text_TrainerTips:
-	.string "The NATIONAL PARK has different\n"
-	.string "POKéMON during the BUG-CATCHING\l"
-	.string "CONTEST.$"
+	.string "Durante el CONCURSO de CAPTURA de\n"
+	.string "BICHOS, en el PARQUE NACIONAL\l"
+	.string "aparecen POKéMON distintos.$"
 

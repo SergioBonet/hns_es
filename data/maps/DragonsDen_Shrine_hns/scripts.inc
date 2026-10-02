@@ -335,11 +335,11 @@ DragonsDen_Shrine_Movement_ClairLeave:
 	step_end
 
 DragonsDen_Shrine_Text_ClairYouPassed:
-    .string "So how did it go?\p"
-    .string "I guess there's no point\n"
-	.string "in asking. You did fail?\p"
-    .string "..................................\p"
-    .string "…What? You passed?$"
+	.string "Bueno, ¿qué tal te ha ido?\p"
+	.string "Supongo que no tiene sentido\n"
+	.string "preguntar. ¿Has fallado?\p"
+	.string "……\p"
+	.string "… ¿Qué? ¿Has aprobado?$"
 
 DragonsDen_Shrine_Text_ClairThatCantBe:
 	.string "¡No es posible!$"
@@ -381,7 +381,7 @@ DragonsDen_Shrine_Text_ElderScoldsClair:
 	.string "careces…$"
 
 DragonsDen_Shrine_Text_Speechless:
-    .string "..................................$"
+	.string "……$"
 
 DragonsDen_Shrine_Text_ComeAgain:
 	.string "Ven de nuevo, si así lo deseas.$"

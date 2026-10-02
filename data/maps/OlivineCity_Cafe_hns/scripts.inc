@@ -15,15 +15,15 @@ OlivineCity_Cafe_EventScript_Jasmine::
 	end
 
 OlivineCity_Cafe_Text_Jasmine:
-	.string "Oh... Hello, {PLAYER}.\p"
-	.string "These dishes in front of me are\n"
-	.string "not all mine...\p"
-	.string "Uh...\p"
-	.string "Actually, the person who sat here\n"
-	.string "before me ate a lot...\p"
-	.string "If you'd like to battle again,\n"
-	.string "please visit me at the FIGHTING\l"
-	.string "DOJO in SAFFRON CITY.$"
+	.string "Oh… Hola, {PLAYER}.\p"
+	.string "Estos platos que tengo delante no son\n"
+	.string "todos míos…\p"
+	.string "Eh…\p"
+	.string "La verdad es que la persona que se\n"
+	.string "sentó aquí antes que yo comió\l"
+	.string "muchísimo…\p"
+	.string "Si quieres volver a luchar, ven a verme\n"
+	.string "al DOJO KARATE de CIUDAD AZAFRÁN.$"
 
 OlivineCity_EventScript_SailorA::
 	lock
@@ -62,15 +62,16 @@ OlivineCity_Text_CafeSailorStrength:
 	.string "Mira, ¡usa esto y enséñales FUERZA!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
-	.string "On the sea, the only thing you\n"
-	.string "can count on is your own self!\p"
-	.string "I'm so proud of my buff bod!\n"
-	.string "You should train like me!$"
+	.string "¡En el mar solo puedes contar contigo\n"
+	.string "mismo!\p"
+	.string "¡Estoy muy orgulloso de mi cuerpazo!\n"
+	.string "¡Deberías entrenar como yo!$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "OLIVINE CAFE's menu is packed\n"
-	.string "with hearty fare for beefy\l"
-	.string "SAILORS like me!$"
+	.string "¡El menú de la CAFETERÍA de CIUDAD\n"
+	.string "OLIVO está lleno de platos\l"
+	.string "contundentes para MARINEROS\l"
+	.string "musculosos como yo!$"
 
 OlivineCity_Text_CafeSailor:
 	.string "Cuando estoy de paso, siempre visito\n"

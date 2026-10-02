@@ -20,8 +20,8 @@ MahoganyTown_Gym_Text_GymStatue:
 	.string "Gimnasio POKéMON de PUEBLO CAOBA$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "MAHOGANY TOWN POKéMON GYM\p"
-	.string "PRYCE'S CERTIFIED TRAINERS:\n"
+	.string "GIMNASIO POKéMON DE PUEBLO CAOBA\p"
+	.string "CERTIFICADOS POR FREDO:\n"
 	.string "{PLAYER}$"
 
 
@@ -145,19 +145,18 @@ MahoganyTown_Gym_Text_ReceivedBadge:
 	.string "{PLAYER} recibió la MEDALLA GLACIAR.$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
-    .string "That BADGE will raise the SPECIAL\n"
-    .string "ATTACK of POKéMON.\p"
-    .string "It also lets your POKéMON use\n"
-    .string "WHIRLPOOL to get across\l"
-    .string "real whirlpools.\p"
-    .string "And this… This is a gift from me!$"
+	.string "Esa MEDALLA aumenta el ATAQUE\n"
+	.string "ESPECIAL de los POKéMON.\p"
+	.string "Además, permite a tus POKéMON usar\n"
+	.string "TORBELLINO para cruzar los remolinos\l"
+	.string "de verdad.\p"
+	.string "Y esto… ¡Esto es un regalo de mi parte!$"
 
 MahoganyTown_Gym_Text_HailSpeech:
-    .string "That TM contains HAIL.\p"
-    .string "It inflicts damage every\n"
-    .string "turn for 5 turns.\p"
-    .string "It demonstrates the harshness\n"
-    .string "of winter.$"
+	.string "Esa MT contiene GRANIZO.\p"
+	.string "Causa daño cada turno durante 5\n"
+	.string "turnos.\p"
+	.string "Muestra la dureza del invierno.$"
 
 MahoganyTown_Gym_Text_CherishPokemon:
 	.string "La primavera llega cuando se derrite\n"
@@ -167,30 +166,30 @@ MahoganyTown_Gym_Text_CherishPokemon:
 	.string "¡Pasadlo bien!$"
 
 MahoganyTown_Gym_Text_PryceRematch:
-    .string "Ah, JOHTO CHAMPION!\p"
-    .string "Your skills are indeed\n"
-    .string "remarkable.\p"
-    .string "I am impressed.\p"
-    .string "But even now, there is much to\n"
-    .string "learn from each other.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "still have a few tricks left.\p"
-    .string "Want to have a rematch with me?$"
+	.string "¡Ah, el CAMPEÓN de JOHTO!\p"
+	.string "Tus habilidades son realmente\n"
+	.string "notables.\p"
+	.string "Me has impresionado.\p"
+	.string "Pero aún ahora tenemos mucho que\n"
+	.string "aprender el uno del otro.\p"
+	.string "Yo, FREDO, el ENTRENADOR del invierno,\n"
+	.string "aún me guardo algún truco.\p"
+	.string "¿Quieres la revancha?$"
 
 MahoganyTown_Gym_Text_PryceRematchDefeat:
-    .string "Ah, yet again I'm impressed by\n"
-    .string "your prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.$"
+	.string "Ah, una vez más me impresiona tu\n"
+	.string "destreza.\p"
+	.string "Con tu fuerte voluntad, sé que\n"
+	.string "superarás todos los obstáculos de la\l"
+	.string "vida.$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "PRYCE is a veteran who has\n"
-    .string "trained POKéMON for some 50 years.\p"
-    .string "He's got a solid lineup of\n"
-    .string "POKéMON to cover whatever\l"
-    .string "you bring his way.\p"
-    .string "Fire is a good place to start,\n"
-    .string "but watch out for the rain!$"
+	.string "FREDO es un veterano que lleva unos\n"
+	.string "50 años entrenando POKéMON.\p"
+	.string "Tiene un equipo muy sólido para hacer\n"
+	.string "frente a lo que le eches.\p"
+	.string "El fuego es un buen punto de partida,\n"
+	.string "¡pero ojo con la lluvia!$"
 
 MahoganyTown_Gym_Text_GuideWin:
 	.string "¡FREDO es bueno, pero tú eres aún\n"

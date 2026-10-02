@@ -27,7 +27,8 @@ CeladonMansion2F_Text_Computer:
 	.string "…$"
 
 CeladonMansion2F_Text_DevOfficeSign:
-	.string "HEART & SOUL DEVELOPMENT OFFICE$"
+	.string "OFICINA DE DESARROLLO DE HEART &\n"
+	.string "SOUL$"
 
 CeladonMansion2F_EventScript_LilDill::
 	msgbox CeladonMansion2F_Text_LilDill, MSGBOX_NPC
@@ -54,48 +55,50 @@ CeladonMansion2F_EventScript_DaniRainbow::
     end
 
 CeladonMansion2F_Text_LilDill:
-	.string "Hi all, Patch 15--\p"
-	.string "Sorry, I mean...\p"
-	.string "Hi there, I'm the GAME DIRECTOR!\p"
-	.string "I built the maps, the tilesets, the\n"
-	.string "the scripts, and much more.\p"
-	.string "But I couldn't have done it without\n"
-	.string "the other devs and the playtesters.\p"
-	.string "Thank you for playing! I hope you've\n"
-	.string "enjoyed POKéMON HEART & SOUL.$"
+	.string "Hola a todos, parche 15…\p"
+	.string "Perdón, quería decir…\p"
+	.string "¡Hola, soy el DIRECTOR DEL JUEGO!\p"
+	.string "He hecho los mapas, los gráficos, los\n"
+	.string "scripts y mucho más.\p"
+	.string "Pero no lo habría conseguido sin el\n"
+	.string "resto del equipo y los probadores.\p"
+	.string "¡Gracias por jugar! Espero que hayas\n"
+	.string "disfrutado de POKéMON HEART & SOUL.$"
 
 CeladonMansion2F_Text_InfiniteBacon:
-	.string "We're working to rebuild this game\n"
-	.string "in pokeemerald expansion!$"
+	.string "¡Estamos rehaciendo este juego en\n"
+	.string "pokeemerald expansion!$"
 
 CeladonMansion2F_Text_TixoRebel:
-	.string "Have you heard of THE EGGENING?\n"
-	.string "It was a bug from the playtest\l"
-	.string "that randomly changed POKéMON into\l"
-	.string "EGGs!\p"
-	.string "I developed the fix for it!$"
+	.string "¿Has oído hablar de LA\n"
+	.string "HUEVIFICACIÓN? Fue un fallo de las\l"
+	.string "pruebas que convertía POKéMON en\l"
+	.string "HUEVOS al azar.\p"
+	.string "¡Yo desarrollé la solución!$"
 
 CeladonMansion2F_Text_Phant:
-	.string "I love DEMAKES!\p"
-	.string "Have you played SWORD AND SHIELD\n"
-	.string "ULTIMATE PLUS - ENGLISH?\l"
-	.string "I translated it!\p"
-	.string "For my next DEMAKE, I think I'll\n"
-	.string "do ALOLA!$"
+	.string "¡Me encantan los DEMAKES!\p"
+	.string "¿Has jugado a SWORD AND SHIELD\n"
+	.string "ULTIMATE PLUS - ENGLISH? ¡Lo traduje\l"
+	.string "yo!\p"
+	.string "Para mi próximo DEMAKE, creo que haré\n"
+	.string "ALOLA.$"
 
 CeladonMansion2F_Text_Exclsior:
-	.string "I implemented the unique surfing\n"
-	.string "surfing sprites for each POKéMON!\p"
-	.string "Since the project is OPEN SOURCE,\n"
-	.string "you can add your own features too!$"
+	.string "¡Hice los sprites de surf únicos para\n"
+	.string "cada POKéMON!\p"
+	.string "Como el proyecto es de CÓDIGO\n"
+	.string "ABIERTO, ¡tú también puedes añadir\l"
+	.string "tus propias funciones!$"
 
 CeladonMansion2F_Text_DaniRaibow:
-	.string "Hi!\p"
-	.string "I am pretty good at finding problems,\n"
-	.string "and can fix little ones.\p"
-    .string "Wanna hear a joke?\p"
-    .string "Lance tried to teach DRAGONITE the\n"
-    .string "move DRAGON BREATH.\p"
-    .string "However, DRAGONITE was moving too\n"
-    .string "fast from EXTREMESPEED; it couldn't\l"
-    .string "catch it!$"
+	.string "¡Hola!\p"
+	.string "Se me da bastante bien encontrar\n"
+	.string "problemas, y puedo arreglar los\l"
+	.string "pequeños.\p"
+	.string "¿Quieres oír un chiste?\p"
+	.string "LANCE intentó enseñarle a DRAGONITE\n"
+	.string "el movimiento DRAGOALIENTO.\p"
+	.string "Pero DRAGONITE iba tan rápido por\n"
+	.string "VELOC. EXTREMA que ¡no pudo cogerle el\l"
+	.string "aliento!$"

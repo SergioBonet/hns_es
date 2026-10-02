@@ -35,9 +35,10 @@ CianwoodCity_Text_PharmacistGivePotion:
 	.string "Esto debería ayudarte.$"
 
 CianwoodCity_Text_ReceivedSecretpotion:
-	.string "{PLAYER} received SECRET POTION.$"
+	.string "¡{PLAYER} ha recibido la POCIÓN\n"
+	.string "SECRETA!$"
 
 CianwoodCity_Text_PharmacistDescribePotion:
-	.string "My SECRET POTION is a tad too\n"
-	.string "strong, so I only offer it in an\l"
-	.string "emergency.$"
+	.string "Mi POCIÓN SECRETA es un poco fuerte,\n"
+	.string "así que solo la ofrezco en caso de\l"
+	.string "emergencia.$"

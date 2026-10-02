@@ -63,30 +63,32 @@ MtSilver_PokemonCenter_EventScript_Meara_WarpToSinjoh::
 	end
 
 MtSilver_PokemonCenter_Text_Meara1:
-	.string "I'm a researcher from... Uhh...\n"
-	.string "the PEWTER CITY museum!\p"
-	.string "An unusual amount of artifacts have\n"
-	.string "been discovered in this area, so\l"
-	.string "I've come here to investigate.\p"
-	.string "Have you found anything strange\n"
-	.string "in the mountain?\p"
-	.string "Maybe something like a FLUTE?\p"
-	.string "If you do, please show me.$"
+	.string "Soy investigador de… Eh… ¡del museo\n"
+	.string "de CIUDAD PLATEADA!\p"
+	.string "En esta zona se ha descubierto una\n"
+	.string "cantidad inusual de objetos antiguos,\l"
+	.string "así que he venido a investigar.\p"
+	.string "¿Has encontrado algo raro en la\n"
+	.string "montaña?\p"
+	.string "¿Algo como una FLAUTA, quizás?\p"
+	.string "Si lo encuentras, enséñamelo, por\n"
+	.string "favor.$"
 
 MtSilver_PokemonCenter_Text_Meara2:
-	.string "That flute!\p"
-	.string "You have the spirit of a true\n"
-	.string "archaeologist!\p"
-	.string "There's a branch of the cave\n"
-	.string "where the POKéMON are too strong\l"
-	.string "for me to safely explore.\p"
-	.string "If I take you there, would you\n"
-	.string "explore it for more artifacts?$"
+	.string "¡Esa flauta!\p"
+	.string "¡Tienes el espíritu de un auténtico\n"
+	.string "arqueólogo!\p"
+	.string "Hay una parte de la cueva en la que los\n"
+	.string "POKéMON son demasiado fuertes para\l"
+	.string "que yo la explore sin peligro.\p"
+	.string "Si te llevo allí, ¿la explorarías en\n"
+	.string "busca de más objetos antiguos?$"
 
 MtSilver_PokemonCenter_Text_Prompt:
-	.string "If I take you there, would you\n"
-	.string "explore it for more artifacts?$"
+	.string "Si te llevo allí, ¿la explorarías en\n"
+	.string "busca de más objetos antiguos?$"
 
 MtSilver_PokemonCenter_Text_Meara3:
-	.string "Ready to search for more artifacts?$"
+	.string "¿Listo para buscar más objetos\n"
+	.string "antiguos?$"
 

@@ -33,9 +33,10 @@ Route8_EventScript_Tom::
 	end
 
 Route8_Text_BikerDwayneSeen:
-	.string "We're the KANTO POKéMON FEDERATION\n"
-	.string "trainer group.\p"
-	.string "We'll drive you under our wheels!$"
+	.string "Somos el grupo de ENTRENADORES de la\n"
+	.string "FEDERACIÓN POKéMON de KANTO.\p"
+	.string "¡Te vamos a pasar por encima con\n"
+	.string "nuestras ruedas!$"
 
 Route8_Text_BikerDwayneBeaten:
 	.string "¡Lo… lo siento!$"
@@ -54,9 +55,8 @@ Route8_Text_BikerHarrisAfter:
 	.string "¡Destruido por alguien de Johto!…$"
 
 Route8_Text_BikerZekeSeen:
-	.string "We're the KANTO POKéMON FEDERA-\n"
-	.string "TION!\n"
-	.string "Right on!$"
+	.string "¡Somos la FEDERACIÓN POKéMON de\n"
+	.string "KANTO! ¡Toma ya!$"
 
 Route8_Text_BikerZekeBeaten:
 	.string "¡Vaya! ¡Perdona!$"

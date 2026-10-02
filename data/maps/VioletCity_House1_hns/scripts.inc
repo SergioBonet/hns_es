@@ -35,18 +35,18 @@ VioletCity_House1_EventScript_TradeCompleted::
 	end
 
 VioletCity_House1_Text_YouWillTradeWontYou:
-	.string "I collect POKéMON!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
+	.string "¡Colecciono POKéMON! ¿Tienes un\n"
+	.string "{STR_VAR_1}?\p"
+	.string "¿Quieres cambiármelo por mi\n"
 	.string "{STR_VAR_2}?$"
 
 VioletCity_House1_Text_MonYouTakeCare:
-	.string "Yay! I got myself {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "¡Bien! ¡He conseguido un {STR_VAR_1}!\p"
+	.string "¡{STR_VAR_2}, cuídate!$"
 
 VioletCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Vaya, pues va a ser que no.\n"
+	.string "Eso no es un {STR_VAR_1}.$"
 
 VioletCity_House1_Text_YouWontTradeMe:
 	.string "¿No quieres cambiarlo? ¡Bah!$"

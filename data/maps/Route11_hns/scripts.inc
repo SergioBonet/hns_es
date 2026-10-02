@@ -36,13 +36,14 @@ Route11_EventScript_Item_Grass_Knot::
     end
 
 Route11_Text_Engineer:
-	.string "I saw a strange POKéMON climbing\n"
-	.string "in the trees, but it didn't\l"
-	.string "look like MANKEY...$"
+	.string "He visto un POKéMON raro trepando por\n"
+	.string "los árboles, pero no parecía un\l"
+	.string "MANKEY…$"
 
 Route11_Text_YoungsterOwenSeen:
-	.string "There's no cheating in POKéMON.\p"
-	.string "Let's keep it fair and square!$"
+	.string "En los combates POKéMON no se hacen\n"
+	.string "trampas.\p"
+	.string "¡Juguemos limpio!$"
 
 Route11_Text_YoungsterOwenBeaten:
 	.string "¿Qué? ¿Cómo ha podido ocurrir?$"

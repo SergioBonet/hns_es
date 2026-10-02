@@ -170,7 +170,7 @@ Route27_EventScript_TohjoFallsSign::
     end
 
 Route27_Text_FisherHey:
-    .string "Hey!$"
+	.string "¡Eh!$"
 
 Route27_Text_FisherMessage:
 	.string "¿Sabes lo que acabas de hacer?\p"
@@ -182,7 +182,7 @@ Route27_Text_CooltrainermBlakeSeen:
 	.string "contigo!$"
 
 Route27_Text_CooltrainermBlakeBeaten:
-    .string "Yow!$"
+	.string "¡Ay!$"
 
 Route27_Text_CooltrainermBlakeAfter:
 	.string "Si continúas por este duro camino,\n"
@@ -236,12 +236,12 @@ Route27_Text_CooltrainerfMeganBeaten:
 	.string "¡Oh! ¡Eres muy fuerte!$"
 
 Route27_Text_CooltrainerfMeganAfter:
-    .string "I'm checking out pre- and post-\n"
-    .string "evolution POKéMON.\p"
-    .string "Evolution really does make\n"
-    .string "POKéMON stronger.\p"
-    .string "But evolved forms also learn\n"
-    .string "moves later on.$"
+	.string "Estoy estudiando POKéMON antes y\n"
+	.string "después de evolucionar.\p"
+	.string "La evolución hace más fuertes a los\n"
+	.string "POKéMON, desde luego.\p"
+	.string "Pero las formas evolucionadas también\n"
+	.string "aprenden los movimientos más tarde.$"
 
 Route27_Text_PsychicGilbertSeen:
 	.string "¡No digas nada! ¡Déjame adivinar lo que\n"
@@ -285,19 +285,18 @@ Route27_Text_JosePostRematch:
 	.string "POKéMON.$"
 
 Route27_Text_JoseHasItem:
-    .string "Hey! I found something\n"
-    .string "shiny while bird-watching!\p"
-    .string "Here, you can have it!$"
+	.string "¡Eh! ¡He encontrado algo brillante\n"
+	.string "mientras observaba pájaros!\p"
+	.string "¡Toma, para ti!$"
 
 Route27_Text_JoseGaveItem:
-    .string "I find all sorts of things\n"
-    .string "out here on ROUTE 27.\p"
-    .string "I'll let you know if I find\n"
-    .string "anything else!$"
+	.string "Aquí, en la RUTA 27, encuentro todo\n"
+	.string "tipo de cosas.\p"
+	.string "¡Te avisaré si encuentro algo más!$"
 
 Route27_Text_JoseNoRoom:
-    .string "Hmm, your BAG is full.\p"
-    .string "Come back when you have room.$"
+	.string "Mmm, tienes la MOCHILA llena.\p"
+	.string "Vuelve cuando tengas sitio.$"
 
 TohjoFalls_Text_Sign:
 	.string "CATARATAS TOHJO\p"

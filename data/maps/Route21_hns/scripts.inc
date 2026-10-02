@@ -23,7 +23,7 @@ Route21_EventScript_Arnold::
 	end
 
 Route21_Text_SwimmermSethSeen:
-	.string "Land ho! Gotta keep going!$"
+	.string "¡Tierra a la vista! ¡Hay que seguir!$"
 
 Route21_Text_SwimmermSethBeaten:
 	.string "¡Glup…!$"

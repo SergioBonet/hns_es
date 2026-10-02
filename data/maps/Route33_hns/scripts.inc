@@ -36,9 +36,8 @@ Route33_EventScript_Lass::
 	end
 
 Route33_Text_HikerAnthony2Seen:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "He cruzado el túnel, pero todavía me\n"
+	.string "quedan muchas energías.$"
 
 Route33_Text_HikerAnthony2Beaten:
 	.string "¡Guau! ¡Tienes más fuerza que yo!$"
@@ -52,9 +51,8 @@ Route33_Text_AnthonyRegister:
 	.string "montañas.$"
 
 Route33_Text_AnthonyRematchIntro:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "He cruzado el túnel, pero todavía me\n"
+	.string "quedan muchas energías.$"
 
 Route33_Text_AnthonyRematchDefeat:
 	.string "¡Guau! ¡Tienes más fuerza que yo!$"
@@ -70,8 +68,8 @@ Route33_Text_HikerAnthonyDunsparce:
 	.string "divertida!$"
 
 Route33_Text_Lass:
-	.string "Pant, pant…\p"
-	.string "That cave was bigger than\n"
-	.string "I'd expected.\p"
-	.string "I got too tired exploring\n"
-	.string "for MARILL, so I came outside.$"
+	.string "Uf, uf…\p"
+	.string "Esa cueva era más grande de lo que\n"
+	.string "pensaba.\p"
+	.string "Me he cansado mucho buscando MARILL,\n"
+	.string "así que he salido.$"

@@ -67,11 +67,11 @@ CeladonCity_House1_Text_Fisher1Concentration:
 	.string "¡Me vas a desconcentrar!$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
-	.string "…Gulp… Chew…$"
+	.string "… Glup… Ñam…$"
 
 CeladonCity_House1_Text_Fisher2Quantity:
-	.string "I take quantity over quality!\p"
-	.string "I'm happy when I'm full!$"
+	.string "¡Prefiero cantidad antes que calidad!\p"
+	.string "¡Soy feliz cuando estoy lleno!$"
 
 CeladonCity_House1_Text_Fisher3MunchMunch:
 	.string "¡Ñam, ñam!$"

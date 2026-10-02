@@ -34,9 +34,9 @@ Route12_House_Text_OfferSuperRod:
 	.string "Sé que tengo razón.$"
 
 Route12_House_Text_GiveSuperRod:
-	.string "Yes, yes. Just as I thought!\p"
-	.string "Here, fishing fan! Take this--\n"
-	.string "it's a SUPER ROD.$"
+	.string "Sí, sí. ¡Justo lo que pensaba!\p"
+	.string "¡Toma, aficionado a la pesca! Llévate\n"
+	.string "esto: es una SUPERCAÑA.$"
 
 Route12_House_Text_GaveSuperRod:
 	.string "Intenta pescar allí donde veas agua.\p"

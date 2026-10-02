@@ -137,7 +137,7 @@ GoldenrodCity_RadioTower_3F_Text_InsertedCardKey:
 	.string "{PLAYER} usó la LLAVE MAGNÉTICA.$"
  
 GoldenrodCity_RadioTower_3F_Text_Open:
-	.string "The gate is open.$"
+	.string "La puerta está abierta.$"
 
 GoldenrodCity_RadioTower_3F_Text_PersonnelSign:
 	.string "P2 PERSONAL$"
@@ -146,10 +146,9 @@ GoldenrodCity_RadioTower_3F_Text_PokemonMusicSign:
 	.string "MÚSICA POKéMON con el DJ NARDO$"
 
 GoldenrodCity_RadioTower_3F_Text_SuperNerd:
-	.string "We have recordings of the cries\n"
-	.string "of all POKéMON that have been\l"
-	.string "found.\p"
-	.string "We must have about 400 kinds.$"
+	.string "Tenemos grabaciones de los gritos de\n"
+	.string "todos los POKéMON descubiertos.\p"
+	.string "Debemos de tener unas 400 especies.$"
 
 GoldenrodCity_RadioTower_3F_Text_GymGuideRockets:
 	.string "Los POKéMON son muy queridos por sus\n"
@@ -178,9 +177,9 @@ GoldenrodCity_RadioTower_3F_Text_CooltrainerFHeroGift:
 	.string "Toma esto como agradecimiento.$"
 
 GoldenrodCity_RadioTower_3F_Text_CooltrainerFSunnyDay:
-	.string "It's SUNNY DAY.\p"
-	.string "It powers up fire-type moves\n"
-	.string "for a while.$"
+	.string "Es DÍA SOLEADO.\p"
+	.string "Potencia durante un tiempo los\n"
+	.string "movimientos de tipo FUEGO.$"
 
 GoldenrodCity_RadioTower_3F_Text_CooltrainerFMarvelous:
 	.string "¡Has estado genial!$"
@@ -194,8 +193,8 @@ GoldenrodCity_RadioTower_3F_Text_GruntM7Beaten:
 	.string "¿¡Qué!?$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM7After:
-	.string "I failed in my duties…\p"
-	.string "ARCHER will be so upset...$"
+	.string "He fallado en mi misión…\p"
+	.string "ATLAS se va a enfadar mucho…$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8Seen:
 	.string "Me encanta ordenar a los POKéMON que\n"
@@ -205,8 +204,9 @@ GoldenrodCity_RadioTower_3F_Text_GruntM8Beaten:
 	.string "¿Bromeas?$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8After:
-	.string "I feel lousy over losing!\p"
-	.string "Darn it! I hate useless POKéMON!$"
+	.string "¡Qué mal me sienta perder!\p"
+	.string "¡Maldita sea! ¡Odio a los POKéMON\n"
+	.string "inútiles!$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM9Seen:
 	.string "¿Por qué se abrió la puerta?\p"

@@ -20,8 +20,8 @@ SSAqua_RoomSSW_Text_FirebreatherLyleBeaten:
 	.string "La débil llama pierde fuerza.$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleAfterBattle:
-    .string "I guess fire is weak on the sea.\n"
-    .string "It doesn't matter? Really?$"
+	.string "Supongo que el fuego es débil en el\n"
+	.string "mar. ¿Que no importa? ¿En serio?$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenSeen:
 	.string "¡Voy a ver a mi abuela para que me\n"

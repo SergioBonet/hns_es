@@ -94,8 +94,8 @@ UnionCave_1F_Text_PokemaniacLarryBeaten:
 	.string "¡Ugh! Mis pobres POKéMON…$"
 
 UnionCave_1F_Text_PokemaniacLarryAfter:
-	.string "Sometimes, you can hear POKéMON\n"
-	.string "roars from deep inside the cave.$"
+	.string "A veces se oyen rugidos de POKéMON\n"
+	.string "desde lo más profundo de la cueva.$"
 
 UnionCave_1F_Text_HikerDanielSeen:
 	.string "¡Uauu! ¡Qué sorpresa!\p"
@@ -105,9 +105,9 @@ UnionCave_1F_Text_HikerDanielBeaten:
 	.string "¡Uauu! ¡Me han machacado!$"
 
 UnionCave_1F_Text_HikerDanielAfter:
-	.string "I was conned into buying a\n"
-	.string "SLOWPOKETAIL.\p"
-	.string "I feel sorry for the poor POKéMON.$"
+	.string "Me engañaron para que comprara una\n"
+	.string "COLA de SLOWPOKE.\p"
+	.string "Me da mucha pena el pobre POKéMON.$"
 
 UnionCave_1F_Text_FirebreatherBillSeen:
 	.string "El SUPERSÓNICO de ZUBAT confunde a\n"

@@ -20,10 +20,9 @@ DragonsDen_EventScript_ClairRematch::
     end
 
 DragonsDen_Text_Clair:
-    .string "{PLAYER}… So you're here.\p"
-	.string "If you think you can keep up,\n"
-	.string "with me, come to the FIGHTING\l"
-	.string "DOJO in SAFFRON.$"
+	.string "{PLAYER}… Así que estás aquí.\p"
+	.string "Si crees que puedes seguirme el ritmo,\n"
+	.string "ven al DOJO KARATE de CIUDAD AZAFRÁN.$"
 
 DragonsDen_Cavern_Trigger_ClairLeft::
 	lock
@@ -142,34 +141,33 @@ DragonsDen_Cavern_Movement_ClairLeaveRight:
 	step_end
 
 DragonsDen_Cavern_Text_Clair_GiveTM:
-    .string "CLAIR: WAIT!\p"
-	.string "I'm sorry about this.\n"
-    .string "Here, take this as my apology.$"
+	.string "DÉBORA: ¡ESPERA!\p"
+	.string "Siento todo esto. Toma, acepta esto\n"
+	.string "como disculpa.$"
 
 DragonsDen_Cavern_Text_Clair_ExplainTM:
-    .string "DRAGON PULSE is a kind of er...\n"
-	.string "never mind!\p"
-	.string "It's a huge energy of some kind.\p"
-	.string "If you don't want it, you don't have\n"
-	.string "to take it.$"
+	.string "PULSO DRAGÓN es una especie de… ¡bah,\n"
+	.string "da igual!\p"
+	.string "Es una energía enorme de algún tipo.\p"
+	.string "Si no lo quieres, no tienes por qué\n"
+	.string "cogerlo.$"
 
 DragonsDen_Cavern_Text_ClairWhatsTheMatter:
-    .string "What's the matter? Aren't\n"
-    .string "you going on to the POKéMON\l"
-    .string "LEAGUE?\p"
-    .string "After you become CHAMPION, you\n"
-    .string "can rematch any GYM LEADER you\l"
-    .string "want.\p"
-    .string "Go to the POKéMON LEAGUE.\p"
-    .string "Do you know how to get there?\p"
-    .string "From here, go to NEW BARK TOWN.\p"
-    .string "Then SURF east to POKéMON LEAGUE.\p"
-    .string "The route there is very tough.\p"
-    .string "Don't you dare lose at the POKéMON\n"
-    .string "LEAGUE!\p"
-    .string "If you do, I'll feel even worse\n"
-    .string "about having lost to you!\p"
-    .string "Give it everything you've got.$"
+	.string "¿Qué pasa? ¿No vas a la LIGA POKéMON?\p"
+	.string "Cuando seas CAMPEÓN, podrás volver a\n"
+	.string "luchar con el LÍDER de GIMNASIO que\l"
+	.string "quieras.\p"
+	.string "Ve a la LIGA POKéMON.\p"
+	.string "¿Sabes cómo llegar?\p"
+	.string "Desde aquí, ve a PUEBLO PRIMAVERA.\p"
+	.string "Y luego, usa SURF hacia el este hasta\n"
+	.string "la LIGA POKéMON.\p"
+	.string "El camino es muy duro.\p"
+	.string "¡Ni se te ocurra perder en la LIGA\n"
+	.string "POKéMON!\p"
+	.string "Si lo haces, ¡me sentiré aún peor por\n"
+	.string "haber perdido contra ti!\p"
+	.string "Dalo todo.$"
 
 DragonsDen_Cavern_EventScript_Darin::
 	trainerbattle_single TRAINER_DARIN_HNS, DragonsDen_Cavern_Text_CooltrainermDarinSeen, DragonsDen_Cavern_Text_CooltrainermDarinBeaten
@@ -246,11 +244,12 @@ DragonsDen_Cavern_Text_CooltrainerfCaraBeaten:
 	.string "¡Oh, maldición! ¡Perdí!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraAfter:
-    .string "Soon I'm going to get permission\n"
-    .string "from our MASTER to use dragons.\p"
-    .string "When I do, I'm going to become an\n"
-    .string "admirable dragon trainer and gain\l"
-    .string "our MASTER's approval.$"
+	.string "Pronto me darán permiso nuestro\n"
+	.string "MAESTRO para usar dragones.\p"
+	.string "Cuando lo consiga, me convertiré en un\n"
+	.string "admirable domador de dragones y me\l"
+	.string "ganaré la aprobación de nuestro\l"
+	.string "MAESTRO.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1Seen:
 	.string "Es alguien que no conocemos.$"

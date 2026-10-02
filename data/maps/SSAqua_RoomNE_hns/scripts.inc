@@ -29,8 +29,6 @@ SSAqua_RoomNE_Text_PokemaniacEthanBeaten:
 	.string "¡Yaaaa!$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanAfterBattle:
-    .string "LILY's nice, but\n"
-    .string "MARY's the best!\n"
-    .string "I want to check\n"
-    .string "out JOHTO's radio\n"
-    .string "programs!$"
+	.string "LILY está bien, ¡pero ROSA es la mejor!\n"
+	.string "¡Quiero escuchar los programas de\l"
+	.string "radio de JOHTO!$"

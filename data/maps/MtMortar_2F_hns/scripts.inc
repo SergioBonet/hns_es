@@ -40,8 +40,8 @@ MtMortar_2F_Text_SupernerdHughSeen::
 	.string "¡Eh! ¡MARC!$"
 
 MtMortar_2F_Text_SupernerdHughBeaten:
-	.string "Sorry, my mistake.\n"
-	.string "I misjudged you.$"
+	.string "Lo siento, me he equivocado. Te había\n"
+	.string "juzgado mal.$"
 
 MtMortar_2F_Text_SupernerdHughAfter:
 	.string "Estoy investigando MT. MORTERO, pero\n"

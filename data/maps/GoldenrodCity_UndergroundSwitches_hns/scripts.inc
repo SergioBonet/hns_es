@@ -54,9 +54,9 @@ GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_TP::
 	end
 
 GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_Text::
-	.string "You may be stuck.\p"
-	.string "Go back to the entrance\n"
-	.string "and reset switches?$"
+	.string "Puede que te hayas atascado.\p"
+	.string "¿Volver a la entrada y reiniciar los\n"
+	.string "interruptores?$"
 
 @ 3->2->1
 
@@ -522,15 +522,15 @@ GoldenrodCity_UndergroundSwitches_EventScript_Item_SmokeBall::
 	end
 
 GoldenrodUnderground_Text_SilverBefore:
-    .string "Hold it!\p"
-    .string "I saw you, so I tailed you.\p"
-    .string "I don't need you underfoot while I\n"
-    .string "take care of TEAM ROCKET.\p"
-    .string "…Wait a second. You beat me before,\n"
-    .string "didn't you?\p"
-    .string "That was just a fluke.\p"
-    .string "I've been training my team and now\n"
-    .string "I will repay my debts!$"
+	.string "¡Alto!\p"
+	.string "Te he visto y te he seguido.\p"
+	.string "No quiero que me estorbes mientras me\n"
+	.string "ocupo del TEAM ROCKET.\p"
+	.string "… Espera un momento. Ya me venciste\n"
+	.string "una vez, ¿no?\p"
+	.string "Fue pura suerte.\p"
+	.string "¡He estado entrenando a mi equipo y\n"
+	.string "ahora voy a saldar mis deudas!$"
 
 GoldenrodUnderground_Text_SilverWin:
 	.string "¿Por qué? ¿Cómo he podido perder?\p"
@@ -562,7 +562,7 @@ GoldenrodUnderground_Text_GruntM11Seen:
 	.string "¡Seguro que no consigues llegar!$"
 
 GoldenrodUnderground_Text_GruntM11Beaten:
-    .string "Drat! I was sunk by indecision!$"
+	.string "¡Rayos! ¡Me ha hundido la indecisión!$"
 
 GoldenrodUnderground_Text_GruntM11After:
 	.string "Tampoco lo sé… Primero hay que pulsar\n"
@@ -615,14 +615,13 @@ GoldenrodUnderground_Text_GruntM13Beaten:
 	.string "¡Seguro! Te crees genial, ¿verdad?$"
 
 GoldenrodUnderground_Text_GruntM13After:
-    .string "You must have ice in your veins to\n"
-    .string "diss TEAM ROCKET.$"
+	.string "Hay que tener sangre fría para\n"
+	.string "despreciar al TEAM ROCKET.$"
 
 GoldenrodUnderground_Text_GruntF3Seen:
-    .string "Are you lost? No, you can't be.\p"
-    .string "You don't have that scared look.\p"
-    .string "I'll give you something to be\n"
-    .string "scared about!$"
+	.string "¿Te has perdido? No, no puede ser.\p"
+	.string "No tienes cara de miedo.\p"
+	.string "¡Ya te daré yo motivos para tenerlo!$"
 
 GoldenrodUnderground_Text_GruntF3Beaten:
 	.string "¿Cómo ha sido?$"
@@ -632,19 +631,19 @@ GoldenrodUnderground_Text_GruntF3After:
 	.string "importa!$"
 
 GoldenrodUnderground_Text_Switch1:
-    .string "SWITCH 1 activated.$"
+	.string "INTERRUPTOR 1 activado.$"
 
 GoldenrodUnderground_Text_Switch2:
-    .string "SWITCH 2 activated.$"
+	.string "INTERRUPTOR 2 activado.$"
 
 GoldenrodUnderground_Text_Switch3:
-    .string "SWITCH 3 activated.$"
+	.string "INTERRUPTOR 3 activado.$"
 
 GoldenrodUnderground_Text_Switch1Off:
-    .string "SWITCH 1 deactivated.$"
+	.string "INTERRUPTOR 1 desactivado.$"
 
 GoldenrodUnderground_Text_Switch2Off:
-    .string "SWITCH 2 deactivated.$"
+	.string "INTERRUPTOR 2 desactivado.$"
 
 GoldenrodUnderground_Text_Switch3Off:
-    .string "SWITCH 3 deactivated.$"
+	.string "INTERRUPTOR 3 desactivado.$"

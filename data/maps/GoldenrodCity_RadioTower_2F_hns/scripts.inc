@@ -152,8 +152,7 @@ GoldenrodCity_RadioTower_2F_Text_SuperNerd:
 	.string "¡Sintonízala!$"
 
 GoldenrodCity_RadioTower_2F_Text_Policeman:
-	.string "Restricted access beyond this\n"
-	.string "point.$"
+	.string "Acceso restringido a partir de aquí.$"
 
 GoldenrodCity_RadioTower_2F_Text_Teacher:
 	.string "Las nanas de la radio duermen a los\n"
@@ -226,40 +225,38 @@ GoldenrodCity_RadioTower_2F_Text_GruntF2After:
 	.string "¡Me venciste y no pienso olvidarlo!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaShowPromo:
-	.string "BUENA: Tune in to my PASSWORD\n"
-	.string "SHOW!\p"
-	.string "Listen to find out today's\n"
-	.string "password!$"
+	.string "BUENA: ¡Sintoniza mi programa de\n"
+	.string "CONTRASEÑAS!\p"
+	.string "¡Escúchalo para saber la contraseña\n"
+	.string "de hoy!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaAskPassword:
-	.string "BUENA: Hi there!\p"
-	.string "So, do you know today's\n"
-	.string "password?\p"
-	.string "OK! Which one is it?$"
+	.string "BUENA: ¡Hola!\p"
+	.string "A ver, ¿sabes la contraseña de hoy?\p"
+	.string "¡Vale! ¿Cuál es?$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaCorrect:
-	.string "BUENA: You got it!\p"
-	.string "Here, take this {STR_VAR_1}\n"
-	.string "as your prize!$"
+	.string "BUENA: ¡Correcto!\p"
+	.string "Toma, ¡aquí tienes {STR_VAR_1} como\n"
+	.string "premio!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaWrong:
-	.string "BUENA: Bzzt! Too bad!\p"
-	.string "Try again tomorrow!$"
+	.string "BUENA: ¡Bzzzt! ¡Qué pena!\p"
+	.string "¡Vuelve a intentarlo mañana!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaComeBack:
-	.string "BUENA: No guess?\n"
-	.string "Come back when you're ready!$"
+	.string "BUENA: ¿No te atreves? ¡Vuelve cuando\n"
+	.string "estés listo!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaAlreadyPlayed:
-	.string "BUENA: You already guessed\n"
-	.string "today's password!\p"
-	.string "Tune in again tomorrow!$"
+	.string "BUENA: ¡Ya has acertado la contraseña\n"
+	.string "de hoy!\p"
+	.string "¡Vuelve a sintonizarnos mañana!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaBagFull:
-	.string "BUENA: You got it right, but\n"
-	.string "your BAG is full!\p"
-	.string "Make some room and come\n"
-	.string "talk to me again!$"
+	.string "BUENA: Has acertado, ¡pero tienes la\n"
+	.string "MOCHILA llena!\p"
+	.string "¡Haz sitio y vuelve a hablar conmigo!$"
 
 GoldenrodCity_RadioTower_2F_Text_SalesSign:
 	.string "P1 VENTAS$"
@@ -269,4 +266,5 @@ GoldenrodCity_RadioTower_2F_Text_OakTalkSign:
 	.string "¡El mejor programa de la radio!$"
 
 GoldenrodCity_RadioTower_2F_Text_PokemonRadioSign:
-	.string "Anywhere, Anytime POKéMON Radio$"
+	.string "La radio POKéMON, en cualquier lugar y\n"
+	.string "momento$"

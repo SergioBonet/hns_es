@@ -39,10 +39,9 @@ Route1_Text_CooltrainerFQuinn_Beaten:
 	.string "He perdido…$"
 
 Route1_Text_CooltrainerFQuinn_AfterBattle:
-	.string "You're strong.\p"
-	.string "You obviously must have trained\n"
-	.string "hard.$"
+	.string "Eres fuerte.\p"
+	.string "Se nota que has entrenado mucho.$"
 
 Route1_Text_Sign:
-	.string "ROUTE 1\p"
-	.string "PALLET TOWN - VIRIDIAN CITY$"
+	.string "RUTA 1\p"
+	.string "PUEBLO PALETA - CIUDAD VERDE$"

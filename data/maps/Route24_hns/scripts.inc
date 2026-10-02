@@ -130,45 +130,42 @@ Route24_Text_RocketSeen:
 	.string "¡Eh, tú! ¡Lucha empezar!$"
 
 Route24_Text_RocketBeaten:
-	.string "Ayieeeh! No, no, no, believe it\n"
-	.string "I can't!\p"
-	.string "Strong very much be you! Match\n"
-	.string "I am not to you!$"
+	.string "¡Ayyy! ¡No, no, no, creerlo no puedo!\p"
+	.string "¡Fuerte muchísimo ser tú! ¡Rival para\n"
+	.string "ti no soy yo!$"
 
 Route24_Text_RocketAfter:
-	.string "OK. Tell you mine secret will I?\n"
-	.string "MACHINE PART steal by me, hide it\l"
-	.string "I did in GYM of the CERULEAN.\p"
-	.string "Inside water put it I did. Look\n"
-	.string "for in water center of GYM at.\p"
-	.string "But you forget me not!\p"
-	.string "Beat you for sure will TEAM\n"
-	.string "ROCKET.\p"
-	.string "Come from JOHTO will they, mine\n"
-	.string "friends, yes. Will revenge they\l"
-	.string "are.$"
+	.string "Vale. ¿Contarte mi secreto debo? La\n"
+	.string "MAQUINARIA robé yo, en el GIMNASIO de\l"
+	.string "CELESTE la escondí.\p"
+	.string "Dentro del agua la puse. Buscar en el\n"
+	.string "agua del centro del GIMNASIO tú\l"
+	.string "debes.\p"
+	.string "¡Pero olvidarme tú no!\p"
+	.string "Vencerte seguro el TEAM ROCKET lo\n"
+	.string "hará.\p"
+	.string "De JOHTO vendrán ellos, mis amigos, sí.\n"
+	.string "Vengarse ellos harán.$"
 
 Route24_Text_RocketDisappears:
 	.string "…\p"
-	.string "You say what? TEAM ROCKET bye-\n"
-	.string "bye a go-go? Broken it is says\l"
-	.string "you?\p"
-	.string "Oh, no! Should I do what now on\n"
-	.string "from, me?$"
+	.string "¿Qué dices tú? ¿Adiós, adiós el TEAM\n"
+	.string "ROCKET? ¿Disuelto dices tú que está?\p"
+	.string "¡Oh, no! ¿Qué hacer ahora yo debo?$"
 
 
 
 Route24_Text_Woman:
-	.string "Isn't it a lovely view?$"
+	.string "¿A que son preciosas las vistas?$"
 Route24_Text_Man:
-	.string "I could stay here all day.$"
+	.string "Podría quedarme aquí todo el día.$"
 
 Route24_Text_WomanRocket:
-	.string "Nobody pushes me!$"
+	.string "¡A mí nadie me empuja!$"
 Route24_Text_ManRocket:
-	.string "Nobody pushes my girlfriend!$"
+	.string "¡A mi novia nadie la empuja!$"
 
 Route24_Text_WomanAfterRocket:
-	.string "What was that all about?$"
+	.string "¿Qué ha sido eso?$"
 Route24_Text_ManAfterRocket:
-	.string "Was that a ROCKET?$"
+	.string "¿Era un ROCKET?$"

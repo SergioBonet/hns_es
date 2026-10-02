@@ -65,9 +65,9 @@ Route9_Text_PicnickerHeidiBeaten:
 	.string "¡Ohhhh!$"
 
 Route9_Text_PicnickerHeidiAfter:
-	.string "We bake lots of goodies and share\n"
-	.string "them all around.\p"
-	.string "They're delicious!$"
+	.string "Horneamos un montón de dulces y los\n"
+	.string "repartimos por ahí.\p"
+	.string "¡Están riquísimos!$"
 
 Route9_Text_CamperSidSeen:
 	.string "¡Eh, tú! ¡No tires basura!$"

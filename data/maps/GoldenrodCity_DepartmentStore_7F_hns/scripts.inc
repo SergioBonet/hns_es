@@ -102,7 +102,8 @@ GoldenrodDeptStore_Text_RoofTeacher:
 	.string "abarrotada!$"
 
 GoldenrodDeptStore_Text_RoofBugCatcher:
-    .string "My POKéMON always get paralyzed or\n"
-    .string "poisoned when the chips are down…\p"
-    .string "So I came to buy some FULL HEAL.\p"
-    .string "I wonder if there's any left?$"
+	.string "Mis POKéMON siempre se paralizan o se\n"
+	.string "envenenan en el peor momento…\p"
+	.string "Así que he venido a comprar CURA\n"
+	.string "TOTAL.\p"
+	.string "¿Les quedará alguna?$"

@@ -76,4 +76,4 @@ FarawayIsland_Entrance_Text_Sign:
 	.string "…ith that hope, I depar…”$"
 
 FarawayIsland_Interior_Text_Mew:
-	.string "Myuu…$"
+	.string "Miuu…$"

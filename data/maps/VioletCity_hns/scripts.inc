@@ -391,11 +391,10 @@ VioletCity_EventScript_GymSign::
 	end
 
 VioletCity_Text_LiquidJustice:
-	.string "Look around!\p"
-	.string "It's easy to see what POKéMON\n"
-	.string "you can catch in an area without\l"
-	.string "having to run around in tall\l"
-	.string "grass all day!$"
+	.string "¡Echa un vistazo a tu alrededor!\p"
+	.string "¡Es fácil ver qué POKéMON se pueden\n"
+	.string "atrapar en una zona sin pasarse el día\l"
+	.string "corriendo por la hierba alta!$"
 
 VioletCity_Text_EarlAsksIfYouBeatFalkner:
 	.string "¡Hola! ¿Entrenas POKéMON? ¿Has\n"
@@ -413,17 +412,17 @@ VioletCity_Text_HereTeacherIAm:
 	.string "aquí estudies!$"
 
 VioletCity_Text_Lass:
-	.string "Ghosts are rumored to appear\n"
-	.string "in SPROUT TOWER.\p"
-	.string "They say that GHOST-type\n"
-	.string "moves can bypass the defenses\p"
-	.string "of tough POKéMON like ONIX\n"
-	.string "and GEODUDE.$"
+	.string "Se rumorea que en la TORRE BELLSPROUT\n"
+	.string "aparecen fantasmas.\p"
+	.string "Dicen que los movimientos de tipo\n"
+	.string "FANTASMA pueden atravesar las\l"
+	.string "defensas\p"
+	.string "de POKéMON duros como ONIX y GEODUDE.$"
 
 VioletCity_Text_Boy:
-	.string "Hey, you're a POKéMON trainer?\p"
-	.string "If you head to the ACADEMY,\n"
-	.string "you might learn something new!$"
+	.string "Eh, ¿eres ENTRENADOR POKéMON?\p"
+	.string "Si vas a la ACADEMIA, ¡puede que\n"
+	.string "aprendas algo nuevo!$"
 
 VioletCity_Text_Gramps:
 	.string "¡PEGASO, del GIMNASIO POKéMON\p"
@@ -432,18 +431,19 @@ VioletCity_Text_Gramps:
 	.string "hecho un gran trabajo.$"
 
 VioletCity_Text_Youngster:
-	.string "I saw a wiggly tree up ahead!\p"
-	.string "If you touch it, it squirms\n"
-	.string "and dances! Cool!$"
+	.string "¡He visto un árbol que se mueve más\n"
+	.string "adelante!\p"
+	.string "Si lo tocas, ¡se retuerce y baila! ¡Qué\n"
+	.string "guay!$"
 
 VioletCity_Text_Sign:
 	.string "CIUDAD MALVA\p"
 	.string "La ciudad de los aromas nostálgicos$"
 
 VioletCity_Text_GymSign:
-	.string "VIOLET CITY POKéMON GYM\p"
-	.string "LEADER: FALKNER, The Elegant\n"
-	.string "Master of Flying POKéMON$"
+	.string "GIMNASIO POKéMON DE CIUDAD MALVA\p"
+	.string "LÍDER: PEGASO, el elegante maestro de\n"
+	.string "los POKéMON voladores$"
 
 VioletCity_Text_SproutTowerSign:
 	.string "TORRE BELLSPROUT\p"
@@ -453,34 +453,33 @@ VioletCity_Text_EarlsAcademySign:
 	.string "ACADEMIA POKéMON DE PRIMO$"
 
 VioletCity_Text_Pichu:
-	.string "PICHU: Chuuuu!$"
+	.string "PICHU: ¡Chuuuu!$"
 
 VioletCity_Text_Bellsprout:
 	.string "BELLSPROUT: Sprouuuut.$"
 
 VioletCity_Text_Rattata:
-	.string "RATTATA: RATTATARATTA!$"
+	.string "RATTATA: ¡RATTATARATTA!$"
 
 VioletCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "PROF. ELM$"
 
 VioletCity_Text_Elm_Call:
-	.string "PROF.ELM: Hello, {PLAYER}? We\n"
-	.string "discovered something about the EGG!\p"
-	.string "My assistant is at the POKéMON\n"
-	.string "CENTER in VIOLET CITY.\p"
-	.string "Could you talk to him?$"
+	.string "PROF. ELM: Hola, ¿{PLAYER}? ¡Hemos\n"
+	.string "descubierto algo sobre el HUEVO!\p"
+	.string "Mi ayudante está en el CENTRO POKéMON\n"
+	.string "de CIUDAD MALVA.\p"
+	.string "¿Podrías hablar con él?$"
 
 VioletCity_Text_Kimono_Girl1:
 	.string "¡Oh! ¡Ese Huevo…!\p"
 	.string "$"
 
 VioletCity_Text_Kimono_Girl2:
-.string "I see...\p"
-.string "So it was handed from MR. POKéMON\n"
-.string "to PROF.ELM, then from \l"
-.string "PROF.ELM to you.\p"
-.string "Now I get it...$"
+	.string "Ya veo…\p"
+	.string "Así que pasó del SR. POKéMON al PROF.\n"
+	.string "ELM, y del PROF. ELM a ti.\p"
+	.string "Ahora lo entiendo…$"
 
 VioletCity_Text_Kimono_Girl3:
 	.string "Ese Huevo es extremadamente\n"

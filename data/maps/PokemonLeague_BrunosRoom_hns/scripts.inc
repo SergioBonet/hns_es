@@ -63,17 +63,17 @@ PokemonLeague_BrunosRoom_EventScript_BrunoDefeated::
 	end
 
 PokemonLeague_BrunosRoom_Text_RematchBefore:
-    .string "BRUNO: Welcome back, young\n"
-    .string "warrior.\p"
-    .string "Through rigorous training, we have\n"
-    .string "grown stronger.\p"
-    .string "My rock-hard will is even more firm\n"
-    .string "and unyielding.\p"
-    .string "Are you prepared to face an even\n"
-    .string "greater challenge?\p"
-    .string "Show me the results of your\n"
-    .string "training.\p"
-    .string "Hoo hah!$"
+	.string "BRUNO: Bienvenido de nuevo, joven\n"
+	.string "guerrero.\p"
+	.string "Gracias a un entrenamiento riguroso,\n"
+	.string "nos hemos hecho más fuertes.\p"
+	.string "Mi voluntad de roca es aún más firme e\n"
+	.string "inquebrantable.\p"
+	.string "¿Estás preparado para un desafío aún\n"
+	.string "mayor?\p"
+	.string "Muéstrame los frutos de tu\n"
+	.string "entrenamiento.\p"
+	.string "¡Ju, ja!$"
 
 PokemonLeague_BrunosRoom_Text_Before:
 	.string "Soy BRUNO, del ALTO MANDO.\p"

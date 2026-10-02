@@ -113,34 +113,34 @@ BattleFrontier_Lounge2_EventScript_TriathleteF_hns::
 	end
 
 BattleFrontier_Lounge2_Text_FrontierManiacIntro_hns::
-	.string "Howdy! When it comes to news about\n"
-	.string "the BATTLE FRONTIER, I'm no. 1.\p"
-	.string "You can think of me as\n"
-	.string "the FRONTIER MANIAC.\p"
-	.string "Just checking, but you are a TRAINER,\n"
-	.string "isn't that right?\p"
-	.string "I'll happily share the hottest news\n"
-	.string "I gathered about the BATTLE FRONTIER.$"
+	.string "¡Eh, qué tal! Si quieres saber algo sobre\n"
+	.string "el FRENTE de BATALLA, yo soy tu hombre.\p"
+	.string "Se puede decir que soy\n"
+	.string "el FOROFO del FRENTE.\p"
+	.string "Sólo para asegurarme,\n"
+	.string "tú entrenas POKéMON, ¿verdad?\p"
+	.string "Pues estaré encantado de contarte las\n"
+	.string "últimas noticias del FRENTE de BATALLA.$"
 
 BattleFrontier_Lounge2_Text_SwingByForTheLatestWord_hns::
-	.string "Howdy! Did you swing by to grill me\n"
-	.string "about the latest word? Oh, all right!$"
+	.string "¿Qué tal? ¿Has venido a preguntarme\n"
+	.string "qué es lo que más está de moda?$"
 
 @ Unused
 BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight_hns::
-	.string "Well? Well? Well?\p"
-	.string "I'm sure my information's been\n"
-	.string "seriously useful to you, right?$"
+	.string "¿Y bien? ¿Y bien? ¿Y bien?\p"
+	.string "Seguro que mi información te ha sido\n"
+	.string "de muchísima utilidad, ¿verdad?$"
 
 BattleFrontier_Lounge2_Text_FacilityIsHottest_hns::
-	.string "Let's see now…\p"
-	.string "It sounds like the {STR_VAR_1}\n"
-	.string "is the hottest place going.$"
+	.string "Déjame pensar…\p"
+	.string "Yo diría que…, sí,\n"
+	.string "{STR_VAR_1}, sin duda.$"
 
 BattleFrontier_Lounge2_Text_BattleTowerIsHottest_hns::
-	.string "Let's see now…\p"
-	.string "It sounds like BATTLE TOWER\n"
-	.string "{STR_VAR_1} is the hottest.$"
+	.string "Déjame pensar…\p"
+	.string "Creo que {STR_VAR_1},\n"
+	.string "de TORRE BATALLA, es lo que más mola.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere_hns::
 	.string "¡Seguro que no lo sabías!\p"
@@ -151,12 +151,13 @@ BattleFrontier_Lounge2_Text_SalonMaidenIsThere_hns::
 	.string "y es la que hace y deshace por allí.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenSilverMons_hns::
-	.string "Have you battled the SALON MAIDEN?\p"
-	.string "When she's measuring up her opponent,\n"
-	.string "she apparently uses these POKéMON:\p"
-	.string "A PSYCHIC-type PSI POKéMON,\n"
-	.string "a FIRE-type VOLCANO POKéMON,\l"
-	.string "and a NORMAL-type SLEEPING POKéMON.$"
+	.string "¿Has luchado contra la DAMA del\n"
+	.string "PALACIO?\p"
+	.string "Cuando está tanteando a su rival, al\n"
+	.string "parecer usa estos POKéMON:\p"
+	.string "un POKéMON Psi de tipo PSÍQUICO, un\n"
+	.string "POKéMON Volcán de tipo FUEGO y un\l"
+	.string "POKéMON Dormir de tipo NORMAL.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenGoldMons_hns::
 	.string "¿Te has enfrentado alguna vez\n"
@@ -176,12 +177,14 @@ BattleFrontier_Lounge2_Text_DomeAceIsThere_hns::
 	.string "y es el jefe de allí, vaya.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons_hns::
-	.string "Have you battled the DOME ACE?\p"
-	.string "When he's treating the opponent\n"
-	.string "lightly, he uses these three POKéMON:\p"
-	.string "A DRAGON & FLYING DRAGON POKéMON,\n"
-	.string "a WATER & GROUND MUD FISH POKéMON,\l"
-	.string "and a FIRE & FLYING FLAME POKéMON.$"
+	.string "¿Has luchado contra el AS de la\n"
+	.string "CÚPULA?\p"
+	.string "Cuando se toma a la ligera a su rival,\n"
+	.string "usa estos tres POKéMON:\p"
+	.string "un POKéMON Dragón de tipo DRAGÓN y\n"
+	.string "VOLADOR, un POKéMON Pez Lodo de tipo\l"
+	.string "AGUA y TIERRA, y un POKéMON Llama de\l"
+	.string "tipo FUEGO y VOLADOR.$"
 
 BattleFrontier_Lounge2_Text_DomeAceGoldMons_hns::
 	.string "¿Te has enfrentado alguna vez\n"
@@ -360,18 +363,18 @@ BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice_hns::
 	.string "para enfrentarte a enemigos muy duros!$"
 
 BattleFrontier_Lounge2_Text_NewsGatheringPower_hns::
-	.string "What amazing news-gathering power!\n"
-	.string "My mentor's like none other!$"
+	.string "¡Qué extraordinario poder adivinatorio!\n"
+	.string "¡Nadie puede compararse a mi mentor!$"
 
 BattleFrontier_Lounge2_Text_AmazingPowersOfObservation_hns::
-	.string "What amazing powers of observation!\n"
-	.string "My mentor's like none other!$"
+	.string "¡Qué magnífico poder de observación!\n"
+	.string "¡Nadie puede compararse a mi mentor!$"
 
 BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion_hns::
-	.string "What amazing power of persuasion!\n"
-	.string "My mentor's like none other!$"
+	.string "¡Qué increíble poder de persuasión!\n"
+	.string "¡Nadie puede compararse a mi mentor!$"
 
 BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe_hns::
-	.string "…What is this place?\n"
-	.string "It's scaring me…$"
+	.string "¡Qué sitio más raro!…\n"
+	.string "Me da hasta miedo…$"
 

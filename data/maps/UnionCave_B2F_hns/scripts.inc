@@ -59,9 +59,9 @@ UnionCave_B2F_Text_CooltrainermNickBeaten:
 	.string "¡Tu estilo es deslumbrante!$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
-	.string "Your POKéMON style is stunning and\n"
-	.string "colorful, I admit.\p"
-	.string "You'll just keep getting better!$"
+	.string "Lo admito: tu estilo con los POKéMON\n"
+	.string "es deslumbrante y colorido.\p"
+	.string "¡No harás más que mejorar!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
 	.string "Estoy entrenando. ¿Quieres luchar?$"

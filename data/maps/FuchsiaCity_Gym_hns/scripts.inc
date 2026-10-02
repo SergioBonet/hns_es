@@ -102,12 +102,13 @@ FuchsiaCity_Gym_Text_ReceivedSoulBadge:
 	.string "{PLAYER} recibió la MEDALLA ALMA.$"
 
 FuchsiaCity_Gym_Text_Janine_GiveTM:
-	.string "JANINE: You're so tough! I have a\n"
-	.string "special gift!$"
+	.string "SACHIKO: ¡Qué fuerte eres! ¡Tengo un\n"
+	.string "regalo especial!$"
 
 FuchsiaCity_Gym_Text_Janine_ExplainTM:
-	.string "It's POISON JAB, a powerful Poison-type\n"
-	.string "move that may poison its victim.$"
+	.string "Es PUYA NOCIVA, un potente movimiento\n"
+	.string "de tipo VENENO que puede envenenar a\l"
+	.string "la víctima.$"
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
 	.string "SACHIKO: Voy a esforzarme por mejorar\n"
@@ -276,16 +277,16 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+	.string "GIMNASIO POKéMON DE CIUDAD FUCSIA\n"
+	.string "LÍDER: SACHIKO\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-    .string "WINNING TRAINERS:\n"
-    .string "BLUE, RED, {PLAYER}$"
+	.string "GIMNASIO POKéMON DE CIUDAD FUCSIA\n"
+	.string "LÍDER: SACHIKO\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO, {PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:
 	.string "Echa un vistazo a tu alrededor.\p"

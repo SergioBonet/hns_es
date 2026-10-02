@@ -56,11 +56,11 @@ BerryBlender_Text_DontHavePokeblockCase:
 	.string "come see me.$"
 
 BerryBlender_Text_LetsGetBlendingAlready:
-	.string "Let's get blending already!$"
+	.string "¡Vamos a bayalicuar!$"
 
 BerryBlender_Text_WhatKindOfPokeblockWillIGet:
-	.string "I wonder what kind of {POKEBLOCK} I'll get?\n"
-	.string "This is so exciting!$"
+	.string "Me pregunto qué tipo de {POKEBLOCK}\n"
+	.string "conseguiré… ¡Qué emoción!$"
 
 BerryBlender_Text_WantToBlendPokeblocksWithUs:
 	.string "Hi, there! Did you want to blend some\n"

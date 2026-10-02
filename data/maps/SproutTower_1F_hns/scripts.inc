@@ -63,10 +63,10 @@ SproutTower_Text_1F_Sage2:
 	.string "para entrenar POKéMON.$"
 
 SproutTower_Text_1F_Granny:
-	.string "A BELLSPROUT over 100 feet\n"
-	.string "tall…\p"
-	.string "People say that it became the\n"
-	.string "center pillar here.$"
+	.string "Un BELLSPROUT de más de 30 metros de\n"
+	.string "altura…\p"
+	.string "Dicen que se convirtió en el pilar\n"
+	.string "central de aquí.$"
 
 SproutTower_Text_1F_Teacher:
 	.string "¿Ves cómo se mueve la columna?\p"

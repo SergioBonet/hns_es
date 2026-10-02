@@ -19,10 +19,10 @@ SSAqua_RoomSW_Text_BeautyCassieBeaten:
 	.string "Estoy desolada…$"
 
 SSAqua_RoomSW_Text_BeautyCassieAfterBattle:
-    .string "A voyage is best for getting over\n"
-    .string "a broken heart.\p"
-    .string "But a FAST SHIP trip is too short\n"
-    .string "for grieving.$"
+	.string "Un viaje es lo mejor para superar un\n"
+	.string "desengaño amoroso.\p"
+	.string "Pero un viaje en FERRY es demasiado\n"
+	.string "corto para pasar el duelo.$"
 
 SSAqua_RoomSW_Text_GuitaristClydeSeen:
 	.string "Voy a una audición de mis canciones en\n"

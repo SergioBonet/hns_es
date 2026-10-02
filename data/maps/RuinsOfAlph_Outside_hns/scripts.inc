@@ -18,7 +18,7 @@ RuinsOfAlph_Outside_EventScript_Quagsire::
 	end
 
 RuinsOfAlph_Outside_Text_Quagsire:
-	.string "QUAGSIRE: Quag Quag$"
+	.string "QUAGSIRE: Quag quag$"
 
 RuinsOfAlph_Outside_EventScript_Stan::
 	trainerbattle_single TRAINER_STAN_HNS, RuinsOfAlph_Outside_Text_SuperNerdStan_Seen, RuinsOfAlph_Outside_Text_SuperNerdStan_Beaten
@@ -84,20 +84,18 @@ RuinsOfAlph_Outside_EventScript_Sign3::
 	end
 
 RuinsOfAlph_Outside_Text_Scientist:
-	.string "Hm? That's a POKéDEX, isn't it?\n"
-	.string "May I see it?\p"
-	.string "There are so many kinds of\n"
-	.string "POKéMON.\p"
-	.string "Hm? What's this?\p"
-	.string "What is this POKéMON?\p"
-	.string "It looks like the strange\n"
-	.string "writing on the walls of the\p"
-	.string "RUINS.\p"
-	.string "If those drawings are really\n"
-	.string "POKéMON, there should be many\n"
-	.string "more.\p"
-	.string "I know! Let me upgrade your\n"
-	.string "POKéDEX. Follow me.$"
+	.string "¿Mmm? Eso es una POKéDEX, ¿verdad?\n"
+	.string "¿Puedo verla?\p"
+	.string "Hay muchísimas clases de POKéMON.\p"
+	.string "¿Mmm? ¿Qué es esto?\p"
+	.string "¿Qué POKéMON es este?\p"
+	.string "Se parece a la extraña escritura de\n"
+	.string "las paredes de las\p"
+	.string "RUINAS.\p"
+	.string "Si esos dibujos son de verdad\n"
+	.string "POKéMON, debería haber muchos más.\p"
+	.string "¡Ya sé! Deja que mejore tu POKéDEX.\n"
+	.string "Sígueme.$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
 	.string "¿Qué quieres? Estoy estudiando. ¡No\n"
@@ -131,9 +129,9 @@ RuinsOfAlph_Outside_Text_MainSign:
 	.string "RUINAS ALFA ¡Bienvenidos!$"
 
 RuinsOfAlph_Outside_Text_ResearchSign:
-	.string "RUINS OF ALPH RESEARCH CENTER\p"
-	.string "THE AUTHORITY ON THE\n"
-	.string "RUINS OF ALPH$"
+	.string "CENTRO DE INVESTIGACIÓN DE LAS\n"
+	.string "RUINAS ALFA\p"
+	.string "LA AUTORIDAD EN LAS RUINAS ALFA$"
 
 RuinsOfAlph_Outside_Text_Fisher1:
 	.string "Mientras explorábamos las RUINAS, de\n"
@@ -148,8 +146,9 @@ RuinsOfAlph_Outside_Text_Fisher2:
 	.string "Creo…$"
 
 RuinsOfAlph_Outside_Text_Youngster1:
-	.string "There are many kinds of UNOWN, so\n"
-	.string "we use them for our secret codes.$"
+	.string "Hay muchas clases de UNOWN, así que\n"
+	.string "los usamos para nuestros códigos\l"
+	.string "secretos.$"
 
 RuinsOfAlph_Outside_Text_Youngster2:
 	.string "A… D… E… L… A… N… T… E… Mmmmmm…\p"

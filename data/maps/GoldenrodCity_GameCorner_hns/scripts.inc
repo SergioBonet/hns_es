@@ -490,32 +490,32 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect::
 	end
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM44:
-	.string "REST{CLEAR_TO 0x58}2,000 C.$"
+	.string "DESCANSO{CLEAR_TO 0x58}2.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
-	.string "SUBSTITUTE{CLEAR_TO 0x58}2,000 C.$"
+	.string "SUSTITUTO{CLEAR_TO 0x58}2.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM75:
-	.string "SWORDS DANCE{CLEAR_TO 0x58}3,000 C.$"
+	.string "DANZA ESPADA{CLEAR_TO 0x58}3.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
-	.string "ICE BEAM{CLEAR_TO 0x58}4,000 C.$"
+	.string "RAYO HIELO{CLEAR_TO 0x58}4.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
-	.string "THUNDERBOLT{CLEAR_TO 0x58}4,000 C.$"
+	.string "RAYO{CLEAR_TO 0x58}4.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM35:
-	.string "FLAMETHROWER{CLEAR_TO 0x58}4,000 C.$"
+	.string "LANZALLAMAS{CLEAR_TO 0x58}4.000 F.$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
 	.string "SALIR$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_SoYourChoiceIsTM:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "¿Así que quieres\n"
+	.string "{STR_VAR_1} {STR_VAR_2}?$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_YouAlreadyHaveThis:
-	.string "You already have that item.$"
+	.string "Ya tienes ese objeto.$"
 
 GoldenrodCity_GameCorner_EventScript_PokefanM::
 	lock
@@ -582,13 +582,13 @@ GoldenrodCity_GameCorner_EventScript_Pharmacist::
 	end
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_YouWantPrize:
-	.string "{STR_VAR_1} is what you want?$"
+	.string "¿Quieres {STR_VAR_1}?$"
 
 GoldenrodCity_GameCorner_Text_PlayerObtainedTheMon:
-	.string "{PLAYER} got {STR_VAR_1}!$"
+	.string "¡{PLAYER} ha conseguido {STR_VAR_1}!$"
 
 GoldenrodGamecorner_Text_GiveNicknameToThisMon:
-	.string "Nickname {STR_VAR_1}?$"
+	.string "¿Poner mote a {STR_VAR_1}?$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorIntro:
 	.string "¡Hola! ¡Aquí cambiamos tus fichas por\n"
@@ -618,35 +618,37 @@ GoldenrodCity_GameCorner_Text_Pharmacist:
 	.string "Gano más fichas que en otras.$"
 
 GoldenrodCity_GameCorner_Text_Woman:
-    .string "I can't stop winning!$"
+	.string "¡No paro de ganar!$"
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
 	.string "Me encanta esta nueva tragaperras.\p"
 	.string "Es más difícil que las de C. AZULONA.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
-    .string "Life is a gamble. I'm going to pull\n"
-    .string "till I drop!$"
+	.string "La vida es una apuesta. ¡Voy a seguir\n"
+	.string "tirando de la palanca hasta caer\l"
+	.string "rendido!$"
 
 GoldenrodCity_GameCorner_Text_PokefanF:
-    .string "Roulette…\p"
-    .string "I prefer it over the slots because\n"
-    .string "it's easier to figure the odds.\p"
-    .string "But the payout is much lower.$"
+	.string "La ruleta…\p"
+	.string "La prefiero a las tragaperras porque\n"
+	.string "es más fácil calcular las\l"
+	.string "probabilidades.\p"
+	.string "Pero se gana mucho menos.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerF:
 	.string "¡No pararé hasta que gane!$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-    .string "I taught ICE BEAM to my POKéMON.\p"
-    .string "It was hard to get enough coins for\n"
-    .string "it, but it was worth it.$"
+	.string "Le enseñé RAYO HIELO a mi POKéMON.\p"
+	.string "Me costó conseguir suficientes\n"
+	.string "fichas, pero valió la pena.$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
-    .string "I couldn't win at the slots, and I\n"
-    .string "blew it on roulette.\p"
-    .string "I got so furious, I tossed out my\n"
-    .string "COIN CASE in the UNDERGROUND.$"
+	.string "No gané nada en las tragaperras y lo\n"
+	.string "perdí todo en la ruleta.\p"
+	.string "Me enfadé tanto que tiré mi MONEDERO\n"
+	.string "en el SUBTERRÁNEO.$"
 
 GoldenrodCity_GameCorner_Text_MoveTutorInside:
 	.string "¡Uajaja! ¡Más fichas, más fichas!$"
@@ -796,10 +798,10 @@ GoldenrodCity_GameCorner_EventScript_VFAttendant2::
 
 @ Voltorb Flip Menu Option Strings
 GoldenrodCity_GameCorner_Text_VF_OptPlay:
-	.string "PLAY$"
+	.string "JUGAR$"
 
 GoldenrodCity_GameCorner_Text_VF_OptGameInfo:
-	.string "GAME INFO$"
+	.string "INSTRUCCIONES$"
 
 GoldenrodCity_GameCorner_Text_VF_OptQuit:
 	.string "SALIR$"
@@ -808,30 +810,30 @@ GoldenrodCity_GameCorner_Text_VF_OptHowToPlay:
 	.string "CÓMO JUGAR$"
 
 GoldenrodCity_GameCorner_Text_VF_OptHint:
-	.string "HINT$"
+	.string "¡PISTAS!$"
 
 GoldenrodCity_GameCorner_Text_VF_OptAboutNotes:
-	.string "ABOUT NOTES$"
+	.string "NOTAS$"
 
 GoldenrodCity_GameCorner_Text_VF_OptReturn:
-	.string "RETURN$"
+	.string "ATRÁS$"
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:
-	.string "Welcome to VOLTORB FLIP!\p$"
+	.string "¡Bienvenido a GIRAVOLTORB!\p"
+	.string "$"
 
 GoldenrodCity_GameCorner_Text_VF_PlayLevel:
 	.string "¿Quieres jugar a Giravoltorb Nv.\n"
 	.string "{STR_VAR_1}?$"
 
 GoldenrodCity_GameCorner_Text_VF_GameClear:
-	.string "Game clear!\p"
-	.string "You've found all the hidden\n"
-	.string "x2 and x3 cards!$"
+	.string "¡Has ganado!\p"
+	.string "¡Has descubierto todos los paneles x2\n"
+	.string "y x3 ocultos!$"
 
 GoldenrodCity_GameCorner_Text_VF_ReceivedCoins:
-	.string "You have received\n"
-	.string "{STR_VAR_1} Coin(s)!$"
+	.string "¡Fichas obtenidas: {STR_VAR_1}!$"
 
 GoldenrodCity_GameCorner_Text_VF_Advanced:
 	.string "¡Pasas al Nv. {STR_VAR_1}!\p"
@@ -845,54 +847,59 @@ GoldenrodCity_GameCorner_Text_VF_Dropped:
 	.string "$"
 
 GoldenrodCity_GameCorner_Text_VF_CoinCap:
-	.string "You've gathered 9,999 COINS.\n"
-	.string "You cannot gather any more.$"
+	.string "Has reunido 9.999 FICHAS. No puedes\n"
+	.string "conseguir más.$"
 
 GoldenrodCity_GameCorner_Text_VF_WhichInfo:
 	.string "¿Sobre qué quieres saber?$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
-	.string "VOLTORB FLIP is a game in which you flip\n"
-	.string "cards to find numbers hidden beneath.\p"
-	.string "The cards hide the numbers 1 through 3,\n"
-	.string "and VOLTORB as well.\p"
-	.string "The first number you flip gives\n"
-	.string "you that many Coins.\p"
-	.string "Each new number multiplies your total.\n"
-	.string "A 2 by x2 and a 3 by x3.\p"
-	.string "But if you flip a VOLTORB, it's game over.\n"
-	.string "You lose all Coins collected that round!\p"
-	.string "QUIT the game at any time to keep\n"
-	.string "the Coins you've found so far.\p"
-	.string "Find all hidden x2 and x3 cards to clear\n"
-	.string "the game and advance to the next level!$"
+	.string "GIRAVOLTORB consiste en girar\n"
+	.string "paneles para descubrir los números\l"
+	.string "que se esconden detrás.\p"
+	.string "Los paneles esconden los números del\n"
+	.string "1 al 3, y también VOLTORB.\p"
+	.string "El primer número que descubras te da\n"
+	.string "esa cantidad de fichas.\p"
+	.string "Cada número nuevo multiplica tu total:\n"
+	.string "un 2 por x2 y un 3 por x3.\p"
+	.string "Pero si descubres un VOLTORB, se\n"
+	.string "acabó la partida. ¡Pierdes todas las\l"
+	.string "fichas de esa ronda!\p"
+	.string "Puedes PARAR en cualquier momento\n"
+	.string "para quedarte con las fichas que\l"
+	.string "hayas conseguido.\p"
+	.string "¡Descubre todos los paneles x2 y x3\n"
+	.string "ocultos para ganar y pasar al\l"
+	.string "siguiente nivel!$"
 
 GoldenrodCity_GameCorner_Text_VF_HintText:
-	.string "The numbers on the sides of the board\n"
-	.string "are hints about the numbers…\p"
-	.string "hidden in that row or column.\p"
-	.string "The larger the number, the more high-\n"
-	.string "value cards are in that row or column.\p"
-	.string "The VOLTORB count tells you how\n"
-	.string "many VOLTORBs lurk there.\p"
-	.string "Use both totals to figure out\n"
-	.string "which cards are safe to flip!$"
+	.string "Los números de los lados del tablero\n"
+	.string "son pistas sobre los números…\p"
+	.string "que se esconden en esa fila o columna.\p"
+	.string "Cuanto mayor es el número, más\n"
+	.string "paneles de valor alto hay en esa fila o\l"
+	.string "columna.\p"
+	.string "El número de VOLTORB indica cuántos\n"
+	.string "VOLTORB se esconden allí.\p"
+	.string "¡Usa los dos totales para averiguar\n"
+	.string "qué paneles puedes girar sin riesgo!$"
 
 GoldenrodCity_GameCorner_Text_VF_AboutNotes:
-	.string "Use the notes mode ({L_BUTTON} & {R_BUTTON}) to mark\n"
-	.string "cards with numbers 1-3 or a VOLTORB.\p"
-	.string "Mark a card you think you know,\n"
-	.string "then flip it when you're sure.\p"
-	.string "Apply a note again to remove it.$"
+	.string "Usa las marcas ({L_BUTTON} y {R_BUTTON}) para marcar\n"
+	.string "paneles con los números del 1 al 3 o\l"
+	.string "con un VOLTORB.\p"
+	.string "Marca un panel que creas saber y\n"
+	.string "gíralo cuando estés seguro.\p"
+	.string "Vuelve a poner la marca para quitarla.$"
 
 GoldenrodCity_GameCorner_Text_VF_NeedCoinCase:
 	.string "¡Vaya! No tienes MONEDERO.$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant1:
-	.string "You want to play VOLTORB FLIP?\p"
-	.string "You need to be on the other\n"
-	.string "side of the table.$"
+	.string "¿Quieres jugar a GIRAVOLTORB?\p"
+	.string "Tienes que ponerte al otro lado de la\n"
+	.string "mesa.$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant2:
-	.string "Try the other side of\n"
-	.string "the table, pal.$"
+	.string "Prueba al otro lado de la mesa, colega.$"

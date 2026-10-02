@@ -70,9 +70,8 @@ Gate_Route43_Rocket_EventScript_Rockets::
 	end
 
 Gate_Route43_Rocket_Text_TollFee:
-    .string "Hold it there, kiddo!\p"
-    .string "The toll is ¥500 to go\n"
-    .string "through.$"
+	.string "¡Alto ahí, chaval!\p"
+	.string "El peaje para pasar es de ¥500.$"
 
 Gate_Route43_Rocket_Text_ThankYou:
 	.string "¡Gracias, joven!$"
@@ -81,12 +80,12 @@ Gate_Route43_Rocket_Text_AllYouGot:
 	.string "Entonces paga lo que tengas.$"
 
 Gate_Route43_Rocket_Text_KickOut:
-	.string "Wow!\p"
-	.string "You're totally broke!\p"
-	.string "I almost feel sorry for you.\p"
-	.string "Okay, you can pass...\p"
-	.string "Just don't tell the other guard,\n"
-	.string "okay?$"
+	.string "¡Vaya!\p"
+	.string "¡No tienes ni un céntimo!\p"
+	.string "Casi me das pena.\p"
+	.string "Vale, puedes pasar…\p"
+	.string "Pero no se lo digas al otro guardia,\n"
+	.string "¿vale?$"
 
 Gate_Route43_Rocket_Text_MakingABundle:
 	.string "¡Je, je! Nos estamos forrando.\p"
@@ -100,7 +99,7 @@ Route43Gate_Text_OfficerFoundTM:
 	.string "¿Podrías llevártelo?$"
 
 Gate_Route43_Text_ReceivedTM30:
-    .string "{PLAYER} received TM36.$"
+	.string "¡{PLAYER} ha recibido la MT36!$"
 
 Gate_Route43_Text_OfficerAvoidGrass:
 	.string "Usa esta puerta para no andar por la\n"

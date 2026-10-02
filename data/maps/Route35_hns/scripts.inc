@@ -158,12 +158,12 @@ Route35_Text_BirdKeeperBryanBeaten:
 	.string "¡Vaya! ¡No lo bastante rápido!$"
 
 Route35_Text_BirdKeeperBryanAfter:
-	.string "Some POKéMON flee right away.\p"
-	.string "Try catching them with KURT's\n"
-	.string "FAST BALL.\p"
-	.string "Whenever I find a ASPEAR BERRY, I\n"
-	.string "take it to KURT.\p"
-	.string "He turns it into a custom BALL.$"
+	.string "Algunos POKéMON huyen enseguida.\p"
+	.string "Intenta atraparlos con la RAPID BALL\n"
+	.string "de CÉSAR.\p"
+	.string "Cada vez que encuentro una BAYA\n"
+	.string "PERASI, se la llevo a CÉSAR.\p"
+	.string "Él la convierte en una BALL especial.$"
 
 Route35_Text_JugglerIrwinSeen:
 	.string "¡Observa cómo uso las POKé BALL!$"
@@ -211,8 +211,9 @@ Route35_Text_ArniePostRematch:
 	.string "NACIONAL.$"
 
 Route35_Text_BugCatcherArnieYanma:
-	.string "Wow… Look at all those YANMA!\p"
-	.string "I'm so blown away, I can't move.$"
+	.string "Uau… Mira cuántos YANMA…\p"
+	.string "Estoy tan impresionado que no puedo\n"
+	.string "moverme.$"
 
 Route35_Text_FirebreatherWaltSeen:
 	.string "Practico mi aliento de fuego.$"
@@ -231,9 +232,8 @@ Route35_Text_OfficerDirkBeaten:
 	.string "¡Uy!$"
 
 Route35_Text_OfficerDirkAfter:
-	.string "You know, night time is fun in its\n"
-	.string "own ways.\p"
-	.string "But don't overdo it, OK?$"
+	.string "¿Sabes? La noche tiene su gracia.\p"
+	.string "Pero no te pases, ¿vale?$"
 
 Route35_Text_OfficerDirkTough:
 	.string "Tus POKéMON son bastante fuertes.\p"
@@ -243,4 +243,4 @@ Route35_Text_Sign:
 	.string "RUTA 35$"
 
 Route35_Text_Sign2:
-	.string "NATIONAL PARK GATE$"
+	.string "PUERTA DEL PARQUE NACIONAL$"

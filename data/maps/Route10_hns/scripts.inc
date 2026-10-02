@@ -21,11 +21,11 @@ Route10_EventScript_Surge::
     end
 
 Route10_Text_Surge:
-    .string "Hey, kid!\p"
-	.string "Keep your guard up out here,\n"
-	.string "this place is cracklin' with power!\p"
-	.string "If you want a rematch, report to\n"
-	.string "the FIGHTING DOJO!$"
+	.string "¡Eh, chaval!\p"
+	.string "¡Ten cuidado por aquí, que esto está\n"
+	.string "cargado de energía!\p"
+	.string "Si quieres la revancha, ¡preséntate en\n"
+	.string "el DOJO KARATE!$"
 
 Route10_EventScript_Item_Rock_Polish::
     finditem ITEM_TM_ROCK_POLISH

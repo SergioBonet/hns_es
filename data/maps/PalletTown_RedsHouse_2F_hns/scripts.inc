@@ -10,8 +10,9 @@ PalletTown_RedsHouse_2F_EventScript_PC::
 	end
 
 RedsHouse_Text_NES:
-	.string "{PLAYER} played the NES.\p"
-	.string "Better get going--no time to lose!$"
+	.string "{PLAYER} ha jugado con la NES.\p"
+	.string "Mejor ponerse en marcha… ¡No hay\n"
+	.string "tiempo que perder!$"
 
 RedsHouse_Text_PC:
 	.string "Parece que nadie lo ha usado en mucho\n"

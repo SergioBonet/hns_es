@@ -281,7 +281,7 @@ RocketHideout_B1F_Text_ScientistJedAfter:
 	.string "vuelta a la entrada.$"
 
 RocketHideout_B1F_Text_GruntM16Seen:
-    .string "Heheh. Feeling lucky, punk?$"
+	.string "Jeje. ¿Te sientes con suerte, mocoso?$"
 
 RocketHideout_B1F_Text_GruntM16Beaten:
 	.string "¡Kabum!$"
@@ -314,7 +314,7 @@ RocketHideout_B1F_EventScript_Persian::
 	end
 
 RocketHideout_B1F_Text_SecurityCameraStatue:
-    .string "It's a PERSIAN statue…$"
+	.string "Es una estatua de PERSIAN…$"
 
 RocketHideout_B1F_EventScript_DummyPanel::
 	msgbox RocketHideout_B1F_Text_NothingThere, MSGBOX_SIGN
@@ -357,7 +357,7 @@ RocketHideout_B1F_EventScript_TurnOffSwitch::
 	end
 
 RocketHideout_B1F_Text_NothingThere:
-	.string "A strange panel... Nothing here.$"
+	.string "Un panel extraño… Aquí no hay nada.$"
 
 RocketHideout_B1F_Text_SecretSwitch:
 	.string "¡Un botón secreto! Mejor pulsarlo.$"

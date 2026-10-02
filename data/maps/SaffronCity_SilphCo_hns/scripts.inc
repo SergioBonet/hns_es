@@ -30,7 +30,7 @@ SaffronCity_SilphCo_EventScript_Refused::
 	end
 
 SaffronCity_SilphCo_Text_Refused:
-	.string "Oh...$"
+	.string "Oh…$"
 
 SaffronCity_SilphCo_EventScript_TreeckoChosen::
 	closemessage
@@ -92,29 +92,25 @@ SaffronCity_SilphCo_Movement_StevenLeave:
 
 
 SaffronCity_SilphCo_Text_Steven1:
-	.string "Hello...\n"
-	.string "You're breaking up...\l"
-	.string "I think it depends on my dad.\l"
-	.string "I see...\n"
-	.string "I'll be on my way. See you soon.$"
+	.string "Hola… Se corta…\l"
+	.string "Creo que depende de mi padre.\l"
+	.string "Ya veo…\n"
+	.string "Me pongo en camino. Hasta pronto.$"
 SaffronCity_SilphCo_Text_Steven2:
-	.string "STEVEN: You are... I remember your\n"
-	.string "eyes.\p"
-	.string "When I see a trainer whose eyes\n"
-	.string "twinkle, I always remember.\p"
-	.string "You have a POKéDEX! So you are\n"
-	.string "also in search of POKéMON!\l"
-	.string "Let me see...\p"
-	.string "I think I can help you with that.\p"
-	.string "Let's say that you have stones in\n"
-	.string "front of you. Which color would\l"
-	.string " you pick?$"
+	.string "MÁXIMO: Tú eres… Recuerdo tus ojos.\p"
+	.string "Cuando veo a un ENTRENADOR al que le\n"
+	.string "brillan los ojos, siempre lo recuerdo.\p"
+	.string "¡Tienes una POKéDEX! ¡Así que tú\n"
+	.string "también buscas POKéMON! A ver…\p"
+	.string "Creo que puedo ayudarte con eso.\p"
+	.string "Imagina que tienes unas piedras\n"
+	.string "delante. ¿Qué color elegirías?$"
 SaffronCity_SilphCo_Text_Steven3:
-	.string "You chose correctly! I'll give you\n"
+	.string "¡Has elegido bien! ¡Te daré\n"
 	.string "{STR_VAR_1}!$"
 SaffronCity_SilphCo_Text_Steven4:
-	.string "Take good care of it. Your caring\n"
-	.string "for it will make me very happy.$"
+	.string "Cuídalo bien. Me hará muy feliz que lo\n"
+	.string "cuides.$"
 
 SaffronCity_SilphCo_EventScript_Receptionist::
 	msgbox SilphCo_Text_Receptionist, MSGBOX_NPC
@@ -137,12 +133,12 @@ SaffronCity_SilphCo_EventScript_Sign2::
 	end
 
 SilphCo_Text_Sign1:
-	.string "SILPH CO.\n"
-	.string "1F RECEPTION.$"
+	.string "SILPH S.A.\n"
+	.string "1.ª P.: RECEPCIÓN$"
 
 SilphCo_Text_Sign2:
-	.string "SILPH CO.\n"
-	.string "ELEVATOR OUT OF SERVICE$"
+	.string "SILPH S.A.\n"
+	.string "ASCENSOR FUERA DE SERVICIO$"
 
 SilphCo_Text_Receptionist:
 	.string "Ésta es la OFICINA CENTRAL de SILPH\n"

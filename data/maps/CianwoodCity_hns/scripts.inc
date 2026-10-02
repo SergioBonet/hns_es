@@ -96,11 +96,11 @@ CianwoodCity_Text_ChucksWifeEasierToFly:
 	.string "$"
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
-	.string "But you can't use FLY without this\n"
-	.string "city's GYM BADGE.\p"
-	.string "If you beat the GYM LEADER here,\n"
-	.string "come see me.\p"
-	.string "I'll have a nice gift for you.$"
+	.string "Pero no puedes usar VUELO sin la\n"
+	.string "MEDALLA del GIMNASIO de esta ciudad.\p"
+	.string "Si vences al LÍDER del GIMNASIO de\n"
+	.string "aquí, ven a verme.\p"
+	.string "Tendré un bonito regalo para ti.$"
 
 CianwoodCity_Text_ChucksWifeGiveHM:
 	.string "¡Es la MEDALLA de CIUDAD ORQUÍDEA!\p"
@@ -308,8 +308,9 @@ CianwoodCity_EventScript_CitySign::
 	end
 
 CianwoodCity_Text_Sign:
-	.string "CIANWOOD CITY\p"
-	.string "A Port Surrounded by Rough Seas$"
+	.string "CIUDAD ORQUÍDEA\p"
+	.string "Un puerto rodeado de un mar\n"
+	.string "embravecido$"
 
 CianwoodCity_EventScript_GymSign::
 	lock
@@ -351,10 +352,9 @@ CianwoodCity_EventScript_Engineer::
 	end
 
 CianwoodCity_Text_Safari:
-	.string "CLIFF EDGE CAVE\n"
-	.string "Road to the SAFARI ZONE.$"
+	.string "CUEVA ACANTILADO\n"
+	.string "Camino a la ZONA SAFARI.$"
 
 CianwoodCity_Text_Engineer:
-	.string "This path is under construction.\n"
-	.string "We're getting the new SAFARI ZONE\l"
-	.string "up and running!$"
+	.string "Este camino está en obras. ¡Estamos\n"
+	.string "preparando la nueva ZONA SAFARI!$"

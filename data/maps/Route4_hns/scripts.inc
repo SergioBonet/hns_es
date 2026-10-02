@@ -42,10 +42,10 @@ Route4_Text_BirdKeeperHank_Beaten:
 	.string "¡Argh! He perdido esta vez…$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
-	.string "If you have a specific POKéMON that you\n"
-	.string "want to raise, put it out first, then\l"
-	.string "switch it right away.\p"
-	.string "That's how to do it.$"
+	.string "Si hay un POKéMON concreto que\n"
+	.string "quieres criar, sácalo el primero y\l"
+	.string "luego cámbialo enseguida.\p"
+	.string "Así se hace.$"
 
 Route4_Text_PicnickerHope_Seen:
 	.string "Presiento que puedo ganar.\p"
@@ -68,7 +68,7 @@ Route4_Text_PicnickerSharon_AfterBattle:
 	.string "…Creo que seguiré entrenándome…$"
 
 Route4_Text_MtMoonSquareSign:
-	.string "MT.MOON NEW ENTRANCE\n"
-	.string "DUE TO CAVE-IN\p"
-	.string "WATCH YOUR STEP$"
+	.string "NUEVA ENTRADA AL MT. MOON\n"
+	.string "POR UN DERRUMBE\p"
+	.string "MIRA DÓNDE PISAS$"
 

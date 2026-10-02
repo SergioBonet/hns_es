@@ -38,28 +38,24 @@ Route6_Text_UndergroundPathSign:
 	.string "CIUDAD CELESTE - CIUDAD CARMÍN$"
 
 PokefanM_Text_RexSeen:
-	.string "My STANTLER is the cutest in the\n"
-	.string "world.$"
+	.string "Mi STANTLER es el más mono del mundo.$"
 
 PokefanM_Text_RexBeaten:
-	.string "My STANTLER!$"
+	.string "¡Mi STANTLER!$"
 
 PokefanM_Text_RexAfter:
-	.string "Look how adorable my STANTLER\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "¡Mira qué adorable es mi STANTLER!\p"
+	.string "¿A que es tan mono que te derrite el\n"
+	.string "corazón?$"
 
 PokefanM_Text_AllanSeen:
-	.string "My GRANBULL is the cutest in the\n"
-	.string "world.$"
+	.string "Mi GRANBULL es el más mono del mundo.$"
 
 PokefanM_Text_AllanBeaten:
-	.string "My GRANBULL!$"
+	.string "¡Mi GRANBULL!$"
 
 PokefanM_Text_AllanAfter:
-	.string "Look how adorable my GRANBULL\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "¡Mira qué adorable es mi GRANBULL!\p"
+	.string "¿A que es tan mono que te derrite el\n"
+	.string "corazón?$"
 

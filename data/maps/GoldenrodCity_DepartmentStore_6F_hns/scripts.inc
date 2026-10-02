@@ -16,11 +16,11 @@ GoldenrodDeptStore6_EventScript_Whitney::
 	end
 
 GoldenrodDeptStore6_Text_Whitney:
-	.string "{PLAYER}! Fancy seeing you here!\p"
-	.string "I'm picking up something for\n"
-	.string "my MILTANK.\p"
-	.string "If you want another battle, come to\n"
-	.string "the FIGHTING DOJO!$"
+	.string "¡{PLAYER}! ¡Qué casualidad verte por\n"
+	.string "aquí!\p"
+	.string "Estoy comprando algo para mi MILTANK.\p"
+	.string "Si quieres otro combate, ¡ven al DOJO\n"
+	.string "KARATE!$"
 
 GoldenrodCity_DepartmentStore_6F_EventScript_Jose::
 	lock
@@ -48,18 +48,18 @@ GoldenrodCity_DepartmentStore_6F_EventScript_TradeCompleted::
 	end
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWillTradeWontYou:
-	.string "I collect POKéMON!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
+	.string "¡Colecciono POKéMON! ¿Tienes un\n"
+	.string "{STR_VAR_1}?\p"
+	.string "¿Quieres cambiármelo por mi\n"
 	.string "{STR_VAR_2}?$"
 
 GoldenrodCity_DepartmentStore_6F_Text_MonYouTakeCare:
-	.string "Yay! I got myself {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "¡Bien! ¡He conseguido un {STR_VAR_1}!\p"
+	.string "¡{STR_VAR_2}, cuídate!$"
 
 GoldenrodCity_DepartmentStore_6F_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Vaya, pues va a ser que no.\n"
+	.string "Eso no es un {STR_VAR_1}.$"
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
 	.string "¿No quieres cambiarlo? ¡Bah!$"
@@ -93,13 +93,13 @@ GoldenrodDeptStore6_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_6FLass:
-    .string "Do you listen to LUCKY CHANNEL?\p"
-    .string "They say if you want to win,\n"
-	.string "you should trade POKéMON with as\l"
-    .string "many people as possible to get\l"
-    .string "different ID numbers.\p"
-	.string "However, trading isn't as widely\n"
-	.string "available as it once was.$"
+	.string "¿Escuchas el CANAL SUERTE?\p"
+	.string "Dicen que, si quieres ganar, deberías\n"
+	.string "intercambiar POKéMON con toda la\l"
+	.string "gente posible para conseguir números\l"
+	.string "ID diferentes.\p"
+	.string "Pero ahora no se intercambia tanto\n"
+	.string "como antes.$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
 	.string "Si te cansas, prueba las bebidas de\n"

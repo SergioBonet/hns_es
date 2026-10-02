@@ -43,9 +43,9 @@ ViridianCity_Gym_EventScript_BlueGotoDojo::
 	end
 
 ViridianCity_Gym_Text_BlueGotoDojo:
-	.string "BLUE: Back for more already?\p"
-	.string "If you want another shot at me,\n"
-	.string "come to the FIGHTING DOJO!$"
+	.string "AZUL: ¿Ya vuelves a por más?\p"
+	.string "Si quieres otra oportunidad contra mí,\n"
+	.string "¡ven al DOJO KARATE!$"
 
 ViridianCity_Gym_EventScript_BlueAtDojo::
 	msgbox ViridianCity_Gym_Text_LeaderBlue_Epilogue, MSGBOX_DEFAULT
@@ -68,11 +68,11 @@ ViridianCity_Gym_Text_LeaderBlue_Before:
 	.string "¿Vale?$"
 
 ViridianCity_Gym_Text_LeaderBlue_Win:
-	.string "BLUE: What?\p"
-	.string "How the heck did I lose to you?\p"
+	.string "AZUL: ¿Qué?\p"
+	.string "¿Cómo demonios he perdido contra ti?\p"
 	.string "…\p"
-	.string "Tch, all right… Here, take this--it's\n"
-	.string "EARTHBADGE.$"
+	.string "Bah, está bien… Toma, es la MEDALLA\n"
+	.string "TIERRA.$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
 	.string "{PLAYER} recibió la MEDALLA TIERRA.$"
@@ -85,13 +85,16 @@ ViridianCity_Gym_Text_LeaderBlue_After:
 	.string "¡No lo olvides!$"
 
 ViridianCity_Gym_Text_LeaderBlue_GiveTM:
-	.string "Take this with you.$"
+	.string "Llévate esto.$"
 
 ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
-	.string "That's TRICK ROOM.\p"
-	.string "All POKEMON in battle will change speed.\n"
-	.string "Slow goes first. Fast goes last.\p"
-	.string "Use it to turn a battle on its head.$"
+	.string "Es ESPACIO RARO.\p"
+	.string "Todos los POKéMON del combate\n"
+	.string "cambiarán de velocidad. Los lentos\l"
+	.string "atacan primero y los rápidos, los\l"
+	.string "últimos.\p"
+	.string "Úsalo para darle la vuelta a un\n"
+	.string "combate.$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "AZUL: Escucha.\p"
@@ -135,14 +138,14 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: BLUE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+	.string "GIMNASIO POKéMON DE CIUDAD VERDE\n"
+	.string "LÍDER: AZUL\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: BLUE\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+	.string "GIMNASIO POKéMON DE CIUDAD VERDE\n"
+	.string "LÍDER: AZUL\p"
+	.string "GANADORES:\n"
+	.string "AZUL, ROJO, {PLAYER}$"
 

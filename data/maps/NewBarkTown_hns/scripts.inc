@@ -20,7 +20,7 @@ NewBarkTown_EventScript_ElmCallAfterLeague::
 	end
 
 NewBarkTown_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "PROF. ELM$"
 
 NewBarkTown_OnTransition::
 	goto_if_eq VAR_NEWBARK_TOWN_STATE, 2, NewBarkTown_Set_TalkToElm
@@ -225,29 +225,28 @@ NewBarkTown_Movement_FaceDown:
 	step_end
 
 NewBarkTown_Text_LabSign:
-	.string "PROF.ELM'S LAB$"
+	.string "LABORATORIO DEL PROF. ELM$"
 
 NewBarkTown_Text_Door:
-	.string "The door is locked.$"
+	.string "La puerta está cerrada.$"
 
 NewBarkTown_Text_Wooper:
 	.string "WOOPER: Woooooop.$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, your POKéGEAR is impressive!\n"
-	.string "Did your mom get it for you?$"
+	.string "¡Uau, tu POKéGEAR es impresionante!\n"
+	.string "¿Te lo ha comprado tu madre?$"
 
 NewBarkTown_Text_FatManState3:
-	.string "Yo, {PLAYER}!\p"
-	.string "I hear PROF.ELM discovered\n"
-	.string "some new POKéMON.$"
+	.string "¡Eh, {PLAYER}!\p"
+	.string "He oído que el PROF. ELM ha\n"
+	.string "descubierto POKéMON nuevos.$"
 
 NewBarkTown_Text_LassState2:
-	.string "Wait, {PLAYER}!\p"
-	.string "It's dangerous to go out\n"
-	.string "without a POKéMON!\p"
-	.string "Wild POKéMON jump out of the grass\n"
-	.string "on the way to the next town.$"
+	.string "¡Espera, {PLAYER}!\p"
+	.string "¡Es peligroso salir sin un POKéMON!\p"
+	.string "De camino al siguiente pueblo, saltan\n"
+	.string "POKéMON salvajes de la hierba.$"
 
 NewBarkTown_Text_LassState3:
 	.string "¡Oh, tu POKéMON es adorable! ¡Ojalá\n"
@@ -264,8 +263,8 @@ NewBarkTown_Text_LassState5:
 
 NewBarkTown_Text_Silver1:
 	.string ". . .\p"
-	.string "So this is the famous ELM\n"
-	.string "POKéMON LAB…$"
+	.string "Así que este es el famoso\n"
+	.string "LABORATORIO POKéMON de ELM…$"
 
 NewBarkTown_Text_Silver2:
 	.string "¿Qué estás mirando…?$"
@@ -287,5 +286,5 @@ NewBarkTown_Text_PlayersHouse:
 	.string "CASA DE {PLAYER}$"
 
 NewBarkTown_Text_ElmsHouse:
-	.string "PROF.ELM'S HOUSE$"
+	.string "CASA DEL PROF. ELM$"
 

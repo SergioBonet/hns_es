@@ -132,17 +132,16 @@ Route44_Text_WiltonPostRematch:
 	.string "¡Juraría que medía unos 5 metros!$"
 
 Route44_Text_WiltonHasItem:
-    .string "Hey! I reeled in something\n"
-    .string "other than a POKéMON!\p"
-    .string "Here, you can have it!$"
+	.string "¡Eh! ¡He pescado algo que no es un\n"
+	.string "POKéMON!\p"
+	.string "¡Toma, para ti!$"
 
 Route44_Text_WiltonGaveItem:
-    .string "I'll let you know if I\n"
-    .string "fish up anything else!$"
+	.string "¡Te avisaré si pesco algo más!$"
 
 Route44_Text_WiltonNoRoom:
-    .string "Hmm, your BAG is full.\p"
-    .string "Come back when you have room.$"
+	.string "Mmm, tienes la MOCHILA llena.\p"
+	.string "Vuelve cuando tengas sitio.$"
 
 Route44_Text_FisherEdgarSeen:
 	.string "Pesco hasta que no puedo más, y lucho\n"
@@ -165,16 +164,16 @@ Route44_Text_BirdKeeperVance1Beaten:
 	.string "¡Uauu! Eres el no va más.$"
 
 Route44_Text_BirdKeeperVanceBirds:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+	.string "ARTICUNO, ZAPDOS y MOLTRES son los\n"
+	.string "tres POKéMON pájaro legendarios.\p"
+	.string "Pero he oído que hay otros pájaros\n"
+	.string "legendarios.$"
 
 Route44_Text_VanceRegister:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+	.string "ARTICUNO, ZAPDOS y MOLTRES son los\n"
+	.string "tres POKéMON pájaro legendarios.\p"
+	.string "Pero he oído que hay otros pájaros\n"
+	.string "legendarios.$"
 
 Route44_Text_VanceRematchIntro:
 	.string "¿Sabes algo sobre el POKéMON pájaro\n"
@@ -184,10 +183,10 @@ Route44_Text_VanceRematchDefeat:
 	.string "¡Uauu! Eres el no va más.$"
 
 Route44_Text_VancePostRematch:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+	.string "ARTICUNO, ZAPDOS y MOLTRES son los\n"
+	.string "tres POKéMON pájaro legendarios.\p"
+	.string "Pero he oído que hay otros pájaros\n"
+	.string "legendarios.$"
 
 Route44_Text_PsychicPhilSeen:
 	.string "¡Voy a ganar! ¡Seguro!$"

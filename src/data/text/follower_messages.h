@@ -223,7 +223,7 @@ static const u8 sSurpriseMsg14[] = _("{STR_VAR_1} camina con cuidado.");
 static const u8 sSurpriseMsg15[] = _("{STR_VAR_1} está en tensión.");
 static const u8 sSurpriseMsg16[] = _("{STR_VAR_1} se ha sorprendido con un\nolor peculiar.");
 static const u8 sSurpriseMsg17[] = _("¡{STR_VAR_1} se ha asustado y se ha\nabrazado a ti!");
-static const u8 sSurpriseMsg18[] = _("{STR_VAR_1} está notando algo\nextraño...");
+static const u8 sSurpriseMsg18[] = _("{STR_VAR_1} está notando algo\nextraño…");
 static const u8 sSurpriseMsg19[] = _("{STR_VAR_1} está en tensión.");
 // Conditional messages, index 20
 static const u8 sSurpriseMsg20[] = _("¡A {STR_VAR_1} parece sorprenderle\nmucho que llueva!");
@@ -246,7 +246,7 @@ const struct FollowerMsgInfo gFollowerSurpriseMessages[] = {
 // Unconditional curious messages
 static const u8 sCuriousMsg00[] = _("Está buscando algo con insistencia.");
 static const u8 sCuriousMsg01[] = _("No estaba mirando y se ha chocado.");
-static const u8 sCuriousMsg02[] = _("Snif... ¿Habrá algo extraño cerca?");
+static const u8 sCuriousMsg02[] = _("Snif… ¿Habrá algo extraño cerca?");
 static const u8 sCuriousMsg03[] = _("{STR_VAR_1} se entretiene haciendo\nrodar guijarros.");
 static const u8 sCuriousMsg04[] = _("{STR_VAR_1} está buscando algo a su\nalrededor frenéticamente.");
 static const u8 sCuriousMsg05[] = _("{STR_VAR_1} te está olfateando.");

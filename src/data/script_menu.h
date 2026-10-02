@@ -147,8 +147,8 @@ static const struct MenuAction MultichoiceList_Mechadoll2_Q3[] =
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q1[] =
 {
-    {COMPOUND_STRING("BURN HEAL")},
-    {COMPOUND_STRING("HARBOR MAIL")},
+    {COMPOUND_STRING("ANTIQUEMAR")},
+    {COMPOUND_STRING("CARTAS PUERTO")},
     {COMPOUND_STRING("Cuestan lo mismo.")},
 };
 
@@ -247,11 +247,11 @@ static const struct MenuAction MultichoiceList_SternDeepSea[] =
 
 static const struct MenuAction MultichoiceList_UnusedAshVendor[] =
 {
-    {COMPOUND_STRING("BLUE FLUTE")},
-    {COMPOUND_STRING("YELLOW FLUTE")},
-    {COMPOUND_STRING("RED FLUTE")},
-    {COMPOUND_STRING("WHITE FLUTE")},
-    {COMPOUND_STRING("BLACK FLUTE")},
+    {COMPOUND_STRING("FLAUTA AZUL")},
+    {COMPOUND_STRING("FL. AMARILLA")},
+    {COMPOUND_STRING("FLAUTA ROJA")},
+    {COMPOUND_STRING("FL. BLANCA")},
+    {COMPOUND_STRING("FLAUTA NEGRA")},
     {COMPOUND_STRING("SILLA CRISTAL")},
     {COMPOUND_STRING("MESA CRISTAL")},
     {gText_Cancel2},
@@ -621,18 +621,18 @@ static const struct MenuAction MultichoiceList_UnusedSSTidal4[] =
 
 static const struct MenuAction MultichoiceList_Fossil[] =
 {
-    {COMPOUND_STRING("CLAW FOSSIL")},
-    {COMPOUND_STRING("ROOT FOSSIL")},
+    {COMPOUND_STRING("FÓSIL GARRA")},
+    {COMPOUND_STRING("FÓSIL RAÍZ")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_FossilHns[] =
 {
-    {COMPOUND_STRING("CLAW FOSSIL")},
-    {COMPOUND_STRING("ROOT FOSSIL")},
-    {COMPOUND_STRING("HELIX FOSSIL")},
-    {COMPOUND_STRING("DOME FOSSIL")},
-    {COMPOUND_STRING("OLD AMBER")},
+    {COMPOUND_STRING("FÓSIL GARRA")},
+    {COMPOUND_STRING("FÓSIL RAÍZ")},
+    {COMPOUND_STRING("FÓSIL HELIX")},
+    {COMPOUND_STRING("FÓSIL DOMO")},
+    {COMPOUND_STRING("ÁMBAR VIEJO")},
     {gText_Exit},
 };
 
@@ -753,8 +753,8 @@ static const struct MenuAction MultichoiceList_GoOnRetire[] =
 
 static const struct MenuAction MultichoiceList_TVLati[] =
 {
-    {COMPOUND_STRING("RED")},
-    {COMPOUND_STRING("BLUE")},
+    {COMPOUND_STRING("ROJO")},
+    {COMPOUND_STRING("AZUL")},
 };
 
 static const struct MenuAction MultichoiceList_BattleTowerFeelings[] =
@@ -967,9 +967,9 @@ static const struct MenuAction sMultichoiceList_CeladonVendingMachine[] = {
     { gText_Exit }
 };
 
-const u8 sText_FreshWater[] = _("FRESH WATER");
-const u8 sText_SodaPop[] = _("SODA POP");
-const u8 sText_Lemonade[] = _("LEMONADE");
+const u8 sText_FreshWater[] = _("AGUA FRESCA");
+const u8 sText_SodaPop[] = _("REFRESCO");
+const u8 sText_Lemonade[] = _("LIMONADA");
 
 static const struct MenuAction sMultichoiceList_ThirstyGirlFreshWater[] = {
     { sText_FreshWater },
@@ -1018,9 +1018,9 @@ static const struct MenuAction sMultichoiceList_RocketHideoutElevator[] = {
     { gText_Exit }
 };
 
-static const u8 sText_HelixFossil[] = _("HELIX FOSSIL");
-static const u8 sText_DomeFossil[] = _("DOME FOSSIL");
-static const u8 sText_OldAmber[] = _("OLD AMBER");
+static const u8 sText_HelixFossil[] = _("FÓSIL HELIX");
+static const u8 sText_DomeFossil[] = _("FÓSIL DOMO");
+static const u8 sText_OldAmber[] = _("ÁMBAR VIEJO");
 
 static const struct MenuAction sMultichoiceList_Helix[] = {
     { sText_HelixFossil },

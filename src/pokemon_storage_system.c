@@ -1073,7 +1073,7 @@ static const struct StorageMessage sMessages[] =
     [MSG_CONTINUE_BOX]         = {COMPOUND_STRING("¿Hacer más cambios?"),   MSG_VAR_NONE},
     [MSG_CAME_BACK]            = {COMPOUND_STRING("{DYNAMIC 0} regresó."),     MSG_VAR_MON_NAME_1},
     [MSG_WORRIED]              = {COMPOUND_STRING("¿Estará preocupado por ti?"),  MSG_VAR_NONE},
-    [MSG_SURPRISE]             = {COMPOUND_STRING("… … … … !"),                  MSG_VAR_NONE},
+    [MSG_SURPRISE]             = {COMPOUND_STRING("¡… … … …!"),                  MSG_VAR_NONE},
     [MSG_PLEASE_REMOVE_MAIL]   = {COMPOUND_STRING("Quita la CARTA."),    MSG_VAR_NONE},
     [MSG_IS_SELECTED2]         = {gText_PkmnIsSelected,                          MSG_VAR_ITEM_NAME},
     [MSG_GIVE_TO_MON]          = {COMPOUND_STRING("¿DAR a qué POKéMON?"),         MSG_VAR_NONE},
@@ -8211,13 +8211,13 @@ static const u8 *const sMenuTexts[] =
 {
     [MENU_CANCEL]     = COMPOUND_STRING("SALIR"),
     [MENU_STORE]      = COMPOUND_STRING("DEJAR"),
-    [MENU_WITHDRAW]   = COMPOUND_STRING("WITHDRAW"),
+    [MENU_WITHDRAW]   = COMPOUND_STRING("SACAR"),
     [MENU_MOVE]       = COMPOUND_STRING("MOVER"),
     [MENU_SHIFT]      = COMPOUND_STRING("CAMBIO"),
     [MENU_PLACE]      = COMPOUND_STRING("COLOCAR"),
     [MENU_SUMMARY]    = COMPOUND_STRING("DATOS"),
     [MENU_RELEASE]    = COMPOUND_STRING("SOLTAR"),
-    [MENU_MARK]       = COMPOUND_STRING("MARK"),
+    [MENU_MARK]       = COMPOUND_STRING("MARCAR"),
     [MENU_JUMP]       = COMPOUND_STRING("SALTAR"),
     [MENU_WALLPAPER]  = COMPOUND_STRING("P. PINTADO"),
     [MENU_NAME]       = COMPOUND_STRING("NOMBRE"),
@@ -8247,7 +8247,7 @@ static const u8 *const sMenuTexts[] =
     [MENU_POLKADOT]   = COMPOUND_STRING("LUNARES"),
     [MENU_POKECENTER] = COMPOUND_STRING("CENTRO POKé"),
     [MENU_MACHINE]    = COMPOUND_STRING("MAQUINARIA"),
-    [MENU_SIMPLE]     = COMPOUND_STRING("SIMPLE"),
+    [MENU_SIMPLE]     = COMPOUND_STRING("SENCILLO"),
     [MENU_SELECT]     = COMPOUND_STRING("ELEGIR"),
 };
 

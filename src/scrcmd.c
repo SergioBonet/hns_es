@@ -1374,8 +1374,8 @@ bool8 ScrCmd_givenamedmon(struct ScriptContext *ctx)
     static const u8 sKenyaNickname[] = _("KENYA");
     static const u8 sKenyaOtName[]   = _("RUDY");
     static const u8 sShuckieNickname[] = _("SHUCKIE");
-    static const u8 sShuckieOtName[]   = _("KIRK");
-    static const u8 sEeveeOtName[]     = _("BILL");
+    static const u8 sShuckieOtName[]   = _("ALEGRO");
+    static const u8 sEeveeOtName[]     = _("BILLI");
 
     static const u16 sKenyaMailWords[MAIL_WORDS_COUNT] = {
         EC_WORD_YUP,

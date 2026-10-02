@@ -206,7 +206,7 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const sMalePresetNames[] = {
-    COMPOUND_STRING("GOLD"),
+    COMPOUND_STRING("ORO"),
 };
 
 static const u8 *const sFemalePresetNames[] = {
@@ -580,7 +580,7 @@ static void Task_NewGameHnsSpeech_SlideInNewGenderSprite(u8 taskId)
 
 static void Task_NewGameHnsSpeech_ChallengeDisclaimer(u8 taskId)
 {
-    static const u8 sText_Disclaimer[] = _("What challenge are you\nexpecting?\p{COLOR RED}The following settings can be changed\nfrom the PC once you start the game.\lHowever, after starting the game, the\lnuzlocke, randomizer, difficulty and\lchallenge settings can only be made\leasier, not harder.");
+    static const u8 sText_Disclaimer[] = _("¿Qué desafío\nquieres afrontar?\p{COLOR RED}Estos ajustes pueden cambiarse en\nel PC una vez empezada la partida.\lPero, tras empezar, los ajustes de\lnuzlocke, aleatorio, dificultad y\ldesafío solo pueden hacerse más\lfáciles, no más difíciles.");
     NewGameHnsSpeech_ClearWindow(0);
     StringCopy(gStringVar4, sText_Disclaimer);
     AddTextPrinterWithCustomSpeedForMessage(FALSE, 2);

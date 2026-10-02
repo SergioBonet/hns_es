@@ -1,397 +1,397 @@
 const struct EasyChatWordInfo gEasyChatGroup_People[] = {
     [EC_INDEX(EC_WORD_OPPONENT)] =
     {
-        .text = COMPOUND_STRING("OPPONENT"),
+        .text = COMPOUND_STRING("ADVERSARIO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ADULT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_I)] =
     {
-        .text = COMPOUND_STRING("I"),
+        .text = COMPOUND_STRING("YO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ALLY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOU)] =
     {
-        .text = COMPOUND_STRING("YOU"),
+        .text = COMPOUND_STRING("TÚ"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_AREN_T),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOURS)] =
     {
-        .text = COMPOUND_STRING("YOURS"),
+        .text = COMPOUND_STRING("NADIE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_AUNT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SON)] =
     {
-        .text = COMPOUND_STRING("SON"),
+        .text = COMPOUND_STRING("HIJO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BABE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOUR)] =
     {
-        .text = COMPOUND_STRING("YOUR"),
+        .text = COMPOUND_STRING("NINGUNO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BEEN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOU_RE)] =
     {
-        .text = COMPOUND_STRING("YOU'RE"),
+        .text = COMPOUND_STRING("BRUJITA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BOY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOU_VE)] =
     {
-        .text = COMPOUND_STRING("YOU'VE"),
+        .text = COMPOUND_STRING("ATLETA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BROTHER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MOTHER)] =
     {
-        .text = COMPOUND_STRING("MOTHER"),
+        .text = COMPOUND_STRING("MADRE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CHILDREN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GRANDFATHER)] =
     {
-        .text = COMPOUND_STRING("GRANDFATHER"),
+        .text = COMPOUND_STRING("ABUELO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DAUGHTER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_UNCLE)] =
     {
-        .text = COMPOUND_STRING("UNCLE"),
+        .text = COMPOUND_STRING("TÍO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DUDE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FATHER)] =
     {
-        .text = COMPOUND_STRING("FATHER"),
+        .text = COMPOUND_STRING("PADRE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FAMILY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BOY)] =
     {
-        .text = COMPOUND_STRING("BOY"),
+        .text = COMPOUND_STRING("NIÑO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FATHER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ADULT)] =
     {
-        .text = COMPOUND_STRING("ADULT"),
+        .text = COMPOUND_STRING("ADULTO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FRIEND),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BROTHER)] =
     {
-        .text = COMPOUND_STRING("BROTHER"),
+        .text = COMPOUND_STRING("HERMANO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GIRL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SISTER)] =
     {
-        .text = COMPOUND_STRING("SISTER"),
+        .text = COMPOUND_STRING("HERMANA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GRANDFATHER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GRANDMOTHER)] =
     {
-        .text = COMPOUND_STRING("GRANDMOTHER"),
+        .text = COMPOUND_STRING("ABUELA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GRANDMOTHER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_AUNT)] =
     {
-        .text = COMPOUND_STRING("AUNT"),
+        .text = COMPOUND_STRING("TÍA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PARENT)] =
     {
-        .text = COMPOUND_STRING("PARENT"),
+        .text = COMPOUND_STRING("PADRES"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HE_S),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MAN)] =
     {
-        .text = COMPOUND_STRING("MAN"),
+        .text = COMPOUND_STRING("HOMBRE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ME)] =
     {
-        .text = COMPOUND_STRING("ME"),
+        .text = COMPOUND_STRING("NINGUNA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HERS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GIRL)] =
     {
-        .text = COMPOUND_STRING("GIRL"),
+        .text = COMPOUND_STRING("NIÑA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HIM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BABE)] =
     {
-        .text = COMPOUND_STRING("BABE"),
+        .text = COMPOUND_STRING("BEBÉ"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HIS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FAMILY)] =
     {
-        .text = COMPOUND_STRING("FAMILY"),
+        .text = COMPOUND_STRING("FAMILIA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_I),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HER)] =
     {
-        .text = COMPOUND_STRING("HER"),
+        .text = COMPOUND_STRING("PRIMO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_I_AM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HIM)] =
     {
-        .text = COMPOUND_STRING("HIM"),
+        .text = COMPOUND_STRING("PRIMA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_I_WAS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HE)] =
     {
-        .text = COMPOUND_STRING("HE"),
+        .text = COMPOUND_STRING("ÉL"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_I_VE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PLACE)] =
     {
-        .text = COMPOUND_STRING("PLACE"),
+        .text = COMPOUND_STRING("SOBRINO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_IT_S),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DAUGHTER)] =
     {
-        .text = COMPOUND_STRING("DAUGHTER"),
+        .text = COMPOUND_STRING("HIJA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_KID),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HIS)] =
     {
-        .text = COMPOUND_STRING("HIS"),
+        .text = COMPOUND_STRING("SOBRINA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LADY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HE_S)] =
     {
-        .text = COMPOUND_STRING("HE'S"),
+        .text = COMPOUND_STRING("ENTRENADORES"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MAN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_AREN_T)] =
     {
-        .text = COMPOUND_STRING("AREN'T"),
+        .text = COMPOUND_STRING("CHICA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ME),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SIBLINGS)] =
     {
-        .text = COMPOUND_STRING("SIBLINGS"),
+        .text = COMPOUND_STRING("HERMANOS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MOTHER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_KID)] =
     {
-        .text = COMPOUND_STRING("KID"),
+        .text = COMPOUND_STRING("CHAVAL"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CHILDREN)] =
     {
-        .text = COMPOUND_STRING("CHILDREN"),
+        .text = COMPOUND_STRING("NIÑOS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MRS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MR)] =
     {
-        .text = COMPOUND_STRING("MR."),
+        .text = COMPOUND_STRING("SR."),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MRS)] =
     {
-        .text = COMPOUND_STRING("MRS."),
+        .text = COMPOUND_STRING("SRA."),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MYSELF),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MYSELF)] =
     {
-        .text = COMPOUND_STRING("MYSELF"),
+        .text = COMPOUND_STRING("YO MISMO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OPPONENT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_I_WAS)] =
     {
-        .text = COMPOUND_STRING("I WAS"),
+        .text = COMPOUND_STRING("YO MISMA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OUR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TO_ME)] =
     {
-        .text = COMPOUND_STRING("TO ME"),
+        .text = COMPOUND_STRING("NIETO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PARENT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MY)] =
     {
-        .text = COMPOUND_STRING("MY"),
+        .text = COMPOUND_STRING("NIETA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PERSON),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_I_AM)] =
     {
-        .text = COMPOUND_STRING("I AM"),
+        .text = COMPOUND_STRING("COLEGAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PLACE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_I_VE)] =
     {
-        .text = COMPOUND_STRING("I'VE"),
+        .text = COMPOUND_STRING("POKéFAN"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_RIVAL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WHO)] =
     {
-        .text = COMPOUND_STRING("WHO"),
+        .text = COMPOUND_STRING("QUIÉN"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SOMEONE)] =
     {
-        .text = COMPOUND_STRING("SOMEONE"),
+        .text = COMPOUND_STRING("ALGUIEN"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHE_IS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WHO_WAS)] =
     {
-        .text = COMPOUND_STRING("WHO WAS"),
+        .text = COMPOUND_STRING("AMIGA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHE_WAS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TO_WHOM)] =
     {
-        .text = COMPOUND_STRING("TO WHOM"),
+        .text = COMPOUND_STRING("NOVIO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SIBLINGS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WHOSE)] =
     {
-        .text = COMPOUND_STRING("WHOSE"),
+        .text = COMPOUND_STRING("NOVIA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SISTER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WHO_IS)] =
     {
-        .text = COMPOUND_STRING("WHO IS"),
+        .text = COMPOUND_STRING("COMPAÑERO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SOME),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_IT_S)] =
     {
-        .text = COMPOUND_STRING("IT'S"),
+        .text = COMPOUND_STRING("COMPAÑERA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SOMEONE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LADY)] =
     {
-        .text = COMPOUND_STRING("LADY"),
+        .text = COMPOUND_STRING("SRTA."),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SON),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FRIEND)] =
     {
-        .text = COMPOUND_STRING("FRIEND"),
+        .text = COMPOUND_STRING("AMIGO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THEIR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ALLY)] =
     {
-        .text = COMPOUND_STRING("ALLY"),
+        .text = COMPOUND_STRING("ALIADO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THEY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PERSON)] =
     {
-        .text = COMPOUND_STRING("PERSON"),
+        .text = COMPOUND_STRING("PERSONA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THEY_WERE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DUDE)] =
     {
-        .text = COMPOUND_STRING("DUDE"),
+        .text = COMPOUND_STRING("ALIADA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THEY_RE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THEY)] =
     {
-        .text = COMPOUND_STRING("THEY"),
+        .text = COMPOUND_STRING("ELLOS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THEY_VE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THEY_WERE)] =
     {
-        .text = COMPOUND_STRING("THEY WERE"),
+        .text = COMPOUND_STRING("ELLAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TO_HER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TO_THEM)] =
     {
-        .text = COMPOUND_STRING("TO THEM"),
+        .text = COMPOUND_STRING("TODOS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TO_ME),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THEIR)] =
     {
-        .text = COMPOUND_STRING("THEIR"),
+        .text = COMPOUND_STRING("TODAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TO_THEM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THEY_RE)] =
     {
-        .text = COMPOUND_STRING("THEY'RE"),
+        .text = COMPOUND_STRING("COMPI"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TO_US),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THEY_VE)] =
     {
-        .text = COMPOUND_STRING("THEY'VE"),
+        .text = COMPOUND_STRING("NOSOTRAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TO_WHOM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WE)] =
     {
-        .text = COMPOUND_STRING("WE"),
+        .text = COMPOUND_STRING("NOSOTROS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_UNCLE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BEEN)] =
     {
-        .text = COMPOUND_STRING("BEEN"),
+        .text = COMPOUND_STRING("VOSOTROS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TO_US)] =
     {
-        .text = COMPOUND_STRING("TO US"),
+        .text = COMPOUND_STRING("VOSOTRAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WE_RE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_OUR)] =
     {
-        .text = COMPOUND_STRING("OUR"),
+        .text = COMPOUND_STRING("MAESTRO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WE_VE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WE_RE)] =
     {
-        .text = COMPOUND_STRING("WE'RE"),
+        .text = COMPOUND_STRING("MAESTRA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WHO),
         .enabled = TRUE,
     },
@@ -403,49 +403,49 @@ const struct EasyChatWordInfo gEasyChatGroup_People[] = {
     },
     [EC_INDEX(EC_WORD_WE_VE)] =
     {
-        .text = COMPOUND_STRING("WE'VE"),
+        .text = COMPOUND_STRING("COLEGIAL"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WHO_WAS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WOMAN)] =
     {
-        .text = COMPOUND_STRING("WOMAN"),
+        .text = COMPOUND_STRING("MUJER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WHOSE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHE)] =
     {
-        .text = COMPOUND_STRING("SHE"),
+        .text = COMPOUND_STRING("ELLA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WOMAN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHE_WAS)] =
     {
-        .text = COMPOUND_STRING("SHE WAS"),
+        .text = COMPOUND_STRING("COLEGIALA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YOU),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TO_HER)] =
     {
-        .text = COMPOUND_STRING("TO HER"),
+        .text = COMPOUND_STRING("ALGUNO"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YOU_RE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HERS)] =
     {
-        .text = COMPOUND_STRING("HERS"),
+        .text = COMPOUND_STRING("ALGUNA"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YOU_VE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHE_IS)] =
     {
-        .text = COMPOUND_STRING("SHE IS"),
+        .text = COMPOUND_STRING("ALGUNAS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YOUR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SOME)] =
     {
-        .text = COMPOUND_STRING("SOME"),
+        .text = COMPOUND_STRING("ALGUNOS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YOURS),
         .enabled = TRUE,
     },

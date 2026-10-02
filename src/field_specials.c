@@ -183,7 +183,7 @@ static const u8 sText_SpaceSeconds[] = _(" segundos");
 static const u8 sText_SpaceTimes[] = _(" vez/veces");
 
 static const u8 sText_Wallace[] = _("PLUBIO");
-static const u8 sText_Steven[] = _("STEVEN");
+static const u8 sText_Steven[] = _("MÁXIMO");
 static const u8 sText_Brawly[] = _("MARCIAL");
 static const u8 sText_Winona[] = _("ALANA");
 static const u8 sText_Phoebe[] = _("FÁTIMA");
@@ -2555,11 +2555,11 @@ static const u8 *const sScrollableMultichoiceOptions[][MAX_SCROLL_MULTI_LENGTH] 
     },
     [SCROLL_MULTI_GLASS_WORKSHOP_VENDOR] =
     {
-        COMPOUND_STRING("BLUE FLUTE"),
-        COMPOUND_STRING("YELLOW FLUTE"),
-        COMPOUND_STRING("RED FLUTE"),
-        COMPOUND_STRING("WHITE FLUTE"),
-        COMPOUND_STRING("BLACK FLUTE"),
+        COMPOUND_STRING("FLAUTA AZUL"),
+        COMPOUND_STRING("FL. AMARILLA"),
+        COMPOUND_STRING("FLAUTA ROJA"),
+        COMPOUND_STRING("FL. BLANCA"),
+        COMPOUND_STRING("FLAUTA NEGRA"),
         COMPOUND_STRING("SILLA BONITA"),
         COMPOUND_STRING("MESA BONITA"),
         gText_Exit

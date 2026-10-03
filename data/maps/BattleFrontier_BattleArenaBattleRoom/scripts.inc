@@ -502,16 +502,15 @@ BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
 	.string "REFEREE: The winner is {STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "Tus POKéMON recuperarán su forma.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Next up, your second opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "¡Ahora, tu segundo rival!\n"
+	.string "¿Quieres continuar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "¡Ahora, tu tercer rival!\n"
+	.string "¿Quieres continuar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
 	.string "Next up, your fourth opponent!\n"
@@ -530,12 +529,12 @@ BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
 	.string "Are you ready to move on?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "¿Quieres guardar la partida\n"
+	.string "y dejar de jugar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Set KO Tourney challenge?$"
+	.string "¿Deseas abandonar el desafío\n"
+	.string "del TORNEO con JUEZ?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
 	.string "I am saving your game data.\n"

@@ -1885,9 +1885,10 @@ static void DrawMonTextEntryBox(void)
 {
     u8 buffer[64];
 
-    u8 *end = StringCopy(buffer, GetSpeciesName(sNamingScreen->monSpecies));
-    WrapFontIdToFit(buffer, end, FONT_NORMAL, 128 - 64);
-    StringAppendN(end, sNamingScreen->template->title, 15);
+    // castellano: «¿Mote de » + especie + «?» (en inglés el título iba detrás de la especie)
+    StringCopy(buffer, sNamingScreen->template->title);
+    StringAppend(buffer, GetSpeciesName(sNamingScreen->monSpecies));
+    StringAppend(buffer, COMPOUND_STRING("?"));
     FillWindowPixelBuffer(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], PIXEL_FILL(1));
     AddTextPrinterParameterized(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], FONT_NORMAL, buffer, 8, 1, 0, 0);
     PutWindowTilemap(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX]);
@@ -2304,7 +2305,7 @@ static const struct NamingScreenTemplate sMonNamingScreenTemplate =
     .addGenderIcon = TRUE,
     .initialPage = KBPAGE_LETTERS_UPPER,
     .unused = 35,
-    .title = COMPOUND_STRING("¿Mote de {STR_VAR_1}?"),
+    .title = COMPOUND_STRING("¿Mote de "),
 };
 
 static const struct NamingScreenTemplate sWaldaWordsScreenTemplate =

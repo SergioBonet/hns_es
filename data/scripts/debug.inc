@@ -278,7 +278,7 @@ Debug_EventScript_LanceMultiWin::
 	end
 
 Debug_Text_ArianaDefeat:
-	.string "You haven't seen the last of me!$"
+	.string "¡No has visto lo último de mí!$"
 
 Debug_Text_Grunt23Defeat:
 	.string "I won't accept this!$"

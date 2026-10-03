@@ -1481,13 +1481,15 @@ gText_SelectWithoutRegisteredHoldItem::
 	.string "to holding SELECT for easy use.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
-	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
-	.string "… … … … … …$"
+	.string "Tienes un correo electrónico de la\n"
+	.string "ESCUELA de ENTRENADORES POKéMON.\p"
+	.string "A ver…\p"
+	.string "“Un POKéMON puede aprender\n"
+	.string "hasta cuatro movimientos.\p"
+	.string "La habilidad de un ENTRENADOR\n"
+	.string "se aprecia por la combinación\l"
+	.string "de movimientos de sus POKéMON.”\p"
+	.string "Qué interesante…$"
 
 gText_PlayerHouseBootPC::
 	.string "{PLAYER} booted up the PC.$"
@@ -1565,13 +1567,13 @@ gText_ComeBackWithSecretPower::
 	.string "you good stuff in secrecy.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "Es posible que algún POKéMON esté\n"
+	.string "infectado por el POKéRUS.\p"
+	.string "No se sabe gran cosa del POKéRUS, salvo\n"
+	.string "que son formas de vida microscópicas\l"
+	.string "que infectan a los POKéMON.\p"
+	.string "Al parecer, los POKéMON infectados\n"
+	.string "mejoran de una forma extraordinaria.$"
 
 	.include "data/text/surf.inc"
 
@@ -1583,9 +1585,9 @@ gText_BigHoleInTheWall::
 	.string "There is a big hole in the wall.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Lo siento, pero el CLUB\n"
+	.string "INALÁMBRICO POKéMON no está\l"
+	.string "disponible todavía.$"
 
 gText_UndergoingAdjustments::
 	.string "It appears to be undergoing\n"
@@ -1618,9 +1620,9 @@ gText_PlayerFoundTMHMs::
 	.string "{STR_VAR_2}!$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+	.string "¡Al árbol extraño no le gusta\n"
+	.string "el CUBO WAILMER!\p"
+	.string "¡El árbol extraño atacó!$"
 
 gText_LegendaryFlewAway::
 	.string "The {STR_VAR_1} flew away!$"

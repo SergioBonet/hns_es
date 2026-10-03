@@ -453,22 +453,21 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Primero, vamos a guardar tus POKéMON.\p"
+	.string "Ahora, podrás elegir tres POKéMON\n"
+	.string "de nuestra selección.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "¡Gracias por poner tanto esfuerzo!\n"
+	.string "¡Devolvamos la forma a tus POKéMON!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "¡Ahora, el 2.º combate!\n"
+	.string "¿De acuerdo?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "¡El siguiente es el tercer combate!\n"
+	.string "¿Estás listo?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
 	.string "The 4th match is next!\n"
@@ -487,12 +486,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
 	.string "Are you ready?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "¿Quieres guardar la partida\n"
+	.string "y dejar de jugar?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "¿Quieres retirarte de este desafío\n"
+	.string "de COMBATE con TRUEQUE?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
 	.string "I've conducted a little investigation\n"
@@ -611,12 +610,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
 	.string "be free-spirited and unrestrained.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Antes de seguir, ¿quieres cambiar\n"
+	.string "alguno de tus POKéMON?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "¡Gracias!\n"
+	.string "¡El trueque de POKéMON ha terminado!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
 	.string "Right this way, please!$"

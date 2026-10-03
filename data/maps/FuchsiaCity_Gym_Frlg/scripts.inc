@@ -220,18 +220,18 @@ FuchsiaCity_Gym_Text_ShawnPostBattle::
 	.string "Which do you choose?$"
 
 FuchsiaCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "FUCHSIA GYM is a tricked-up place.\n"
-	.string "It's riddled with invisible walls!\p"
-	.string "KOGA might appear close, but he's\n"
-	.string "blocked off.\p"
-	.string "You have to find gaps in the walls\n"
-	.string "to reach him.$"
+	.string "¡Eh! ¡Futuro CAMPEÓN!\p"
+	.string "El GIMNASIO de CIUDAD FUCSIA está\n"
+	.string "lleno de trampas. ¡Está plagado de\l"
+	.string "paredes invisibles!\p"
+	.string "KOGA parece estar cerca, pero hay una\n"
+	.string "pared que lo separa de ti.\p"
+	.string "Tienes que encontrar los huecos entre\n"
+	.string "las paredes para llegar hasta él.$"
 
 FuchsiaCity_Gym_Text_GymGuyPostVictory::
-	.string "It's amazing how ninja can terrify,\n"
-	.string "even now!$"
+	.string "¡Es increíble lo mucho que sigue\n"
+	.string "asustando el ninja, incluso ahora!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
 	.string "FUCHSIA POKéMON GYM\n"

@@ -156,7 +156,7 @@ static const u8 sText_Stats_Gender_87_5[] = _("♀ 7/1 ♂");
 static const u8 sText_Stats_Gender_100[] = _("♀");
 static const u8 sText_Stats_CatchRate[] = _("CAPT.{0x5B}: ");
 static const u8 sText_Stats_CatchRate_Legend[] = _("LEGENDARIO");
-static const u8 sText_Stats_CatchRate_VeryHard[] = _("MUY DIFÍCIL");
+static const u8 sText_Stats_CatchRate_VeryHard[] = _("MUY DIF.");
 static const u8 sText_Stats_CatchRate_Difficult[] = _("DIFÍCIL");
 static const u8 sText_Stats_CatchRate_Medium[] = _("MEDIO");
 static const u8 sText_Stats_CatchRate_Relaxed[] = _("SUAVE");
@@ -4496,6 +4496,14 @@ static void PrintStatsScreenTextSmall(u8 windowId, const u8* str, u8 left, u8 to
 
     AddTextPrinterParameterized4(windowId, 0, left, top, 0, 0, color, 0, str);
 }
+// Si el texto no cabe en maxWidth px con la fuente pequeña, usa la más estrecha (castellano ocupa más)
+static void PrintStatsScreenTextSmallFit(u8 windowId, const u8* str, u8 left, u8 top, u32 maxWidth)
+{
+    if (GetStringWidth(0, str, 0) > maxWidth)
+        PrintStatsScreenTextSmallNarrower(windowId, str, left, top);
+    else
+        PrintStatsScreenTextSmall(windowId, str, left, top);
+}
 static void PrintStatsScreenTextSmallWhite(u8 windowId, const u8* str, u8 left, u8 top)
 {
     u8 color[3];
@@ -5393,12 +5401,12 @@ static void PrintStatsScreen_Moves_Description(u8 taskId)
     if (gTasks[taskId].data[5] == 0)
     {
         StringCopy(gStringVar4, GetMoveDescription(move));
-        PrintStatsScreenTextSmall(WIN_STATS_MOVES_DESCRIPTION, gStringVar4, moves_x, moves_y);
+        PrintStatsScreenTextSmallFit(WIN_STATS_MOVES_DESCRIPTION, gStringVar4, moves_x, moves_y, 137);
     }
     else
     {
         StringCopy(gStringVar4, gContestEffects[GetMoveContestEffect(move)].description);
-        PrintStatsScreenTextSmall(WIN_STATS_MOVES_DESCRIPTION, gStringVar4, moves_x, moves_y);
+        PrintStatsScreenTextSmallFit(WIN_STATS_MOVES_DESCRIPTION, gStringVar4, moves_x, moves_y, 137);
     }
 }
 

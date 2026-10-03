@@ -76,7 +76,8 @@ BerryTree_Text_Hns_BagFull:
 	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_Hns_Sprouted:
-	.string "The berry tree suddenly sprouted!$"
+	.string "¡El árbol de BAYAS ha brotado\n"
+	.string "de repente!$"
 
 #else
 
@@ -394,36 +395,38 @@ BerryTree_Text_CareAdverbGood:
 	.string "prettily$"
 
 BerryTree_Text_WantToPick:
-	.string "You found {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Do you want to pick the\n"
-	.string "{STR_VAR_1}?$"
+	.string "¡Has encontrado {STR_VAR_2}\n"
+	.string "{STR_VAR_1}!\p"
+	.string "¿Quieres recoger la {STR_VAR_1}?$"
 
 BerryTree_Text_PickedTheBerry:
 	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "in the BAG's BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.string "{PLAYER} guardó {STR_VAR_1}\n"
+	.string "en el BOLSILLO de BAYAS de la\l"
+	.string "MOCHILA.\p"
+	.string "El suelo ha vuelto a quedar blando\n"
+	.string "y fértil.$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} couldn't be taken.$"
+	.string "El BOLSILLO de BAYAS de la\n"
+	.string "MOCHILA está lleno.\p"
+	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_BerryLeftUnpicked:
 	.string "{PLAYER} left the {STR_VAR_1}\n"
 	.string "unpicked.$"
 
 BerryTree_Text_WantToWater:
-	.string "Want to water the {STR_VAR_1} with the\n"
-	.string "WAILMER PAIL?$"
+	.string "¿Quieres regar la planta de {STR_VAR_1}\n"
+	.string "con el CUBO WAILMER?$"
 
 BerryTree_Text_WateredTheBerry:
 	.string "{PLAYER} watered the {STR_VAR_1}.$"
 
 BerryTree_Text_PlantIsDelighted:
-	.string "The plant seems to be delighted.$"
+	.string "Parece sentarle muy bien a la planta.$"
 
 BerryTree_Text_ExclamationPoint:
 	.string "!$"
@@ -463,29 +466,30 @@ BerryTree_EventScript_PickBerry_Mutation::
 	end
 
 BerryTree_Text_WantToPick_Mutation:
-	.string "You found {STR_VAR_2} {STR_VAR_1}\n"
-	.string "and 1 {STR_VAR_3}!\p"
-	.string "Do you want to pick them?$"
+	.string "¡Has encontrado {STR_VAR_2}\n"
+	.string "{STR_VAR_1} y 1 {STR_VAR_3}!\p"
+	.string "¿Quieres recogerlas?$"
 
 BerryTree_Text_BerryLeftUnpicked_Mutation:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3} unpicked.$"
+	.string "{PLAYER} no recogió {STR_VAR_1}\n"
+	.string "ni {STR_VAR_3}.$"
 
 BerryTree_Text_BerryPocketFull_Mutation:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} and the\n"
-	.string "{STR_VAR_3} couldn't be taken.$"
+	.string "El BOLSILLO de BAYAS de la\n"
+	.string "MOCHILA está lleno.\p"
+	.string "No se han podido coger {STR_VAR_1}\n"
+	.string "ni {STR_VAR_3}.$"
 
 BerryTree_Text_PickedTheBerry_Mutation:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3}.$"
+	.string "{PLAYER} recogió {STR_VAR_2}\n"
+	.string "{STR_VAR_1} y {STR_VAR_3}.$"
 
 BerryTree_Text_PutAwayBerry_Mutation:
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3} in the BAG's\l"
-	.string "BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.string "{PLAYER} guardó {STR_VAR_1}\n"
+	.string "y {STR_VAR_3} en el BOLSILLO de\l"
+	.string "BAYAS de la MOCHILA.\p"
+	.string "El suelo ha vuelto a quedar blando\n"
+	.string "y fértil.$"
 .endif
 
 .if OW_BERRY_MULCH_USAGE == TRUE
@@ -524,8 +528,8 @@ BerryTree_EventScript_PullOutWeed::
 	return
 
 BerryTree_Text_WeedIsGrowing:
-	.string "A weed is growing here.\n"
-	.string "Do you want to pull it out?$"
+	.string "Aquí está creciendo una mala hierba.\n"
+	.string "¿Quieres arrancarla?$"
 
 BerryTree_Text_PulledOutTheWeed:
 	.string "{PLAYER} pulled out the weed!$"

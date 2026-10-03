@@ -4467,7 +4467,6 @@ static u8* ConvertMonWeightToMetricString(u32 weight)
 
     weightString[index++] = CHAR_k;
     weightString[index++] = CHAR_g;
-    weightString[index++] = CHAR_PERIOD;
     weightString[index++] = EOS;
     return weightString;
 }

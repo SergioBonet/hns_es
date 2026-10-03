@@ -511,7 +511,7 @@ BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
 	.string "The Battle Swap rules are listed.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "¿Qué capítulo quieres leer?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
 	.string "In a Battle Swap event, you may use\n"

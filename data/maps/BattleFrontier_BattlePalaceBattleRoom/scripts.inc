@@ -445,12 +445,12 @@ BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
 	.string "Let me restore your POKéMON.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Tu 2.º rival espera.\n"
+	.string "¿Continuamos?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "El tercer rival es el siguiente.\n"
+	.string "¿Estás preparado?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
 	.string "The 4th opponent is next.\n"
@@ -469,11 +469,11 @@ BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
 	.string "Are you prepared?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "¿Quieres guardar la partida\n"
+	.string "y dejar de jugar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+	.string "¿Deseas retirarte del desafío?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
 	.string "Saving the data.\n"

@@ -480,24 +480,24 @@ BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak:
 	.string "we present you with Battle Point(s).$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize:
-	.string "You seem to have no space for\n"
-	.string "our prize.\p"
-	.string "You should return when you have\n"
-	.string "organized your BAG.$"
+	.string "Lástima, parece que no tienes sitio\n"
+	.string "para guardar nuestro premio.\p"
+	.string "No te olvides de volver cuando\n"
+	.string "tengas sitio en la MOCHILA.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting:
-	.string "We have been waiting for you…$"
+	.string "Te estábamos esperando…$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE HALL. Is that okay?$"
+	.string "Antes de participar en el COMBATE sin\n"
+	.string "TUTELA, debes guardar la partida…$"
 
 BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge:
-	.string "Sigh…\p"
-	.string "You failed to save before you ended\n"
-	.string "your challenge the last time.\p"
-	.string "As a result, your challenge has been\n"
-	.string "disqualified. It is most unfortunate.$"
+	.string "Lo lamento…\p"
+	.string "No debiste de guardar la partida antes\n"
+	.string "de abandonar el desafío…\p"
+	.string "Me temo que, por tanto, se te ha\n"
+	.string "descalificado…$"
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_ReceivedPrize:
@@ -600,55 +600,55 @@ BattleFrontier_BattlePalaceLobby_Text_RulesAreListed:
 	.string "The BATTLE HALL rules are listed.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "¿Qué capítulo quieres leer?$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics:
-	.string "Here, POKéMON are required to think\n"
-	.string "and battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.string "Aquí, los POKéMON deberán pensar\n"
+	.string "y combatir por sí mismos.\p"
+	.string "A diferencia de los POKéMON salvajes,\n"
+	.string "los que viven con gente se comportan\l"
+	.string "de manera distinta según su naturaleza.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature:
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Due to its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "Según su naturaleza, un POKéMON puede\n"
+	.string "atacar sin medir las consecuencias.\p"
+	.string "Mientras que otro preferirá protegerse\n"
+	.string "en lugar de atacar.\p"
+	.string "Y otro puede que prefiera irritar\n"
+	.string "o confundir a sus oponentes.\p"
+	.string "Según su naturaleza, cada POKéMON\n"
+	.string "tendrá unos movimientos preferidos,\l"
+	.string "que sabrá usar muy bien.\p"
+	.string "Igualmente, puede que deteste ciertos\n"
+	.string "movimientos que le resultan difíciles.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves:
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+	.string "Existen movimientos ofensivos que\n"
+	.string "infligen un daño directo al enemigo.\p"
+	.string "Hay movimientos defensivos que sirven\n"
+	.string "para prepararse ante ataques enemigos,\l"
+	.string "curar PS, etc.\p"
+	.string "Existen también otros movimientos\n"
+	.string "que pueden alterar el estado del rival\l"
+	.string "con envenenamiento, parálisis, etc.\p"
+	.string "Los POKéMON usarán movimientos\n"
+	.string "de una de estas tres categorías.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.string "Cuando no está bajo el control de su\n"
+	.string "ENTRENADOR, un POKéMON puede ser\l"
+	.string "incapaz de usar ciertos movimientos.\p"
+	.string "A los POKéMON no les gusta usar\n"
+	.string "movimientos impropios de su naturaleza.\p"
+	.string "Si un POKéMON sólo conoce movimientos\n"
+	.string "ajenos a su naturaleza, es probable que\l"
+	.string "nunca llegue a demostrar su valía.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger:
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.string "Cuando un POKéMON está en peligro,\n"
+	.string "es posible que decida usar movimientos\l"
+	.string "que sean ajenos a su naturaleza.\p"
+	.string "Si un POKéMON comienza a comportarse\n"
+	.string "de modo extraño en un momento de apuro,\l"
+	.string "no lo pierdas de vista.$"
 

@@ -92,22 +92,22 @@ LilycoveCity_CoveLilyMotel_2F_EventScript_MetScott::
 	end
 
 LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex:
-	.string "I'm the GAME DESIGNER.\p"
-	.string "Oh, is that right?\n"
-	.string "You're working on a POKéDEX?\p"
-	.string "It's tough trying to complete it,\n"
-	.string "but don't give up.\p"
-	.string "If you do complete it, please come\n"
-	.string "show me.$"
+	.string "Yo soy el DISEÑADOR del JUEGO.\p"
+	.string "¿Ah, sí? ¿Estás trabajando\n"
+	.string "en una POKéDEX?\p"
+	.string "Cuesta trabajo completarla,\n"
+	.string "pero tú no desistas.\p"
+	.string "Y, cuando esté completa,\n"
+	.string "ven a verme.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis:
-	.string "Wow! That's awesome!\n"
-	.string "Yep, it's totally awesome!\p"
-	.string "This POKéDEX is completely filled!\n"
-	.string "You really must love POKéMON!\p"
-	.string "I'm so impressed!\p"
-	.string "Let me give you something in\n"
-	.string "recognition of your feat!$"
+	.string "¡Guau! ¡Impresionante!\n"
+	.string "¡Impresionantemente impresionante!\p"
+	.string "¡Tu POKéDEX está llena del todo!\n"
+	.string "¡Deben de encantarte los POKéMON!\p"
+	.string "Estoy impresionado.\p"
+	.string "Semejante proeza se merece\n"
+	.string "un reconocimiento en condiciones.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer:
 	.string "Me? You're talking to me?\n"

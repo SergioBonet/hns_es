@@ -160,8 +160,8 @@ CeladonCity_Text_MansionSign::
 	.string "CELADON MANSION$"
 
 CeladonCity_Text_DeptStoreSign::
-	.string "Find what you need at the\n"
-	.string "CELADON DEPT. STORE!$"
+	.string "¡Compra lo que necesites en el Centro\n"
+	.string "Comercial Azulona!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
 	.string "TRAINER TIPS\p"

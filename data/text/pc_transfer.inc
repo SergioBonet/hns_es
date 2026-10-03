@@ -5,14 +5,14 @@ gText_PkmnTransferredSomeonesPC::
 	.string "“{STR_VAR_1}”.$"
 
 gText_PkmnTransferredLanettesPC::
-	.string "{STR_VAR_2} was transferred to\n"
+	.string "{STR_VAR_2} fue enviado al PC\n"
 #if IS_FRLG || IS_HNS
-	.string "BILL'S PC.\p"
+	.string "de BILL.\p"
 #else
-	.string "LANETTE'S PC.\p"
+	.string "de LANETTE.\p"
 #endif
-	.string "It was placed in \n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "Se ha guardado en la CAJA\n"
+	.string "“{STR_VAR_1}”.$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "La CAJA “{STR_VAR_3}” del PC\n"
@@ -21,14 +21,14 @@ gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "“{STR_VAR_1}”.$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” on\n"
+	.string "La CAJA “{STR_VAR_3}” del PC\n"
 #if IS_FRLG || IS_HNS
-	.string "BILL'S PC was full.\p"
+	.string "de BILL estaba llena.\p"
 #else
-	.string "LANETTE'S PC was full.\p"
+	.string "de LANETTE estaba llena.\p"
 #endif
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "{STR_VAR_2} fue enviado a la CAJA\n"
+	.string "“{STR_VAR_1}”.$"
 
 gText_PkmnSentToPCAfterCatch::
 	.string "{STR_VAR_2} ha sido enviado al PC de\n"

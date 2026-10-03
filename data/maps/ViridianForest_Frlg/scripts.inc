@@ -91,8 +91,8 @@ ViridianForest_Text_DougDefeat::
 	.string "I ran out of POKéMON!$"
 
 ViridianForest_Text_DougPostBattle::
-	.string "That totally stinks! I'm going to\n"
-	.string "catch some stronger ones!$"
+	.string "¡Qué rabia! ¡Voy a atrapar\n"
+	.string "algunos más fuertes!$"
 
 ViridianForest_Text_SammyIntro::
 	.string "Hey, wait up!\n"

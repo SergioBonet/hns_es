@@ -257,10 +257,10 @@ Route104_Text_GinaPostBattle:
 	.string "We have to train lots more!$"
 
 Route104_Text_GinaNotEnoughMons:
-	.string "GINA: Oh? Only one POKéMON?\n"
-	.string "Then, we don't battle with you.\p"
-	.string "If there's only one POKéMON, it will\n"
-	.string "be lonesome. That's not nice.$"
+	.string "GINA: ¿Cómo? ¿Sólo tienes un POKéMON?\n"
+	.string "Entonces no luchamos contra ti.\p"
+	.string "Combatir con un solo POKéMON\n"
+	.string "es de lo más aburrido. No mola.$"
 
 Route104_Text_MiaIntro:
 	.string "MIA: We are twins, so we battle\n"

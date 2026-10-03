@@ -187,7 +187,7 @@ static const u8 *const sHiDoSomethingTexts[][GENDER_COUNT] = {
 
 ALIGNED(4) static const u8 sText_DoSomethingMale[] = _("Want to do something?");
 ALIGNED(4) static const u8 sText_DoSomethingFemale[] = _("¿Te apetece hacer algo?");
-ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: What would you like to\ndo now?");
+ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: ¿Qué te apetece\nhacer ahora?");
 ALIGNED(4) static const u8 sText_DoSomethingAgainFemale[] = _("{STR_VAR_1}: Want to do anything else?"); // Unused
 
 // Unused

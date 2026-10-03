@@ -209,16 +209,16 @@ Route121_SafariZoneEntrance_Text_PCIsFull:
 	.string "de tu PC están llenas.$"
 
 Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
-	.string "Excuse me!\n"
-	.string "You seem to be without a {POKEBLOCK} CASE.\p"
-	.string "Your SAFARI Game will be much more\n"
-	.string "fruitful if you use {POKEBLOCK}S.\p"
-	.string "Please come back with a {POKEBLOCK} CASE.\p"
-	.string "You may obtain a {POKEBLOCK} CASE from\n"
+	.string "Disculpa.\n"
+	.string "Parece que no tienes un {POKEBLOCK} CASE.\p"
+	.string "Tu juego SAFARI será mucho más\n"
+	.string "fructífero si usas {POKEBLOCK}S.\p"
+	.string "Vuelve con un {POKEBLOCK} CASE.\p"
+	.string "Puedes conseguir un {POKEBLOCK} CASE de\n"
 #if IS_HNS
-	.string "that boy over there.$"
+	.string "ese chico de ahí.$"
 #else
-	.string "the LILYCOVE CONTEST HALL.$"
+	.string "la SALA DE CONCURSOS de LILYCOVE.$"
 #endif
 
 SafariZone_South_Text_StillHaveTimeExit:

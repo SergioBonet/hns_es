@@ -802,12 +802,13 @@ LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
 	.string "POKéMON next…$"
 
 LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine:
-	.string "It's a serious-looking machine.\n"
-	.string "The PROF must use this for research.$"
+	.string "Es una máquina impresionante.\n"
+	.string "El PROFESOR debe de usarla para\l"
+	.string "avanzar en su investigación.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
-	.string "It's a PC used for research.\n"
-	.string "Better not mess around with it.$"
+	.string "Es un PC que usan los científicos.\n"
+	.string "Mejor no trasteo mucho por aquí…$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon:
 	.string "It's crammed with books on POKéMON.$"

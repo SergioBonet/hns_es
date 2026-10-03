@@ -432,8 +432,8 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "We will restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Vamos a devolver la forma\n"
+	.string "a esos POKéMON.$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
@@ -473,20 +473,20 @@ BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
 	.string "on the FRONTIER PASS.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "¿Quieres guardar la partida\n"
+	.string "y dejar de jugar?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
 	.string "Saving your battle data.\n"
 	.string "Please wait.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "¿Quieres cancelar tu desafío\n"
+	.string "de la TORRE BATALLA?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Ha habido algún tipo de error.\n"
+	.string "No se ha podido guardar la grabación.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
 	.string "Excuse me, but…\p"

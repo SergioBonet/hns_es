@@ -334,9 +334,9 @@ PlayersHouse_1F_Text_DidYouMeetProfBirch:
 	.string "PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "MAMÁ: ¿Cómo estás, {PLAYER}?\n"
+	.string "No pareces muy en forma.\p"
+	.string "Creo que deberías descansar un poco.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
 	.string "MOM: Take care, honey!$"

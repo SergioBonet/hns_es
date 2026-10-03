@@ -49,7 +49,7 @@ MoveRelearner_Text_TutorMoveLWR::
 	.string "movimiento de tutor$"
 
 MoveRelearner_Text_MoveLWR::
-	.string "MOVER$"
+	.string "movimiento$"
 
 MoveRelearner_Text_WhichXmoveShouldTeach:
 	.string "¿Qué {STR_VAR_3} le enseño?$"

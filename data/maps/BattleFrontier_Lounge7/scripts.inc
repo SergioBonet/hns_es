@@ -349,10 +349,10 @@ BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
 	.string "I'll take your Battle Points, thanks!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.string "¡Cómo!\n"
+	.string "¿Ya no quieres…?\p"
+	.string "En fin, si quieres aprender algo bueno,\n"
+	.string "¡ven a verme cuando quieras!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Ihihihi!\p"

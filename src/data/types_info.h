@@ -50,7 +50,7 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
 {
     [TYPE_NONE] =
     {
-        .name = _("NONE"),
+        .name = _("NINGUNO"),
         .generic = _("un movimiento"),
         .palette = 15, // Uses TYPE_MYSTERY's icon
         .teraTypeRGBValue = RGB_WHITE,

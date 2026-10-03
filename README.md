@@ -1,80 +1,84 @@
 ![HnS Logo](HnS_Logo.png)
 
-# About `pokemonHnS-expansion`
+# Pokémon Heart & Soul — Traducción al castellano
 
-<!-- If you want to re-record or change these gifs, here are some notes that I used: https://files.catbox.moe/05001g.md -->
-<!-- TODO: Actually change these gifs, and generally update contents to convey HnS-specific information -->
-![HnS Collage](HnS_Collage_YourAdventure.png)
+**Heart & Soul en castellano** es la traducción al español de [**Pokémon Heart & Soul**](https://github.com/PokemonHnS-Development/pokehns-expansion), el *romhack* de GBA que recrea Pokémon Oro/Plata/Cristal (y adapta Oro HeartGold/Plata SoulSilver) sobre el motor de Pokémon Esmeralda.
 
-**`pokemonHnS-expansion`**, aka Pokémon Heart and Soul 2.0, is a GBA ROM hack that is both a remake of GSC and demake of HGSS, with added quality-of-life, customization, and more.  
-Originally built on top of [resetes12's **`Modern Emerald`**](https://github.com/resetes12/pokeemerald).  
-Now additionally built on top of [RHH's **`pokeemerald-expansion`**](https://github.com/rh-hideout/pokeemerald-expansion) GBA ROM hack base.  
-Finally, all of these projects are built on top of [pret's **`pokeemerald`**](https://github.com/pret/pokeemerald) decompilation project.
+Este repositorio es un *fork* del código fuente original (**v2.0.6**) con todo el juego traducido: diálogos, menús, objetos, movimientos, habilidades, Pokédex, nombres de lugares y personajes, y los gráficos que contienen texto.
 
-> Pokémon Heart & Soul brings the classic Johto Region and its iconic story to the world of modern GBA decomp hacking. Built on Modern Emerald and pokeemerald-expansion, this project offers a fresh take on the GSC/HGSS experience, blending key aspects of the Gen 2 and Gen 4 games, while incorporating many modern QoL features, as well as some familiar mechanics from Gen 3 to Gen 9. Not only is Heart & Soul (HnS) a first-of-its-kind, fully completed, playtested, and largely faithful GSC remake / HGSS demake, it's also completely open source, and is intended to be a base for a new generation of Johto rom hacks.
+<p align="center">
+  <img src="docs/capturas_es/combate.png" width="48%" alt="Combate">
+  <img src="docs/capturas_es/pokedex_info.png" width="48%" alt="Pokédex">
+</p>
+<p align="center">
+  <img src="docs/capturas_es/ficha_pokemon.png" width="48%" alt="Ficha del Pokémon">
+  <img src="docs/capturas_es/ficha_movimientos.png" width="48%" alt="Movimientos">
+</p>
+<p align="center">
+  <img src="docs/capturas_es/mochila_mt.png" width="48%" alt="Mochila">
+  <img src="docs/capturas_es/pokegear.png" width="48%" alt="POKéGEAR">
+</p>
 
-Unfortunately, saves from before 2.0 will not be compatible moving forward.
+---
 
-2.0.1 will be the last "official" release of Pokémon Heart and Soul, after which any bug fixes, content updates, or any propogated updates from **`pokeemerald`** or **`pokeemerald-expansion`** will only be available via community forks of the project.
+## 📥 Cómo jugar
 
-# [Features](FEATURES.md)
+**No se distribuye ninguna ROM.** Solo el parche, que se aplica sobre tu propia copia legal de Pokémon Esmeralda.
 
-**`pokemonHnS-expansion`** includes a mix of vanilla Emerald/FRLG features, re/de-made implementations of GSC/HGSS features, custom **`Modern Emerald`** features, and both features from [core series Pokémon games](https://bulbapedia.bulbagarden.net/wiki/Core_series) and popular QOL enhancements made available by **`pokeemerald-expansion`**.  
-A full list of the features present in Pokémon Heart & Soul 2.0 can be found in [`FEATURES.md`](FEATURES.md)
-A full list of the features made available by **`pokeemerald-expansion`** can be found in [`AVAILABLE_FEATURES.md`](AVAILABLE_FEATURES.md).
+1. Descarga **`Pokemon_HnS_ES.ups`** desde la [última release](../../releases/latest).
+2. Abre [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), carga tu ROM de **Pokémon Esmeralda en inglés (U)** y aplica el parche.
+   - ⚠️ **No uses la Esmeralda española ni la alemana**: el parche solo funciona con la versión inglesa.
+   - ROM de origen: 16.777.216 bytes, CRC32 `1F1C08FB`.
+   - ROM resultante: 33.554.432 bytes, CRC32 `52C0EB07`.
+3. Juega en un emulador preciso: **mGBA** en PC/Mac/Linux, o alternativas equivalentes en móvil.
+   - ❌ **MyBoy no funciona.**
 
-# [Credits](CREDITS.md)
+> Las partidas guardadas de versiones anteriores a la 2.0 del juego original no son compatibles.
 
-<!-- TODO: update .all-contributorsrc and CREDITS.md to match https://pokemonhns-development.github.io/pokehns-expansion-documentation/credits.html -->
-<!-- [![](https://img.shields.io/github/all-contributors/pokemonHnS-Development/pokemonHnS-expansion/upcoming)](CREDITS.md) -->
+## 🌍 Qué está traducido
 
-<!-- TODO: confirm our actual crediting policy and how best to respect our upstreams -->
-If you use **`pokemonHnS-expansion`**, please credit **Pokemon Heart and Soul**, and retain the full chain of credits as best possible.  
-If you additionally use a more updated version of **`pokeemerald-expansion`**, please *specifically* credit **RHH (Rom Hacking Hideout)** and include the version number for clarity.
-For example:
+- Todos los textos del juego: diálogos de historia y de personajes, combates, menús, mochila, ficha de entrenador, PC, Pokégear, opciones…
+- Nombres de objetos, movimientos, habilidades, tipos, naturalezas y categorías de la Pokédex.
+- **Gráficos con texto**: iconos de tipo, cabeceras de la ficha del Pokémon, menú de equipo, barras de vida (PS / Nv), iconos de estado, Pokédex, Pokégear, teclado de nombres, tarjeta de entrenador y Pase del Frente, entre otros.
+- Ajustes en el código para que el español funcione bien: concordancias y artículos en los mensajes de combate, límites de texto de los recuadros, letras acentuadas y signos de apertura (¿ ¡).
 
-<!-- TODO: confirm the closest applicable expansion version number -->
-```
-pokemonHnS-expansion 2.0 is Based off RHH's pokeemerald-expansion version 1.15.1 https://github.com/rh-hideout/pokemonHnS-expansion/
-```
+Criterios de traducción: se mantiene el estilo de las ediciones españolas de Esmeralda (nombres en MAYÚSCULAS como POKéMON o ENTRENADOR) y, para el contenido de Johto, la terminología de las ediciones españolas de HeartGold/SoulSilver.
 
-Finally, please consider [crediting all contributors](CREDITS.md) involved in the project!
+## ⚠️ Estado
 
-# **`pokemonHnS-expansion`** multiplayer compatibility
+Es la **primera versión** de la traducción. Se ha probado en emulador, pero un juego tan grande puede esconder textos pendientes, recuadros ajustados o erratas. Si encuentras algo, indica en qué parte del juego estabas y adjunta una captura.
 
-- **`pokemonHnS-expansion`** supports trade and link battle multiplayer functionality, which *should* extend to forks built on **`pokemonHnS-expansion`** but cannot be guaranteed.
-- **`pokemonHnS-expansion`** is not compatible with official Pokémon games, **`pokemonHnS 1.X`**, **`Modern Emerald`**, or other **`pokeemerald-expansion`** projects.
+## 🛠️ Compilar desde el código
 
-# [Getting Started](INSTALL.md)
+La rama `master` de este fork contiene el código fuente con la traducción. Para compilarlo sigue la guía original, [`INSTALL.md`](INSTALL.md) (en inglés).
 
-❗❗ **Important**: Do not use GitHub's "Download Zip" option as it will not include commit history. This is necessary if you want to update or merge other feature branches from **`pokeemerald-expansion`**.
+> ❗ No uses «Download ZIP» de GitHub: no incluye el historial de commits.
 
-If you're new to git and GitHub, [Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/) has a [guide to forking and cloning the repository](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/The-Basics-of-GitHub). Then you can follow one of the following guides:
+## ℹ️ Sobre el proyecto original
 
-<!-- TODO: update INSTALL.md to refer to HnS-specific things -->
-## 📥 [Installing **`pokemonHnS-expansion`**](INSTALL.md)
-## 🏗️ [Building **`pokemonHnS-expansion`**](INSTALL.md#Building-pokemonHnS-expansion)
+[**`pokemonHnS-expansion`**](https://github.com/PokemonHnS-Development/pokehns-expansion), también conocido como *Pokémon Heart and Soul 2.0*, es a la vez un *remake* de GSC y un *demake* de HGSS, con mejoras de calidad de vida y personalización. Se construye sobre:
 
-# [Documentation](https://pokemonhns-development.github.io/pokehns-expansion-documentation/)
+- [**Modern Emerald**](https://github.com/resetes12/pokeemerald) de resetes12.
+- [**pokeemerald-expansion**](https://github.com/rh-hideout/pokeemerald-expansion) de RHH (Rom Hacking Hideout).
+- [**pokeemerald**](https://github.com/pret/pokeemerald), el proyecto de descompilación de pret.
 
-For our player-facing documentation, visit the [**`pokemonHnS-expansion`** documentation page](https://pokemonhns-development.github.io/pokehns-expansion-documentation/).
+Documentación y características del juego original (en inglés):
 
-# [Contributions and Community](https://discord.gg/ksNTFNSBj)
+- [`FEATURES.md`](FEATURES.md) y [`AVAILABLE_FEATURES.md`](AVAILABLE_FEATURES.md)
+- [Documentación para jugadores](https://pokemonhns-development.github.io/pokehns-expansion-documentation/)
+- [Servidor de Discord de Pokémon Heart and Soul](https://discord.gg/ksNTFNSBj)
+- README original completo: [`README_ORIGINAL_EN.md`](README_ORIGINAL_EN.md)
 
-[![](https://dcbadge.limes.pink/api/server/ksNTFNSBj)](https://discord.gg/ksNTFNSBj)
+## 🙏 Créditos
 
-If - in the window between 2.0 release and 2.0.1 release - you are looking to report a bug, make a suggestion, or give feedback, please join the [Pokémon Heart and Soul Discord server](https://discord.gg/ksNTFNSBj). You are also welcome to join just to participate in the community, including pinging our @guides (and only our guides) for help answering questions not sufficiently covered by our documentation or in-game resources.
+- **Equipo de Pokémon Heart & Soul** (PokemonHnS-Development): el juego, el código y los gráficos originales. Consulta [`CREDITS.md`](CREDITS.md) para la lista completa de colaboradores.
+- **RHH, pret, resetes12** y todos los autores de las bases sobre las que se construye.
+- Para las convenciones de traducción se han consultado como referencia las ediciones oficiales españolas de Esmeralda y HeartGold. Parte de los gráficos con texto traducido proceden de la Esmeralda española oficial, y el resto se ha rehecho a mano.
+- Hay un fork alemán equivalente, [`hns_de`](https://github.com/helikoptermann843/hns_de), que sirvió de modelo para esta publicación.
+- La traducción y las herramientas de apoyo se han desarrollado con ayuda de Claude (Anthropic); el resultado se ha probado en emulador.
 
-# AI Disclosure
-Since this is a controversial topic at the moment, we'd like to be transparent about use of AI for this project.
+Si usas este trabajo, por favor mantén la cadena de créditos: **Pokémon Heart & Soul → pokeemerald-expansion (RHH) → pokeemerald (pret)**.
 
-Every line of code written for the game is either hand-written or manually reviewed by a member of the team. However, it is still important to point out that LLMs like Claude Code and GitHub Copilot have been used for some tasks.
+---
 
-Here is what AI has been used for:
-- Code Reviews of hand-written code
-- Debugging more complex scenarios
-- Auto Completion (stuff like repeating lists, DebugPrints, etc.)
-- Creating Python Scripts for I/O procedures (like downloading/writing list data, I/O data with Excel, etc. namely for documentation)
-
-AI has not been used for:
-- Generating assets of any kind; Art or Music
+*Pokémon es una marca registrada de Nintendo, Game Freak y Creatures Inc. Este proyecto es un trabajo de aficionados sin ánimo de lucro, no está afiliado a ellas y **no incluye ni distribuye ninguna ROM**.*

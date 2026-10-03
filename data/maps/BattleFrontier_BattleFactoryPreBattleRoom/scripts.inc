@@ -618,11 +618,11 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
 	.string "¡El trueque de POKéMON ha terminado!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "¡Sígueme, por favor!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Voy a guardar los datos.\n"
+	.string "Un momento, por favor.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
 	.string "Would you like to record your latest\n"

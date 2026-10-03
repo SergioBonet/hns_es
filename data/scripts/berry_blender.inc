@@ -9,14 +9,14 @@ BerryBlender_Text_Excellent:
 
 BerryBlender_Text_MadeOldTimerSad:
 	.string "Oh…\n"
-	.string "You've made this old-timer sad…$"
+	.string "Me has puesto tristón…$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
 	.string "¿Sabes cómo hacer {POKEBLOCK}S?$"
 
 BerryBlender_Text_LetsBerryBlender:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "¡Pues manos a la obra!\p"
+	.string "¡A por la LICUABAYAS!$"
 
 BerryBlender_Text_ExplainBerryBlending:
 	.string "Vale, pues entonces te explico.\p"
@@ -81,8 +81,8 @@ BerryBlender_Text_KnowHowToMakePokeblocks2:
 	.string "¿no?$"
 
 BerryBlender_Text_LetsBerryBlender2:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "¡Pues manos a la obra!\p"
+	.string "¡A por la LICUABAYAS!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
 	.string "¡Bien!\n"
@@ -120,16 +120,15 @@ BerryBlender_Text_OhDear:
 	.string "Oh, dear!$"
 
 BerryBlender_Text_LeftUsInShock:
-	.string "Oh, dear me…\p"
-	.string "You've left us in shock!$"
+	.string "¡Ay de mí!…\p"
+	.string "¡Me dejas de piedra!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks3:
 	.string "¿Sabes cómo hacer {POKEBLOCK}S?$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "Okay, dear!\n"
-	.string "Let's get started!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "¡Pues manos a la obra!\p"
+	.string "¡A por la LICUABAYAS!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
 	.string "¡Ay, ay!\p"
@@ -206,8 +205,8 @@ BerryBlender_Text_DontHavePokeblockCaseLink:
 	.string "The BERRY BLENDER can't be used.$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
-	.string "I love making {POKEBLOCK}S.\p"
-	.string "I always have some BERRIES with me.$"
+	.string "Me encanta preparar {POKEBLOCK}S.\p"
+	.string "Por eso siempre llevo BAYAS encima.$"
 
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
 	.string "Si quieres, podríamos preparar algunos\n"
@@ -221,8 +220,8 @@ BerryBlender_Text_DontHaveAnyBerriesHaveOne:
 	.string "puedo darte una de mis BAYAS.$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
-	.string "We'll use it to make {POKEBLOCK}S together\n"
-	.string "using the BERRY BLENDER.$"
+	.string "La usaremos para preparar {POKEBLOCK}S\n"
+	.string "juntos con la LICUABAYAS.$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
 	.string "¿Cómo?\n"

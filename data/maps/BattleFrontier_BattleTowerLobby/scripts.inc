@@ -956,7 +956,7 @@ BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} recibió el premio\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused

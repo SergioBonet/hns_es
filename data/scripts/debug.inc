@@ -281,7 +281,7 @@ Debug_Text_ArianaDefeat:
 	.string "¡No has visto lo último de mí!$"
 
 Debug_Text_Grunt23Defeat:
-	.string "I won't accept this!$"
+	.string "¡No lo voy a aceptar!$"
 
 Debug_Text_LanceMultiVictory:
 	.string "Lance multi battle complete!$"

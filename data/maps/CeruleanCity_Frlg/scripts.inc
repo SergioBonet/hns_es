@@ -430,9 +430,9 @@ CeruleanCity_Text_MakeRoomForThisCantRun::
 	.string "I can't run until I give it to you!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-	.string "You're a TRAINER, too?\p"
-	.string "Collecting, battling…\n"
-	.string "It's a tough life, isn't it?$"
+	.string "¿Tú también eres ENTRENADOR?\p"
+	.string "Coleccionar, combatir…\n"
+	.string "Es una vida dura, ¿verdad?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
 	.string "Did you know that you can CUT down\n"
@@ -488,7 +488,7 @@ CeruleanCity_Text_SlowbroTookSnooze::
 	.string "SLOWBRO took a snooze…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-	.string "SLOWBRO is loafing around…$"
+	.string "SLOWBRO está holgazaneando…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
 	.string "SLOWBRO turned away…$"
@@ -526,8 +526,8 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 	.string "the holding POKéMON in battle.$"
 
 CeruleanCity_Text_BikeShopSign::
-	.string "Grass and caves handled easily!\n"
-	.string "BIKE SHOP$"
+	.string "¡Hierba y cuevas sin problemas!\n"
+	.string "TIENDA DE BICIS$"
 
 CeruleanCity_Text_GymSign::
 	.string "CERULEAN CITY POKéMON GYM\n"

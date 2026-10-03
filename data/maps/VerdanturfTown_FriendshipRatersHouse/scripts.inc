@@ -69,9 +69,9 @@ VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
 	.string "Tu POKéMON…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "te adora.\n"
+	.string "Es que no te puede querer más.\l"
+	.string "Tanto amor me conmueve hasta a mí.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
 	.string "parece muy feliz.\n"

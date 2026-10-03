@@ -287,7 +287,7 @@ VermilionCity_Text_Machop::
 	.string "MACHOP: Guoh! Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-	.string "A MACHOP is stomping the land flat.$"
+	.string "Un MACHOP está aplanando el terreno.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
 	.string "The S.S. ANNE is a famous luxury\n"
@@ -295,8 +295,8 @@ VermilionCity_Text_SSAnneVisitsOnceAYear::
 	.string "It visits VERMILION once a year.$"
 
 VermilionCity_Text_CitySign::
-	.string "VERMILION CITY\n"
-	.string "The Port of Exquisite Sunsets$"
+	.string "CIUDAD CARMÍN\p"
+	.string "El puerto de los ocasos exquisitos$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "NOTICE!\p"

@@ -496,10 +496,10 @@ BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
 	.string "Begin!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: The winner is {PLAYER}!$"
+	.string "JUEZ: ¡La victoria es para {PLAYER}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
+	.string "JUEZ: ¡La victoria es para {STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
 	.string "Tus POKéMON recuperarán su forma.$"
@@ -537,8 +537,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
 	.string "del TORNEO con JUEZ?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "I am saving your game data.\n"
-	.string "Please wait.$"
+	.string "Voy a guardar tus datos.\n"
+	.string "Un segundo, por favor.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
 	.string "Would you like to record your last\n"

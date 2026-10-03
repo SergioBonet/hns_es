@@ -313,8 +313,8 @@ Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
 	.string "mi {STR_VAR_2}, entonces?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "It's a done deal!\n"
-	.string "Use that wisely!$"
+	.string "¡Trato hecho!\n"
+	.string "¡Ha sido un placer!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "¿Quieres cambiar otra cosa?$"
@@ -324,8 +324,8 @@ Route124_DivingTreasureHuntersHouse_Text_BagFull:
 	.string "¡Deshazte de algún objeto, amigo!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "No? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+	.string "¿No? Qué decepción.\n"
+	.string "Bueno, si cambias de opinión, vuelve.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
 	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"

@@ -148,8 +148,8 @@ CeladonCity_Text_ExplainXAccuracyDireHit::
 	.string "DEPT. STORE!$"
 
 CeladonCity_Text_CitySign::
-	.string "CELADON CITY\n"
-	.string "The City of Rainbow Dreams$"
+	.string "CIUDAD AZULONA\p"
+	.string "La ciudad de los sueños de arco iris$"
 
 CeladonCity_Text_GymSign::
 	.string "CELADON CITY POKéMON GYM\n"
@@ -176,8 +176,8 @@ CeladonCity_Text_PrizeExchangeSign::
 	.string "PRIZE EXCHANGE$"
 
 CeladonCity_Text_GameCornerSign::
-	.string "ROCKET GAME CORNER\n"
-	.string "The playground for grown-ups!$"
+	.string "CASINO ROCKET\n"
+	.string "¡El paraíso de los adultos!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
 	.string "Aaaagh, ow…\n"

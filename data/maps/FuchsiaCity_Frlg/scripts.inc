@@ -160,8 +160,9 @@ FuchsiaCity_Text_ItemBallInThere::
 	.string "…¿Eh? ¿Eso es un POKéMON?$"
 
 FuchsiaCity_Text_CitySign::
-	.string "FUCHSIA CITY\n"
-	.string "Behold! It's Passion Pink!$"
+	.string "CIUDAD FUCSIA\p"
+	.string "¡Mirad la CIUDAD FUCSIA! ¡La pasión\n"
+	.string "rosa!$"
 
 FuchsiaCity_Text_SafariZoneSign::
 	.string "POKéMON PARADISE\n"

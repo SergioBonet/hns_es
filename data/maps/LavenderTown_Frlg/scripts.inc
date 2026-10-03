@@ -70,8 +70,8 @@ LavenderTown_Text_GhostsAppearedInTower::
 	.string "POKéMON that the ROCKETS killed.$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVENDER TOWN\n"
-	.string "The Noble Purple Town$"
+	.string "PUEBLO LAVANDA\p"
+	.string "El noble pueblo púrpura$"
 
 LavenderTown_Text_SilphScopeNotice::
 	.string "New SILPH SCOPE!\n"

@@ -138,6 +138,6 @@ Route13_Text_SelectToSwitchItems::
 	.string "ITEMS window.$"
 
 Route13_Text_RouteSign::
-	.string "ROUTE 13\n"
-	.string "North to SILENCE BRIDGE$"
+	.string "RUTA 13\n"
+	.string "Al norte: PUENTE SILENCIO$"
 

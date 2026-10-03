@@ -1452,8 +1452,8 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "TIENDA POKéMON\n"
+	.string "“¡Gran gama de artículos selectos!”$"
 
 gText_PokemonCenterSign::
 	.string "“Rejuvenate your tired partners!”\n"
@@ -1492,7 +1492,7 @@ gText_PokemonTrainerSchoolEmail::
 	.string "Qué interesante…$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} encendió el PC.$"
 
 gText_PokeblockLinkCanceled::
 	.string "The link was canceled.$"
@@ -1625,7 +1625,7 @@ gText_Sudowoodo_Attacked::
 	.string "¡El árbol extraño atacó!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "¡El {STR_VAR_1} se ha marchado!$"
 
 gText_WantWhichFloor::
 	.string "Which floor do you want?$"

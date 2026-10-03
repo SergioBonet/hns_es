@@ -517,7 +517,7 @@ BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
 	.string "making an effective team.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "The Set KO Tourney's rules are listed.$"
+	.string "Son las reglas del TORNEO con JUEZ.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
 	.string "¿Qué capítulo quieres leer?$"

@@ -944,7 +944,7 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "Este es el SALÓN DE JUEGOS.$"
+	.string "Este es el CASINO.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
 	.string "¿Querías algunas FICHAS para\n"
@@ -974,13 +974,13 @@ MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
 	.string "¡Vaya! ¡Tu MONEDERO está demasiado\n"
 	.string "lleno para comprar más FICHAS!\p"
-	.string "Disfruta del SALÓN DE JUEGOS o\n"
+	.string "Disfruta del CASINO o\n"
 	.string "cambia tus FICHAS por premios\l"
 	.string "antes de volver.$"
 
 MauvilleCity_GameCorner_Text_NoRoomForCoins:
-	.string "Oh?\n"
-	.string "Your COIN CASE can't fit those COINS...$"
+	.string "¿Eh? En tu MONEDERO no caben tantas\n"
+	.string "FICHAS…$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
 	.string "¿Entonces no necesitas FICHAS?\n"
@@ -995,7 +995,7 @@ MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "tus FICHAS por premios.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "¿Qué premio quieres?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
 	.string "¿Así que quieres\n"
@@ -1022,7 +1022,7 @@ MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
 	.string "So your choice is {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "¡Aquí tienes!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:

@@ -811,7 +811,7 @@ LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
 	.string "Mejor no trasteo mucho por aquí…$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon:
-	.string "It's crammed with books on POKéMON.$"
+	.string "Está repleta de libros sobre POKéMON.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BookTooHardToRead:
 	.string "It's a book that's too hard to read.$"

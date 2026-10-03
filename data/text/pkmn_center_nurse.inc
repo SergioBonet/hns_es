@@ -28,7 +28,7 @@ gText_WelcomeCutShort::
 gText_NoticesGoldCard::
 	.string "Esa FICHA…\n"
 	.string "¿Es…? ¡¿Es de color ORO?!\p"
-	.string "¡Oh, ese color es resplandeciente!\n"
+	.string "¡Oh, ese color es resplandenciente!\n"
 	.string "¡Las cuatro estrellas brillan tanto!\p"
 	.string "Ya he visto a varios ENTRENADORES\n"
 	.string "con una FICHA de color PLATA, pero,\l"

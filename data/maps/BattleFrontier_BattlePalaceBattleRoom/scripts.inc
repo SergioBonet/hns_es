@@ -476,8 +476,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
 	.string "¿Deseas retirarte del desafío?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Vamos a guardar los datos.\n"
+	.string "Un poco de paciencia, por favor…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
 	.string "Do you wish to record your latest\n"

@@ -41,8 +41,8 @@ MoveTutor_Text_RolloutWhichMon:
 	.string "eligieras uno que se parezca a mí, ¿eh?$"
 
 MoveTutor_Text_RolloutTaught:
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.string "Listo. ¡A desenrollarse se ha dicho!\n"
+	.string "¡Hala!$"
 
 MoveTutor_Text_FuryCutterTeach:
 	.string "Hay un movimiento que se hace más\n"
@@ -53,7 +53,8 @@ MoveTutor_Text_FuryCutterTeach:
 	.string "¿Se lo enseño a uno de tus POKéMON?$"
 
 MoveTutor_Text_FuryCutterDeclined:
-	.string "We're not on the same wavelength.$"
+	.string "Se ve que no estamos en la misma\n"
+	.string "onda.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
 	.string "Yay!\n"
@@ -175,8 +176,8 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "a tu POKéMON?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
-	.string "Darn! You're even making fun of me?\n"
-	.string "Punch! Punch! Punch!$"
+	.string "¡Grr! ¿Me estás tomando el pelo?\n"
+	.string "¡Toma! ¡Toma! ¡Toma!$"
 
 MoveTutor_Text_DynamicPunchWhichMon:
 	.string "¿Qué? ¿En serio? ¡Qué bien!\n"
@@ -199,15 +200,17 @@ MoveTutor_Text_DoubleEdgeTeach:
 
 MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Oh…\n"
-	.string "Even you rejected me…$"
+	.string "Hasta tú pasas de mí…$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
 	.string "Okay, which POKéMON should I teach\n"
 	.string "DOUBLE-EDGE?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
-	.string "I won't live for love anymore!\n"
-	.string "I'll become tough!$"
+	.string "Dicen que el amor nos hace fuertes,\n"
+	.string "pero conmigo no funciona…\p"
+	.string "Voy a dejar de ser tan enamoradiza\n"
+	.string "a ver qué pasa.$"
 
 MoveTutor_Text_ExplosionTeach:
 	.string "No voy a llegar a nada si me quedo\n"
@@ -220,8 +223,8 @@ MoveTutor_Text_ExplosionTeach:
 	.string "EXPLOSIÓN a uno de tus POKéMON!$"
 
 MoveTutor_Text_ExplosionDeclined:
-	.string "Gaah! You're turning me down because\n"
-	.string "I live in the country?$"
+	.string "¡Bah! Tú también pasas de mí porque\n"
+	.string "crees que soy un pueblerino, ¿eh?$"
 
 MoveTutor_Text_ExplosionWhichMon:
 	.string "Fine! An EXPLOSION it is!\n"

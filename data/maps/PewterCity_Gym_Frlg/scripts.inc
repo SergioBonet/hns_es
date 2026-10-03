@@ -118,8 +118,8 @@ PewterCity_Gym_Text_TakeThisWithYou::
 	.string "Llévate esto.$"
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
-	.string "{PLAYER} received TM39\n"
-	.string "from BROCK.$"
+	.string "¡{PLAYER} ha recibido la MT39\n"
+	.string "de BROCK!$"
 
 PewterCity_Gym_Text_ExplainTM39::
 	.string "Una MT, o Máquina Técnica, contiene\n"
@@ -171,8 +171,8 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
 	.string "¡Deja que te lleve a lo más alto!$"
 
 PewterCity_Gym_Text_LetsGetHappening::
-	.string "All right!\n"
-	.string "Let's get happening!$"
+	.string "¡Muy bien!\n"
+	.string "¡Vamos allá!$"
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "El primer POKéMON en salir en un\n"
@@ -184,8 +184,8 @@ PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "el equipo de tu rival.$"
 
 PewterCity_Gym_Text_ItsFreeLetsGetHappening::
-	.string "It's a free service!\n"
-	.string "Let's get happening!$"
+	.string "¡Es un servicio gratuito!\n"
+	.string "¡Vamos allá!$"
 
 PewterCity_Gym_Text_YoureChampMaterial::
 	.string "Just as I thought!\n"

@@ -188,8 +188,9 @@ SaffronCity_Text_HesTakingASnooze::
 	.string "Hah! He's taking a snooze!$"
 
 SaffronCity_Text_CitySign::
-	.string "SAFFRON CITY\n"
-	.string "Shining, Golden Land of Commerce$"
+	.string "CIUDAD AZAFRÁN\p"
+	.string "La brillante y dorada tierra del\n"
+	.string "comercio$"
 
 SaffronCity_Text_FightingDojo::
 	.string "FIGHTING DOJO$"

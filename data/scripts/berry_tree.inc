@@ -340,15 +340,15 @@ BerryTree_EventScript_PlantBerry::
 	return
 
 BerryTree_Text_ItsSoftLoamySoil:
-	.string "It's soft, loamy soil.$"
+	.string "Es un suelo blando y fértil.$"
 
 BerryTree_Text_WantToPlant:
-	.string "It's soft, loamy soil.\n"
-	.string "Want to plant a BERRY?$"
+	.string "Es un suelo blando y fértil.\n"
+	.string "¿Quieres plantar una BAYA?$"
 
 BerryTree_Text_PlantedOneBerry:
-	.string "{PLAYER} planted one {STR_VAR_1} in\n"
-	.string "the soft, loamy soil.$"
+	.string "{PLAYER} plantó una {STR_VAR_1}\n"
+	.string "en el suelo.$"
 
 BerryTree_Text_BerryGrowthStage1:
 .if OW_BERRY_SIX_STAGES == TRUE
@@ -400,7 +400,8 @@ BerryTree_Text_WantToPick:
 	.string "¿Quieres recoger la {STR_VAR_1}?$"
 
 BerryTree_Text_PickedTheBerry:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
+	.string "{PLAYER} recogió {STR_VAR_2}\n"
+	.string "{STR_VAR_1} de la planta.$"
 
 BerryTree_Text_PutAwayBerry:
 	.string "{PLAYER} guardó {STR_VAR_1}\n"
@@ -415,15 +416,14 @@ BerryTree_Text_BerryPocketFull:
 	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_BerryLeftUnpicked:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "unpicked.$"
+	.string "{PLAYER} no recogió {STR_VAR_1}.$"
 
 BerryTree_Text_WantToWater:
 	.string "¿Quieres regar la planta de {STR_VAR_1}\n"
 	.string "con el CUBO WAILMER?$"
 
 BerryTree_Text_WateredTheBerry:
-	.string "{PLAYER} watered the {STR_VAR_1}.$"
+	.string "{PLAYER} regó la planta de {STR_VAR_1}.$"
 
 BerryTree_Text_PlantIsDelighted:
 	.string "Parece sentarle muy bien a la planta.$"

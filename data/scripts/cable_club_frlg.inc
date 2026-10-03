@@ -1331,12 +1331,12 @@ CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 	.string "El número de jugadores no es correcto.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers_Frlg::
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "No se puede jugar al modo de combate\n"
+	.string "INDIVIDUAL con {STR_VAR_1} jugadores.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers_Frlg::
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "No se puede jugar al modo de combate\n"
+	.string "DOBLE con {STR_VAR_1} jugadores.$"
 
 CableClub_Text_NeedFourPlayers_Frlg::
 	.string "Se necesitan cuatro jugadores\n"
@@ -1707,8 +1707,8 @@ CableClub_Text_ExplainWirelessClub_Frlg::
 	.string "de comunicación inalámbrica.$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem_Frlg::
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "Espero que disfrutes del sistema\n"
+	.string "de comunicación inalámbrica.$"
 
 Text_WirelessClubUndergoingAdjustments::
 	.string "Lo siento, pero el CLUB\n"

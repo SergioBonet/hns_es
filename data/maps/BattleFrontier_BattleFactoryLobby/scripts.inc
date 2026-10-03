@@ -508,7 +508,7 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
 	.string "varied the rental POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "Son las reglas del COMBATE con TRUEQUE.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
 	.string "¿Qué capítulo quieres leer?$"

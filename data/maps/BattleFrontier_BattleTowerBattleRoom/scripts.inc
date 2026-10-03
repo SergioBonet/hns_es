@@ -465,20 +465,20 @@ BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
 	.string "Are you ready?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
-	.string "Record your battle on your\n"
-	.string "FRONTIER PASS?$"
+	.string "¿Deseas grabar tu combate\n"
+	.string "en el PASE del FRENTE?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "El combate de {PLAYER} se grabó\n"
+	.string "en el PASE del FRENTE.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
 	.string "¿Quieres guardar la partida\n"
 	.string "y dejar de jugar?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "Vamos a guardar los datos del combate.\n"
+	.string "Un momento, por favor.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
 	.string "¿Quieres cancelar tu desafío\n"

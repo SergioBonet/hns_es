@@ -29,7 +29,7 @@ Este repositorio es un *fork* del código fuente original (**v2.0.6**) con todo 
 2. Abre [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), carga tu ROM de **Pokémon Esmeralda en inglés (U)** y aplica el parche.
    - ⚠️ **No uses la Esmeralda española ni la alemana**: el parche solo funciona con la versión inglesa.
    - ROM de origen: 16.777.216 bytes, CRC32 `1F1C08FB`.
-   - ROM resultante: 33.554.432 bytes, CRC32 `52C0EB07`.
+   - ROM resultante: 33.554.432 bytes, CRC32 `E8D8C504`.
 3. Juega en un emulador preciso: **mGBA** en PC/Mac/Linux, o alternativas equivalentes en móvil.
    - ❌ **MyBoy no funciona.**
 
@@ -46,7 +46,7 @@ Criterios de traducción: se mantiene el estilo de las ediciones españolas de E
 
 ## ⚠️ Estado
 
-Es la **primera versión** de la traducción. Se ha probado en emulador, pero un juego tan grande puede esconder textos pendientes, recuadros ajustados o erratas. Si encuentras algo, indica en qué parte del juego estabas y adjunta una captura.
+Versión actual de la traducción: **1.1** (correcciones de textos sin traducir y de recuadros). Se ha probado en emulador, pero un juego tan grande puede esconder textos pendientes, recuadros ajustados o erratas. Si encuentras algo, indica en qué parte del juego estabas y adjunta una captura.
 
 ## 🛠️ Compilar desde el código
 

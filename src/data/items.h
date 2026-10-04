@@ -13959,8 +13959,8 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BUSCAPELEA"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Indica qué Entre-\n"
-            "Nadores quieren\n"
+            "Indica qué ENTRE-\n"
+            "NADORES quieren\n"
             "luchar. Se recarga."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

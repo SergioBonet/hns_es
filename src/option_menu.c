@@ -221,10 +221,10 @@ static const u8 *const sChoices_ButtonMode[] = {
 };
 
 static const u8 *const sChoices_TextSpeed[] = {
-    COMPOUND_STRING("LENTA"),
+    COMPOUND_STRING("BAJA"),
     COMPOUND_STRING("MEDIA"),
-    COMPOUND_STRING("RÁPIDA"),
-    COMPOUND_STRING("MÁXIMA"),
+    COMPOUND_STRING("ALTA"),
+    COMPOUND_STRING("MÁX."),
 };
 
 static const u8 *const sChoices_MetricImperial[] = {
@@ -271,12 +271,12 @@ static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
 };
 static const u8 *const sDesc_BattleScene[] = {
-    COMPOUND_STRING("Muestra las animaciones de los\n{PKMN} y de los ataques."),
-    COMPOUND_STRING("Omite las animaciones de los\n{PKMN} y de los ataques."),
+    COMPOUND_STRING("Muestra las animaciones de los\nPOKéMON y de los ataques."),
+    COMPOUND_STRING("Omite las animaciones de los\nPOKéMON y de los ataques."),
 };
 static const u8 *const sDesc_BattleStyle[] = {
-    COMPOUND_STRING("Puedes cambiar de {PKMN} cuando\nel rival se debilita."),
-    COMPOUND_STRING("Sin cambio libre al debilitar\nal {PKMN} rival."),
+    COMPOUND_STRING("Puedes cambiar de POKéMON cuando\nel rival se debilita."),
+    COMPOUND_STRING("Sin cambio libre al debilitar\nal POKéMON rival."),
 };
 static const u8 *const sDesc_ButtonMode[] = {
     COMPOUND_STRING("Los botones funcionan como siempre."),
@@ -284,12 +284,12 @@ static const u8 *const sDesc_ButtonMode[] = {
     COMPOUND_STRING("El botón L funciona como otro A\npara jugar con una mano."),
 };
 static const u8 *const sDesc_Follower[] = {
-    COMPOUND_STRING("El primer {PKMN} del equipo\nte sigue."),
+    COMPOUND_STRING("El primer POKéMON del equipo\nte sigue."),
     COMPOUND_STRING("Caminas solo."),
 };
 static const u8 *const sDesc_LargeFollower[] = {
-    COMPOUND_STRING("Activa a los {PKMN} grandes que\nte siguen. Puede dar fallos visuales."),
-    COMPOUND_STRING("Desactiva a los {PKMN} grandes\nque te siguen. Recomendado."),
+    COMPOUND_STRING("Activa a los POKéMON grandes que\nte siguen. Puede dar fallos visuales."),
+    COMPOUND_STRING("Desactiva a los POKéMON grandes\nque te siguen. Recomendado."),
 };
 static const u8 *const sDesc_Autorun[] = {
     COMPOUND_STRING("Corres sin pulsar B."),
@@ -308,8 +308,8 @@ static const u8 *const sDesc_FasterJoy[] = {
     COMPOUND_STRING("La ENFERMERA JOY te cura con\nla animación de siempre."),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Peso y tamaño de BAYAS y {PKMN}\nen kilogramos y metros."),
-    COMPOUND_STRING("Peso y tamaño de BAYAS y {PKMN}\nen libras y pulgadas."),
+    COMPOUND_STRING("Peso y tamaño de BAYAS y POKéMON\nen kilogramos y metros."),
+    COMPOUND_STRING("Peso y tamaño de BAYAS y POKéMON\nen libras y pulgadas."),
 };
 static const u8 *const sDesc_MatchCall[] = {
     COMPOUND_STRING("Los ENTRENADORES pueden llamarte\npara revanchas e información."),
@@ -335,8 +335,8 @@ static const u8 *const sDesc_NewBattleUI[] = {
     COMPOUND_STRING("Interfaz de combate moderna\nde la GEN IV."),
 };
 static const u8 *const sDesc_BallPrompt[] = {
-    COMPOUND_STRING("Pulsa {R_BUTTON} en combate para usar Balls.\nMantén {L_BUTTON}/{R_BUTTON} para cambiar de {PKMN}BALL."),
-    COMPOUND_STRING("Desactiva el atajo para usar\n{PKMN}BALLS rápido."),
+    COMPOUND_STRING("Pulsa {R_BUTTON} en combate para usar\nBALLS. Mantén {L_BUTTON}/{R_BUTTON} para cambiar."),
+    COMPOUND_STRING("Desactiva el atajo para usar\nBALLS rápido."),
 };
 static const u8 *const sDesc_RunType[] = {
     COMPOUND_STRING("Sin huida rápida de los combates."),

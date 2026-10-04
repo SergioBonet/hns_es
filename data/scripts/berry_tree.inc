@@ -76,7 +76,7 @@ BerryTree_Text_Hns_BagFull:
 	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_Hns_Sprouted:
-	.string "¡El árbol de bayas ha brotado\n"
+	.string "¡El árbol de BAYAS ha brotado\n"
 	.string "de repente!$"
 
 #else
@@ -430,7 +430,7 @@ BerryTree_Text_PlantIsDelighted:
 	.string "Parece sentarle muy bien a la planta.$"
 
 BerryTree_Text_ExclamationPoint:
-	.string "¡$"
+	.string "!$"
 
 .if OW_BERRY_MUTATIONS == TRUE
 BerryTree_EventScript_CheckBerryFullyGrown_Mutation:

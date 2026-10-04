@@ -2305,7 +2305,7 @@ static const struct NamingScreenTemplate sMonNamingScreenTemplate =
     .addGenderIcon = TRUE,
     .initialPage = KBPAGE_LETTERS_UPPER,
     .unused = 35,
-    .title = COMPOUND_STRING("¿Mote de {STR_VAR_1}?"),
+    .title = COMPOUND_STRING("¿Mote de "),
 };
 
 static const struct NamingScreenTemplate sWaldaWordsScreenTemplate =

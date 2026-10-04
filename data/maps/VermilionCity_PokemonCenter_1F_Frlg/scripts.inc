@@ -82,7 +82,7 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
 	.string "la batería.$"
 
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
-	.string "¿Cómo se usa el BUSCARRIVALES?\n"
+	.string "¿Cómo se usa el BUSCAPELEA?\n"
 	.string "No tiene ciencia.\p"
 	.string "Úsalo así, bip-bip-bip, y los\n"
 	.string "ENTRENADORES de alrededor lo notarán.\p"

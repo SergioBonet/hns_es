@@ -188,18 +188,18 @@ PewterCity_Gym_Text_ItsFreeLetsGetHappening::
 	.string "¡Vamos allá!$"
 
 PewterCity_Gym_Text_YoureChampMaterial::
-	.string "Just as I thought!\n"
-	.string "You're POKéMON champ material!$"
+	.string "¡Tal como pensaba!\n"
+	.string "¡Tienes madera de campeón POKéMON!$"
 
 PewterCity_Gym_Text_GymStatue::
-	.string "PEWTER POKéMON GYM\n"
-	.string "LEADER: BROCK\p"
-	.string "WINNING TRAINERS:\n"
+	.string "GIMNASIO POKéMON de CIUDAD PLATEADA\n"
+	.string "LÍDER: BROCK\p"
+	.string "ENTRENADORES VENCEDORES:\n"
 	.string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
-	.string "PEWTER POKéMON GYM\n"
-	.string "LEADER: BROCK\p"
-	.string "WINNING TRAINERS:\n"
+	.string "GIMNASIO POKéMON de CIUDAD PLATEADA\n"
+	.string "LÍDER: BROCK\p"
+	.string "ENTRENADORES VENCEDORES:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

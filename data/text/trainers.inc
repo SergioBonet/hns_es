@@ -4781,16 +4781,16 @@ Route134_Text_HudsonPostBattle:
 	.string "worried about him.$"
 
 VSSeeker_Text_BatteryNotChargedNeedXSteps::
-	.string "The battery isn't charged enough.\p"
-	.string "No. of steps required to fully\n"
-	.string "charge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "La batería no está cargada del todo.\p"
+	.string "Pasos que faltan para cargarla\n"
+	.string "por completo: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange::
-	.string "There are no Trainers within range\n"
-	.string "who can battle…\p"
-	.string "The VS Seeker was turned off.{PAUSE_UNTIL_PRESS}$"
+	.string "No hay ENTRENADORES al alcance\n"
+	.string "que puedan luchar…\p"
+	.string "El aparato se ha apagado.{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady::
-	.string "The other Trainers don't appear\n"
-	.string "to be ready for battle.\p"
-	.string "Let's wait till later.{PAUSE_UNTIL_PRESS}$"
+	.string "Los demás ENTRENADORES no parecen\n"
+	.string "estar listos para luchar.\p"
+	.string "Esperemos a más tarde.{PAUSE_UNTIL_PRESS}$"

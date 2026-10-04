@@ -193,12 +193,12 @@ SaffronCity_Text_CitySign::
 	.string "comercio$"
 
 SaffronCity_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "DOJO DE LUCHA$"
 
 SaffronCity_Text_GymSign::
-	.string "SAFFRON CITY POKéMON GYM\n"
-	.string "LEADER: SABRINA\l"
-	.string "The Master of PSYCHIC POKéMON!$"
+	.string "GIMNASIO POKéMON de CIUDAD AZAFRÁN\n"
+	.string "LÍDER: SABRINA\l"
+	.string "¡La Maestra de los POKéMON PSÍQUICOS!$"
 
 SaffronCity_Text_FullHealCuresStatus::
 	.string "TRAINER TIPS\p"
@@ -216,7 +216,7 @@ SaffronCity_Text_GreatBallImprovedCatchRate::
 	.string "POKéMON.$"
 
 SaffronCity_Text_SilphCoSign::
-	.string "SILPH CO. OFFICE BUILDING$"
+	.string "EDIFICIO de SILPH S.A.$"
 
 SaffronCity_Text_MrPsychicsHouse::
 	.string "MR. PSYCHIC'S HOUSE$"

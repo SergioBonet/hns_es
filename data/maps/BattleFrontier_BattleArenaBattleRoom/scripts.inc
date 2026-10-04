@@ -492,8 +492,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
 	.string "Step forward, please!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
+	.string "JUEZ: ¡Que dé comienzo el combate\n"
+	.string "del TORNEO con JUEZ!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
 	.string "JUEZ: ¡La victoria es para {PLAYER}!$"

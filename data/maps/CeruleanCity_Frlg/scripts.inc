@@ -485,16 +485,16 @@ CeruleanCity_Text_HardToControlMonsObedience::
 	.string "on your abilities as a TRAINER.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-	.string "SLOWBRO took a snooze…$"
+	.string "SLOWBRO se echó una siesta…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
 	.string "SLOWBRO está holgazaneando…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-	.string "SLOWBRO turned away…$"
+	.string "SLOWBRO miró hacia otro lado…$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-	.string "SLOWBRO ignored orders…$"
+	.string "SLOWBRO ignoró las órdenes…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
 	.string "I want a bright red bicycle.\p"
@@ -530,7 +530,7 @@ CeruleanCity_Text_BikeShopSign::
 	.string "TIENDA DE BICIS$"
 
 CeruleanCity_Text_GymSign::
-	.string "CERULEAN CITY POKéMON GYM\n"
-	.string "LEADER: MISTY\l"
-	.string "The Tomboyish Mermaid!$"
+	.string "GIMNASIO POKéMON de CIUDAD CELESTE\n"
+	.string "LÍDER: MISTY\l"
+	.string "¡La Sirena Marimacho!$"
 

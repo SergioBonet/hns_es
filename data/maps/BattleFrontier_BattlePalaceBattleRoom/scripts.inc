@@ -441,8 +441,8 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Excelente…\n"
+	.string "Voy a devolver la forma a tus POKéMON.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
 	.string "Tu 2.º rival espera.\n"

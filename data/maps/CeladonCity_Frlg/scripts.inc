@@ -129,7 +129,7 @@ CeladonCity_Text_MyTrustedPalPoliwrath::
 	.string "I used a WATER STONE.$"
 
 CeladonCity_Text_Poliwrath::
-	.string "POLIWRATH: Ribi ribit!$"
+	.string "POLIWRATH: ¡Ribi ribit!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
 	.string "What are you staring at?\n"
@@ -152,12 +152,12 @@ CeladonCity_Text_CitySign::
 	.string "La ciudad de los sueños de arco iris$"
 
 CeladonCity_Text_GymSign::
-	.string "CELADON CITY POKéMON GYM\n"
-	.string "LEADER: ERIKA\l"
-	.string "The Nature-Loving Princess!$"
+	.string "GIMNASIO POKéMON de CIUDAD AZULONA\n"
+	.string "LÍDER: ERIKA\l"
+	.string "¡La Princesa Amante de la Naturaleza!$"
 
 CeladonCity_Text_MansionSign::
-	.string "CELADON MANSION$"
+	.string "MANSIÓN AZULONA$"
 
 CeladonCity_Text_DeptStoreSign::
 	.string "¡Compra lo que necesites en el Centro\n"

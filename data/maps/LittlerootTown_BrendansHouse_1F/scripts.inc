@@ -372,18 +372,18 @@ PlayersHouse_1F_Text_ReportFromPetalburgGym:
 	.string "report from in front of PETALBURG GYM.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "Están dando una película.\p"
+	.string "Dos hombres bailan sobre un enorme\n"
+	.string "teclado de piano.\p"
+	.string "¡Mejor sigo mi camino!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+	.string "Son las instrucciones de las \n"
+	.string "DEPORTIVAS.\p"
+	.string "“Pulsa el Botón B cuando lleves las\n"
+	.string "DEPORTIVAS para salir pitando.\p"
+	.string "Ponte las DEPORTIVAS y empieza\n"
+	.string "a correr por todas partes.”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "DAD: Hm?\p"
@@ -416,15 +416,15 @@ PlayersHouse_1F_Text_IsThatABreakingStory:
 	.string "MOM: Is that a breaking news story?$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+	.string "¡Interrumpimos la programación para\n"
+	.string "traerles las últimas noticias!\p"
+	.string "Hay noticias confusas sobre supuestos\n"
+	.string "avistamientos de un POKéMON azzzrt…\l"
+	.string "volando en distintos puntos de HOENN.\p"
+	.string "Actualmente se desconoce la identidad\n"
+	.string "del POKéMON.\p"
+	.string "Y ahora les dejamos con la programación\n"
+	.string "habitual.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
 	.string "MOM: {PLAYER}, did you catch that?\p"

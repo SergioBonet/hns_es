@@ -1400,12 +1400,12 @@ CableClub_Text_YouHaveAMonThatCantBeTaken_Frlg::
 	.string "puede seleccionar.$"
 
 CableClub_Text_AdapterNotConnected_Frlg::
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+	.string "El Conector inalámbrico de GBA\n"
+	.string "no está bien conectado.$"
 
 CableClub_Text_ParticipantsStepUpToCounter_Frlg::
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+	.string "Los participantes deben pasar\n"
+	.string "por el mostrador de recepción.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_Hello_Frlg::
@@ -1716,5 +1716,5 @@ Text_WirelessClubUndergoingAdjustments::
 	.string "disponible todavía.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Se ve que están dándole\n"
+	.string "los últimos retoques…$"

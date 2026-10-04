@@ -284,7 +284,7 @@ VermilionCity_Text_BuildingOnThisLand::
 	.string "to lay the foundation.$"
 
 VermilionCity_Text_Machop::
-	.string "MACHOP: Guoh! Gogogoh!$"
+	.string "MACHOP: ¡Guoh! ¡Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
 	.string "Un MACHOP está aplanando el terreno.$"
@@ -311,9 +311,9 @@ VermilionCity_Text_PokemonFanClubSign::
 	.string "All POKéMON fans welcome!$"
 
 VermilionCity_Text_GymSign::
-	.string "VERMILION CITY POKéMON GYM\n"
-	.string "LEADER: LT. SURGE\l"
-	.string "The Lightning American!$"
+	.string "GIMNASIO POKéMON de CIUDAD CARMÍN\n"
+	.string "LÍDER: TTE. SURGE\l"
+	.string "¡El Americano Relámpago!$"
 
 VermilionCity_Text_VermilionHarbor::
 	.string "VERMILION HARBOR$"

@@ -82,13 +82,13 @@ ViridianForest_Text_RickPostBattle::
 	.string "Another time, okay?$"
 
 ViridianForest_Text_DougIntro::
-	.string "Yo!\n"
-	.string "You can't jam out if you're a\l"
-	.string "POKéMON TRAINER!$"
+	.string "¡Eh!\n"
+	.string "¡Si eres ENTRENADOR POKéMON no\l"
+	.string "puedes montar un buen concierto!$"
 
 ViridianForest_Text_DougDefeat::
-	.string "Huh?\n"
-	.string "I ran out of POKéMON!$"
+	.string "¿Eh?\n"
+	.string "¡Me he quedado sin POKéMON!$"
 
 ViridianForest_Text_DougPostBattle::
 	.string "¡Qué rabia! ¡Voy a atrapar\n"

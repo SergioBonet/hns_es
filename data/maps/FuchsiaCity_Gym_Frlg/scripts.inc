@@ -234,14 +234,14 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
 	.string "asustando el ninja, incluso ahora!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-	.string "FUCHSIA POKéMON GYM\n"
-	.string "LEADER: KOGA\p"
-	.string "WINNING TRAINERS:\n"
+	.string "GIMNASIO POKéMON de FUCSIA\n"
+	.string "LÍDER: KOGA\p"
+	.string "ENTRENADORES VENCEDORES:\n"
 	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-	.string "FUCHSIA POKéMON GYM\n"
-	.string "LEADER: KOGA\p"
-	.string "WINNING TRAINERS:\n"
+	.string "GIMNASIO POKéMON de FUCSIA\n"
+	.string "LÍDER: KOGA\p"
+	.string "ENTRENADORES VENCEDORES:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

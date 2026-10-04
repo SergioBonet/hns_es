@@ -177,14 +177,14 @@ FuchsiaCity_Text_WardensHomeSign::
 	.string "WARDEN'S HOME$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-	.string "POKéMON PARADISE!\n"
-	.string "Welcome to the SAFARI ZONE!\l"
-	.string "SAFARI ZONE OFFICE$"
+	.string "¡EL PARAÍSO POKéMON!\n"
+	.string "¡Bienvenido a la ZONA SAFARI!\l"
+	.string "OFICINA de la ZONA SAFARI$"
 
 FuchsiaCity_Text_GymSign::
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: KOGA\l"
-	.string "The Poisonous Ninja Master$"
+	.string "GIMNASIO POKéMON de CIUDAD FUCSIA\n"
+	.string "LÍDER: KOGA\l"
+	.string "El Maestro Ninja del Veneno$"
 
 FuchsiaCity_Text_ChanseySign::
 	.string "Name: CHANSEY\n"

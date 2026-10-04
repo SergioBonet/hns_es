@@ -72,15 +72,15 @@ Route13_Text_AlmaPostBattle::
 	.string "POKéMON.$"
 
 Route13_Text_PerryIntro::
-	.string "I'm not going to lose.\n"
-	.string "Not when the wind's blowing my way!$"
+	.string "No voy a perder.\n"
+	.string "¡No con el viento a mi favor!$"
 
 Route13_Text_PerryDefeat::
-	.string "The wind turned!$"
+	.string "¡El viento ha cambiado!$"
 
 Route13_Text_PerryPostBattle::
-	.string "I'm beat.\n"
-	.string "I guess I'll FLY home.$"
+	.string "Estoy rendido.\n"
+	.string "Creo que VOLARÉ a casa.$"
 
 Route13_Text_LolaIntro::
 	.string "Sure, I'll play with you, sweetie.$"

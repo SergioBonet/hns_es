@@ -282,8 +282,8 @@ Route13_Text_AlmaRematchIntro::
 	.string "bought more CARBOS.$"
 
 Route13_Text_PerryRematchIntro::
-	.string "I'm not going to lose this time.\n"
-	.string "The wind's blowing my way!$"
+	.string "No voy a perder esta vez.\n"
+	.string "¡El viento sopla a mi favor!$"
 
 Route13_Text_LolaRematchIntro::
 	.string "Oh, you're back?\p"
@@ -302,8 +302,8 @@ Route13_Text_RobertRematchIntro::
 	.string "I've dedicated myself to them.$"
 
 Route14_Text_CarterRematchIntro::
-	.string "I used TMs to teach good moves\n"
-	.string "to my POKéMON.$"
+	.string "Usé MTs para enseñar buenos\n"
+	.string "movimientos a mis POKéMON.$"
 
 Route14_Text_MitchRematchIntro::
 	.string "My bird POKéMON should be ready\n"

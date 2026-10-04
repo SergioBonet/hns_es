@@ -1,6 +1,6 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " ¡qué bonito!$"
 
 GiddyText_SoDarling::
 	.string " dulzura.$"
@@ -24,7 +24,7 @@ GiddyText_SoMagical::
 	.string " magia.$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " es$"
 
 GiddyText_DontYouAgree::
 	.string "\n"

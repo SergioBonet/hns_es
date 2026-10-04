@@ -19,8 +19,8 @@
 // Shared Move Description entries
 
 const u8 gNotDoneYetDescription[] = _(
-    "This move can't be used. Its\n"
-    "effect is in development.");
+    "Este movimiento no se puede\n"
+    "usar. Su efecto está en desarrollo.");
 
 static const u8 sNullDescription[] = _("");
 
@@ -34,8 +34,8 @@ static const u8 sHyperBeamDescription[] = _(
     "al atacante 1 turno.");
 #else
 static const u8 sHyperBeamDescription[] = _(
-    "Leaves the user immobile\n"
-    "if target is not KO'd.");
+    "Deja inmóvil al usuario\n"
+    "si el objetivo no cae.");
 #endif
 
 static const u8 sRevengeDescription[] = _(
@@ -433,8 +433,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("VIENTO CORTANTE"),
         #if B_UPDATED_MOVE_DATA == GEN_3 || B_UPDATED_MOVE_DATA == GEN_1
             .description = COMPOUND_STRING(
-                "A 2-turn move that strikes\n"
-                "the foe on the 2nd turn."),
+                "Movimiento de 2 turnos que\n"
+                "golpea al rival en el 2.º."),
         #else
             .description = COMPOUND_STRING(
                 "Ataque en 2 turnos. Suele ser\n"
@@ -1835,8 +1835,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             .effect = EFFECT_LOW_KICK,
         #else
             .description = COMPOUND_STRING(
-                "A low, tripping kick that\n"
-                "may cause flinching."),
+                "Patada baja que hace\n"
+                "tropezar. Puede amedrentar."),
             .effect = EFFECT_HIT,
             .additionalEffects = ADDITIONAL_EFFECTS({
                 .moveEffect = MOVE_EFFECT_FLINCH,
@@ -2690,8 +2690,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "es salvaje, huye."),
         #else
         .description = COMPOUND_STRING(
-            "A psychic move for fleeing\n"
-            "from battle instantly."),
+            "Movimiento psíquico para\n"
+            "huir del combate al instante."),
         #endif
         .effect = EFFECT_TELEPORT,
         .power = 0,
@@ -3926,8 +3926,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
                 "confundir al objetivo."),
         #else
             .description = COMPOUND_STRING(
-                "The target is hit with\n"
-                "rhythmic punches."),
+                "Golpea al objetivo con\n"
+                "puñetazos rítmicos."),
         #endif
         .effect = EFFECT_HIT,
         .power = 70,
@@ -4207,8 +4207,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
                 "Puede causar retroceso."),
         #else
             .description = COMPOUND_STRING(
-                "Hits the foe with an\n"
-                "avalanche of rocks."),
+                "Golpea al rival con una\n"
+                "avalancha de rocas."),
         #endif
         .effect = EFFECT_HIT,
         .power = 75,
@@ -4321,8 +4321,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
                 "paralizar o congelar."),
         #else
             .description = COMPOUND_STRING(
-                "A triangular field of energy\n"
-                "is created and launched."),
+                "Se crea y lanza un campo\n"
+                "triangular de energía."),
         #endif
         .effect = EFFECT_HIT,
         .power = 80,
@@ -9138,8 +9138,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "daña. Puede paralizar."),
         #else
         .description = COMPOUND_STRING(
-            "A life-risking tackle that\n"
-            "slightly hurts the user."),
+            "Placaje arriesgado que\n"
+            "daña un poco al usuario."),
         #endif
         .effect = EFFECT_RECOIL,
         .power = 120,
@@ -16812,16 +16812,16 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("VELO AURORA"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
-            "Weakens all attacks, but\n"
-            "only usable with snow."),
+            "Debilita todos los ataques,\n"
+            "pero solo se usa con nieve."),
         #elif B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_BOTH
         .description = COMPOUND_STRING(
             "Con granizo o nieve, debilita\n"
             "todos los ataques."),
         #else
         .description = COMPOUND_STRING(
-            "Weakens all attacks, but\n"
-            "only usable with hail."),
+            "Debilita todos los ataques,\n"
+            "pero solo se usa con granizo."),
         #endif
         .effect = EFFECT_AURORA_VEIL,
         .power = 0,

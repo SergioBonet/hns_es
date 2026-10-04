@@ -166,128 +166,122 @@ PalletTown_RivalsHouse_EventScript_Picture::
 	end
 
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-	.string "DAISY: Hi, {PLAYER}!\p"
-	.string "My brother, {RIVAL}, is out at\n"
-	.string "Grandpa's LAB.$"
+	.string "DALIA: ¡Hola, {PLAYER}!\p"
+	.string "¡{RIVAL} está en el laboratorio\n"
+	.string "del abuelo!$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-	.string "DAISY: {PLAYER}, I heard you had\n"
-	.string "a battle against {RIVAL}.\p"
-	.string "I wish I'd seen that!$"
+	.string "DALIA: {PLAYER}, he oído que has\n"
+	.string "luchado contra {RIVAL}.\p"
+	.string "¡Me hubiera encantado estar ahí!$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
-	.string "Grandpa asked you to run an\n"
-	.string "errand?\p"
-	.string "Gee, that's lazy of him.\n"
-	.string "Here, this will help you.$"
+	.string "¿Te encargó algo el abuelo?\p"
+	.string "¡Toma esto!\n"
+	.string "¡Te ayudará!$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-	.string "{PLAYER} received a TOWN MAP\n"
-	.string "from DAISY.$"
+	.string "¡{PLAYER} recibió el MAPA\n"
+	.string "de manos de DALIA!$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this in\n"
-	.string "your BAG.$"
+	.string "Llevas demasiadas cosas\n"
+	.string "en la MOCHILA.$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-	.string "You can use the TOWN MAP to find\n"
-	.string "out where you are, or check the\l"
-	.string "names of places.$"
+	.string "Usa el MAPA para saber dónde\n"
+	.string "te encuentras.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-	.string "DAISY: Just like people, POKéMON\n"
-	.string "are living things.\p"
-	.string "When they get tired, please give\n"
-	.string "them a rest.$"
+	.string "DALIA: Los POKéMON son seres que\n"
+	.string "sienten, igual que las personas.\p"
+	.string "Cuando se cansen, deberás dejar\n"
+	.string "que se recuperen.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
-	.string "It's a big map of the KANTO region.\n"
-	.string "Now this would be useful!$"
+	.string "¡Es un gran mapa de KANTO!\n"
+	.string "¡Qué útil!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
-	.string "The shelves are crammed full of\n"
-	.string "books on POKéMON.$"
+	.string "¡Está totalmente llena de libros\n"
+	.string "sobre los POKéMON!$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-	.string "DAISY: Hi, {PLAYER}!\n"
-	.string "Good timing.\p"
-	.string "I'm about to have some tea.\n"
-	.string "Would you like to join me?\p"
-	.string "Oh, but look.\n"
-	.string "Your POKéMON are a little dirty.\p"
-	.string "Would you like me to groom one?$"
+	.string "DALIA: ¡Hola, {PLAYER}!\n"
+	.string "¡Llegas a tiempo!\p"
+	.string "Iba a tomarme un té.\n"
+	.string "¿Quieres uno?\p"
+	.string "Tus POKéMON están un poco sucios.\n"
+	.string "¿Quieres que limpie a alguno?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
-	.string "You don't need any grooming done?\n"
-	.string "Okay, we'll just have tea.$"
+	.string "¿No quieres que limpie a ningún\n"
+	.string "POKéMON?\l"
+	.string "Bueno, vamos a tomarnos el té.$"
 
 PalletTown_RivalsHouse_Text_GroomWhichOne::
-	.string "Which one should I groom?$"
+	.string "¿A qué POKéMON limpio?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-	.string "DAISY: Okay, I'll get it looking\n"
-	.string "nice in no time.$"
+	.string "DALIA: Vale, verás lo mono\n"
+	.string "que se queda.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
-	.string "{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content…\p"
-	.string "{COLOR RED}DAISY: There you go! All done.\n"
+	.string "{COLOR DARK_GRAY}{STR_VAR_1} parece soñadoramente\ncontento…\p"
+	.string "{COLOR RED}DALIA: ¡Ya está! ¡Terminado!\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
-	.string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
-	.string "{FONT_FEMALE}DAISY: There you go! All done.\n"
+	.string "{FONT_NORMAL}{STR_VAR_1} parece soñadoramente\ncontento…\p"
+	.string "{FONT_FEMALE}DALIA: ¡Ya está! ¡Terminado!\n"
 #endif
-	.string "See? Doesn't it look nice?\p"
-	.string "Giggle…\n"
-	.string "It's such a cute POKéMON.$"
+	.string "¿Ves? ¿A que queda bien?\p"
+	.string "Ji, ji…\n"
+	.string "Es un POKéMON tan mono.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
-	.string "Oh, sorry. I honestly can't\n"
-	.string "groom an EGG.$"
+	.string "Lo siento, yo no sé limpiar HUEVOS.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-	.string "DAISY: Your POKéMON grow to love\n"
-	.string "you if you raise them with love.\p"
-	.string "For example, {PLAYER}, may I see\n"
-	.string "your first POKéMON?$"
+	.string "DALIA: Si crías a tus POKéMON\n"
+	.string "con cariño, te querrán mucho.\p"
+	.string "{PLAYER}, ¿me dejas ver a tu primer\n"
+	.string "POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-	.string "It couldn't possibly love you\n"
-	.string "any more than it does now.\p"
-	.string "Your POKéMON is happy beyond\n"
-	.string "words.$"
+	.string "Desde luego, no podría quererte\n"
+	.string "más.\p"
+	.string "¡No hay palabras para expresar\n"
+	.string "lo mucho que se ve que te quiere!$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
-	.string "It looks very happy.\p"
-	.string "I wish {RIVAL} could see this and\n"
-	.string "learn something from it.$"
+	.string "Se le ve muy feliz.\p"
+	.string "Ojalá {RIVAL} pudiera verlo y\n"
+	.string "aprender cómo se hacen las cosas.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-	.string "It's quite friendly with you.\n"
-	.string "Keep being good to it!$"
+	.string "Se ve que se lleva muy bien\n"
+	.string "contigo. ¡Que no decaiga!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
-	.string "It's warming up to you.\n"
-	.string "Trust must be growing between you.$"
+	.string "Se ve que te está tomando\n"
+	.string "cariño. Debes darle confianza.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
-	.string "It's not quite familiar with you\n"
-	.string "yet.\p"
-	.string "POKéMON are all quite wary when\n"
-	.string "you first get them.$"
+	.string "Aún no te conoce bien.\p"
+	.string "Todos los POKéMON son bastante\n"
+	.string "recelosos al principio.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-	.string "{PLAYER}, I don't like the way it\n"
-	.string "glares at you.\p"
-	.string "Could you try being a little nicer\n"
-	.string "to it?$"
+	.string "{PLAYER}, no me gusta cómo te mira.\p"
+	.string "¿Podrías ser un poco más amable\n"
+	.string "con él?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-	.string "…Um, it's not easy for me to say\n"
-	.string "this, but…\p"
-	.string "Is there some reason why your\n"
-	.string "POKéMON would hate you so much?$"
+	.string "Eh... siento decírtelo, pero...\p"
+	.string "¿Qué has hecho para que te tenga\n"
+	.string "tanta tirria?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-	.string "“The lovely and sweet\n"
-	.string "CLEFAIRY”$"
+	.string "El cariñoso y dulce\n"
+	.string "CLEFAIRY.$"
 

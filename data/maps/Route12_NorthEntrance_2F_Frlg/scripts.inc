@@ -44,37 +44,36 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Las cenizas de mis POKéMON están\n"
+	.string "guardadas en la TORRE POKéMON.\p"
+	.string "Puedes quedarte con mi MT. Ya no\n"
+	.string "la necesito...$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Las cenizas de mis POKéMON están\n"
+	.string "guardadas en la TORRE POKéMON.\p"
+	.string "Puedes quedarte con mi MT. Ya no\n"
+	.string "la necesito...$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-	.string "{PLAYER} received TM27\n"
-	.string "from the little girl.$"
+	.string "¡{PLAYER} obtuvo la MT27\n"
+	.string "de manos de la chica!$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-	.string "TM27 is a move called RETURN…\p"
-	.string "If you treat your POKéMON good,\n"
-	.string "it will return your love by working\l"
-	.string "its hardest in battle.$"
+	.string "¡La MT27 es un ataque que se\n"
+	.string "llama RETROCESO!\p"
+	.string "Si tratas bien a tus POKéMON,\n"
+	.string "aumentará sus efectos en\l"
+	.string "combate.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-	.string "You don't have room for this.$"
+	.string "¡No tienes sitio para esto!$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There's a man fishing!$"
+	.string "Has usado los prismáticos...\p"
+	.string "¡Un hombre está pescando!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It's POKéMON TOWER!$"
+	.string "Has usado los prismáticos...\p"
+	.string "¡Es la TORRE POKéMON!$"
 

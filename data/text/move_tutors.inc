@@ -1,6 +1,6 @@
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Este movimiento sólo se puede aprender\n"
+	.string "una vez, ¿vale?$"
 
 MoveTutor_Text_SwaggerTeach:
 	.string "¡Guau! ¡Cómo mola mi POKéMON!\n"
@@ -57,8 +57,8 @@ MoveTutor_Text_FuryCutterDeclined:
 	.string "onda.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
-	.string "Yay!\n"
-	.string "Show me which POKéMON I should teach.$"
+	.string "¡Yupi!\n"
+	.string "Dime a qué POKéMON se lo enseño.$"
 
 MoveTutor_Text_FuryCutterTaught:
 	.string "¡Me encanta pararme a ver\n"
@@ -104,8 +104,8 @@ MoveTutor_Text_MetronomeDeclined:
 	.string "Estaré aquí por si cambias de idea.$"
 
 MoveTutor_Text_MetronomeWhichMon:
-	.string "Okay! I'll teach it!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "¡Guay! ¡Se lo enseñaré!\n"
+	.string "Pero ¿a qué POKéMON?$"
 
 MoveTutor_Text_MetronomeTaught:
 	.string "Cuando tu POKéMON mueva el dedo\n"
@@ -127,8 +127,8 @@ MoveTutor_Text_SleepTalkDeclined:
 	.string "PODER OCULTO…$"
 
 MoveTutor_Text_SleepTalkWhichMon:
-	.string "Ah, an appreciative child!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "¡Joven pero inteligente!\n"
+	.string "¿A qué POKéMON debo enseñárselo?$"
 
 MoveTutor_Text_SleepTalkTaught:
 	.string "Nunca he acabado de entender el truco\n"
@@ -203,8 +203,8 @@ MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Hasta tú pasas de mí…$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Okay, which POKéMON should I teach\n"
-	.string "DOUBLE-EDGE?$"
+	.string "Estupendo, ¿y qué POKéMON quieres\n"
+	.string "que aprenda a usar DOBLE FILO?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
 	.string "Dicen que el amor nos hace fuertes,\n"
@@ -227,8 +227,8 @@ MoveTutor_Text_ExplosionDeclined:
 	.string "crees que soy un pueblerino, ¿eh?$"
 
 MoveTutor_Text_ExplosionWhichMon:
-	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which POKéMON wants to blow up?$"
+	.string "¡Genial! ¿Y qué POKéMON quieres\n"
+	.string "que aprenda EXPLOSIÓN?$"
 
 MoveTutor_Text_ExplosionTaught:
 	.string "Llevo años enseñando a los POKéMON\n"
@@ -254,5 +254,5 @@ MoveTutor_Text_HeadbuttDeclined:
 	.string "¡Vamos a darnos cabezazos!$"
 
 MoveTutor_Text_HeadbuttTaught:
-	.string "Rattle trees with HEADBUTT.\n"
-	.string "Sometimes, sleeping POKéMON fall out.$"
+	.string "Sacude los árboles con CABEZAZO. A\n"
+	.string "veces caen POKéMON dormidos.$"

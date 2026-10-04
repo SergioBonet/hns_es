@@ -396,10 +396,10 @@ gNationalDexRatingText_LessThan350::
 gNationalDexRatingText_LessThan400::
 @	.string "Music on the radio might also\n"
 @	.string "entice POKéMON to leap out$"
-	.string "There are hidden locations all\n"
-	.string "over the world containing rare\p"
-	.string "and unusual POKéMON, try to find\n"
-	.string "them all!$"
+	.string "Hay lugares ocultos por todo el\n"
+	.string "mundo con POKéMON raros\p"
+	.string "e inusuales. ¡Intenta\n"
+	.string "encontrarlos todos!$"
 
 gNationalDexRatingText_LessThan435::
 	.string "No pensé que llegarías hasta aquí.\p"

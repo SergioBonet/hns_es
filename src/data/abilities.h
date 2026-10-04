@@ -877,7 +877,7 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
     #if B_SNOW_WARNING >= GEN_9
         .description = COMPOUND_STRING("Hace nevar en combate."),
     #else
-        .description = COMPOUND_STRING("Summons hail in battle."),
+        .description = COMPOUND_STRING("Hace granizar en combate."),
     #endif
         .aiRating = 8,
     },

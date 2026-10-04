@@ -5,7 +5,7 @@ BerryBlender_Text_WantToMakePokeblocks:
 	.string "con este viejales?$"
 
 BerryBlender_Text_Excellent:
-	.string "Excellent!$"
+	.string "¡Maravilloso!$"
 
 BerryBlender_Text_MadeOldTimerSad:
 	.string "Oh…\n"
@@ -69,7 +69,7 @@ BerryBlender_Text_WantToBlendPokeblocksWithUs:
 	.string "a ver qué {POKEBLOCK}S sacamos?$"
 
 BerryBlender_Text_Okay:
-	.string "Okay!$"
+	.string "¡Genial!$"
 
 BerryBlender_Text_ThatsTooBad:
 	.string "Tú te lo pierdes…\p"
@@ -113,11 +113,11 @@ BerryBlender_Text_DontHavePokeblockCase2:
 
 @ Unused
 BerryBlender_Text_MakePokeblocksWithOurGroup:
-	.string "Oh, hello! Did you want to make some\n"
-	.string "{POKEBLOCK}S with our little group?$"
+	.string "¡Hola! ¿Querías preparar unos\n"
+	.string "{POKEBLOCK}S con nuestro grupito?$"
 
 BerryBlender_Text_OhDear:
-	.string "Oh, dear!$"
+	.string "¡Ay, ay!$"
 
 BerryBlender_Text_LeftUsInShock:
 	.string "¡Ay de mí!…\p"
@@ -173,36 +173,37 @@ BerryBlender_Text_MakeDeliciousPokeblocks:
 	.string "que harán a mis POKéMON más dulces.$"
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
-	.string "{POKEBLOCK}S will be made with your friends \n"
-	.string "from BERRIES in the BERRY BLENDER.\p"
-	.string "Is it okay to save the game before\n"
-	.string "linking with your friends?$"
+	.string "Se prepararán {POKEBLOCK}S con tus amigos\n"
+	.string "a partir de BAYAS en la LICUABAYAS.\p"
+	.string "¿Quieres guardar la partida antes\n"
+	.string "de conectarte con tus amigos?$"
 
 BerryBlender_Text_SearchingForFriends:
-	.string "Searching for your friends…\n"
-	.string "… … B Button: Cancel$"
+	.string "Buscando a tus amigos…\n"
+	.string "(…) Botón B: cancelar$"
 
 BerryBlender_Text_Player1Arrived:
-	.string "{STR_VAR_1} arrived.$"
+	.string "{STR_VAR_1} se ha conectado.$"
 
 BerryBlender_Text_Player1And2Arrived:
-	.string "{STR_VAR_1} and {STR_VAR_2} arrived.$"
+	.string "{STR_VAR_1} y {STR_VAR_2} se han\n"
+	.string "conectado.$"
 
 BerryBlender_Text_AllPlayersArrived:
-	.string "{STR_VAR_1}, {STR_VAR_2}, and\n"
-	.string "{STR_VAR_3} arrived.$"
+	.string "{STR_VAR_1}, {STR_VAR_2} y {STR_VAR_3}\n"
+	.string "se han conectado.$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "You have no BERRIES.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "No tienes ninguna BAYA.\n"
+	.string "No puedes usar la LICUABAYAS.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
-	.string "Your {POKEBLOCK} CASE is full.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "Tu ESTUCHE {POKEBLOCK} está lleno.\n"
+	.string "No se puede usar la LICUABAYAS.$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
-	.string "You don't have a {POKEBLOCK} CASE.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "No tienes un ESTUCHE {POKEBLOCK}.\n"
+	.string "No se puede usar la LICUABAYAS.$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
 	.string "Me encanta preparar {POKEBLOCK}S.\p"

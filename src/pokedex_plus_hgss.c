@@ -156,7 +156,7 @@ static const u8 sText_Stats_Gender_87_5[] = _("♀ 7/1 ♂");
 static const u8 sText_Stats_Gender_100[] = _("♀");
 static const u8 sText_Stats_CatchRate[] = _("CAPT.{0x5B}: ");
 static const u8 sText_Stats_CatchRate_Legend[] = _("LEGENDARIO");
-static const u8 sText_Stats_CatchRate_VeryHard[] = _("MUY DIF.");
+static const u8 sText_Stats_CatchRate_VeryHard[] = _("MUY DIFÍCIL");
 static const u8 sText_Stats_CatchRate_Difficult[] = _("DIFÍCIL");
 static const u8 sText_Stats_CatchRate_Medium[] = _("MEDIO");
 static const u8 sText_Stats_CatchRate_Relaxed[] = _("SUAVE");
@@ -6732,7 +6732,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
         bool32 caught = GetSetPokedexFlag(SpeciesToNationalPokedexNum(targetSpecies), FLAG_GET_CAUGHT);
         if (HGSS_HIDE_UNOWNED_EVOLUTION_METHODS == TRUE && !caught)
         {
-            StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Unknown"));
+            StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Desconocido"));
         }
         else
         {
@@ -6740,7 +6740,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
             {
             case EVO_SCRIPT_TRIGGER:
             case EVO_NONE:
-                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Unknown"));
+                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Desconocido"));
                 break;
             case EVO_LEVEL:
             case EVO_LEVEL_BATTLE_ONLY:

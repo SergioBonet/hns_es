@@ -10,16 +10,16 @@ PewterCity_House2_EventScript_LittleBoy::
 	end
 
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-	.string "POKéMON learn new techniques as\n"
-	.string "they grow.\p"
-	.string "But some moves must be taught to\n"
-	.string "them by people.$"
+	.string "Los POKéMON aprenden técnicas\n"
+	.string "nuevas a medida que crecen.\p"
+	.string "Pero algunos movimientos tienen\n"
+	.string "que enseñárselos las personas.$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-	.string "A POKéMON becomes easier to \n"
-	.string "catch if it has a status problem.\p"
-	.string "Sleep, poison, burn, or paralysis…\n"
-	.string "Those are all effective.\p"
-	.string "But catching POKéMON is never\n"
-	.string "a sure thing!$"
+	.string "Un POKéMON es más fácil de capturar\n"
+	.string "si tiene un problema de estado.\p"
+	.string "Sueño, veneno, quemadura o parálisis…\n"
+	.string "Todos son eficaces.\p"
+	.string "¡Pero capturar POKéMON nunca es\n"
+	.string "algo seguro!$"
 

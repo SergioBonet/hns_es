@@ -5,7 +5,7 @@ const struct ContestEffect gContestEffects[] =
         #if C_UPDATED_MOVE_EFFECTS >= GEN_6
         .description = COMPOUND_STRING("Una exhibición\nmuy atractiva."),
         #else
-        .description = COMPOUND_STRING("A highly appealing move."),
+        .description = COMPOUND_STRING("Un movimiento muy atractivo."),
         #endif
         .effectType = CONTEST_EFFECT_TYPE_APPEAL,
         .appeal = 40,

@@ -6,6 +6,6 @@ Route5_EventScript_UndergroundPathSign::
 	end
 
 Route5_Text_UndergroundPathSign::
-	.string "UNDERGROUND PATH\n"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "CAMINO SUBTERRÁNEO\n"
+	.string "CIUDAD CELESTE - CIUDAD CARMÍN$"
 

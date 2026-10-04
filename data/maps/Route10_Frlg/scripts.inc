@@ -17,88 +17,87 @@ Route10_EventScript_PowerPlantSign::
 	end
 
 Route10_Text_MarkIntro::
-	.string "Wow, you came all the way here?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
-	.string "Want to see my collection?$"
+	.string "¿Eres como los POKéMANÍACOS?\n"
+	.string "¿Quieres ver mi colección?$"
 
 Route10_Text_MarkDefeat::
-	.string "Humph.\n"
-	.string "I'm not angry!$"
+	.string "¿Qué?\n"
+	.string "¡No estoy enfadado!$"
 
 Route10_Text_MarkPostBattle::
-	.string "I have more rare POKéMON at home!$"
+	.string "¡En casa tengo más POKéMON\n"
+	.string "superraros!$"
 
 Route10_Text_ClarkIntro::
-	.string "Ha-hahah-ah-ha!$"
+	.string "¡Ja-jajá-já!$"
 
 Route10_Text_ClarkDefeat::
-	.string "Ha-haha!\n"
-	.string "Not laughing!\l"
-	.string "Ha-hay fever! Haha-ha-choo!$"
+	.string "¡Ja-jaja!\n"
+	.string "¡No me estoy riendo!\l"
+	.string "¡Es a-a-a-lergia! ¡Ja-ja-ja-chís!$"
 
 Route10_Text_ClarkPostBattle::
-	.string "Haha-ha-choo!\n"
-	.string "Ha-choo!\l"
-	.string "Snort! Snivel!$"
+	.string "¡Ja-ja-ja-chís!\n"
+	.string "¡Achís!\l"
+	.string "¡Ñic! ¡Snif!$"
 
 Route10_Text_HermanIntro::
-	.string "Hi, kid!\n"
-	.string "Want to see my POKéMON?$"
+	.string "¡Eh, hola!\n"
+	.string "¿Quieres ver mis POKéMON?$"
 
 Route10_Text_HermanDefeat::
-	.string "Oh, no!\n"
-	.string "My POKéMON!$"
+	.string "¡Oh, no!\n"
+	.string "¡Mis POKéMON!$"
 
 Route10_Text_HermanPostBattle::
-	.string "I don't like you.\n"
-	.string "I don't like anyone better than me!$"
+	.string "No me caes bien.\n"
+	.string "¡No me gusta nadie mejor que yo!$"
 
 Route10_Text_HeidiIntro::
-	.string "I've been out at a POKéMON GYM\n"
-	.string "a few times.\p"
-	.string "…But I always lose.$"
+	.string "He estado varias veces en un\n"
+	.string "GIMNASIO POKéMON.\p"
+	.string "¡Y he perdido siempre!$"
 
 Route10_Text_HeidiDefeat::
-	.string "Ohh!\n"
-	.string "After all my training!$"
+	.string "¡Oh!\n"
+	.string "¡Después de todo mi entrenamiento!$"
 
 Route10_Text_HeidiPostBattle::
-	.string "I noticed some POKéMANIACS\n"
-	.string "prowling around.\p"
-	.string "Can you imagine? Them?\n"
-	.string "Up here in the mountains?$"
+	.string "Vi a unos POKéMANÍACOS merodeando.\p"
+	.string "¿Te lo imaginas? ¿Ellos?\n"
+	.string "¿Aquí arriba, en las montañas?$"
 
 Route10_Text_TrentIntro::
-	.string "Ah!\n"
-	.string "This mountain air is delicious!$"
+	.string "¡Ah!\n"
+	.string "¡Me encanta el aire de montaña!$"
 
 Route10_Text_TrentDefeat::
-	.string "That cleared my head!$"
+	.string "¡Me ha despejado la cabeza!$"
 
 Route10_Text_TrentPostBattle::
-	.string "I feel bloated on mountain air!$"
+	.string "A mí el aire de la montaña\n"
+	.string "me atonta.$"
 
 Route10_Text_CarolIntro::
-	.string "I'm feeling a bit faint.\n"
-	.string "I haven't hiked in some time.$"
+	.string "Me siento un poco mareado.\n"
+	.string "Hace tiempo que no hago senderismo.$"
 
 Route10_Text_CarolDefeat::
-	.string "I'm too tired.\n"
-	.string "I wasn't up for it.$"
+	.string "Estoy demasiado cansado.\n"
+	.string "No estaba para esto.$"
 
 Route10_Text_CarolPostBattle::
-	.string "The POKéMON here in the mountains\n"
-	.string "are so chunky…\p"
-	.string "I wish there were pink POKéMON\n"
-	.string "with a floral pattern!$"
+	.string "¡Estos POKéMON son tan toscos!\p"
+	.string "¡Debería haber alguno rosa con\n"
+	.string "bonitas flores!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-	.string "ROCK TUNNEL\n"
-	.string "Detour to LAVENDER TOWN$"
+	.string "TÚNEL ROCA\n"
+	.string "Desvío hacia PUEBLO LAVANDA.$"
 
 Route10_Text_RockTunnel::
-	.string "ROCK TUNNEL$"
+	.string "TÚNEL ROCA$"
 
 Route10_Text_PowerPlant::
-	.string "POWER PLANT$"
+	.string "CENTRAL ENERGÍA$"
 

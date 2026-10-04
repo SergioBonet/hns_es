@@ -182,10 +182,10 @@ static const u32 sHiddenMonIconGfx[] = INCBIN_U32("graphics/dexnav/hidden.4bpp.s
 
 // strings
 static const u8 sText_DexNav_NoInfo[] = _("--------");
-static const u8 sText_DexNav_CaptureToSee[] = _("Capture first!");
-static const u8 sText_DexNav_PressRToRegister[] = _("R TO REGISTER!");
+static const u8 sText_DexNav_CaptureToSee[] = _("¡Captura primero!");
+static const u8 sText_DexNav_PressRToRegister[] = _("¡R PARA REGISTRAR!");
 static const u8 sText_DexNav_SearchForRegisteredSpecies[] = _("Buscar {STR_VAR_1}");
-static const u8 sText_DexNav_NotFoundHere[] = _("This Pokémon cannot be found here!");
+static const u8 sText_DexNav_NotFoundHere[] = _("¡Este POKéMON no se encuentra aquí!");
 static const u8 sText_ThreeQmarks[] = _("???");
 static const u8 sText_SearchLevel[] = _("BUSCAR {LV}. {STR_VAR_1}");
 static const u8 sText_MonLevel[] = _("{LV}. {STR_VAR_1}");

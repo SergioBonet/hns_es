@@ -87,63 +87,65 @@ MauvilleCity_PokemonCenter_1F_EventScript_TeachWord::
 
 @ Trader
 MauvilleCity_PokemonCenter_1F_Text_WantToTradeDecor:
-	.string "Hi, I'm the TRADER.\n"
-	.string "Want to trade decorations with me?$"
+	.string "Hola, soy el CANJEADOR.\n"
+	.string "¿Quieres intercambiar objetos\l"
+	.string "de decoración conmigo?$"
 
 MauvilleCity_PokemonCenter_1F_Text_TraderFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Oh… Me has dejado más\n"
+	.string "triste que el alpiste…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WeveAlreadyTraded:
-	.string "But we've traded decorations already,\n"
-	.string "you and I.$"
+	.string "Un momento… ¡Si tú y yo ya hemos\n"
+	.string "intercambiado adornos!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PickADecorItem:
-	.string "If you see any decorative item that\n"
-	.string "you want of mine, speak up.$"
+	.string "Si entre mis objetos ves alguno\n"
+	.string "que te guste, habla sin miedo.$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontWantAnything:
-	.string "You don't want anything?\n"
-	.string "I feel unwanted…$"
+	.string "¡¿Que no quieres nada?!\n"
+	.string "Nadie me quiere…$"
 
 MauvilleCity_PokemonCenter_1F_Text_OnceBelongedToPlayerDoYouWantIt:
-	.string "That decorative item once belonged\n"
-	.string "to {STR_VAR_1}.\p"
-	.string "Do you want it?$"
+	.string "Ese objeto de decoración solía\n"
+	.string "pertenecer a {STR_VAR_1}.\p"
+	.string "¿Lo quieres?$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontHaveAnyDecor:
-	.string "Uh… Wait a second. You don't have a\n"
-	.string "single piece of decoration!$"
+	.string "Eh… Un momento… ¡Si tú no tienes\n"
+	.string "ni un solo objeto de decoración!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PickTheDecorToTrade:
-	.string "Okay, pick the decoration that you'll\n"
-	.string "trade to me.$"
+	.string "Vale, escoge el adorno que quieres\n"
+	.string "intercambiar conmigo…$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontWantToTrade:
-	.string "You won't trade with me?\n"
-	.string "I feel unwanted…$"
+	.string "¡¿Que no quieres intercambiar nada?!\n"
+	.string "Nadie me quiere…$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouveNoRoomForThis:
-	.string "You've got all the {STR_VAR_2}S that can\n"
-	.string "be stored. You've no room for this.$"
+	.string "Ya tienes todos los {STR_VAR_2}S que\n"
+	.string "pueden guardarse. No te queda sitio\l"
+	.string "para esto.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SoWellTradeTheseDecor:
-	.string "Okay, so we'll trade my {STR_VAR_3}\n"
-	.string "for your {STR_VAR_2}?$"
+	.string "Vale, cambiamos mi {STR_VAR_3}\n"
+	.string "por tu {STR_VAR_2}, ¿no?$"
 
 MauvilleCity_PokemonCenter_1F_Text_ThatDecorIsInUse:
-	.string "That piece of decoration is in use.\n"
-	.string "You can't trade it.$"
+	.string "¡Pero si estás usando ese objeto!\n"
+	.string "¡¿Cómo vas a intercambiarlo?!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SendDecorToYourPC:
-	.string "Then we'll trade!\n"
-	.string "I'll send my decoration to your PC.$"
+	.string "¡Trato hecho!\n"
+	.string "Te enviaré el adorno a tu PC.$"
 
 MauvilleCity_PokemonCenter_1F_Text_CantTradeThatOne:
-	.string "Oops! Sorry! That's a really rare\n"
-	.string "piece of decoration.\l"
-	.string "I can't trade that one away!\p"
-	.string "Can I interest you in something else?$"
+	.string "¡Huy, huy, huy, lo siento!\n"
+	.string "Ese adorno es muy poco común.\l"
+	.string "¡No lo puedo intercambiar!\p"
+	.string "¿No te interesa ninguna otra cosa?$"
 
 MauvilleCity_PokemonCenter_1F_EventScript_Trader::
 	lock
@@ -233,58 +235,58 @@ MauvilleCity_PokemonCenter_1F_EventScript_NoRoomForDecor::
 
 @ Storyteller
 MauvilleCity_PokemonCenter_1F_Text_WillYouHearMyTale:
-	.string "I'm the STORYTELLER.\n"
-	.string "I'll tell you tales of legendary\l"
-	.string "TRAINERS.\p"
-	.string "Will you hear my tale?$"
+	.string "Soy el CUENTALEYENDAS.\n"
+	.string "Te contaré historias sobre\l"
+	.string "ENTRENADORES legendarios.\p"
+	.string "¿Quieres oír una?$"
 
 MauvilleCity_PokemonCenter_1F_Text_StorytellerFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Oh… Me has dejado más\n"
+	.string "triste que el alpiste…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WhichTaleToTell:
-	.string "I know of these legends.\n"
-	.string "Which tale will you have me tell?$"
+	.string "Sé todas estas leyendas.\n"
+	.string "¿Cuál quieres oír?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales:
-	.string "But, I know of no legendary TRAINERS.\n"
-	.string "Hence, I know no tales.\p"
-	.string "Where does one find a TRAINER worthy\n"
-	.string "of a legendary tale?$"
+	.string "El caso es que en realidad no sé nada\n"
+	.string "sobre ENTRENADORES legendarios, je…\p"
+	.string "Porque ¿dónde se puede encontrar a\n"
+	.string "un ENTRENADOR de leyenda, a ver?$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDidStatXTimes:
-	.string "What's that?!\n"
-	.string "You… You…\p"
+	.string "¡Andaaa!\n"
+	.string "¿Tú? ¿De verdad?\p"
 	.string "{STR_VAR_2}\n"
-	.string "{STR_VAR_1} time(s)?!\p"
-	.string "That is indeed magnificent!\n"
-	.string "It's the birth of a new legend!$"
+	.string "¿Cuántas veces? ¡¿{STR_VAR_1}?!\p"
+	.string "¡Es magnífico!\n"
+	.string "¡El nacimiento de una leyenda!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CouldThereBeOtherLegends:
-	.string "It gets me thinking, could there be\n"
-	.string "other TRAINERS with more impressive\l"
-	.string "legends awaiting discovery?$"
+	.string "Ahora que lo pienso… ¿Habrá otros\n"
+	.string "ENTRENADORES con leyendas aún\l"
+	.string "más impresionantes por descubrir?$"
 
 MauvilleCity_PokemonCenter_1F_Text_HaveYouAnyLegendaryTales:
-	.string "Are you a TRAINER?\p"
-	.string "Then tell me, have you any tales that\n"
-	.string "are even remotely legendary?$"
+	.string "¿Tú entrenas POKéMON?\p"
+	.string "Pues dime, ¿tienes alguna historia\n"
+	.string "que suene remotamente legendaria?$"
 
 @ Unused
 MauvilleCity_PokemonCenter_1F_Text_HearAnotherLegendaryTale:
-	.string "Incidentally… Would you care to hear\n"
-	.string "another legendary tale?$"
+	.string "Por cierto… ¿Quieres oír\n"
+	.string "otra historia legendaria?$"
 
 MauvilleCity_PokemonCenter_1F_Text_NotWorthyOfLegend:
-	.string "Hmm…\n"
-	.string "I'm not satisfied…\p"
-	.string "I wish you would bring me news worthy\n"
-	.string "of being called a legend.$"
+	.string "Mmmm…\n"
+	.string "No me gusta del todo…\p"
+	.string "Espero que puedas contarme pronto\n"
+	.string "algo mucho más emocionante que eso…$"
 
 MauvilleCity_PokemonCenter_1F_Text_IWishMorePeopleWereInterested:
-	.string "I wish more people would be interested\n"
-	.string "in hearing my epic tales of legendary\l"
-	.string "TRAINERS.$"
+	.string "Ojalá que la gente se interese cada\n"
+	.string "vez más por oír mis épicas historias\l"
+	.string "sobre ENTRENADORES legendarios…$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameTitle::
 	.string "“El ENTRENADOR guardador”$"
@@ -860,21 +862,21 @@ MauvilleCity_PokemonCenter_1F_EventScript_StorytellerEnd::
 
 @ Giddy
 MauvilleCity_PokemonCenter_1F_Text_HearMyStory:
-	.string "I'm GIDDY!\n"
-	.string "I have a scintillating story for you!\p"
-	.string "Would you like to hear my story?$"
+	.string "¡Soy CHARLATÁN!\n"
+	.string "¡Y tengo algo que contarte!\p"
+	.string "¿Quieres oírlo?$"
 
 MauvilleCity_PokemonCenter_1F_Text_GiddyFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Oh… Me has dejado más\n"
+	.string "triste que el alpiste…$"
 
 MauvilleCity_PokemonCenter_1F_Text_AlsoIWasThinking:
-	.string "Also, I was thinking…$"
+	.string "Estaba pensando que…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WeShouldChatAgain:
-	.string "That's about it, I think…\p"
-	.string "We should chat again!\n"
-	.string "Bye-bye!$"
+	.string "Pues eso, estaba pensando que…\p"
+	.string "¡Que tendríamos que seguir\n"
+	.string "charlando otro día! ¡Hasta lueguito!$"
 
 MauvilleCity_PokemonCenter_1F_EventScript_Giddy::
 	lock
@@ -923,58 +925,58 @@ MauvilleCity_PokemonCenter_1F_EventScript_ToldEnoughTales::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToHearMySong:
-	.string "Hi, I'm the BARD.\n"
-	.string "Would you like to hear my song?$"
+	.string "Hola, soy el BARDO.\n"
+	.string "¿Quieres oír mi canción?$"
 
 MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Oh… Me has dejado más\n"
+	.string "triste que el alpiste…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WishICouldPlaySongForOthers:
-	.string "Oh, what a moving song…\n"
-	.string "I wish I could play it for others…$"
+	.string "Es una canción tan conmovedora…\n"
+	.string "Podría cantarla sin parar…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToWriteSomeLyrics:
-	.string "So?\n"
-	.string "How do you like my song?\p"
-	.string "But I'm none too happy about\n"
-	.string "the lyrics.\p"
-	.string "How would you like to write some\n"
-	.string "new lyrics for me?$"
+	.string "¿Y…?\n"
+	.string "¿Te gusta mi canción?\p"
+	.string "Pero la letra no me acaba de\n"
+	.string "convencer. Le falta algo…\p"
+	.string "¿Querrías escribir otra letra\n"
+	.string "para mí, por favor?$"
 
 MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues2:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Oh… Me has dejado más\n"
+	.string "triste que el alpiste…$"
 
 MauvilleCity_PokemonCenter_1F_Text_LetMeSingItForYou:
-	.string "Thank you kindly!\n"
-	.string "Let me sing it for you.$"
+	.string "¡Qué inspiración!\n"
+	.string "Déjame que te la cante…$"
 
 MauvilleCity_PokemonCenter_1F_Text_ThatHowYouWantedSongToGo:
-	.string "Was that how you wanted your song\n"
-	.string "to go?$"
+	.string "¿Es así como querías que sonara\n"
+	.string "tu canción?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IllSingThisSongForAWhile:
-	.string "Okay! That's it, then.\n"
-	.string "I'll sing this song for a while.$"
+	.string "Vale, pues ya está.\n"
+	.string "Cantaré esta canción un rato.$"
 
 MauvilleCity_PokemonCenter_1F_Text_TeachWhatsHipAndHappening:
-	.string "Hey, yo! They call me the HIPSTER.\n"
-	.string "I'll teach you what's hip and happening.$"
+	.string "¡Hola! ¡Soy el FARDÓN!\n"
+	.string "Te voy a enseñar lo que más mola.$"
 
 MauvilleCity_PokemonCenter_1F_Text_IAlreadyTaughtYou:
-	.string "But, hey, I taught you what's hip and\n"
-	.string "happening already.\p"
-	.string "I'd like to spread the good word to\n"
-	.string "other folks.$"
+	.string "Eh, si ya te he enseñado lo\n"
+	.string "que más molaba…\p"
+	.string "¡Yo quiero compartir las modas\n"
+	.string "con más gente, no sólo contigo!$"
 
 MauvilleCity_PokemonCenter_1F_Text_IveGotNothingNewToTeach:
-	.string "But, hey, you already know a lot about\n"
-	.string "what's hip and happening.\p"
-	.string "I've got nothing new to teach you!$"
+	.string "Eh, pero si tú ya sabes mogollón de\n"
+	.string "todo lo que está a la última…\p"
+	.string "¡No puedo enseñarte nada!$"
 
 MauvilleCity_PokemonCenter_1F_Text_HaveYouHeardOfWord:
-	.string "Hey, have you heard about\n"
+	.string "Eh, ¿has oído hablar de\n"
 	.string "“{STR_VAR_1}”?\p"
-	.string "What's it mean? Well…\n"
-	.string "Ask your daddy or mommy, okay?$"
+	.string "¿Que qué significa? Si no lo sabes…,\n"
+	.string "¡pregúntaselo a tus amigos!$"

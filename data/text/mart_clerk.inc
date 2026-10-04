@@ -6,5 +6,5 @@ gText_PleaseComeAgain::
 	.string "¡Vuelve cuando quieras!$"
 
 gText_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{STRING 5}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "¡{PLAYER}{STRING 5}, bienvenido!\p"
+	.string "¿En qué puedo ayudarte?$"

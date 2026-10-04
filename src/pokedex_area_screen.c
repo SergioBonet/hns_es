@@ -659,7 +659,7 @@ static const u8 *GetTimeOfDayTextWithButton(enum TimeOfDay timeOfDay)
 {
     static const u8 gText_Morning[] = _("{DPAD_UPDOWN} MAÑANA");
     static const u8 gText_Day[] = _("{DPAD_UPDOWN} DÍA");
-    static const u8 gText_Evening[] = _("{DPAD_UPDOWN} EVENING");
+    static const u8 gText_Evening[] = _("{DPAD_UPDOWN} TARDE");
     static const u8 gText_Night[] = _("{DPAD_UPDOWN} NOCHE");
 
     switch (gAreaTimeOfDay)

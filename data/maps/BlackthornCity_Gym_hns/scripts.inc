@@ -397,7 +397,7 @@ BlackthornGym_Text_GuideText:
 	.string "HIELO, pero si quieres ganar, también\l"
 	.string "te harán falta movimientos de tipo\l"
 	.string "DRAGÓN o HADA.$"
-    .string "You got this!$"
+    .string "¡Tú puedes!$"
 
 BlackthornGym_Text_GuideGotoDragonsDen:
 	.string "¡Has estado genial venciendo a\n"

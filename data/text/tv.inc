@@ -110,62 +110,63 @@ gTVBravoTrainerText08::
 	.string "¡Más datos sobre {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerLobby_Text_InterviewRequest::
-	.string "Hello! You're the TRAINER who just had\n"
-	.string "a battle, right?\p"
-	.string "I'm gathering interviews with TRAINERS\n"
-	.string "all over the place.\p"
-	.string "May I get a few words from you about\n"
-	.string "your impressions on battling?$"
+	.string "¡Hola! Tú acabas de tener un combate\n"
+	.string "POKéMON, ¿me equivoco?\p"
+	.string "Estoy entrevistando a todos los\n"
+	.string "ENTRENADORES de la zona.\p"
+	.string "¿Podrías compartir tus impresiones de\n"
+	.string "la lucha con nosotros?$"
 
 BattleFrontier_BattleTowerLobby_Text_HowDidBattleTowerTurnOut::
-	.string "You will? Really?\n"
-	.string "Thank you!\l"
-	.string "Then, uh…\p"
-	.string "How did things turn out in\n"
-	.string "the BATTLE TOWER today?\p"
-	.string "Were you satisfied with the battle?\n"
-	.string "Or are you unhappy?$"
+	.string "¿Sí? ¿En serio?\n"
+	.string "¡Gracias!\l"
+	.string "Entonces, a ver…\p"
+	.string "¿Qué tal te ha ido hoy en la\n"
+	.string "TORRE BATALLA?\p"
+	.string "¿Estás alegre por el resultado del\n"
+	.string "combate? ¿O más bien triste?$"
 
 BattleFrontier_BattleTowerLobby_Text_SorryWeDisturbedYou::
-	.string "Oh…\n"
-	.string "Sorry we disturbed you.\p"
-	.string "Please give us an interview the next\n"
-	.string "time you visit the BATTLE TOWER.$"
+	.string "Oh, lástima…\n"
+	.string "Siento haberte molestado.\p"
+	.string "Pero me gustaría que te dejaras\n"
+	.string "entrevistar la próxima vez que\l"
+	.string "vengas a la TORRE BATALLA.$"
 
 BattleFrontier_BattleTowerLobby_Text_ObviousYouHadGreatBattle::
-	.string "Well, of course!\p"
-	.string "That unmistakable look of satisfaction\n"
-	.string "on your face…\p"
-	.string "It's obvious that you've had a great\n"
-	.string "battle.$"
+	.string "¡Pues claro que sí!\p"
+	.string "Tienes una mirada de completa\n"
+	.string "satisfacción en el rostro…\p"
+	.string "Obviamente, has disfrutado de\n"
+	.string "un gran combate…$"
 
 BattleFrontier_BattleTowerLobby_Text_DifficultToMakeBattleTurnOutAsPlanned::
-	.string "Oh, I see…\p"
-	.string "Well, it certainly is difficult to make a\n"
-	.string "battle turn out exactly as planned.$"
+	.string "Ajá, ya veo…\p"
+	.string "Bueno, no es fácil que un combate\n"
+	.string "te salga como esperabas…$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeYourBattle::
-	.string "Oh, oh, may I ask one more question?\p"
-	.string "If you were to describe your\n"
-	.string "impressions about this battle with\l"
-	.string "one saying, what would it be?$"
+	.string "Ah, ah, ¿puedo preguntarte otra cosa?\p"
+	.string "Si tuvieras que describir tus\n"
+	.string "impresiones del combate con una\l"
+	.string "expresión, ¿qué dirías?$"
 
 BattleFrontier_BattleTowerLobby_Text_ThatsGreatLine::
-	.string "Oh, that is stunningly cool!\p"
-	.string "That's a great line!\n"
-	.string "I hope you'll do great next time, too.\p"
-	.string "I hope to see you again!$"
+	.string "Vaya, ¡es asombrosamente guay!\p"
+	.string "¡Qué respuesta tan memorable!\n"
+	.string "Espero que te siga yendo igual de bien.\p"
+	.string "¡Y espero volver a verte!$"
 
 BattleFrontier_BattleTowerLobby_Text_SilentType::
-	.string "Oh, I see…\p"
-	.string "Still, being the silent type is also\n"
-	.string "cool, isn't it?\p"
-	.string "I hope you'll give me the opportunity\n"
-	.string "to share your thoughts again!$"
+	.string "Ajá, ya veo…\p"
+	.string "En fin, no decir ni mu te da un aire\n"
+	.string "misterioso muy guay también.\p"
+	.string "¡Pero espero que algún día me dejes\n"
+	.string "compartir tus pensamientos!$"
 
 BattleFrontier_BattleTowerLobby_Text_LookingForwardToNextBattle::
-	.string "I'll be looking forward to your\n"
-	.string "next battle!$"
+	.string "¡Estoy deseando asistir a tu\n"
+	.string "próximo combate!$"
 
 BravoTrainerBattleTower_Text_Intro::
 	.string "¡Sí! ¡Es la hora de BRAVO ENTRENADOR!\p"
@@ -276,93 +277,97 @@ BravoTrainerBattleTower_Text_Outro::
 	.string "¡Nos despedimos hasta la próxima!$"
 
 SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
-	.string "Wow!\p"
-	.string "It's plain to see that you lavish your\n"
-	.string "love on your {STR_VAR_1}.\p"
-	.string "Okay, it's named {STR_VAR_2}.\p"
-	.string "Can I ask you a favor?\p"
-	.string "I'm a TV reporter, and I'm running\n"
-	.string "a survey on POKéMON.\p"
-	.string "Would you be willing to answer a few\n"
-	.string "simple questions for me?$"
+	.string "¡Guau!\p"
+	.string "Se ve a la legua que quieres a tu\n"
+	.string "{STR_VAR_1} con locura.\p"
+	.string "Vale, sí, se llama {STR_VAR_2}.\p"
+	.string "¿Puedes hacerme un favor?\p"
+	.string "Soy reportera de TV y estoy haciendo\n"
+	.string "una encuesta sobre los POKéMON.\p"
+	.string "¿Querrías contestar a algunas\n"
+	.string "preguntas facilísimas?$"
 
 SlateportCity_PokemonFanClub_Text_HereGoesQuickAnswers:
-	.string "Great! Thank you!\p"
-	.string "Okay, here goes.\n"
-	.string "I just need quick answers, okay?$"
+	.string "¡Mola! ¡Gracias!\p"
+	.string "Venga, allá vamos.\n"
+	.string "Necesito respuestas rápidas, ¿vale?$"
 
 SlateportCity_PokemonFanClub_Text_DescribeFeelingsFirstMetMon:
-	.string "When you first met {STR_VAR_1},\n"
-	.string "what did you feel?\p"
-	.string "How would you describe your feelings\n"
-	.string "at the time?$"
+	.string "Cuando viste por primera vez a\n"
+	.string "{STR_VAR_1}, ¿qué fue lo que sentiste?\p"
+	.string "¿Cómo describirías tus sentimientos\n"
+	.string "de entonces?$"
 
 SlateportCity_PokemonFanClub_Text_LikenMonToSomethingYouLike:
-	.string "Your {STR_VAR_1} is cared for lovingly.\p"
-	.string "If you were to liken it to something\n"
-	.string "that you like, what would it be?$"
+	.string "Cuidas a tu {STR_VAR_1} con mucho\n"
+	.string "amor y cariño.\p"
+	.string "Si quisieras compararlo con algo\n"
+	.string "que te gusta, ¿qué sería?$"
 
 SlateportCity_PokemonFanClub_Text_WhatAttractedYouAboutMon:
-	.string "This question also relates to your\n"
-	.string "beloved {STR_VAR_1}.\p"
-	.string "What was it about {STR_VAR_1} that\n"
-	.string "attracted you?$"
+	.string "Esta pregunta está relacionada con\n"
+	.string "tu querido {STR_VAR_1}.\p"
+	.string "¿Qué tenía {STR_VAR_1} que te atrajo\n"
+	.string "tanto desde el principio?$"
 
 SlateportCity_PokemonFanClub_Text_WhatDoPokemonMeanToYou:
-	.string "Okay, that makes sense.\p"
-	.string "The next question might be a little\n"
-	.string "on the tough side.\p"
-	.string "Here goes…\p"
-	.string "What do POKéMON mean to you?$"
+	.string "Sí, tiene sentido.\p"
+	.string "La siguiente pregunta podría\n"
+	.string "parecerte un pelín fuerte…\p"
+	.string "Allá voy…\p"
+	.string "¿Qué significan los POKéMON\n"
+	.string "para ti?$"
 
 SlateportCity_PokemonFanClub_Text_ThatsAllForInterview:
-	.string "I see!\p"
-	.string "Hmhm…\p"
-	.string "Okay!\n"
-	.string "Thanks for helping me out.\p"
-	.string "It was fun and enlightening\n"
-	.string "chatting with you.\p"
-	.string "It's possible that our interview will\n"
-	.string "end up on TV. Tune in and check!\p"
-	.string "Okay, that's all.\n"
-	.string "Bye-bye!$"
+	.string "¡Ajá!\p"
+	.string "Mmmm…\p"
+	.string "¡Vale!\n"
+	.string "Gracias por participar.\p"
+	.string "Charlar contigo ha sido divertido\n"
+	.string "y revelador.\p"
+	.string "Con toda probabilidad, la entrevista\n"
+	.string "se retransmitirá por la tele.\l"
+	.string "¡Enciéndela de vez en cuando!\p"
+	.string "Pues esto era todo.\n"
+	.string "¡Hala! ¡Hasta otra!$"
 
 SlateportCity_PokemonFanClub_Text_HereIfYouGetUrgeToTellMe:
-	.string "Oh, okay…\p"
-	.string "Well, if you get the urge to tell me\n"
-	.string "about POKéMON, I'll be here!$"
+	.string "Oh, de acuerdo…\p"
+	.string "Pero si de repente te entran unas ganas\n"
+	.string "irresistibles de decírmelo, ven a verme.$"
 
 SlateportCity_PokemonFanClub_Text_EnjoyDoingInterviews:
-	.string "I enjoy this job--you get to learn\n"
-	.string "about POKéMON by doing interviews.$"
+	.string "Me encanta este trabajo: aprendes\n"
+	.string "tantísimo sobre los POKéMON con\l"
+	.string "cada entrevista…$"
 
 SlateportCity_PokemonFanClub_Text_InterviewRequest:
-	.string "Hi, you seem to be very close to your\n"
-	.string "{STR_VAR_1}.\p"
-	.string "Do you know what?\n"
-	.string "I'm a TV reporter.\p"
-	.string "I travel around interviewing people\n"
-	.string "about POKéMON.\p"
-	.string "I'm wondering if you'd be willing to tell\n"
-	.string "me a little about your {STR_VAR_1}?$"
+	.string "Hola, parece que hay un vínculo muy\n"
+	.string "fuerte entre tu {STR_VAR_1} y tú.\p"
+	.string "¿Sabes qué?\n"
+	.string "Soy reportera de TV.\p"
+	.string "Viajo por aquí, por allá y por acullá\n"
+	.string "haciendo entrevistas sobre POKéMON.\p"
+	.string "Me pregunto si querrías contarme\n"
+	.string "alguna cosilla sobre tu {STR_VAR_1}…$"
 
 SlateportCity_PokemonFanClub_Text_TellMeAnythingAboutYourMon:
-	.string "Wow, thank you!\p"
-	.string "Okay, then, please tell me anything\n"
-	.string "you'd like about your {STR_VAR_1}.$"
+	.string "¡Hala, qué bien!\p"
+	.string "Pues mira, cuéntame lo que te\n"
+	.string "apetezca sobre tu {STR_VAR_1}.$"
 
 SlateportCity_PokemonFanClub_Text_ThatsAllForInterview2:
-	.string "Wow…\n"
-	.string "That's an interesting account.\p"
-	.string "You really are tight with {STR_VAR_1},\n"
-	.string "aren't you?\p"
-	.string "I get the feeling that your account\n"
-	.string "will make a great TV story.\p"
-	.string "I promise that I'll turn this into\n"
-	.string "an entertaining show.\l"
-	.string "Keep your eyes out for it.\p"
-	.string "Okay, that's all.\n"
-	.string "Bye-bye!$"
+	.string "Huy…\n"
+	.string "Qué interesante…\p"
+	.string "Tu {STR_VAR_1} y tú sois uña y\n"
+	.string "carne, ¿eh?\p"
+	.string "Yo creo que tu declaración puede dar\n"
+	.string "para una gran historia en la tele.\p"
+	.string "Voy a hacer lo imposible para que salga\n"
+	.string "en el próximo programa de variedades.\l"
+	.string "¡No te lo pierdas!\p"
+	.string "Pues esto era todo.\n"
+	.string "¡Hala! ¡Hasta otra!$"
 
 gTVFanClubOpinionsText00::
 	.string "¡SOMOS el CLUB de FANS de POKéMON!\p"
@@ -485,43 +490,46 @@ gTVFanClubText07::
 	.string "¡Hora de decir hasta luego, Lucas!$"
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
-	.string "Oh?\n"
-	.string "Do you perhaps like POKéMON?\p"
-	.string "I'm on assignment with the TV network.\p"
-	.string "I'm gathering stories on POKéMON and\n"
-	.string "TRAINERS that occurred recently.\p"
-	.string "If you don't mind, could you tell me\n"
-	.string "something about yourself?$"
+	.string "¿Eh?\n"
+	.string "¿Te gustan los POKéMON?\p"
+	.string "La emisora de TV me ha enviado a\n"
+	.string "hacer un reportaje.\p"
+	.string "Estoy recogiendo historias recientes\n"
+	.string "sobre POKéMON y ENTRENADORES.\p"
+	.string "Si no te importa, ¿podrías contarme\n"
+	.string "algo sobre ti?$"
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequestShort:
-	.string "I'm gathering stories on POKéMON and\n"
-	.string "TRAINERS that occurred recently.\p"
-	.string "If you don't mind, could you tell me\n"
-	.string "something about yourself?$"
+	.string "Estoy recogiendo historias recientes\n"
+	.string "sobre POKéMON y ENTRENADORES.\p"
+	.string "Si no te importa, ¿podrías contarme\n"
+	.string "algo sobre ti?$"
 
 SlateportCity_OceanicMuseum_1F_Text_TellMeExperienceInvolvingPokemon:
-	.string "Oh, you will?\n"
-	.string "Thank you!\p"
-	.string "Then, please, tell me anything of\n"
-	.string "interest that you experienced recently\l"
-	.string "involving POKéMON.$"
+	.string "¿Sí?\n"
+	.string "¡Muchas gracias!\p"
+	.string "Pues dime cualquier cosa interesante\n"
+	.string "que te haya pasado hace poco con\l"
+	.string "POKéMON de por medio…$"
 
 SlateportCity_OceanicMuseum_1F_Text_LetMeKnowIfYouHaveStory:
-	.string "Oh, I see…\p"
-	.string "Well, if you do have an interesting\n"
-	.string "story to tell, please let me know.$"
+	.string "Ah, ya…\p"
+	.string "Pero cuando tengas algo bueno que\n"
+	.string "contar, ven a verme, porfa.$"
 
 SlateportCity_OceanicMuseum_1F_Text_ThatsAllForInterview:
-	.string "Oh, what an uplifting story!\p"
-	.string "I'll be sure to get your story told\n"
-	.string "on television.\p"
-	.string "It should be aired sometime, I think,\n"
-	.string "so please look forward to it.$"
+	.string "¡Qué historia tan edificante!\p"
+	.string "Me aseguraré de que mi emisora\n"
+	.string "la retransmita.\p"
+	.string "Puede salir en cualquier momento,\n"
+	.string "así que mira la tele de vez en cuando.$"
 
 SlateportCity_OceanicMuseum_1F_Text_BetterWriteUpStory:
-	.string "Hmmm…\n"
-	.string "I've got a good story for a TV program.\p"
-	.string "I'd better write it up in a hurry!$"
+	.string "Mmmm…\n"
+	.string "Tengo una buena historia para un\l"
+	.string "programa de la tele.\p"
+	.string "¡Mejor la escribo antes de que se\n"
+	.string "me olvide!$"
 
 gTVRecentHappeningsText00::
 	.string "Hola, es la hora de ÚLTIMAS NOVEDADES.\p"
@@ -618,46 +626,47 @@ gTV3CheersForPokeblocksText05::
 	.string "¡Os esperamos en la CATA de {POKEBLOCK}S!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
-	.string "Hi, there!\p"
-	.string "I'm a big fan of {STR_VAR_1}.\n"
-	.string "What's your opinion of {STR_VAR_1}?$"
+	.string "¡Hola, colega!\p"
+	.string "Soy un gran fan de {STR_VAR_1}.\n"
+	.string "¿Qué te sugiere {STR_VAR_1}?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ThatsWhatYouThink::
-	.string "I see, I see. That's what you think\n"
-	.string "about the TRAINER.$"
+	.string "Ya veo. Así que eso es lo\n"
+	.string "que te sugiere…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HaveYouForgottenTrainer::
-	.string "Have you completely forgotten\n"
-	.string "about {STR_VAR_1}?$"
+	.string "¿Te has olvidado totalmente\n"
+	.string "de {STR_VAR_1}?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer2::
-	.string "I'm a big fan of {STR_VAR_1}.\n"
-	.string "What's your opinion of {STR_VAR_1}?$"
+	.string "Soy un gran fan de {STR_VAR_1}.\n"
+	.string "¿Qué te sugiere {STR_VAR_1}?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HowStrongRateTrainer::
-	.string "How strong would you rate {STR_VAR_1}\n"
-	.string "on a scale of one hundred?$"
+	.string "Si tuvieras que puntuar la fuerza de\n"
+	.string "{STR_VAR_1} en una escala del 0 al 100,\l"
+	.string "¿qué valor dirías?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HaveYouForgottenTrainer2::
-	.string "Have you completely forgotten\n"
-	.string "about {STR_VAR_1}?$"
+	.string "¿Te has olvidado totalmente\n"
+	.string "de {STR_VAR_1}?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouShouldMeetTrainer::
-	.string "Oh, I see!\n"
-	.string "You should meet {STR_VAR_1} sometime.\l"
-	.string "I'm sure you'll become a fan, too!$"
+	.string "Ya veo…\n"
+	.string "Deberías acordarte de {STR_VAR_1}.\l"
+	.string "¡Seguro que serías su fan!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ThankYouIllShareThisInfo::
-	.string "I see, I see.\p"
-	.string "Thank you!\n"
-	.string "That's very useful to know.\p"
-	.string "I'll share this information with other\n"
-	.string "{STR_VAR_1} fans and discuss it.$"
+	.string "Ya veo…\p"
+	.string "¡Gracias por participar!\n"
+	.string "Tu respuesta es interesante.\p"
+	.string "Pienso compartirla con todos\n"
+	.string "los fans de {STR_VAR_1}.$"
 
 LilycoveCity_PokemonTrainerFanClub_HopeYouCatchTVSpecial::
-	.string "There's going to be a TV special on\n"
-	.string "{STR_VAR_1} very soon.\p"
-	.string "I hope you catch it!$"
+	.string "Van a hacer un programa especial\n"
+	.string "sobre {STR_VAR_1} muy pronto.\p"
+	.string "¡No te lo pierdas!$"
 
 gTVTrainerFanClubSpecialText00::
 	.string "CLUB de FANS de ENTRENADORES\n"
@@ -2738,140 +2747,137 @@ gTVPokemonBattleUpdateText07::
 	.string "la ÚLTIMA HORA de COMBATES POKéMON!$"
 
 GabbyAndTy_Text_GabbyPreFirstBattle:
-	.string "GABBY: Oh! We've just spotted a tough-\n"
-	.string "looking TRAINER here of all places!\p"
-	.string "Okay, roll camera!\n"
-	.string "Let's get this interview.$"
+	.string "GABI: ¡Precisamente aquí hemos ido\n"
+	.string "a encontrar una estrella como tú!\p"
+	.string "¡Mira a la cámara! ¡Vamos a hacerte\n"
+	.string "una entrevista de alto voltaje!$"
 
 GabbyAndTy_Text_GabbyIntro:
-	.string "GABBY: Oh! You're {PLAYER}! Hi!\n"
-	.string "Do you remember us from last time?\p"
-	.string "Can you show us how much stronger\n"
-	.string "you've become? Okay, cue interview!$"
+	.string "GABI: ¡Anda, si eres {PLAYER}!\n"
+	.string "¡Hola! ¿Te acuerdas de nosotros?\p"
+	.string "¿Me enseñas lo fuerte que te has\n"
+	.string "vuelto? ¡Empezamos a grabar!$"
 
 GabbyAndTy_Text_GabbyDefeatFirstTime:
-	.string "GABBY: My eyes didn't lie!\n"
-	.string "I did discover an astonishing TRAINER!$"
+	.string "GABI: ¡Es que tengo una vista…!\n"
+	.string "¡Eres una estrella entrenando POKéMON!$"
 
 GabbyAndTy_Text_WhoAreYouInterview:
-	.string "GABBY: Awesome! Awesome!\n"
-	.string "Who are you?!\p"
-	.string "I knew we were onto something wild\n"
-	.string "when we spotted you!\p"
-	.string "Oh, please let me explain. We travel\n"
-	.string "around everywhere interviewing all\l"
-	.string "sorts of TRAINERS.\p"
-	.string "So, would you give us a bit of your time\n"
-	.string "for an interview?$"
+	.string "GABI: ¡Asombroso! ¡Qué flipe!\n"
+	.string "¡¿Pero quién eres tú?!\p"
+	.string "¡Sabía que había encontrado algo\n"
+	.string "bueno cuando te vi!\p"
+	.string "A ver, te voy a explicar. Viajamos\n"
+	.string "por todas partes entrevistando\l"
+	.string "a todo tipo de ENTRENADORES.\p"
+	.string "¿Nos dedicarías un poco\n"
+	.string "de tu tiempo para una entrevista?$"
 
 GabbyAndTy_Text_QuoteFromLastInterview:
-	.string "GABBY: “{STR_VAR_1}!”\p"
-	.string "Remember? That's the quote you gave\n"
-	.string "us as the battle clincher last time.\p"
-	.string "I never, ever forget stuff like that!$"
+	.string "GABI: “{STR_VAR_1}”.\p"
+	.string "¿Te acuerdas? Eso fue lo que decidió\n"
+	.string "el último combate, según nos dijiste.\p"
+	.string "¡Yo nunca olvido citas tan geniales!$"
 
 GabbyAndTy_Text_YouStompedUsInterviewAgain:
-	.string "The last time we battled, you stomped\n"
-	.string "us before we could brace ourselves…\p"
-	.string "Anyway, what do you think?\n"
-	.string "Do you want to be interviewed again?$"
+	.string "En el último combate, nos aplastaste\n"
+	.string "antes de que pudiéramos prepararnos.\p"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Te entrevistamos otra vez?$"
 
 GabbyAndTy_Text_YouThrewABallAtUsInterviewAgain:
-	.string "The last time we battled, didn't you\n"
-	.string "throw a POKé BALL at us?\p"
-	.string "We were shocked! So we told everyone,\n"
-	.string "just everyone, about it!\p"
-	.string "Anyway, what do you think?\n"
-	.string "Do you want to be interviewed again?$"
+	.string "En el último combate, nos lanzaste\n"
+	.string "una POKé BALL, ¿verdad?\p"
+	.string "¡Nos quedamos de piedra! ¡Por eso\n"
+	.string "se lo contamos a todo quisqui!\p"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Te entrevistamos otra vez?$"
 
 GabbyAndTy_Text_CleverItemSkillsInterviewAgain:
-	.string "The last time we battled, your item\n"
-	.string "skills cleverly did us in.\p"
-	.string "Anyway, what do you think?\n"
-	.string "Do you want to be interviewed again?$"
+	.string "En el último combate, tu genial técnica\n"
+	.string "de lucha nos liquidó del todo.\p"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Te entrevistamos otra vez?$"
 
 GabbyAndTy_Text_WeLookedRespectableInterviewAgain:
-	.string "The last time we battled, we managed\n"
-	.string "to look respectable.\p"
-	.string "Anyway, what do you think?\n"
-	.string "Do you want to be interviewed again?$"
+	.string "En el último combate, luchamos\n"
+	.string "bastante decentemente.\p"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Te entrevistamos otra vez?$"
 
 GabbyAndTy_Text_InterviewAgain:
-	.string "Anyway, what do you think?\n"
-	.string "Do you want to be interviewed again?$"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Te entrevistamos otra vez?$"
 
 GabbyAndTy_Text_DescribeYourFeelings:
-	.string "You will?\n"
-	.string "Thank you!\p"
-	.string "Okay, I need you to describe your\n"
-	.string "feelings about our battle, but it\l"
-	.string "has to be short and sweet. Go!$"
+	.string "¿Te apetece?\n"
+	.string "¡Gracias!\p"
+	.string "Vale, quiero que me resumas\n"
+	.string "tus sentimientos con respecto\l"
+	.string "a nuestro combate. ¡Adelante!$"
 
 GabbyAndTy_Text_PerfectWellBeSeeingYou:
-	.string "GABBY: Mmm, yeah!\n"
-	.string "That's the perfect clincher!\p"
-	.string "I get the feeling that this will make\n"
-	.string "a great TV show.\p"
-	.string "There's a chance that they'll air this\n"
-	.string "on TV, so make sure to look for us!\p"
-	.string "Okay!\n"
-	.string "We'll be seeing you!$"
+	.string "GABI: Mmmm… ¡Sí!\n"
+	.string "¡Has sabido sintetizarlo bien!\p"
+	.string "Me da a mí que esto es material\n"
+	.string "de primera para un programa de TV.\p"
+	.string "Casi seguro que lo retransmitirán.\n"
+	.string "¡No olvides mirar la tele alguna vez!\p"
+	.string "¡Pues esto es todo!\n"
+	.string "¡Hasta la próxima!$"
 
 GabbyAndTy_Text_DontGiveUpKeepingEyeOut:
-	.string "GABBY: Oh…\p"
-	.string "Okay, but don't give up!\n"
-	.string "We'll be keeping an eye out for you!$"
+	.string "GABI: Oh…\p"
+	.string "Vale, pero tú continúa así.\n"
+	.string "¡Te seguiremos de cerca!$"
 
 GabbyAndTy_Text_KeepingAnEyeOutForYou:
-	.string "GABBY: We'll be keeping an eye out\n"
-	.string "for you!$"
+	.string "GABI: ¡Te seguiremos de cerca!$"
 
 GabbyAndTy_Text_GabbyNotEnoughMons:
-	.string "GABBY: Is there a strong TRAINER\n"
-	.string "anywhere with a lot of POKéMON?$"
+	.string "GABI: ¿Habrá algún ENTRENADOR fuerte\n"
+	.string "por ahí que tenga muchos POKéMON?$"
 
 GabbyAndTy_Text_GiveUsAnInterviewThisTime:
-	.string "GABBY: Wow, you are something!\p"
-	.string "You've gotten a lot stronger--a lot--\n"
-	.string "since we last battled.\p"
-	.string "We were right about you when we\n"
-	.string "spotted you as a hot TRAINER.\p"
-	.string "So, anyway, what do you think?\n"
-	.string "Are you willing to give us an interview\l"
-	.string "this time?$"
+	.string "GABI: Guau, tú sí que eres especial.\p"
+	.string "Has mejorado mucho, muchísimo,\n"
+	.string "desde nuestro último combate.\p"
+	.string "Teníamos razón cuando dijimos que\n"
+	.string "eras una estrella entrenando POKéMON.\p"
+	.string "Bueno, ¿qué me dices?\n"
+	.string "¿Nos dejas entrevistarte?$"
 
 GabbyAndTy_Text_GabbyDefeat:
-	.string "GABBY: That was an intense battle!\n"
-	.string "Did you get all that on camera?$"
+	.string "GABI: ¡Ha sido un combate tremendo!\n"
+	.string "¿Lo has grabado todo?$"
 
 GabbyAndTy_Text_TyPreFirstBattle:
-	.string "TY: Hey, lookie here! A tough-looking\n"
-	.string "TRAINER here, of all places!\l"
-	.string "Camera's rolling!$"
+	.string "TEO: ¡Eh, mira aquí! ¡Qué suerte,\n"
+	.string "encontrar una estrella justo aquí!\l"
+	.string "¡Estoy listo para grabar!$"
 
 GabbyAndTy_Text_TyIntro:
-	.string "TY: Hey, lookie here!\n"
-	.string "I remember you!\p"
-	.string "I'll get this battle all on this\n"
-	.string "here camera!$"
+	.string "TEO: ¡Eh, mira aquí!\n"
+	.string "Un momento, yo sé quién eres…\p"
+	.string "¡Voy a grabar nuestro combate\n"
+	.string "para la posteridad!$"
 
 GabbyAndTy_Text_TyPostBattle:
-	.string "TY: You're a natural!\n"
-	.string "Got me some prime footage right here!$"
+	.string "TEO: ¡Tienes talento natural!\n"
+	.string "¡He grabado material de primera!$"
 
 GabbyAndTy_Text_TyNotEnoughMons:
-	.string "TY: Do you only have the one POKéMON\n"
-	.string "and that's it?\p"
-	.string "If you had more POKéMON, it'd make for\n"
-	.string "better footage, but…$"
+	.string "TEO: ¿Sólo tienes un POKéMON?\p"
+	.string "Si tuvieras alguno más, podría grabar\n"
+	.string "algo bueno para la tele, pero…$"
 
 GabbyAndTy_Text_TyDefeatFirstTime:
-	.string "TY: Yep, we sure spotted a hot TRAINER.\n"
-	.string "This is a huge scoop for us!$"
+	.string "TEO: Sí, sin duda hemos encontrado\n"
+	.string "a una estrella. ¡Vaya notición!$"
 
 GabbyAndTy_Text_TyDefeat:
-	.string "TY: Yep, I got it all.\n"
-	.string "That whole battle's on camera.$"
+	.string "TEO: Sí, lo he grabado todo.\n"
+	.string "Está todo en la cámara.$"
 
 gTVInSearchOfTrainersText00::
 	.string "OPERACIÓN ENTRENADOR…\p"

@@ -45,75 +45,76 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Do you like POKéMON?\p"
-	.string "{PLAYER}: Uh, no, I just asked you.\p"
-	.string "{PLAYER}: Huh?\n"
-	.string "You're strange!\p"
-	.string "COPYCAT: Hmm? Quit mimicking?\n"
-	.string "But, that's my favorite hobby!$"
+	.string "{PLAYER}: ¡Hola!\n"
+	.string "¿Te gustan los POKéMON?\p"
+	.string "{PLAYER}: Eh, no, solo te lo pregunté.\p"
+	.string "{PLAYER}: ¿Eh?\n"
+	.string "¡Eres rara!\p"
+	.string "COPIONA: ¿Mm? ¿Que deje de imitar?\n"
+	.string "¡Pero si es mi afición favorita!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{PLAYER}: Hi.\n"
-	.string "You must like POKéMON.\p"
-	.string "{PLAYER}: No, not me.\n"
-	.string "I asked you.\p"
-	.string "{PLAYER}: Pardon?\n"
-	.string "You're weird!\l"
+	.string "{PLAYER}: Hola.\n"
+	.string "Debes de gustarte los POKéMON.\p"
+	.string "{PLAYER}: No, a mí no.\n"
+	.string "Te lo pregunté a ti.\p"
+	.string "{PLAYER}: ¿Perdón?\n"
+	.string "¡Eres rara!\l"
 	.string " \l"
-	.string "COPYCAT: Hmm? Quit mimicking?\l"
-	.string "But that's my favorite hobby!$"
+	.string "COPIONA: ¿Mm? ¿Que deje de imitar?\l"
+	.string "¡Pero si es mi afición favorita!$"
 
 Text_MimicTeach::
-	.string "Oh wow!\n"
-	.string "A POKé DOLL!\p"
-	.string "For me?\n"
-	.string "Thank you!\p"
-	.string "You know what?\n"
-	.string "I can teach the move MIMIC.$"
+	.string "¡Uauuu!\n"
+	.string "¡Un POKé MUÑECO!\p"
+	.string "¿Es para mí?\n"
+	.string "¡Gracias!\p"
+	.string "¿Sabes una cosa? Podría\n"
+	.string "enseñarte el movimiento MIMÉTICO.$"
 
 Text_MimicDeclined::
-	.string "Don't you like MIMIC?$"
+	.string "¿No tienes interés en MIMÉTICO?$"
 
 Text_MimicWhichMon::
-	.string "I really love MIMIC!\n"
-	.string "Who's going to learn it?$"
+	.string "¡Bien, a mí me encanta!\n"
+	.string "¿A qué POKéMON quieres que\l"
+	.string "le enseñe MIMÉTICO?$"
 
 Text_MimicTaughtMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for earlier!\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it that fun to mimic my\n"
-	.string "every move?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{PLAYER}: ¡Hola!\n"
+	.string "¡Gracias por lo de antes!\p"
+	.string "{PLAYER}: ¿Sí?\p"
+	.string "{PLAYER}: ¿Te divierte imitar cada\n"
+	.string "uno de mis movimientos?\p"
+	.string "COPIONA: ¿Verdad?\n"
+	.string "¡Es muy divertido!$"
 
 Text_MimicTaughtFemale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for what you did for us.\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it really that fun to\n"
-	.string "copy what I say and do?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{PLAYER}: ¡Hola!\n"
+	.string "¡Gracias por lo de antes!\p"
+	.string "{PLAYER}: ¿Sí?\p"
+	.string "{PLAYER}: ¿Te divierte imitar cada\n"
+	.string "uno de mis movimientos?\p"
+	.string "COPIONA: ¿Verdad?\n"
+	.string "¡Es muy divertido!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODUO: Giiih!\p"
-	.string "PRETTY MIRROR LOOK AT ME,\n"
-	.string "SEE HOW PRETTY I CAN BE?$"
+	.string "DODUO: ¡Dodu!\p"
+	.string "¡ESPEJO, ESPEJITO! ¿QUIÉN ES\n"
+	.string "LA MÁS BELLA DE TODAS?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "This is a rare POKéMON!\n"
-	.string "Huh? It's only a doll!$"
+	.string "¡Éste es un POKéMON raro!\n"
+	.string "¿Eh? ¡Pero si es un muñeco!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "A game with MARIO wearing a bucket\n"
-	.string "on his head!$"
+	.string "¡Un juego de MARIO con un cubo\n"
+	.string "en la cabeza!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "…\p"
-	.string "My Secrets!\p"
-	.string "Skill: Mimicry!\n"
-	.string "Hobby: Collecting dolls!\l"
-	.string "Favorite POKéMON: CLEFAIRY!$"
+	.string "...\p"
+	.string "¡Éstos son mis secretos!\p"
+	.string "Habilidad: imitar.\n"
+	.string "Hobby: coleccionar muñecos.\l"
+	.string "POKéMON favorito: ¡CLEFAIRY!$"
 

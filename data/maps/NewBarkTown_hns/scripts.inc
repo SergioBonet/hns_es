@@ -258,8 +258,8 @@ NewBarkTown_Text_LassState4:
 	.string "vas.$"
 
 NewBarkTown_Text_LassState5:
-	.string "Call your mom on your POKéGEAR\n"
-	.string "to let her know how you're doing.$\p"
+	.string "Llama a tu madre con el POKéGEAR\n"
+	.string "para contarle cómo te va.$\p"
 
 NewBarkTown_Text_Silver1:
 	.string ". . .\p"

@@ -7,87 +7,85 @@ SixIsland_OutcastIsland_EventScript_Rocket::
 	end
 
 SixIsland_OutcastIsland_Text_RocketIntro::
-	.string "There're no rare POKéMON around\n"
-	.string "these parts! Not a one!\p"
-	.string "That burns me up, man.\n"
-	.string "I'll take it out on you!$"
+	.string "Por aquí no hay ni un sólo\n"
+	.string "POKéMON raro. ¡Ni uno!\p"
+	.string "¡Estoy hasta el gorro de buscar!\n"
+	.string "¡Te ha tocado pagar el mosqueo,\l"
+	.string "lo siento!$"
 
 SixIsland_OutcastIsland_Text_RocketDefeat::
-	.string "…Huh?$"
+	.string "¡¿Qué?!$"
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
-	.string "So listen, you haven't seen any\n"
-	.string "rare POKéMON, have you?$"
+	.string "Tú no has visto ningún POKéMON\n"
+	.string "raro, ¿no?$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
-	.string "I'm having no luck at all.\n"
-	.string "A battle'd be a change of pace!$"
+	.string "¡Qué mala suerte tengo hoy!\n"
+	.string "¡Igual la cosa cambia si luchamos!$"
 
 SixIsland_OutcastIsland_Text_TylorDefeat::
-	.string "Nope, no luck at all…$"
+	.string "Nada, hoy no tengo suerte…$"
 
 SixIsland_OutcastIsland_Text_TylorPostBattle::
-	.string "I can't very well go home without\n"
-	.string "catching something, though.$"
+	.string "¡Pero es que no puedo volver\n"
+	.string "a casa con las manos vacías!$"
 
 SixIsland_OutcastIsland_Text_MymoIntro::
-	.string "Gasp… Gasp…\p"
-	.string "I swam here from SIX ISLE PORT\n"
-	.string "in one go.$"
+	.string "Ufff... Ufff...\p"
+	.string "Vengo nadando desde el PUERTO\n"
+	.string "de ISLA EXTA sin parar.$"
 
 SixIsland_OutcastIsland_Text_MymoDefeat::
-	.string "Gasp…\n"
-	.string "Gasp…$"
+	.string "Ufff...\n"
+	.string "Ufff...$"
 
 SixIsland_OutcastIsland_Text_MymoPostBattle::
-	.string "I'm only at the halfway point…\n"
-	.string "I'm beat…$"
+	.string "Solo voy por la mitad…\n"
+	.string "Estoy agotado…$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
-	.string "It's not so easy sending POKéMON\n"
-	.string "out while swimming, you know?$"
+	.string "No es fácil sacar POKéMON mientras\n"
+	.string "se nada, ¿lo sabías?$"
 
 SixIsland_OutcastIsland_Text_NicoleDefeat::
-	.string "I didn't lose to you at swimming.\n"
-	.string "This doesn't bother me.$"
+	.string "He perdido, pero seguro que\n"
+	.string "nadando no me ganas.$"
 
 SixIsland_OutcastIsland_Text_NicolePostBattle::
-	.string "Are you headed for the island up\n"
-	.string "past here?\p"
-	.string "I didn't see anything interesting\n"
-	.string "there.$"
+	.string "¿Vas a la isla que hay al norte?\n"
+	.string "Yo no vi nada de interés.$"
 
 SixIsland_OutcastIsland_Text_AvaIntro::
-	.string "AVA: Let's have a two-on-two\n"
-	.string "marine battle!$"
+	.string "ALI: ¡Vamos a echarnos un combate\n"
+	.string "disfrutando de la brisa marina!$"
 
 SixIsland_OutcastIsland_Text_AvaDefeat::
-	.string "AVA: Oh, you're amazing!\n"
-	.string "Even better, you're on your own!$"
+	.string "ALI: ¡Eres increíble! ¡Además\n"
+	.string "no te hace falta nadie de apoyo!$"
 
 SixIsland_OutcastIsland_Text_AvaPostBattle::
-	.string "AVA: You know, I do prefer the\n"
-	.string "sea over any pool.$"
+	.string "ALI: Prefiero mil veces el mar\n"
+	.string "antes que la piscina.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-	.string "AVA: You're challenging us to\n"
-	.string "a battle?\p"
-	.string "You'll need at least two POKéMON\n"
-	.string "if you want to do that.$"
+	.string "ALI: ¿Quieres luchar con nosotros?\p"
+	.string "Pues te hacen falta dos POKéMON\n"
+	.string "por lo menos para luchar.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
-	.string "GEB: Big Sister, help!\n"
-	.string "Please battle with me!$"
+	.string "ROS: Hermanita, ¡ayuda!\n"
+	.string "¡Lucha conmigo!$"
 
 SixIsland_OutcastIsland_Text_GebDefeat::
-	.string "GEB: Wow, Big Sister, this person's\n"
-	.string "really good!$"
+	.string "ROS: Hermanita, ¡qué fuerte es!$"
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
-	.string "GEB: I'm hanging onto my sister\n"
-	.string "because I can't touch the bottom.$"
+	.string "ROS: Yo me agarro a mi hermanita,\n"
+	.string "porque no hago pie.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
-	.string "GEB: Please battle against me and\n"
-	.string "my sister!\p"
-	.string "…Oh, you don't have two POKéMON?$"
+	.string "ROS: ¡Lucha con mi hermanita\n"
+	.string "y conmigo!\p"
+	.string "Ah..., ¿no tienes dos POKéMON?\n"
+	.string "Entonces, no.$"

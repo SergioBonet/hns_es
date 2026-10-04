@@ -4,55 +4,55 @@ TwoIsland_CapeBrink_House_Frlg_MapScripts::
 @ See move_tutors.inc
 
 Text_UltimateMoveThatMon::
-	.string "I perfected the ultimate move of\n"
-	.string "its type…\p"
-	.string "But will no one take it for\n"
-	.string "future use?\p"
-	.string "…Hm? Hmmm!\p"
-	.string "Y-you…\n"
-	.string "Th-that {STR_VAR_1}…$"
+	.string "He perfeccionado el último\n"
+	.string "movimiento de este tipo...\p"
+	.string "Bueno, y ahora, ¿a quién se lo\n"
+	.string "enseño?\p"
+	.string "Mmmm...\p"
+	.string "Ese {STR_VAR_1} tuyo...$"
 
 Text_JustMistaken::
-	.string "…No…\n"
-	.string "I was just mistaken.$"
+	.string "No, no...\n"
+	.string "Me he equivocado...$"
 
 Text_AllowMeToTeachMonUltimateMove::
-	.string "Oh! This is the one!\n"
-	.string "This is the POKéMON!\p"
-	.string "This {STR_VAR_1} is worthy of\n"
-	.string "learning my ultimate move!\p"
-	.string "Will you allow it?\p"
-	.string "Will you allow your {STR_VAR_1} to\n"
-	.string "learn my {STR_VAR_2}?$"
+	.string "¡Anda, éste es!\n"
+	.string "¡Éste es el POKéMON!\p"
+	.string "¡Este {STR_VAR_1} se merece\n"
+	.string "aprender mi último movimiento!\p"
+	.string "¿Te parece bien?\p"
+	.string "¿Quieres que le enseñe\n"
+	.string "mi {STR_VAR_2} a tu {STR_VAR_1}?$"
 
 Text_YouRejectIt::
-	.string "Gaah! You reject it?\n"
-	.string "No, I won't be dissuaded!$"
+	.string "¡Aah! ¿Lo rechazas?\n"
+	.string "¡No, no me disuadirás!$"
 
 Text_LetMeConferUltimateMove::
-	.string "You will allow it?\p"
-	.string "Then, let me confer my ultimate\n"
-	.string "{STR_VAR_2} on your {STR_VAR_1}.\p"
-	.string "Ggggrah-awooo!$"
+	.string "¿Lo permites?\p"
+	.string "Entonces, déjame conferir mi\n"
+	.string "{STR_VAR_2} definitivo a tu\l"
+	.string "{STR_VAR_1}.\p"
+	.string "¡Ggggrah-auuuu!$"
 
 Text_TaughtMove::
-	.string "Gasp, gasp, gasp…\p"
-	.string "I didn't think I could teach that\n"
-	.string "move while I still lived…$"
+	.string "Qué emoción...\p"
+	.string "No pensé que llegara a enseñar\n"
+	.string "al final el movimiento...$"
 
 Text_MakeBestUseOfMove::
-	.string "I implore you to make the best\n"
-	.string "use of that move and gain power!$"
+	.string "¡Te imploro que aproveches al\n"
+	.string "máximo ese movimiento y ganes poder!$"
 
 Text_PassedOnEverythingIKnow::
-	.string "Gasp, gasp, gasp…\p"
-	.string "I have no regrets now.\n"
-	.string "I've passed on everything I know.\p"
-	.string "Now I can live out my life knowing\n"
-	.string "my work is done.$"
+	.string "Uf, uf, uf…\p"
+	.string "Ahora no tengo remordimientos.\n"
+	.string "He transmitido todo lo que sé.\p"
+	.string "Ahora puedo vivir el resto de mi vida\n"
+	.string "sabiendo que mi labor está hecha.$"
 
 Text_FeelRejuvenated::
-	.string "After I passed on my knowledge to\n"
-	.string "you, I felt so much relief.\p"
-	.string "In fact, I feel rejuvenated,\n"
-	.string "as if I were younger again!$"
+	.string "Tras transmitirte mi saber, sentí\n"
+	.string "mucho alivio.\p"
+	.string "De hecho, ¡me siento rejuvenecido,\n"
+	.string "como si volviera a ser joven!$"

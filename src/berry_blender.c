@@ -889,8 +889,8 @@ static const u8 sBlackPokeblockFlavorFlags[] = {
     (1 << FLAVOR_SOUR)   | (1 << FLAVOR_SWEET)  | (1 << FLAVOR_SPICY),
 };
 
-static const u8 sJPText_GoodTvReady[] = _("\nいいTVができました "); // Unused
-static const u8 sJPText_BadTvReady[] = _("\nダメTVができました "); // Unused
+static const u8 sJPText_GoodTvReady[] = _("\nSe ha creado un buen programa de TV "); // Unused
+static const u8 sJPText_BadTvReady[] = _("\nSe ha creado un mal programa de TV "); // Unused
 static const u8 sJPText_Flavors[][5] = {_("からい"), _("しぶい"), _("あまい"), _("にがい"), _("すっぱい")}; // Unused
 
 static const u8 sUnused[] = {

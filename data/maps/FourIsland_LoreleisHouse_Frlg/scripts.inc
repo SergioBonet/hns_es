@@ -33,31 +33,32 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
-	.string "heavily on my mind.\p"
-	.string "If anything were to happen on\n"
-	.string "the island where I was born…\p"
-	.string "I wouldn't know about it if I were\n"
-	.string "in the POKéMON LEAGUE.\p"
-	.string "I wonder if that would make me\n"
-	.string "irresponsible to my home…$"
+	.string "LORELEI: No me puedo quitar una\n"
+	.string "cosa de la cabeza...\p"
+	.string "Si ocurriera algo a la isla en la\n"
+	.string "que nací...\p"
+	.string "No me enteraría si estuviera\n"
+	.string "en la LIGA POKéMON.\p"
+	.string "Entonces, sería responsable\n"
+	.string "de lo ocurrido, ¿no?$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "LORELEI: So, you managed to solve\n"
-	.string "all the problems here?\p"
-	.string "That's wonderful.\p"
-	.string "That means there isn't any reason\n"
-	.string "for me to be here all the time.\p"
-	.string "Thank you…\p"
-	.string "I'll return to the POKéMON LEAGUE\n"
-	.string "in a short while.$"
+	.string "LORELEI: ¿Que tú has solucionado\n"
+	.string "todos los problemas?\p"
+	.string "Qué maravilla...\p"
+	.string "Entonces, no tengo que quedarme\n"
+	.string "aquí todo el tiempo...\p"
+	.string "¡Gracias!\p"
+	.string "¡En ese caso, me volveré a la\n"
+	.string "LIGA POKéMON!$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-	.string "I don't know what will happen in\n"
-	.string "the future, but…\p"
-	.string "I will do what I can here and now.\n"
-	.string "That's all I can do.$"
+	.string "No sé qué pasará en el futuro,\n"
+	.string "pero…\p"
+	.string "Haré lo que pueda aquí y ahora.\n"
+	.string "Es lo único que puedo hacer.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "Stuffed POKéMON dolls galore!$"
+	.string "¡Qué cantidad de MUÑECOS POKéMON\n"
+	.string "de peluche!$"
 

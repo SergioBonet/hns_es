@@ -76,7 +76,7 @@ BerryTree_Text_Hns_BagFull:
 	.string "No se ha podido coger {STR_VAR_1}.$"
 
 BerryTree_Text_Hns_Sprouted:
-	.string "¡El árbol de BAYAS ha brotado\n"
+	.string "¡El árbol de bayas ha brotado\n"
 	.string "de repente!$"
 
 #else
@@ -352,47 +352,48 @@ BerryTree_Text_PlantedOneBerry:
 
 BerryTree_Text_BerryGrowthStage1:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "This is where you planted the\n{STR_VAR_1}!$"
+	.string "Aquí es donde plantaste:\n{STR_VAR_1}.$"
 .else
-	.string "One {STR_VAR_1} was planted here.$"
+	.string "Aquí se plantó: {STR_VAR_1}.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage2:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1} is sprouting!$"
+	.string "¡Está brotando: {STR_VAR_1}!$"
 .else
-	.string "{STR_VAR_1} has sprouted.$"
+	.string "{STR_VAR_1} ha brotado.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage3:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1}'s seedling is growing well!$"
+	.string "¡El brote de {STR_VAR_1} crece bien!$"
 .else
-	.string "This {STR_VAR_1} plant is growing taller.$"
+	.string "La planta de {STR_VAR_1} crece más alta.$"
 .endif
 
 BerryTree_Text_BerryGrowthStageTrunk:
-	.string "The {STR_VAR_1}'s trunk is getting bigger!$"
+	.string "¡El tronco del {STR_VAR_1} está\n"
+	.string "creciendo!$"
 
 BerryTree_Text_BerryGrowthStageBudding:
-	.string "The {STR_VAR_1} tree has buds!$"
+	.string "¡El árbol {STR_VAR_1} tiene brotes!$"
 
 BerryTree_Text_BerryGrowthStage4:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1} tree is in bloom!$"
+	.string "¡El árbol de {STR_VAR_1} está en flor!$"
 .else
-	.string "These {STR_VAR_1} flowers are blooming\n"
+	.string "Las flores de {STR_VAR_1} florecen\n"
 	.string "{STR_VAR_2}.$"
 .endif
 
 BerryTree_Text_CareAdverbGreat:
-	.string "very beautifully$"
+	.string "estupendamente$"
 
 BerryTree_Text_CareAdverbPoor:
-	.string "cutely$"
+	.string "muy bien$"
 
 BerryTree_Text_CareAdverbGood:
-	.string "prettily$"
+	.string "sin problemas$"
 
 BerryTree_Text_WantToPick:
 	.string "¡Has encontrado {STR_VAR_2}\n"
@@ -429,7 +430,7 @@ BerryTree_Text_PlantIsDelighted:
 	.string "Parece sentarle muy bien a la planta.$"
 
 BerryTree_Text_ExclamationPoint:
-	.string "!$"
+	.string "¡$"
 
 .if OW_BERRY_MUTATIONS == TRUE
 BerryTree_EventScript_CheckBerryFullyGrown_Mutation:
@@ -501,12 +502,12 @@ BerryTree_EventScript_UseMulch::
 	return
 
 BerryTree_Text_WantToMulch:
-	.string "It's soft, loamy soil.\n"
-	.string "Put down some fertilizer?$"
+	.string "Es una tierra blanda y fértil.\n"
+	.string "¿Quieres echar abono?$"
 
 BerryTree_Text_ScatteredMulch:
-	.string "{PLAYER} scattered the {STR_VAR_1}\n"
-	.string "on the soft, loamy soil.$"
+	.string "{PLAYER} esparció el {STR_VAR_1}\n"
+	.string "sobre la tierra blanda y fértil.$"
 .endif
 
 .if OW_BERRY_WEEDS == TRUE
@@ -532,7 +533,7 @@ BerryTree_Text_WeedIsGrowing:
 	.string "¿Quieres arrancarla?$"
 
 BerryTree_Text_PulledOutTheWeed:
-	.string "{PLAYER} pulled out the weed!$"
+	.string "¡{PLAYER} arrancó la mala hierba!$"
 .endif
 
 .if OW_BERRY_PESTS == TRUE
@@ -549,7 +550,7 @@ BerryTree_EventScript_EncounterPests::
 	return
 
 BerryTree_Text_APokemonAppeared:
-	.string "A Pokémon appeared!$"
+	.string "¡Ha aparecido un POKéMON!$"
 .endif
 
 #endif

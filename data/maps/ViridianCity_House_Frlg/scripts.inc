@@ -24,18 +24,19 @@ ViridianCity_House_EventScript_NicknameSign::
 	end
 
 ViridianCity_House_Text_NicknamingIsFun::
-	.string "Coming up with nicknames is fun,\n"
-	.string "but it's not so easy to do.\p"
-	.string "Clever names are nice, but simple\n"
-	.string "names are easier to remember.$"
+	.string "Inventarse motes es divertido, pero\n"
+	.string "difícil.\p"
+	.string "Es más fácil recordar nombres\n"
+	.string "sencillos.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-	.string "My daddy loves POKéMON, too.$"
+	.string "¡A mi padre también le gustan los\n"
+	.string "POKéMON!$"
 
 ViridianCity_House_Text_Speary::
-	.string "SPEARY: Tetweet!$"
+	.string "SPEARY: ¡Spe-pe-peeary!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
 	.string "SPEAROW\n"
-	.string "Name: SPEARY$"
+	.string "Nombre: SPEARY$"
 

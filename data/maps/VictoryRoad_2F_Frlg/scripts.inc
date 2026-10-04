@@ -77,60 +77,60 @@ VictoryRoad_2F_EventScript_Vincent::
 	end
 
 VictoryRoad_2F_Text_DawsonIntro::
-	.string "If you can get through here,\n"
-	.string "you can go meet the ELITE FOUR.$"
+	.string "¡Si puedes pasar por aquí, podrás\n"
+	.string "enfrentarte al ALTO MANDO!$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-	.string "No!\n"
-	.string "Unbelievable!$"
+	.string "¡No!\n"
+	.string "¡Increíble!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-	.string "I can beat you when it comes to\n"
-	.string "knowledge about POKéMON!$"
+	.string "¡Puedo vencerte en cuanto a\n"
+	.string "conocimientos sobre los POKéMON!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-	.string "This here is VICTORY ROAD.\n"
-	.string "It's the final test for TRAINERS!$"
+	.string "¡La CALLE VICTORIA es la prueba\n"
+	.string "final de todo ENTRENADOR!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-	.string "Atcho!$"
+	.string "¡Ayyyy!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-	.string "If you get stuck, try moving some\n"
-	.string "boulders around.$"
+	.string "¡Prueba a mover las rocas\n"
+	.string "si tienes el paso cortado!$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-	.string "Ah, so you wish to challenge the\n"
-	.string "ELITE FOUR?$"
+	.string "¡Ah!\n"
+	.string "¿Quieres desafiar al ALTO MANDO?$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-	.string "You got me!$"
+	.string "¡Me has parado los pies!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-	.string "{RIVAL} also came through here.$"
+	.string "¡{RIVAL} también vino por aquí!$"
 
 VictoryRoad_2F_Text_VincentIntro::
-	.string "Come on!\n"
-	.string "I'll whip you!$"
+	.string "¡Adelante!\n"
+	.string "¡Te daré una paliza!$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-	.string "I got whipped!$"
+	.string "¡Me han zurrado!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-	.string "You earned the right to be on\n"
-	.string "VICTORY ROAD…$"
+	.string "¡Ahora puedes recorrer la CALLE\n"
+	.string "VICTORIA!$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-	.string "Is VICTORY ROAD too tough?$"
+	.string "¿Es muy dura la CALLE VICTORIA?$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-	.string "Well done!$"
+	.string "¡Bien hecho!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-	.string "Many TRAINERS give up their\n"
-	.string "challenge here and go home.$"
+	.string "¡Muchos de los ENTRENADORES\n"
+	.string "se rinden aquí!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::
-	.string "ギヤーオ！$"
+	.string "¡Guiaaao!$"
 

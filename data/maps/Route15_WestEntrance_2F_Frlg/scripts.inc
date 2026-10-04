@@ -51,43 +51,40 @@ Route15_WestEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
-	.string "Hi! Remember me?\n"
-	.string "I'm one of PROF. OAK's AIDES.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on {STR_VAR_1} species, I'm supposed to\l"
-	.string "give you a reward.\p"
-	.string "PROF. OAK entrusted me with the\n"
-	.string "{STR_VAR_2} for you.\p"
-	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "{STR_VAR_1} kinds of POKéMON?$"
+	.string "¡Hola! ¿Te acuerdas de mí?\n"
+	.string "Soy uno de los AYUDANTES del PROF. OAK.\p"
+	.string "Si tu POKéDEX tiene datos completos\n"
+	.string "de {STR_VAR_1} especies, debo darte\l"
+	.string "un premio.\p"
+	.string "El PROF. OAK me confió el objeto\n"
+	.string "{STR_VAR_2} para ti.\p"
+	.string "Así que, {PLAYER}, déjame preguntarte.\p"
+	.string "¿Has reunido datos de al menos\n"
+	.string "{STR_VAR_1} clases de POKéMON?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "¡Bien! ¡Has logrado {STR_VAR_3} tipos\n"
+	.string "de POKéMON!\p"
+	.string "¡Enhorabuena!\n"
+	.string "¡Aquí tienes!$"
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
-	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the AIDE.$"
+	.string "¡{PLAYER} obtuvo {STR_VAR_2}\n"
+	.string "de manos del AYUDANTE!$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
-	.string "EXP. SHARE is an item to be held\n"
-	.string "by a POKéMON.\p"
-	.string "The POKéMON will receive a share\n"
-	.string "of the EXP. Points without having\l"
-	.string "to battle.$"
+	.string "REPARTIR EXP. es un objeto\n"
+	.string "que puede llevar un POKéMON.\p"
+	.string "Dará puntos de EXPERIENCIA\n"
+	.string "al POKéMON que lo lleve, aunque\l"
+	.string "no luche.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "A large, shining bird is flying\n"
-	.string "toward the sea.$"
+	.string "Has usado los prismáticos...\p"
+	.string "Un pájaro grande y brillante vuela\n"
+	.string "hacia el mar.$"
 
 Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It looks like a small island on\n"
-	.string "the horizon!$"
+	.string "Has usado los prismáticos...\p"
+	.string "¡Parece que hay una pequeña isla!$"
 

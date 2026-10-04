@@ -20,29 +20,25 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 	.string "pronto por aquí.$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
-#if IS_HNS
-	.string "In the ARENA BATTLE TENT,\n"
-#else
-	.string "In the FALLARBOR BATTLE TENT,\n"
-#endif
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+	.string "En la TIENDA de BATALLA ARENA,\n"
+	.string "se disputan TORNEOS con JUEZ.\p"
+	.string "Cada ENTRENADOR participa\n"
+	.string "con un equipo de tres POKéMON.\p"
+	.string "Primero, debes elegir los tres POKéMON\n"
+	.string "en el orden en que deseas que combatan.\p"
+	.string "Durante el combate, los POKéMON\n"
+	.string "aparecerán uno a uno en ese orden.\p"
+	.string "Una vez entre un POKéMON en combate,\n"
+	.string "deberá seguir hasta que concluya.\p"
+	.string "Pero si no hay ganador al cabo\n"
+	.string "de tres turnos, decidirá el JUEZ.\p"
+	.string "Si quieres interrumpir el desafío,\n"
+	.string "no olvides guardar antes la partida.\p"
+	.string "Si no la guardas, no podrás\n"
+	.string "continuar con tu desafío.\p"
+	.string "Si logras derrotar a tres\n"
+	.string "ENTRENADORES seguidos,\l"
+	.string "te daremos un buen premio.$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Te mostraré la TIENDA de BATALLA,\n"
@@ -142,36 +138,28 @@ VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "de los ENTRENADORES en sus POKéMON.$"
 #endif
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-#if IS_HNS
-	.string "Do you wish to take the PALACE\n"
-#else
-	.string "Do you wish to take the VERDANTURF\n"
-#endif
-	.string "BATTLE TENT challenge?$"
+	.string "¿Deseas afrontar el desafío de\n"
+	.string "la TIENDA de BATALLA PALACIO?$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
-#if IS_HNS
-	.string "In the PALACE BATTLE TENT,\n"
-#else
-	.string "In the VERDANTURF BATTLE TENT,\n"
-#endif
-	.string "there is one crucial rule that must\l"
-	.string "be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "En la TIENDA de BATALLA PALACIO,\n"
+	.string "hay una regla fundamental que\l"
+	.string "debe respetarse.\p"
+	.string "Los ENTRENADORES solo pueden cambiar\n"
+	.string "a sus POKéMON.\p"
+	.string "Por lo demás, tienen prohibido\n"
+	.string "dar órdenes a sus POKéMON.\p"
+	.string "Los POKéMON se comportarán según\n"
+	.string "su naturaleza y combatirán por su cuenta.\p"
+	.string "Debes confiar en tus POKéMON\n"
+	.string "y vigilarlos.\p"
+	.string "Si logras el honor de derrotar a\n"
+	.string "tres ENTRENADORES seguidos,\l"
+	.string "te daremos un premio.\p"
+	.string "Si quieres interrumpir el\n"
+	.string "desafío, guarda la partida.\p"
+	.string "Si no guardas antes de interrumpir,\n"
+	.string "quedarás descalificado.$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 	.string "Vuelve cuando tu corazón y el de tus\n"
@@ -260,26 +248,22 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "TORNEO de COMBATES con TRUEQUE?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-#if IS_HNS
-	.string "Here at the FACTORY BATTLE TENT,\n"
-#else
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-#endif
-	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
-	.string "a row, you will earn a fine prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Aquí, en la TIENDA de BATALLA FÁBRICA,\n"
+	.string "celebramos eventos de Combate Intercambio\l"
+	.string "con POKéMON de alquiler.\p"
+	.string "Primero, se te prestarán tres\n"
+	.string "POKéMON específicamente para este evento.\p"
+	.string "Con los POKéMON de alquiler,\n"
+	.string "debes disputar un COMBATE INDIVIDUAL.\p"
+	.string "Si ganas, puedes intercambiar\n"
+	.string "uno de tus POKéMON de alquiler.\p"
+	.string "Repite este ciclo de combate e\n"
+	.string "intercambio: si ganas tres veces\l"
+	.string "seguidas, obtendrás un buen premio.\p"
+	.string "Si quieres interrumpir el desafío,\n"
+	.string "guarda la partida.\p"
+	.string "Si no guardas antes de interrumpir,\n"
+	.string "quedarás descalificado.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
 	.string "Esperamos que vuelvas a visitarnos.\p"

@@ -50,72 +50,72 @@ CeladonCity_DepartmentStore_3F_EventScript_Poster::
 	end
 
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-	.string "Captured POKéMON are registered\n"
-	.string "with an ID No. and the OT.\p"
-	.string "OT stands for “Original TRAINER” -\n"
-	.string "the TRAINER that caught it first.$"
+	.string "¡Los POKéMON capturados tienen un\n"
+	.string "N.º IDENTIDAD y un EO, el nombre\p"
+	.string "del ENTRENADOR ORIGINAL\n"
+	.string "que lo atrapó!$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
-	.string "All right!\p"
-	.string "My buddy's going to trade me his\n"
-	.string "KANGASKHAN for my HAUNTER!$"
+	.string "¡Muy bien!\p"
+	.string "¡Mi compañero va a cambiarme su\n"
+	.string "KANGASKHAN por mi GRAVELER!$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
-	.string "Come on, HAUNTER!\p"
-	.string "I love HAUNTER!\n"
-	.string "I collect them!\p"
-	.string "Huh?\p"
-	.string "HAUNTER turned into a different\n"
-	.string "POKéMON while being traded!$"
+	.string "¡Un GRAVELER!\p"
+	.string "¡Me gustan los GRAVELER!\n"
+	.string "¡Los colecciono!\p"
+	.string "¿Qué?\p"
+	.string "¡GRAVELER se transformó en otro\n"
+	.string "POKéMON!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-	.string "You can identify POKéMON you get\n"
-	.string "in trades by their ID Numbers.$"
+	.string "¡Puedes identificar a los POKéMON\n"
+	.string "que hayas cambiado por su N.º ID!$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-	.string "It's a Super NES.$"
+	.string "¡Es una SUPER NINTENDO!$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
-	.string "An RPG!\n"
-	.string "There's no time for that!$"
+	.string "Un juego de rol.\n"
+	.string "¡Genial! ¡Pero no tengo tiempo!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
-	.string "A sports game!\n"
-	.string "Dad'll like that!$"
+	.string "¡Un juego de deportes!\n"
+	.string "¡A mi padre le gustan!$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
-	.string "A puzzle game!\n"
-	.string "Looks addictive!$"
+	.string "¡Un juego de puzzles!\n"
+	.string "¡Parece muy adictivo!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
-	.string "A fighting game!\n"
-	.string "Looks tough!$"
+	.string "¡Un juego de lucha!\n"
+	.string "¡Parece muy difícil!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
-	.string "3F: TV GAME SHOP$"
+	.string "P2: VIDEOJUEGOS$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-	.string "Red and Green!\n"
-	.string "Both are POKéMON!$"
+	.string "¡Rojo y Verde!\n"
+	.string "¡Dos juegos de POKéMON!$"
 
 Text_CounterTeach::
-	.string "Oh, hi!\n"
-	.string "I finally finished POKéMON.\p"
-	.string "Not done yet? How about I teach\n"
-	.string "you a good move?\p"
-	.string "The move I have in mind is\n"
-	.string "COUNTER.\p"
-	.string "Not like the one I'm leaning on,\n"
-	.string "mind you!$"
+	.string "¡Hola! ¡Ya me he acabado\n"
+	.string "POKéMON!\p"
+	.string "¿Tú no? ¿Quieres que te enseñe\n"
+	.string "un movimiento?\p"
+	.string "He pensado en CONTADOR.\p"
+	.string "¡No te voy a enseñar el que acabo\n"
+	.string "de aprender, claro!$"
 
 Text_CounterDeclined::
-	.string "You're not interested? Come see\n"
-	.string "me if you change your mind.$"
+	.string "¿No te interesa? Bueno, vuelve\n"
+	.string "si cambias de opinión.$"
 
 Text_CounterWhichMon::
-	.string "Which POKéMON should I teach\n"
-	.string "COUNTER to?$"
+	.string "¿A qué POKéMON quieres que\n"
+	.string "le enseñe CONTADOR?$"
 
 Text_CounterTaught::
-	.string "Are you using that COUNTER move\n"
-	.string "I taught your POKéMON?$"
+	.string "¿Estás usando el movimiento\n"
+	.string "CONTADOR que le enseñé\l"
+	.string "a tu POKéMON?$"

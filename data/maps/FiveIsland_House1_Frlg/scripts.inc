@@ -6,10 +6,10 @@ FiveIsland_House1_EventScript_Woman::
 	end
 
 FiveIsland_House1_Text_HusbandWentOffFishing::
-	.string "Don't worry about buying anything\n"
-	.string "for dinner tonight!\p"
-	.string "…That's what my husband said when\n"
-	.string "he went off fishing today.\p"
-	.string "I'm not sure if I can count on him\n"
-	.string "to live up to that promise.$"
+	.string "¡No te preocupes por comprar nada\n"
+	.string "para la cena de esta noche!\p"
+	.string "…Eso dijo mi marido cuando se fue\n"
+	.string "a pescar hoy.\p"
+	.string "No sé si puedo fiarme de que\n"
+	.string "cumpla esa promesa.$"
 

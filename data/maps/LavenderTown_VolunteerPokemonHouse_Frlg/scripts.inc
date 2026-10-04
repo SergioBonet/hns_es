@@ -81,69 +81,71 @@ LavenderTown_VolunteerPokemonHouse_EventScript_Bookshelf::
 	end
 
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
-	.string "I recently moved to this town.\p"
-	.string "I hear that MR. FUJI's not from\n"
-	.string "these parts originally, either.$"
+	.string "Acabo de mudarme a este pueblo.\p"
+	.string "He oído que el SR. FUJI tampoco\n"
+	.string "es de por aquí.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-	.string "That's odd, MR. FUJI isn't here.\n"
-	.string "Where'd he go?$"
+	.string "El SR. FUJI no está aquí.\n"
+	.string "¡Qué raro! ¿Adónde ha ido?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-	.string "MR. FUJI had been praying alone\n"
-	.string "for CUBONE's mother.$"
+	.string "El SR. FUJI estaba rindiendo\n"
+	.string "homenaje a la madre de CUBONE.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-	.string "This is really MR. FUJI's house.\p"
-	.string "He's really kind.\p"
-	.string "He looks after abandoned and\n"
-	.string "orphaned POKéMON.$"
+	.string "Ésta es la casa del SR. FUJI.\p"
+	.string "¡Es muy amable!\p"
+	.string "¡Cuida de los POKéMON huérfanos\n"
+	.string "y abandonados!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-	.string "It's so warm!\n"
-	.string "POKéMON are so nice to hug.$"
+	.string "¡Es tan bonito abrazar a los\n"
+	.string "POKéMON!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-	.string "NIDORINO: Gaoo!$"
+	.string "NIDORINO: ¡Nidor!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-	.string "PSYDUCK: Gwappa!$"
+	.string "PSYDUCK: ¡Psydu!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-	.string "MR. FUJI: {PLAYER}…\p"
-	.string "Your POKéDEX quest is one that\n"
-	.string "requires strong dedication.\p"
-	.string "Without deep love for POKéMON,\n"
-	.string "your quest may fail.\p"
-	.string "I'm not sure if this will help you,\n"
-	.string "but I'd like you to have it.$"
+	.string "SR. FUJI: {PLAYER}.\p"
+	.string "Te va a costar mucho esfuerzo\n"
+	.string "completar la POKéDEX.\p"
+	.string "Si no adoras a tus POKéMON,\n"
+	.string "te resultará difícil finalizarla.\p"
+	.string "Creo que esto te ayudará.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-	.string "{PLAYER} received a POKé FLUTE\n"
-	.string "from MR. FUJI.$"
+	.string "¡{PLAYER} obtuvo la POKé FLAUTA\n"
+	.string "de manos del SR. FUJI!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-	.string "Upon hearing the POKé FLUTE,\n"
-	.string "sleeping POKéMON will spring awake.\p"
-	.string "Try using it on POKéMON that are\n"
-	.string "sleeping obstacles.$"
+	.string "Cuando escuchen la POKé FLAUTA,\n"
+	.string "los POKéMON dormidos se\l"
+	.string "despertarán.\p"
+	.string "Funciona con todos los POKéMON\n"
+	.string "dormidos.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-	.string "You must make room for this!$"
+	.string "¡No tienes sitio para esto!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-	.string "MR. FUJI: Has my POKé FLUTE\n"
-	.string "helped you?$"
+	.string "SR. FUJI: ¿Te ayudó mi POKé\n"
+	.string "FLAUTA?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-	.string "POKéMON FAN MAGAZINE\n"
-	.string "Monthly Grand Prize Drawing!\p"
-	.string "The application form is…\p"
-	.string "Gone! It's been clipped out.\n"
-	.string "Someone must have applied already.$"
+	.string "REVISTA POKéMON\n"
+	.string "¡Gran concurso mensual de dibujo\l"
+	.string "POKéMON!\p"
+	.string "El formulario de inscripción está\n"
+	.string "en...\p"
+	.string "¡Anda, se lo han llevado!\n"
+	.string "¡Se ha debido de inscribir alguien!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-	.string "POKéMON magazines line the shelf.\p"
-	.string "POKéMON INSIDER…\p"
-	.string "POKéMON FAN…$"
+	.string "¡Revistas de los POKéMON!\p"
+	.string "¡Cuadernos de los POKéMON!\p"
+	.string "¡Dibujos de los POKéMON!$"
 

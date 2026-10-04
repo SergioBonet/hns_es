@@ -297,18 +297,18 @@ PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 	.string "todas tus cosas en la mesa.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} abrió el cuaderno.\p"
+	.string "“REGLA AVENTURERA N.º 1\n"
+	.string "Pulsa START para abrir el MENÚ.\p"
+	.string "REGLA AVENTURERA N.º 2\n"
+	.string "Elige GUARDAR para guardar la partida.”\p"
+	.string "Las demás páginas están en blanco…$"
 
 Common_Text_LookCloserAtMap:
 	.string "{PLAYER} miró más de cerca el mapa\n"
 	.string "de la región de {REGION}.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Es una consola Nintendo GameCube.\p"
+	.string "Hay una consola Game Boy Advance\n"
+	.string "conectada a ella que sirve de Mando.$"

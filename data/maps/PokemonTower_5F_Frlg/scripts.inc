@@ -42,53 +42,53 @@ PokemonTower_5F_EventScript_Janae::
 	end
 
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-	.string "Come, child!\n"
-	.string "I have purified this space.\l"
-	.string "You can rest here.$"
+	.string "¡Ven, ven! ¡Sellé este lugar\n"
+	.string "con magia blanca!\l"
+	.string "¡Aquí puedes descansar!$"
 
 PokemonTower_5F_Text_TammyIntro::
-	.string "Give…me…\n"
-	.string "your…all…$"
+	.string "Dame...\n"
+	.string "tu... esencia...$"
 
 PokemonTower_5F_Text_TammyDefeat::
-	.string "Gasp!$"
+	.string "¿Uh?$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-	.string "I was under possession.$"
+	.string "Estaba poseído.$"
 
 PokemonTower_5F_Text_RuthIntro::
-	.string "You…shall…\n"
-	.string "join…us…$"
+	.string "Ven... con...\n"
+	.string "nosotros...$"
 
 PokemonTower_5F_Text_RuthDefeat::
-	.string "What a nightmare!$"
+	.string "¡Vaya pesadilla!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-	.string "I was possessed.$"
+	.string "¡Estaba fuera de mí!$"
 
 PokemonTower_5F_Text_KarinaIntro::
-	.string "Zombies!$"
+	.string "¡Zombis!$"
 
 PokemonTower_5F_Text_KarinaDefeat::
-	.string "Ha?$"
+	.string "¿Ja?$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-	.string "I regained my senses.$"
+	.string "¡He recuperado la razón!$"
 
 PokemonTower_5F_Text_JanaeIntro::
 	.string "Urgah…\n"
 	.string "Urff…$"
 
 PokemonTower_5F_Text_JanaeDefeat::
-	.string "Whoo!$"
+	.string "¡Uuuu!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-	.string "I fell to evil spirits despite my\n"
-	.string "training in the mountains…$"
+	.string "¡A pesar de mi entrenamiento\n"
+	.string "me atraparon los espíritus!$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-	.string "Entered the purified and protected\n"
-	.string "zone.\p"
-	.string "{PLAYER}'s POKéMON were fully\n"
-	.string "healed.$"
+	.string "¡Has entrado en una zona de pureza\n"
+	.string "y seguridad!\p"
+	.string "¡Los POKéMON de {PLAYER} están\n"
+	.string "curados!$"
 

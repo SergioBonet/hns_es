@@ -1466,12 +1466,13 @@ gText_MomOrDadMightLikeThisProgram::
 	.string "¡Mejor sigo mi camino!$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "Hola. Éste es el CENTRO COMERCIAL\n"
+	.string "de CALAGUA.\p"
+	.string "¿A qué planta vas?$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "La tormenta de arena es demasiado\n"
+	.string "fuerte. No se puede avanzar.$"
 
 gText_SelectWithoutRegisteredItem::
 	.string "Puedes registrar un objeto de la\n"
@@ -1496,11 +1497,11 @@ gText_PlayerHouseBootPC::
 	.string "{PLAYER} encendió el PC.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+	.string "Se ha cancelado la conexión.$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+	.string "¿Quieres ponerle un mote al\n"
+	.string "{STR_VAR_2} que has recibido?$"
 
 gText_PlayerWhitedOut::
 	.string "¡{PLAYER} no tiene más POKéMON\n"
@@ -1560,13 +1561,12 @@ gText_RegisteredTrainerinPokeNav::
 #endif
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "¿Conoces la MT DAÑO SECRETO?\p"
+	.string "Nuestro grupo adora esta MT.\p"
+	.string "Uno de nuestros miembros te la va\n"
+	.string "a dar. Cuando la tengas, vuelve aquí.\p"
+	.string "Te aceptaremos como miembro\n"
+	.string "y te venderemos unas cosas geniales.$"
 
 gText_PokerusExplanation::
 	.string "Es posible que algún POKéMON esté\n"
@@ -1580,11 +1580,11 @@ gText_PokerusExplanation::
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "Parece como si una puerta se hubiera\n"
+	.string "abierto en algún lugar lejano.$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+	.string "Hay un gran agujero en la pared.$"
 
 gText_SorryWirelessClubAdjustments::
 	.string "Lo siento, pero el CLUB\n"
@@ -1597,20 +1597,20 @@ gText_UndergoingAdjustments::
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+	.string "Lo siento mucho. El CENTRO de CAMBIO\n"
+	.string "está en inspección.$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+	.string "Lo siento mucho. El CENTRO de RÉCORDS\n"
+	.string "está en preparación.$"
 
 gText_PlayerHandedOverTheItem::
 	.string "¡{PLAYER} entregó {STR_VAR_1}!$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Gracias por acceder al sistema\n"
+	.string "del REGALO MISTERIOSO.$"
 
 gText_PlayerFoundOneTMHM::
 	.string "¡{PLAYER} encontró {STR_VAR_1}\n"
@@ -1629,7 +1629,7 @@ gText_LegendaryFlewAway::
 	.string "¡El {STR_VAR_1} se ha marchado!$"
 
 gText_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "¿A qué planta quieres ir?$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"
@@ -1762,11 +1762,11 @@ EventScript_TryDarkenRuins::
 	return
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "¡El {STR_VAR_1} se ha marchado!$"
 
 @ Call for legendary bird trio
 Text_Gyaoo::
-	.string "Gyaoo!$"
+	.string "¡Gyaoo!$"
 
 EventScript_BrailleCursorWaitButton::
 	special BrailleCursorToggle

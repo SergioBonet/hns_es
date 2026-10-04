@@ -465,150 +465,154 @@ CeladonCity_GameCorner_EventScript_UnusableSlotMachine3::
 	end
 
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
-	.string "Welcome!\p"
-	.string "You can exchange your COINS for\n"
-	.string "fabulous prizes next door.$"
+	.string "¡Hola!\p"
+	.string "En la puerta de al lado puedes\n"
+	.string "cambiar tus FICHAS por grandes\l"
+	.string "premios.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-	.string "Welcome to ROCKET GAME CORNER!\p"
-	.string "Do you need some game COINS?\n"
-	.string "Would you like to buy some?$"
+	.string "¡Éste es el CASINO ROCKET!\p"
+	.string "¿Necesitas FICHAS?\n"
+	.string "¿Quieres comprar más?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
-	.string "No?\n"
-	.string "Please come play sometime!$"
+	.string "¿No?\n"
+	.string "¡Ven a jugar cuando quieras!$"
 
 CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
-	.string "Oh, I'm sorry.\n"
-	.string "You don't have a COIN CASE.$"
+	.string "Oh, lo siento.\n"
+	.string "No tienes un MONEDERO.$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsFull::
-	.string "Whoops!\n"
-	.string "Your COIN CASE is full.$"
+	.string "¡Vaya!\n"
+	.string "Tu MONEDERO está lleno.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-	.string "You can't afford the COINS.$"
+	.string "¡No tienes dinero para las FICHAS!$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
-	.string "Thank you.\n"
-	.string "Here are your COINS!$"
+	.string "¡Gracias!\n"
+	.string "¡Toma las FICHAS!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-	.string "Keep this quiet.\p"
-	.string "It's rumored that this place is run\n"
-	.string "by TEAM ROCKET.$"
+	.string "Escucha y calla.\p"
+	.string "Dicen que este lugar lo dirige\n"
+	.string "el TEAM ROCKET.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
-	.string "I think these machines have\n"
-	.string "different odds.$"
+	.string "¡Creo que estas máquinas están\n"
+	.string "trucadas!$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-	.string "Kid, do you want to play?$"
+	.string "¡Oye!\n"
+	.string "¿Quieres jugar?$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
-	.string "{PLAYER} received 10 COINS\n"
-	.string "from the man.$"
+	.string "¡{PLAYER} obtuvo 10 FICHAS\n"
+	.string "de manos del hombre!$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-	.string "You don't need my COINS!$"
+	.string "¡No necesitas mis FICHAS!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-	.string "Wins seem to come and go.\n"
-	.string "Nothing's a sure thing.$"
+	.string "La suerte viene y se va.\n"
+	.string "Nada es seguro.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
-	.string "These slot games…\n"
-	.string "Win or lose, it's only by luck.$"
+	.string "¡Me lo estoy pasando genial!\n"
+	.string "Aunque pierda, las tragaperras\l"
+	.string "son estupendas.$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
-	.string "Hey!\p"
-	.string "You have better things to do,\n"
-	.string "champ in the making!\p"
-	.string "CELADON GYM's LEADER is ERIKA.\p"
-	.string "She is a user of GRASS-type\n"
-	.string "POKéMON, and at one with nature.\p"
-	.string "She might appear docile because of\n"
-	.string "her flower arranging…\p"
-	.string "But she's not one to be taken\n"
-	.string "lightly!$"
+	.string "¡Eh!\p"
+	.string "Tienes cosas mejores que hacer,\n"
+	.string "¡aspirante al título!\p"
+	.string "La LÍDER del GIMNASIO AZULONA es\n"
+	.string "ERIKA.\p"
+	.string "Usa POKéMON de tipo PLANTA y está en\n"
+	.string "armonía con la naturaleza.\p"
+	.string "Puede parecer dócil por su afición a\n"
+	.string "los arreglos florales…\p"
+	.string "¡Pero no es alguien a quien se deba\n"
+	.string "tomar a la ligera!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-	.string "They offer rare POKéMON that can\n"
-	.string "be exchanged for your COINS.\p"
-	.string "But, I just can't seem to win!$"
+	.string "¡Te ofrecen raros POKéMON que\n"
+	.string "pueden ser cambiados por tus\l"
+	.string "FICHAS!\p"
+	.string "¡Y yo aquí, sin ganar!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-	.string "Games are scary!\n"
-	.string "It's so easy to get hooked!$"
+	.string "¡Los juegos dan miedo!\n"
+	.string "¡Es tan fácil enviciarse!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-	.string "What's up?\n"
-	.string "Want some COINS?$"
+	.string "¿Qué?\n"
+	.string "¿Quieres algunas FICHAS?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-	.string "{PLAYER} received 20 COINS\n"
-	.string "from the nice guy.$"
+	.string "¡{PLAYER} obtuvo 20 FICHAS\n"
+	.string "de manos del chico encantador!$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-	.string "You have lots of COINS!$"
+	.string "¡Tienes muchas FICHAS!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
-	.string "Darn! I need more COINS for the\n"
-	.string "POKéMON I want!$"
+	.string "¡Vaya! ¡Necesito más FICHAS\n"
+	.string "para los POKéMON que quiero!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
-	.string "Hey, what? You're throwing me off!\n"
-	.string "Here are some COINS, so shoo!$"
+	.string "¿Qué? ¿Me estás echando?\n"
+	.string "¡Aquí tienes algunas FICHAS!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-	.string "{PLAYER} received 20 COINS\n"
-	.string "from the man.$"
+	.string "¡{PLAYER} obtuvo 20 FICHAS\n"
+	.string "de manos del hombre!$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
-	.string "You've got plenty of your own\n"
-	.string "COINS!$"
+	.string "¡Ya tienes tus propias FICHAS!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-	.string "The trick is to watch the reels\n"
-	.string "closely.$"
+	.string "El truco es mirar bien los\n"
+	.string "rodillos.$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
-	.string "I'm guarding this poster!\n"
-	.string "Go away, or else!$"
+	.string "¡Yo protejo este cartel!\n"
+	.string "¡Lárgate de aquí!$"
 
 CeladonCity_GameCorner_Text_GruntDefeat::
-	.string "Dang!$"
+	.string "¡Auuu!$"
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
-	.string "The TEAM ROCKET HIDEOUT might\n"
-	.string "be discovered!\p"
-	.string "I better tell BOSS!$"
+	.string "¡Nuestra GUARIDA podría ser\n"
+	.string "descubierta!\p"
+	.string "¡Voy a decírselo al JEFE!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
-	.string "Hey!\p"
-	.string "A switch behind the poster!?\n"
-	.string "Let's push it!$"
+	.string "¡Oye!\p"
+	.string "¿¡Hay un botón detrás del cartel!?\n"
+	.string "¡Vamos a pulsarlo!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-	.string "A COIN CASE is required…$"
+	.string "Hace falta un MONEDERO…$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
-	.string "Oops!\n"
-	.string "Don't have the COIN CASE!$"
+	.string "¡Vaya!\n"
+	.string "¡Olvidé el MONEDERO!$"
 
 CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
-	.string "A slot machine!\n"
-	.string "Want to play?$"
+	.string "¡Una máquina tragaperras!\n"
+	.string "¿Quieres jugar?$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-	.string "OUT OF ORDER\n"
-	.string "This is broken.$"
+	.string "NO FUNCIONA\n"
+	.string "Está rota.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-	.string "OUT TO LUNCH\n"
-	.string "This is reserved.$"
+	.string "ESTAMOS COMIENDO\n"
+	.string "Máquina reservada.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-	.string "Someone's keys!\n"
-	.string "They'll be back.$"
+	.string "¡Unas llaves!\n"
+	.string "Ya vendrán a por ellas.$"
 

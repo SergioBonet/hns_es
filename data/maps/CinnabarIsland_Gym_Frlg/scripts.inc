@@ -710,192 +710,198 @@ CinnabarIsland_Gym_EventScript_OpenDoor6::
 	return
 
 CinnabarIsland_Gym_Text_BlaineIntro::
-	.string "Hah!\p"
-	.string "I am BLAINE, the red-hot LEADER\n"
-	.string "of CINNABAR GYM!\p"
-	.string "My fiery POKéMON are all rough\n"
-	.string "and ready with intense heat!\p"
-	.string "They incinerate all challengers!\p"
-	.string "Hah!\n"
-	.string "You better have BURN HEAL!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "¡Ja!\p"
+	.string "¡Soy BLAINE, el ardiente LÍDER del\n"
+	.string "GIMNASIO CANELA!\p"
+	.string "¡Mis POKéMON de fuego son duros y\n"
+	.string "están listos con un calor intenso!\p"
+	.string "¡Incineran a todos los retadores!\p"
+	.string "¡Ja! ¡Más te vale llevar\n"
+	.string "ANTIQUEMAR!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
-	.string "I have burned down to nothing!\n"
-	.string "Not even ashes remain!\p"
-	.string "You have earned the VOLCANOBADGE.$"
+	.string "¡Me has machacado!\n"
+	.string "¡He quedado reducido a nada!\p"
+	.string "¡Has ganado la MEDALLA VOLCÁN!$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FIRE BLAST is the ultimate fire\n"
-	.string "technique.\p"
-	.string "Don't waste it on WATER POKéMON.$"
+	.string "¡LLAMARADA es lo máximo en la\n"
+	.string "técnica de las quemaduras!\p"
+	.string "¡No la malgastes con los POKéMON\n"
+	.string "acuáticos!$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
-	.string "Hah!\p"
-	.string "The VOLCANOBADGE heightens the\n"
-	.string "SPECIAL stats of your POKéMON.\p"
-	.string "Here, you can have this, too!$"
+	.string "¡Ja!\p"
+	.string "¡La MEDALLA VOLCÁN mejora las\n"
+	.string "habilidades ESPECIALES de tus\l"
+	.string "POKéMON!\p"
+	.string "¡Mira, también te daré esto!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-	.string "{PLAYER} received TM38\n"
-	.string "from BLAINE.$"
+	.string "¡{PLAYER} recibió la MT38\n"
+	.string "de manos de BLAINE!$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type POKéMON.\p"
-	.string "VULPIX or CHARMELEON would be\n"
-	.string "ideal for that move.$"
+	.string "¡La MT38 contiene LLAMARADA!\p"
+	.string "¡Enseña este ataque a los POKéMON\n"
+	.string "del tipo FUEGO!\p"
+	.string "¡CHARMELEON o PONYTA serían\n"
+	.string "las mejores apuestas!$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
-	.string "Make space for this, child!$"
+	.string "¡Hazle sitio a esto, anda!$"
 
 CinnabarIsland_Gym_Text_ErikIntro::
-	.string "Do you know how hot POKéMON fire\n"
-	.string "breath can get?$"
+	.string "¿Sabes el calor que puede dar el\n"
+	.string "aliento de fuego de un POKéMON?$"
 
 CinnabarIsland_Gym_Text_ErikDefeat::
-	.string "Yow!\n"
-	.string "Hot, hot, hot!$"
+	.string "¡Ay!\n"
+	.string "¡Quema, quema, quema!$"
 
 CinnabarIsland_Gym_Text_ErikPostBattle::
-	.string "Fire, or to be more precise,\n"
-	.string "combustion…\p"
-	.string "…Oxygen in the air…\n"
-	.string "Blah, blah, blah, blah…$"
+	.string "Fuego o, para ser más preciso,\n"
+	.string "combustión...\p"
+	.string "¡Bla, bla, bla, bla!...$"
 
 CinnabarIsland_Gym_Text_QuinnIntro::
-	.string "I was a thief, but I went straight\n"
-	.string "as a TRAINER.$"
+	.string "Yo era ladrón, pero me hice\n"
+	.string "honrado cuando me convertí\l"
+	.string "en ENTRENADOR.$"
 
 CinnabarIsland_Gym_Text_QuinnDefeat::
-	.string "I surrender!$"
+	.string "¡Esto no estaba previsto!$"
 
 CinnabarIsland_Gym_Text_QuinnPostBattle::
-	.string "I get this uncontrollable urge to\n"
-	.string "steal other people's POKéMON.$"
+	.string "¡No puedo evitar robar los POKéMON\n"
+	.string "de otras personas!$"
 
 CinnabarIsland_Gym_Text_AveryIntro::
-	.string "I've studied POKéMON thoroughly.\n"
-	.string "You can't win!$"
+	.string "¡No puedes ganar!\n"
+	.string "¡Soy un experto en POKéMON!$"
 
 CinnabarIsland_Gym_Text_AveryDefeat::
-	.string "Waah!\n"
-	.string "My studies were insufficient!$"
+	.string "¡Buaa!\n"
+	.string "¡Mis estudios no han bastado!$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
-	.string "My theories are too complicated\n"
-	.string "for you to understand.$"
+	.string "Mis teorías son demasiado complicadas\n"
+	.string "para que las entiendas.$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type POKéMON.\n"
-	.string "I just do.$"
+	.string "¡Me encanta usar POKéMON\n"
+	.string "del tipo FUEGO!$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-	.string "Too hot to handle!$"
+	.string "¡Demasiado caliente para mí!$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
-	.string "I wish there were a thief POKéMON.\n"
-	.string "I'd use that!$"
+	.string "¡Ojalá hubiera un POKéMON ladrón!\n"
+	.string "¡Me encantaría utilizarlo!$"
 
 CinnabarIsland_Gym_Text_DerekIntro::
-	.string "I know why BLAINE became a\n"
-	.string "TRAINER.$"
+	.string "¡Ya sé por qué BLAINE se hizo\n"
+	.string "ENTRENADOR!$"
 
 CinnabarIsland_Gym_Text_DerekDefeat::
-	.string "Ow!$"
+	.string "¡Ay!$"
 
 CinnabarIsland_Gym_Text_DerekPostBattle::
-	.string "Our LEADER, BLAINE, became lost\n"
-	.string "in the mountains but good.\p"
-	.string "Night fell when a fiery bird\n"
-	.string "POKéMON appeared.\p"
-	.string "Its light allowed BLAINE to find\n"
-	.string "his way down safely.$"
+	.string "BLAINE se perdió en la montaña,\n"
+	.string "y se hizo de noche...\p"
+	.string "¡Pero apareció un feroz pájaro\n"
+	.string "POKéMON...!\p"
+	.string "¡E iluminó el camino a BLAINE\n"
+	.string "para que pudiera bajar!$"
 
 CinnabarIsland_Gym_Text_DustyIntro::
-	.string "I've been to many GYMS, but this\n"
-	.string "one best suits my style.$"
+	.string "¡He estado en muchos GIMNASIOS,\n"
+	.string "pero éste es mi preferido!$"
 
 CinnabarIsland_Gym_Text_DustyDefeat::
-	.string "Yowza!\n"
-	.string "Too hot!$"
+	.string "¡Vaya!\n"
+	.string "¡Demasiado calor!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-	.string "PONYTA, NINETALES…\n"
-	.string "Those are popular FIRE POKéMON.$"
+	.string "¡A nosotros, los seguidores de los\n"
+	.string "POKéMON de fuego, nos gustan\l"
+	.string "PONYTA y NINETALES!$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
-	.string "Fire is weak against H2O.$"
+	.string "El fuego es débil contra el H2O.$"
 
 CinnabarIsland_Gym_Text_ZacDefeat::
-	.string "Oh!\n"
-	.string "Snuffed out!$"
+	.string "¡Oh!\n"
+	.string "¡Esto se acabó!$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
-	.string "Water beats fire, of course.\p"
-	.string "But fire melts ice, so the FIRE\n"
-	.string "type beats ICE-type POKéMON.$"
+	.string "¡El agua apaga el fuego!\p"
+	.string "¡Pero el fuego derrite a los\n"
+	.string "POKéMON de hielo!$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "The hotheaded BLAINE is a FIRE\n"
-	.string "POKéMON pro.\p"
-	.string "Douse his spirits with water!\p"
-	.string "You'd better take some\n"
-	.string "BURN HEALS, too.$"
+	.string "¡Hola, aspirante al título!\p"
+	.string "¡BLAINE es un profesional\n"
+	.string "de los POKéMON de fuego!\p"
+	.string "¡Bájale los humos con agua!\p"
+	.string "¡Más vale que lleves\n"
+	.string "ANTIQUEMAR!$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-	.string "{PLAYER}!\n"
-	.string "You beat that firebrand!$"
+	.string "¡{PLAYER}!\n"
+	.string "¡Has vencido a ese ardiente!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
+	.string "LÍDER del GIMNASIO POKéMON\n"
+	.string "de CANELA: BLAINE\p"
+	.string "ENTRENADOR GANADOR:\n"
 	.string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+	.string "LÍDER del GIMNASIO POKéMON\n"
+	.string "de CANELA: BLAINE\p"
+	.string "ENTRENADORES GANADORES:\n"
+	.string "{RIVAL} y {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "POKéMON Quiz!\p"
-	.string "Get it right, and the door opens to\n"
-	.string "the next room.\p"
-	.string "Get it wrong, and face a TRAINER!\p"
-	.string "If you want to conserve your\n"
-	.string "POKéMON for the GYM LEADER…\p"
-	.string "Then get it right!\n"
-	.string "Here we go!$"
+	.string "¡POKéACERTIJO!\p"
+	.string "¡Responde bien y abrirás la puerta\n"
+	.string "a la siguiente habitación!\p"
+	.string "¡Responde mal y lucharás contra\n"
+	.string "un ENTRENADOR!\p"
+	.string "Si prefieres reservar tus POKéMON\n"
+	.string "para el LÍDER del GIMNASIO...\p"
+	.string "¡Hazlo bien!\n"
+	.string "¡Vamos allá!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "CATERPIE evolves into METAPOD?$"
+	.string "¿Evoluciona CATERPIE y\n"
+	.string "se transforma en METAPOD?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "There are nine certified POKéMON\n"
-	.string "LEAGUE BADGES?$"
+	.string "¿Hay 9 MEDALLAS oficiales\n"
+	.string "de la LIGA POKéMON?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "POLIWAG evolves three times?$"
+	.string "¿Evoluciona POLIWAG 3 veces?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-	.string "Are electric moves effective\n"
-	.string "against GROUND-type POKéMON?$"
+	.string "¿Afectan los movimientos del tipo\n"
+	.string "ELÉCTRICO a los POKéMON\l"
+	.string "del tipo TIERRA?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
-	.string "POKéMON of the same kind and level\n"
-	.string "are not identical?$"
+	.string "¿Son distintos los POKéMON del\n"
+	.string "mismo tipo y del mismo nivel?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "TM28 contains TOMBSTONY?$"
+	.string "¿Contiene la MT28 TUMBAPIEDRA?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
-	.string "You're absolutely correct!\p"
-	.string "Go on through!$"
+	.string "¡Respuesta correcta!\p"
+	.string "¡Adelante!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
-	.string "Sorry!\n"
-	.string "Bad call!$"
+	.string "¡Mal!\n"
+	.string "¡Lo siento!$"
 

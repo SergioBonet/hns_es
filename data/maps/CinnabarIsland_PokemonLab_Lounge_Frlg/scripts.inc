@@ -84,8 +84,8 @@ CinnabarIsland_PokemonLab_Lounge_EventScript_NormaAlreadyTraded::
 	end
 
 CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
-	.string "I found this most remarkable fossil\n"
-	.string "inside MT. MOON.\p"
-	.string "I think it's of a rare, prehistoric\n"
-	.string "POKéMON.$"
+	.string "Encontré este fósil tan notable\n"
+	.string "dentro del MT. MOON.\p"
+	.string "Creo que es de un POKéMON raro y\n"
+	.string "prehistórico.$"
 

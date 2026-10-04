@@ -3500,9 +3500,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "decelerates the\n"
-            "growth of Berries."),
+            "Abono que retrasa\n"
+            "el crecimiento\n"
+            "de las BAYAS."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3523,9 +3523,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "ups the life time\n"
-            "of Berry trees."),
+            "Abono que alarga\n"
+            "la vida de los\n"
+            "árboles de BAYAS."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3546,9 +3546,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "makes more Berries\n"
-            "regrow after fall."),
+            "Abono que hace que\n"
+            "rebroten más BAYAS\n"
+            "tras caer."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3569,9 +3569,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "ups the number of\n"
-            "Berries harvested."),
+            "Abono que aumenta\n"
+            "el número de BAYAS\n"
+            "cosechadas."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3592,9 +3592,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "ups the chance of\n"
-            "Berry mutations."),
+            "Abono que aumenta\n"
+            "la probabilidad de\n"
+            "mutación de BAYAS."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3615,9 +3615,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer that\n"
-            "ups the dry speed\n"
-            "of soft soil."),
+            "Abono que acelera\n"
+            "el secado del\n"
+            "suelo blando."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -3638,9 +3638,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 200,
     #if OW_BERRY_MULCH_USAGE == TRUE
         .description = COMPOUND_STRING(
-            "A fertilizer Rich\n"
-            "Surprising and\n"
-            "Boosting as well."),
+            "Abono rico, sorpren-\n"
+            "dente y fructífero\n"
+            "a la vez."),
     #else
         .description = sGenericMulchDesc,
     #endif
@@ -8374,9 +8374,9 @@ const struct ItemInfo gItemsInfo[] =
     #else
         .holdEffectParam = 5,
         .description = COMPOUND_STRING(
-            "A hold item that\n"
-            "slightly lowers the\n"
-            "foe's accuracy."),
+            "Objeto equipado que\n"
+            "reduce un poco la\n"
+            "Precisión del rival."),
     #endif
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_INCENSE,
@@ -9304,14 +9304,14 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_ICY_ROCK,
     #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_HAIL
         .description = COMPOUND_STRING(
-            "Extends the length\n"
-            "of the move Hail\n"
-            "used by the holder."),
+            "Alarga la duración\n"
+            "de GRANIZO usado\n"
+            "por el portador."),
     #elif B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
-            "Extends the length\n"
-            "of Snowscape if\n"
-            "used by the holder."),
+            "Alarga la duración\n"
+            "de PAISAJE NEVADO\n"
+            "si lo usa el portador."),
     #else
         .description = COMPOUND_STRING(
             "Alarga el granizo o\n"
@@ -9575,9 +9575,9 @@ const struct ItemInfo gItemsInfo[] =
     #else
         .price = (I_PRICE == GEN_1) ? 1 : 3000,
         .description = COMPOUND_STRING(
-            "A hold item that\n"
-            "gets Exp. points\n"
-            "from battles."),
+            "Objeto equipado que\n"
+            "gana Puntos Exp.\n"
+            "en combate."),
         .pocket = POCKET_ITEMS,
     #endif
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -10979,9 +10979,9 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_RESTORE_HP,
         .holdEffectParam = 30,
         .description = COMPOUND_STRING(
-            "A hold item that\n"
-            "restores 30 HP in\n"
-            "battle."),
+            "Objeto equipado que\n"
+            "restaura 30 PS en\n"
+            "combate."),
     #endif
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_PARTY_MENU,
@@ -12132,9 +12132,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 3000,
     #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
-            "Raises the Defense\n"
-            "of Ice type {PKMN}\n"
-            "for 5 turns."),
+            "Sube la Defensa de\n"
+            "los {PKMN} de tipo\n"
+            "HIELO durante 5 turnos."),
     #else
         .description = COMPOUND_STRING(
             "Tormenta de granizo\n"
@@ -13024,9 +13024,9 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("MT70"),
         .price = 3000,
         .description = COMPOUND_STRING(
-            "Looses a powerful\n"
-            "blast of light that\n"
-            "cuts accuracy."),
+            "Lanza un potente\n"
+            "destello de luz que\n"
+            "reduce la precisión."),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
@@ -14326,9 +14326,9 @@ const struct ItemInfo gItemsInfo[] =
             "CIUDAD TRIGAL."),
 #else
         .description = COMPOUND_STRING(
-            "The key for New\n"
-            "Mauville beneath\n"
-            "Mauville City."),
+            "La llave de la nueva\n"
+            "MALVALONA bajo\n"
+            "CIUDAD MALVALONA."),
 #endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14556,9 +14556,9 @@ const struct ItemInfo gItemsInfo[] =
             "RADIO."),
 #else
         .description = COMPOUND_STRING(
-            "A card-type door\n"
-            "key used in Silph\n"
-            "Co's office."),
+            "Llave en forma de\n"
+            "tarjeta de la oficina\n"
+            "de SILPH S.A."),
 #endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

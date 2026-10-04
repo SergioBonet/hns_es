@@ -59,7 +59,7 @@ gNameChoice_Max::
 	.string "MAX$"
 
 gNameChoice_Jon::
-	.string "JON$"
+	.string "RUS$"
 
 gNameChoice_Ralph::
 	.string "RALPH$"

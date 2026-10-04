@@ -39,34 +39,34 @@ Route2_EastBuilding_EventScript_Rocker::
 	end
 
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
-	.string "Hi! Remember me?\n"
-	.string "I'm one of PROF. OAK's AIDES.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on ten species, I'm supposed to\l"
-	.string "give you a reward.\p"
-	.string "PROF. OAK entrusted me with\n"
-	.string "HM05 for you.\p"
-	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "ten kinds of POKéMON?$"
+	.string "¡Hola! ¿Te acuerdas de mí?\n"
+	.string "Soy uno de los AYUDANTES del PROF. OAK.\p"
+	.string "Si tu POKéDEX tiene datos completos\n"
+	.string "de diez especies, debo darte\l"
+	.string "un premio.\p"
+	.string "El PROF. OAK me confió la\n"
+	.string "MO05 para ti.\p"
+	.string "Así que, {PLAYER}, déjame preguntarte.\p"
+	.string "¿Has reunido datos de al menos\n"
+	.string "diez clases de POKéMON?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "¡Bien! ¡Has logrado {STR_VAR_3} tipos\n"
+	.string "de POKéMON!\p"
+	.string "¡Enhorabuena!\n"
+	.string "¡Aquí tienes!$"
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
-	.string "{PLAYER} received HM05\n"
-	.string "from the AIDE.$"
+	.string "{PLAYER} recibió la MO05\n"
+	.string "del AYUDANTE.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
-	.string "HM05 contains the hidden move\n"
-	.string "FLASH.\p"
-	.string "FLASH lights up even the darkest\n"
-	.string "of caves and dungeons.$"
+	.string "La MO05 contiene el movimiento\n"
+	.string "oculto DESTELLO.\p"
+	.string "DESTELLO ilumina hasta las cuevas\n"
+	.string "y mazmorras más oscuras.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-	.string "Once a POKéMON learns FLASH, you\n"
-	.string "can get through ROCK TUNNEL.$"
+	.string "Cuando un POKéMON aprenda DESTELLO,\n"
+	.string "podrás atravesar el TÚNEL ROCA.$"
 

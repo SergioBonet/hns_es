@@ -148,18 +148,18 @@ PewterCity_Gym_Text_DontHaveRoomForThis::
 	.string "No tienes espacio para esto.$"
 
 PewterCity_Gym_Text_LiamIntro::
-	.string "Stop right there, kid!\p"
-	.string "You're ten thousand light-years \n"
-	.string "from facing BROCK!$"
+	.string "¡Alto ahí, chaval!\p"
+	.string "¡Estás a diez mil años luz\n"
+	.string "de enfrentarte a BROCK!$"
 
 PewterCity_Gym_Text_LiamDefeat::
-	.string "Darn!\p"
-	.string "Light-years isn't time…\n"
-	.string "It measures distance!$"
+	.string "¡Vaya!\p"
+	.string "¡Los años luz no miden tiempo…\n"
+	.string "sino distancia!$"
 
 PewterCity_Gym_Text_LiamPostBattle::
-	.string "You're pretty hot.\n"
-	.string "…But not as hot as BROCK!$"
+	.string "Eres bastante bueno.\n"
+	.string "…¡Pero no tanto como BROCK!$"
 
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::
 	.string "¡Hola!\n"

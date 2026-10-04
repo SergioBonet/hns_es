@@ -11,22 +11,22 @@ Route11_EastEntrance_1F_EventScript_BottomGuard::
 
 @ Unclear where this is originally from
 Route11_EastEntrance_1F_Text_BagIsFull::
-	.string "{PLAYER}{KUN}の　バッグ\n"
-	.string "いっぱい　みたい　だね$"
+	.string "Parece que la MOCHILA de\n"
+	.string "{PLAYER}{KUN} está llena.$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
-	.string "Don't you think it's hard to think\n"
-	.string "up good names for POKéMON?\p"
-	.string "Especially if you've caught a\n"
-	.string "whole bunch?\p"
-	.string "In LAVENDER TOWN, there's a man\n"
-	.string "who rates POKéMON nicknames.\p"
-	.string "He can even help you rename your\n"
-	.string "POKéMON, too.$"
+	.string "¿No crees que es difícil pensar\n"
+	.string "buenos motes para los POKéMON?\p"
+	.string "¿Sobre todo si has capturado\n"
+	.string "un montón?\p"
+	.string "En PUEBLO LAVANDA hay un hombre\n"
+	.string "que valora los motes de POKéMON.\p"
+	.string "También puede ayudarte a cambiar\n"
+	.string "el mote de tus POKéMON.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
-	.string "If you're aiming to reach LAVENDER\n"
-	.string "TOWN, take ROCK TUNNEL.\p"
-	.string "You can get to ROCK TUNNEL from\n"
-	.string "CERULEAN CITY.$"
+	.string "Si quieres llegar a PUEBLO LAVANDA,\n"
+	.string "toma el TÚNEL ROCA.\p"
+	.string "Puedes llegar al TÚNEL ROCA desde\n"
+	.string "CIUDAD CELESTE.$"
 

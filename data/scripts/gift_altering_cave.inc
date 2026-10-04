@@ -13,11 +13,12 @@ MysteryGiftScript_AlteringCave_:
 	end
 
 sText_MysteryGiftAlteringCave:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "There appears to be a rumor about\n"
-	.string "rare POKéMON sightings.\p"
-	.string "The sightings reportedly came from\n"
-	.string "the ALTERING CAVE on ROUTE 103.\p"
-	.string "Perhaps it would be worthwhile for\n"
-	.string "you to investigate this rumor.$"
+	.string "Gracias por usar el sistema de\n"
+	.string "REGALO MISTERIOSO.\p"
+	.string "Parece que corre el rumor de\n"
+	.string "avistamientos de POKéMON raros.\p"
+	.string "Según se dice, los avistamientos\n"
+	.string "vienen de la CUEVA CAMBIANTE, en la\l"
+	.string "RUTA 103.\p"
+	.string "Quizá te merezca la pena\n"
+	.string "investigar este rumor.$"

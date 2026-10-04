@@ -185,19 +185,18 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
-	.string "Don't they have set dates for their\n"
-	.string "clear-out sales?\p"
-	.string "I watch TV, but they never show any\n"
-	.string "commercials.$"
+	.string "¿Todavía no saben cuándo\n"
+	.string "van a hacer la liquidación?\p"
+	.string "Aquí nadie sabe decirme nada…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
-	.string "Yes! I've been waiting a long time for\n"
-	.string "this clear-out sale.\p"
-	.string "They have items that you can only get\n"
-	.string "here. I'm going to load up, that I am!$"
+	.string "He estado esperando un montón\n"
+	.string "a que se pusieran de liquidación.\p"
+	.string "¡Ahora voy a aprovechar para cambiar\n"
+	.string "toda la decoración de mi casa!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
-	.string "Ohh… I'm bone-dry thirsty!$"
+	.string "Uf… ¡Qué sed tengo!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
 	.string "Es una MÁQUINA EXPENDEDORA.\n"
@@ -216,4 +215,4 @@ LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
 	.string "No tengo bastante dinero…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Mejor no compro nada de beber…$"

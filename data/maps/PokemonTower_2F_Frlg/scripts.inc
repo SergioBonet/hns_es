@@ -101,32 +101,31 @@ PokemonTower_2F_Movement_RivalExitDown::
 	step_end
 
 PokemonTower_2F_Text_RivalIntro::
-	.string "{RIVAL}: Hey, {PLAYER}!\n"
-	.string "What brings you here?\l"
-	.string "Is your POKéMON dead?\p"
-	.string "Hey! It's alive!\p"
-	.string "I can at least make them faint!\n"
-	.string "Let's go!$"
+	.string "{RIVAL}: ¡Oye, {PLAYER}!\n"
+	.string "¿Qué haces por aquí?\l"
+	.string "¿Están tus POKéMON debilitados?\p"
+	.string "¡Menos mal!\p"
+	.string "¡Pero yo puedo conseguir que\n"
+	.string "se debiliten! ¡Vamos!$"
 
 PokemonTower_2F_Text_RivalDefeat::
-	.string "What?\n"
-	.string "You stinker!\p"
-	.string "I took it easy on you, too!$"
+	.string "¿Qué?\n"
+	.string "¡Granuja!\p"
+	.string "¡Y yo te traté con suavidad!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-	.string "How's your POKéDEX coming?\n"
-	.string "I just caught a CUBONE!\p"
-	.string "I can't find the bigger MAROWAK.\n"
-	.string "Where could they be?\p"
-	.string "I bet there aren't any left!\p"
-	.string "Well, I better get going.\n"
-	.string "I've got a lot to accomplish,\l"
-	.string "unlike you.\p"
-	.string "Smell ya later!$"
+	.string "¿Qué tal va tu POKéDEX?\n"
+	.string "¡Acabo de capturar un CUBONE!\p"
+	.string "¡Todavía no he encontrado al\n"
+	.string "MAROWAK adulto!\p"
+	.string "¡No creo que quede ninguno!\p"
+	.string "¡Creo que me voy a marchar!\n"
+	.string "¡Me queda mucho por hacer!\p"
+	.string "¡Hasta luego!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-	.string "Even we could not identify the\n"
-	.string "wayward ghosts.\p"
-	.string "A SILPH SCOPE might be able to\n"
-	.string "unmask them.$"
+	.string "¡Ni siquiera pudimos identificar\n"
+	.string "a los GHOST!\p"
+	.string "El SCOPE SILPH podría\n"
+	.string "desenmascararlos.$"
 

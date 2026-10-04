@@ -102,7 +102,7 @@ static const u8 sText_FollowMe[] = _("Señuelo");
 static const u8 sText_RecoverHP[] = _("Recupera PS");
 static const u8 sText_HealAllyHP[] = _("Cura PS del relevo");
 static const u8 sText_PowerColon[] = _("Pot.: ");
-static const u8 sText_NoAdditionalEffect[] = _("No Additional Effect");
+static const u8 sText_NoAdditionalEffect[] = _("Sin efecto adicional");
 
 // Functions
 bool32 IsZMove(enum Move move)

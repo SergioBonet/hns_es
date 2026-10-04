@@ -47,42 +47,43 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Do you believe in ghosts?$"
+	.string "¿Crees en los fantasmas?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Really?\n"
-	.string "So there are believers…$"
+	.string "¿En serio?\n"
+	.string "Así que hay creyentes…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Hahaha, I guess not.\p"
-	.string "That white hand on your shoulder…\n"
-	.string "I'm just imagining it.$"
+	.string "Jajaja, supongo que no.\p"
+	.string "Esa mano blanca en tu hombro…\n"
+	.string "Solo me la estoy imaginando.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
-	.string "site of POKéMON.\p"
-	.string "Memorial services are held in\n"
-	.string "POKéMON TOWER.$"
+	.string "A este pueblo se lo conoce como\n"
+	.string "el lugar de reposo de los POKéMON.\p"
+	.string "Los homenajes se celebran en la\n"
+	.string "TORRE POKéMON.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Ghosts appeared in POKéMON TOWER.\p"
-	.string "I think they're the spirits of\n"
-	.string "POKéMON that the ROCKETS killed.$"
+	.string "Han aparecido fantasmas en la\n"
+	.string "TORRE POKéMON.\p"
+	.string "Creo que son los espíritus de los\n"
+	.string "POKéMON que mataron los ROCKET.$"
 
 LavenderTown_Text_TownSign::
 	.string "PUEBLO LAVANDA\p"
 	.string "El noble pueblo púrpura$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "New SILPH SCOPE!\n"
-	.string "Make the Invisible Plain to See!\p"
-	.string "SILPH CO.$"
+	.string "¡Nuevo SCOPE SILPH!\n"
+	.string "¡Haz visible lo invisible!\p"
+	.string "SILPH S.A.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVENDER VOLUNTEER\n"
-	.string "POKéMON HOUSE$"
+	.string "CASA POKéMON de VOLUNTARIOS\n"
+	.string "de PUEBLO LAVANDA$"
 
 LavenderTown_Text_PokemonTowerSign::
-	.string "POKéMON TOWER\n"
-	.string "Becalm the Spirits of POKéMON$"
+	.string "TORRE POKéMON\n"
+	.string "Calma el espíritu de los POKéMON$"
 

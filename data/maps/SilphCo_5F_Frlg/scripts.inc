@@ -58,83 +58,84 @@ SilphCo_5F_EventScript_Dalton::
 	end
 
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-	.string "TEAM ROCKET is in an uproar over\n"
-	.string "some intruder.\p"
-	.string "That's you, right?$"
+	.string "El TEAM ROCKET está buscando\n"
+	.string "a un intruso.\p"
+	.string "Te buscan a ti, ¿no?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-	.string "TEAM ROCKET took off!\n"
-	.string "You're our hero! Thank you!$"
+	.string "¡El TEAM ROCKET se ha ido!\n"
+	.string "¡Gracias! ¡Eres nuestra salvación!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-	.string "I heard a kid was wandering\n"
-	.string "around.$"
+	.string "Dicen que se ha colado alguien...$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-	.string "Boom!$"
+	.string "¡Boooom!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-	.string "It's not smart to pick a fight with\n"
-	.string "TEAM ROCKET!$"
+	.string "¡No es que sea muy inteligente\n"
+	.string "provocar al TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-	.string "We study POKé BALL technology on\n"
-	.string "this floor.$"
+	.string "¡En este piso estudiamos la\n"
+	.string "tecnología de las POKé BALL!$"
 
 SilphCo_5F_Text_BeauDefeat::
-	.string "Dang!\n"
-	.string "Blast it!$"
+	.string "¡Caramba!\n"
+	.string "¡Maldita sea!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-	.string "We worked on the ultimate POKé\n"
-	.string "BALL which would catch anything.$"
+	.string "¡Trabajamos en una nueva POKé\n"
+	.string "BALL capaz de atraparlo todo!$"
 
 SilphCo_5F_Text_DaltonIntro::
-	.string "Whaaat?\p"
-	.string "There shouldn't be any children\n"
-	.string "here!$"
+	.string "¿Qué?\p"
+	.string "¡Aquí no debería haber niños!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-	.string "Oh, goodness!$"
+	.string "¡Oh, cielos!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-	.string "You're only on 5F.\n"
-	.string "It's a long way to my BOSS!$"
+	.string "¡Sólo has llegado al P4!\n"
+	.string "¡Mi JEFE aún está muy lejos!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-	.string "Show TEAM ROCKET a little respect!$"
+	.string "¡Respeta un poco al TEAM ROCKET!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-	.string "Cough…\n"
-	.string "Cough…$"
+	.string "(Tos)...\n"
+	.string "(Tos)...$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-	.string "Which reminds me.\p"
-	.string "KOFFING evolves into WEEZING!$"
+	.string "Eso me recuerda que...\p"
+	.string "¡KOFFING evoluciona y se\n"
+	.string "transforma en WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "It's a POKéMON REPORT!\p"
-	.string "POKéMON LAB created PORYGON,\n"
-	.string "the first virtual-reality POKéMON.$"
+	.string "¡Un INFORME sobre los POKéMON!\p"
+	.string "PORYGON, el primer POKéMON\n"
+	.string "virtual, se creó en el LABORATORIO\l"
+	.string "POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Over 350 POKéMON techniques have\n"
-	.string "been confirmed.$"
+	.string "¡Un INFORME sobre los POKéMON!\p"
+	.string "¡Confirmadas más de 350 técnicas\n"
+	.string "POKéMON!$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Some POKéMON have been confirmed\n"
-	.string "to evolve when they are traded.$"
+	.string "¡Un INFORME sobre los POKéMON!\p"
+	.string "Se ha confirmado que algunos\n"
+	.string "POKéMON evolucionan cuando\l"
+	.string "se realiza un intercambio.$"
 
 SilphCo_5F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "5F$"
+	.string "OFICINA CENTRAL DE SILPH S.A.\n"
+	.string "P4$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-	.string "Those thugs that took over our\n"
-	.string "building…\p"
-	.string "Their BOSS said he was looking for\n"
-	.string "strong POKéMON.\p"
-	.string "I hope our PRESIDENT managed to\n"
-	.string "avoid trouble…$"
+	.string "Los tipejos esos que se apoderaron\n"
+	.string "de nuestro edificio...\p"
+	.string "Su JEFE dijo que estaba buscando\n"
+	.string "POKéMON fuertes.\p"
+	.string "Espero que nuestro PRESIDENTE\n"
+	.string "se haya ocupado del tema...$"

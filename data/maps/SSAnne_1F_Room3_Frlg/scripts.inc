@@ -20,13 +20,13 @@ SSAnne_1F_Room3_EventScript_Wigglytuff::
 	end
 
 SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
-	.string "A world cruise is so elegant yet\n"
-	.string "cozy!$"
+	.string "¡Viajamos en crucero por todo\n"
+	.string "el mundo!$"
 
 SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::
-	.string "I always travel with WIGGLYTUFF.\n"
-	.string "I never leave home without it.$"
+	.string "Siempre viajo con WIGGLYTUFF.\n"
+	.string "Nunca salgo de casa sin él.$"
 
 SSAnne_1F_Room3_Text_Wigglytuff::
-	.string "WIGGLYTUFF: Puup pupuu!$"
+	.string "WIGGLYTUFF: ¡Wig, tuuuf, tuuuf!$"
 

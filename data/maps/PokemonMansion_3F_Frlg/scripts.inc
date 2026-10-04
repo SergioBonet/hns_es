@@ -31,27 +31,29 @@ PokemonMansion_3F_EventScript_Braydon::
 	end
 
 PokemonMansion_1F_Text_SimonIntro::
-	.string "This place is, like, huge!$"
+	.string "Este lugar es...\n"
+	.string "¡Gigantesco!$"
 
 PokemonMansion_1F_Text_SimonDefeat::
-	.string "Ayah!$"
+	.string "¡Ayah!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-	.string "I wonder where my partner went.$"
+	.string "Me pregunto adónde habrá ido\n"
+	.string "mi compañero.$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-	.string "My mentor once lived here.$"
+	.string "Mi maestro vivió aquí hace tiempo.$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
-	.string "Whew!\n"
-	.string "Overwhelming!$"
+	.string "¡Uf!\n"
+	.string "¡Impresionante!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-	.string "So, you're stuck?\n"
-	.string "Try jumping off over there!$"
+	.string "¿Estás atascado?\n"
+	.string "¡Prueba a saltar por ahí!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-	.string "Diary: Feb. 6\n"
-	.string "MEW gave birth.\p"
-	.string "We named the newborn MEWTWO.$"
+	.string "Diario: 6 de febrero.\n"
+	.string "MEW dio a luz.\p"
+	.string "Llamamos al pequeño: MEWTWO.$"
 

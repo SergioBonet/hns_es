@@ -10,16 +10,17 @@ SSAnne_1F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
-	.string "Bonjour!\n"
-	.string "I am le waiter on this ship!\p"
-	.string "I will be happy to serve you\n"
-	.string "anything you please!\p"
+	.string "¡Bonjour!\n"
+	.string "¡Soy el camarero de este barco!\p"
+	.string "¡Encantado de servirte en todo\n"
+	.string "lo que quieras!\p"
 	.string "… … …\n"
-	.string "Ah! Le strong silent type!$"
+	.string "¡Ah! ¡Tienes cara de ser una persona\l"
+	.string "fuerte y discreta!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
-	.string "The passengers are restless from\n"
-	.string "this long voyage.\p"
-	.string "You might be challenged by the\n"
-	.string "more bored ones!$"
+	.string "Los pasajeros están inquietos por\n"
+	.string "este largo viaje.\p"
+	.string "¡Los más aburridos podrían\n"
+	.string "desafiarte!$"
 

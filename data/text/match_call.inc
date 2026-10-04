@@ -2892,24 +2892,25 @@ MatchCall_Text_Steven7::
 	.string "en algún sitio!$"
 
 MatchCall_Text_BirchRegisterCall:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "I've already heard about you!\p"
-	.string "It seems your POKéNAV's been\n"
-	.string "upgraded with MATCH CALL.\p"
-	.string "Well, I should register, too!\p"
-	.string "That way, I'd be able to examine\n"
-	.string "your POKéDEX even while you're\l"
-	.string "out in the field.\p"
-	.string "… … … … … …$"
+	.string "PROF. ABEDUL: ¡Hola, {PLAYER}{KUN}!\n"
+	.string "¡Me han hablado mucho sobre ti!\p"
+	.string "Así que le han puesto AGENDA\n"
+	.string "de MÓVIL a tu POKéNAV…\p"
+	.string "¡Pues yo me quiero registrar\n"
+	.string "también!\p"
+	.string "Así, podré echar un ojo a tu\n"
+	.string "POKéDEX hasta cuando estés\l"
+	.string "por ahí.\p"
+	.string "(…)$"
 
 MatchCall_Text_RegisteredBirch:
-	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "Acabas de registrar al PROF.\n"
+	.string "ABEDUL en el POKéNAV.$"
 
 MatchCall_Text_UnusedProfBirch:
-	.string "PROF. BIRCH: When one has both\n"
-	.string "the POKéDEX and POKéNAV, studying\l"
-	.string "POKéMON becomes more fun, eh?$"
+	.string "PROF. ABEDUL: Cuando uno tiene la\n"
+	.string "POKéDEX y el POKéNAV, estudiar\l"
+	.string "POKéMON es más divertido, ¿eh?$"
 
 MatchCall_Text_MrStone1::
 	.string "SR. PEÑAS: ¿Sí? ¡{PLAYER}{KUN}!\p"

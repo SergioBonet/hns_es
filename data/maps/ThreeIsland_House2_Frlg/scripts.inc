@@ -14,19 +14,21 @@ ThreeIsland_House2_EventScript_Rocker::
 	end
 
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
-	.string "Urrrrrrrrgggghhhh…\n"
-	.string "Kwaaaaah!\p"
-	.string "…It's useless! I can't make this\n"
-	.string "spoon bend with my mind.\p"
-	.string "Maybe I really don't have any\n"
-	.string "psychic powers.$"
+	.string "Uuuuuuuuughhhh…\n"
+	.string "¡Kuaaaaah!\p"
+	.string "…¡Es inútil! No puedo doblar esta\n"
+	.string "cuchara con la mente.\p"
+	.string "Quizá de verdad no tengo poderes\n"
+	.string "psíquicos.$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
-	.string "You know about a girl GYM LEADER\n"
-	.string "in SAFFRON CITY?\p"
-	.string "She uses PSYCHIC-type POKéMON,\n"
-	.string "right?\p"
-	.string "I admire her, I really do.\p"
-	.string "I've heard that she's one cool\n"
-	.string "customer and beautiful, too.$"
+	.string "No sabes cómo te agradecemos\n"
+	.string "que hayas rescatado a PEDRITA.\p"
+	.string "Gracias a ti, la gente de ISLA\n"
+	.string "TERA, tiene otra actitud hacia\l"
+	.string "los habitantes de KANTO.\p"
+	.string "Y yo soy de KANTO, ¿sabes?\p"
+	.string "Por los habitantes de ISLA TERA,\n"
+	.string "he aumentado el número\l"
+	.string "de artículos.$"
 
